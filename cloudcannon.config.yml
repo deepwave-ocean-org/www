@@ -44,6 +44,58 @@ collections_config:
     _editables:
     _enabled_editors:
     _inputs:
+      date:
+        type: date
+        options:
+          timezone:
+          empty_type:
+        instance_value: NOW
+        cascade: true
+      category:
+        type: multiselect
+        options:
+          allow_create:
+          empty_type: array
+          values:
+            - Good News
+            - Politik
+            - Reflexionen
+            - Klima
+            - Tiefsee
+            - Überfischung
+            - Forschung
+            - Kultur
+            - Was tun
+          value_key:
+          preview:
+          picker_preview:
+          view:
+          picker_view:
+        cascade: true
+      featured_image:
+        type: image
+        cascade: true
+      image_caption:
+        type: text
+        options:
+          empty_type:
+        cascade: true
+      author:
+        type: select
+        options:
+          allow_create: true
+          allow_empty: false
+          values:
+            - DEEPWAVE
+          value_key:
+          preview:
+          picker_preview:
+          view:
+          picker_view:
+        cascade: true
+      source:
+        type: text
+        cascade: true
     _select_data:
     _structures:
     add_options:
@@ -54,6 +106,8 @@ collections_config:
     new_preview_url:
     schemas:
     schema_key:
+_select_data:
+  Categories: []
 _snippets_imports:
   hugo:
     exclude:
