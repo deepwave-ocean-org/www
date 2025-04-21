@@ -1,0 +1,59 @@
+@import "tailwindcss";
+@source "hugo_stats.json";
+@config "./tailwind.config.js";
+
+/* Custom colors */
+:root {
+  --color-deepwave-blue: #1e40af;
+  --color-deepwave-light-blue: #7295af;
+  --color-deepwave-dark-blue: #1e40af;
+  --color-deepwave-ocean: #0369a1;
+}
+
+@layer components {
+  .not_full_width {
+    @apply max-w-screen-lg mx-auto;
+  }
+}
+
+p {
+  margin-bottom: 0.8rem;
+}
+
+/* Custom components 
+@layer components {
+  .dropdown {
+    @apply absolute top-full left-0 mt-2 w-48 bg-white rounded shadow-lg py-2 z-10 hidden group-hover:block;
+  }
+  
+  .dropdown-item {
+    @apply block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-deepwave-blue;
+  }
+  
+  .btn {
+    @apply py-2 px-4 rounded font-medium transition-colors;
+  }
+  
+  .btn-primary {
+    @apply bg-deepwave-blue text-white hover:bg-deepwave-dark-blue;
+  }
+  
+  .btn-secondary {
+    @apply bg-white border border-deepwave-blue text-deepwave-blue hover:bg-gray-50;
+  }
+}*/
+
+/* Header styles */
+.menu_shadow {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.logo img {
+  max-height: 60px;
+}
+
+/* Footer styles */
+footer {
+  background-color: var(--color-deepwave-dark-blue);
+  color: white;
+}

@@ -1,0 +1,7 @@
+<ul class="flex space-x-4 text-sm">
+  {{ range site.Data.nav.utility }}
+    <li>
+      <a href="{{ .url }}" class="text-gray-700 hover:text-deepwave-light-blue">{{ .title }}</a>
+    </li>
+  {{ end }}
+</ul>

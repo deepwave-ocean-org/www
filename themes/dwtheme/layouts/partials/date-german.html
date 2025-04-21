@@ -1,0 +1,6 @@
+{{ $date := .Format "Jan 02, 2006" }}
+{{ $date := replace $date "Mar" "Mär"}}
+{{ $date := replace $date "May" "Mai"}}
+{{ $date := replace $date "Oct" "Okt."}}
+{{ $date := replace $date "Dec" "Dez."}}
+{{ $date }}
