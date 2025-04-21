@@ -3,17 +3,9 @@ paths:
   uploads: static/uploads
   static: static
 collections_config:
-  pages:
-    path: ''
-    name: Pages
-    icon: wysiwyg
-    disable_url: false
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
   content:
     path: content
-    name: Content
+    name: Pages
     icon: wysiwyg
     disable_url: false
     disable_add: false
@@ -51,7 +43,7 @@ collections_config:
           empty_type:
         instance_value: NOW
         cascade: true
-      category:
+      blogs:
         type: multiselect
         options:
           allow_create:

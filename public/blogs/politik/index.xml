@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/posts/3/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Der Meeresschutz kommt unter die Räder</title>
+      <link>http://localhost:1313/posts/der-meeresschutz-kommt-unter-die-r%C3%A4der/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/der-meeresschutz-kommt-unter-die-r%C3%A4der/</guid>
+      <description>&lt;p&gt;Das Jahr beginnt mit … sich bleiern ausbreitender Fassungslosigkeit.&lt;/p&gt;&#xA;&lt;p&gt;Dabei fing es so gut an: lange Spaziergänge in Eis und Schnee, ermutigende Podcasts, Menschen, die uns in unserer Arbeit bestärken (danke!), nächtelange politische Gespräche, warm eingemuggelt neben dem geschmückten Wald im Zimmer, voll Zuversicht, dass es für all das Unfassbare, dessen Zeuge wir im letzten Jahr wurden, Lösungen geben wird. Wenn wir uns dafür einsetzen. Und dass es genau die Menschen in unserem Umfeld gibt, die das tun, privat und bei DEEPWAVE.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
