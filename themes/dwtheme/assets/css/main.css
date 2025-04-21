@@ -8,6 +8,7 @@
   --color-deepwave-light-blue: #7295af;
   --color-deepwave-dark-blue: #1e40af;
   --color-deepwave-ocean: #0369a1;
+  --color-deepwave-link: #2298a5;
 }
 
 @layer components {
@@ -20,6 +21,10 @@ p {
   margin-bottom: 0.8rem;
 }
 
+artice a {
+  color: var(--color-deepwave-link);
+  text-decoration: none;
+}
 /* Custom components 
 @layer components {
   .dropdown {

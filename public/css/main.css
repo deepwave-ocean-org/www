@@ -173,6 +173,9 @@
   .relative {
     position: relative;
   }
+  .static {
+    position: static;
+  }
   .my-8 {
     margin-block: calc(var(--spacing) * 8);
   }
@@ -187,6 +190,9 @@
   }
   .hidden {
     display: none;
+  }
+  .table {
+    display: table;
   }
   .h-6 {
     height: calc(var(--spacing) * 6);
@@ -340,6 +346,7 @@
   --color-deepwave-light-blue: #7295af;
   --color-deepwave-dark-blue: #1e40af;
   --color-deepwave-ocean: #0369a1;
+  --color-deepwave-link: #2298a5;
 }
 @layer components {
   .not_full_width {
@@ -349,6 +356,10 @@
 }
 p {
   margin-bottom: 0.8rem;
+}
+artice a {
+  color: var(--color-deepwave-link);
+  text-decoration: none;
 }
 .menu_shadow {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
