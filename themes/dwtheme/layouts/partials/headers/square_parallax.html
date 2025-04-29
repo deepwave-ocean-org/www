@@ -1,0 +1,35 @@
+<section class="relative overflow-hidden w-full px-16">
+    
+    
+    {{ with .Params.image }}
+      <div class="flex flex-row justify-end h-full">
+        <img class="h-3/4 absolute bottom-16 right-16" src="{{ . }}" alt="{{ $.Title }}" />
+        {{ if $.Params.image_caption }}
+        <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+          {{ $.Params.image_caption | markdownify }}
+        </figcaption>
+    {{ end }}
+      </div>
+    {{ end }} 
+    
+    
+    <div class="absolute inset-0 -z-1 bg-gray-600" ></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <div class="text-xl">{{ . }}</div>
+      {{ end }}
+      {{ with .Date }}
+      <div class="text-xl">
+        <time>{{ partial "date-german.html" . }}</time>
+      </div>
+      {{ end }}
+      {{ with .Params.source }}
+      <div class="pt-4 text-xl">
+        <p>{{ . }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </section>

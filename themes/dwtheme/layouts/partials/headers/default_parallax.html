@@ -1,0 +1,15 @@
+<section class="relative overflow-hidden w-full">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed" 
+        style="background-image: url('{{ .Params.image }}');">
+    </div>
+    
+    <div class="absolute inset-0" style="background-color: {{ .Params.overlay | default "var(--color-parallax-overlay)" | safeCSS }};"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white my-24">
+      <h1 class="text-3xl md:text-3xl mb-2">{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <div class="text-xl">{{ . }}</div>
+      {{ end }}
+    </div>
+  </section>
