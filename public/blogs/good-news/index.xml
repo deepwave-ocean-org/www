@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Good News on My New Hugo Site</title>
+    <link>http://localhost:1313/blogs/good-news/</link>
+    <description>Recent content in Good News on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/good-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EU-Umweltrat: Eintrag von Mikroplastik in die Umwelt soll verringert werden</title>
+      <link>http://localhost:1313/posts/eu-umweltrat-eintrag-von-kunststoffgranulat-in-die-umwelt-soll-verringert-werden/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/eu-umweltrat-eintrag-von-kunststoffgranulat-in-die-umwelt-soll-verringert-werden/</guid>
+      <description>&lt;h1 id=&#34;wichtiger-schritt-gegen-versehentlich-freigesetztes-kunststoffgranulat&#34;&gt;Wichtiger Schritt gegen versehentlich freigesetztes Kunststoffgranulat&lt;/h1&gt;&#xA;&lt;p&gt;Schätzungen der Europäischen Kommission zufolge werden jährlich 50.000 bis 180.000 Tonnen Kunststoffgranulat versehentlich freigesetzt, etwa beim Ver- oder Umladen oder durch undichte Behältnisse. Das ausgetretene Granulat wird zum Beispiel durch Wind oder Regen in die Umwelt weitertransportiert. Schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt können die Folge sein. Die Mitgliedstaaten der EU haben heute ihre gemeinsame Position („Allgemeine Ausrichtung“) zum Vorschlag der EU-Kommission beschlossen. Künftig soll der ungewollte Eintrag von Kunststoffgranulat in die Umwelt bei der Herstellung, dem Transport und der Verarbeitung vermieden und vermindert werden. Der Verordnungsentwurf sieht Maßnahmen für Wirtschaftsbeteiligte vor, die mit Kunststoffgranulat umgehen (Hersteller, Transporteure, Verarbeiter).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
