@@ -1,5 +1,5 @@
 ---
-title: Pressemitteilung, 17.12.2024, GEOMAR
+title: „Guter Fisch“ zum Weihnachtsfest
 date: 2024-12-18T00:00:00Z
 lastmod: '2025-01-25T00:00:00.000Z'
 draft: false
