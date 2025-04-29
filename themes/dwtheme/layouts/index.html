@@ -1,3 +1,35 @@
+
 {{ define "main" }}
-<h1 class="white bg-dark center w-full">Hello Content</h1>
+{{ partial "slider.html" . }}
+
+{{ $home_nav := site.Data.nav.home }}
+
+<div class="not_full_width py-12">
+    {{ range $index, $item := $home_nav }}
+    {{ if modBool $index 3 }}
+    <div class="flex flex-wrap justify-center gap-16 mb-12">
+        {{ end }}
+        <div class="w-full md:w-1/3 md:max-w-[calc(33.333%-6rem)] mb-6 md:mb-0">
+
+            <a href="{{ $item.url }}" {{ if or (hasPrefix $item.url "http://" ) (hasPrefix $item.url "https://" ) }}
+                target="_blank" rel="noopener noreferrer" {{ end }} class="block">
+                <div class="relative group">
+                    <div class="aspect-square rounded-full overflow-hidden group-hover:scale-70 origin-top">
+                        <img src="{{ $item.image }}" alt="{{ $item.title }}" class="w-full h-full object-cover">
+                    </div>
+                    <div
+                        class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
+                        <h3 class="text-2xl font-bold mb-2">{{ $item.title }}</h3>
+                        <div class="text-md">{{ $item.subtitle }}</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        {{ if or (eq (mod (add $index 1) 3) 0) (eq (add $index 1) (len $home_nav)) }}
+        <!-- Close the row div after every 3rd item or at the end of the list -->
+    </div>
+    {{ end }}
+    {{ end }}
+</div>
 {{ end }}

@@ -113,7 +113,237 @@
     
     
   </header><div id="content">
-<h1 class="white bg-dark center w-full">Hello Content</h1>
+
+
+<div class="relative w-full h-96 overflow-hidden">
+  
+  <div id="slider-container" class="relative w-full h-full select-none">
+    
+    <div class="slider-item absolute inset-0 w-full h-full transition-opacity duration-500 ease-in-out opacity-100 bg-cover bg-center" 
+         style="background-image: url('https://www.deepwave.org/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-20-50-12-.png');" 
+         data-index="0">
+      
+      
+      <div class="absolute inset-0 opacity-50" style="background-color: #1a4353"></div>
+      
+      
+      <div class="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
+        <h2 class="text-4xl font-bold mb-6">KLARTEXT Meerespolitik</h2>
+        
+        <a href="klartext.deepwave.org" class="px-8 py-3 bg-white text-gray-800 rounded-md hover:bg-gray-200 transition duration-300">
+          Was ihr schon immer darüber wissen wolltet ...
+        </a>
+        
+      </div>
+    </div>
+    
+    <div class="slider-item absolute inset-0 w-full h-full transition-opacity duration-500 ease-in-out opacity-0 bg-cover bg-center" 
+         style="background-image: url('/images/fishing-background.jpg');" 
+         data-index="1">
+      
+      
+      <div class="absolute inset-0 opacity-50" style="background-color: #142836"></div>
+      
+      
+      <div class="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
+        <h2 class="text-4xl font-bold mb-6">Nachhaltige Fischerei</h2>
+        
+        <a href="/nachhaltige-fischerei/" class="px-8 py-3 bg-white text-gray-800 rounded-md hover:bg-gray-200 transition duration-300">
+          Mehr erfahren
+        </a>
+        
+      </div>
+    </div>
+    
+    <div class="slider-item absolute inset-0 w-full h-full transition-opacity duration-500 ease-in-out opacity-0 bg-cover bg-center" 
+         style="background-image: url('/images/marine-reserve-background.jpg');" 
+         data-index="2">
+      
+      
+      <div class="absolute inset-0 opacity-50" style="background-color: #0c3b5c"></div>
+      
+      
+      <div class="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
+        <h2 class="text-4xl font-bold mb-6">Meeresschutzgebiete</h2>
+        
+        <a href="/meeresschutzgebiete/" class="px-8 py-3 bg-white text-gray-800 rounded-md hover:bg-gray-200 transition duration-300">
+          Entdecken Sie mehr
+        </a>
+        
+      </div>
+    </div>
+    
+  </div>
+  
+  
+  <button class="absolute left-4 top-1/2 transform -translate-y-1/2 z-20 text-white w-10 h-10 rounded-full flex items-center justify-center cursor-pointer" id="prev-slide">
+    <span class="sr-only">Previous</span>
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+    </svg>
+  </button>
+  
+  <button class="absolute right-4 top-1/2 transform -translate-y-1/2 z-20 text-white w-10 h-10 rounded-full flex items-center justify-center cursor-pointer" id="next-slide">
+    <span class="sr-only">Next</span>
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+    </svg>
+  </button>
+  
+  
+  <div class="absolute bottom-4 left-0 right-0 flex justify-center space-x-2 z-20">
+    
+    <button 
+      class="slider-dot w-2 h-2 rounded-full transition-all cursor-pointer duration-300 bg-white w-3 h-3"
+      data-index="0">
+    </button>
+    
+    <button 
+      class="slider-dot w-2 h-2 rounded-full transition-all cursor-pointer duration-300 bg-gray-400"
+      data-index="1">
+    </button>
+    
+    <button 
+      class="slider-dot w-2 h-2 rounded-full transition-all cursor-pointer duration-300 bg-gray-400"
+      data-index="2">
+    </button>
+    
+  </div>
+</div>
+
+
+<script src="/js/slider.min.3f4cff34c714a4ace95bca5230dda80867abf5721d1dc3d7168b4cc7eba48cbd.js"></script>
+
+
+
+<div class="not_full_width py-12">
+    
+    
+    <div class="flex flex-wrap justify-center gap-16 mb-12">
+        
+        <div class="w-full md:w-1/3 md:max-w-[calc(33.333%-6rem)] mb-6 md:mb-0">
+
+            <a href="/ueber-uns/"  class="block">
+                <div class="relative group">
+                    <div class="aspect-square rounded-full overflow-hidden group-hover:scale-70 origin-top">
+                        <img src="https://www.deepwave.org/wp-content/uploads/2023/03/Heye_im_Wasser_Quadrat-scaled.jpg?x95826" alt="Über uns" class="w-full h-full object-cover">
+                    </div>
+                    <div
+                        class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
+                        <h3 class="text-2xl font-bold mb-2">Über uns</h3>
+                        <div class="text-md">Unsere NGO, unser Gründer Onno Groß und unsere Zukunft</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        
+    
+    
+        <div class="w-full md:w-1/3 md:max-w-[calc(33.333%-6rem)] mb-6 md:mb-0">
+
+            <a href="/highlights/"  class="block">
+                <div class="relative group">
+                    <div class="aspect-square rounded-full overflow-hidden group-hover:scale-70 origin-top">
+                        <img src="https://www.deepwave.org/wp-content/uploads/2023/07/Highlights2-480x480.png" alt="Highlights" class="w-full h-full object-cover">
+                    </div>
+                    <div
+                        class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
+                        <h3 class="text-2xl font-bold mb-2">Highlights</h3>
+                        <div class="text-md">Unsere Kampagnen, Kooperation, Filmfestivals ...</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        
+    
+    
+        <div class="w-full md:w-1/3 md:max-w-[calc(33.333%-6rem)] mb-6 md:mb-0">
+
+            <a href="https://www.instagram.com/deepwave_ocean_org/" 
+                target="_blank" rel="noopener noreferrer"  class="block">
+                <div class="relative group">
+                    <div class="aspect-square rounded-full overflow-hidden group-hover:scale-70 origin-top">
+                        <img src="https://www.deepwave.org/wp-content/uploads/2023/03/Ueberfischung_Quadrat.png" alt="Reflexionen" class="w-full h-full object-cover">
+                    </div>
+                    <div
+                        class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
+                        <h3 class="text-2xl font-bold mb-2">Reflexionen</h3>
+                        <div class="text-md">Gedanken, Sichtungen, Hintergründe</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        
+        
+    </div>
+    
+    
+    
+    <div class="flex flex-wrap justify-center gap-16 mb-12">
+        
+        <div class="w-full md:w-1/3 md:max-w-[calc(33.333%-6rem)] mb-6 md:mb-0">
+
+            <a href="/die-ozeane/"  class="block">
+                <div class="relative group">
+                    <div class="aspect-square rounded-full overflow-hidden group-hover:scale-70 origin-top">
+                        <img src="https://www.deepwave.org/wp-content/uploads/2018/12/ozeane_5-768x768.png" alt="Die Ozeane" class="w-full h-full object-cover">
+                    </div>
+                    <div
+                        class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
+                        <h3 class="text-2xl font-bold mb-2">Die Ozeane</h3>
+                        <div class="text-md">Unsere Texte über Tiefsee, Klimakrise, Überfischung, Lärm u.v.m.</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        
+    
+    
+        <div class="w-full md:w-1/3 md:max-w-[calc(33.333%-6rem)] mb-6 md:mb-0">
+
+            <a href="/projekte/"  class="block">
+                <div class="relative group">
+                    <div class="aspect-square rounded-full overflow-hidden group-hover:scale-70 origin-top">
+                        <img src="https://www.deepwave.org/wp-content/uploads/2023/03/Projekte_Quadratisch-480x480.png" alt="Projekte" class="w-full h-full object-cover">
+                    </div>
+                    <div
+                        class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
+                        <h3 class="text-2xl font-bold mb-2">Projekte</h3>
+                        <div class="text-md">Unsere Hotspots des Meeresschutzes</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        
+    
+    
+        <div class="w-full md:w-1/3 md:max-w-[calc(33.333%-6rem)] mb-6 md:mb-0">
+
+            <a href="/blogs/"  class="block">
+                <div class="relative group">
+                    <div class="aspect-square rounded-full overflow-hidden group-hover:scale-70 origin-top">
+                        <img src="https://www.deepwave.org/wp-content/uploads/2018/12/blog_2.png" alt="Blogs" class="w-full h-full object-cover">
+                    </div>
+                    <div
+                        class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
+                        <h3 class="text-2xl font-bold mb-2">Blogs</h3>
+                        <div class="text-md">Unsere 9 thematischen Newsblogs</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        
+        
+    </div>
+    
+    
+</div>
 
         <div class="not_full_width">
         </div>
