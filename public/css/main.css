@@ -771,7 +771,7 @@ html {
   font-family: Merriweather, Georgia, serif;
   color: var(--color-gray-800);
 }
-p {
+p, article h1, article h2, article h3, article h4, article h5, article h6 {
   margin-bottom: 0.8rem;
 }
 h1, h2, h3, h4, h5, h6, nav, .sans {
