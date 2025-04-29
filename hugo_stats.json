@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "article",
+      "blockquote",
       "body",
       "br",
       "button",
@@ -12,6 +13,7 @@
       "h1",
       "h2",
       "h3",
+      "h4",
       "head",
       "header",
       "html",
@@ -186,6 +188,7 @@
     ],
     "ids": [
       "content",
+      "forschungseinrichtungen-umweltverbände-und-die-verbraucherzentralen-aktualisieren-die-gemeinsame-liste-guter-fisch-für-bewussten-einkauf-von-meeresfisch",
       "mobile-menu",
       "mobile-menu-button",
       "next-slide",
