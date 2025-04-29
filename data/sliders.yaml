@@ -1,0 +1,17 @@
+- title: "KLARTEXT Meerespolitik"
+  button_text: "Was ihr schon immer darüber wissen wolltet ..."
+  link: "klartext.deepwave.org"
+  background_image: "https://www.deepwave.org/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-20-50-12-.png"
+  overlay_color: "#1a4353"
+
+- title: "Nachhaltige Fischerei"
+  button_text: "Mehr erfahren"
+  link: "/nachhaltige-fischerei/"
+  background_image: "/images/fishing-background.jpg"
+  overlay_color: "#142836"
+
+- title: "Meeresschutzgebiete"
+  button_text: "Entdecken Sie mehr"
+  link: "/meeresschutzgebiete/"
+  background_image: "/images/marine-reserve-background.jpg"
+  overlay_color: "#0c3b5c"
