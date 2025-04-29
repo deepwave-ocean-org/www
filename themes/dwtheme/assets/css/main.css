@@ -4,10 +4,8 @@
 
 /* Custom colors */
 :root {
-  --color-deepwave-blue: #1e40af;
+  --color-deepwave-blue: #1d436f;
   --color-deepwave-light-blue: #7295af;
-  --color-deepwave-dark-blue: #1e40af;
-  --color-deepwave-ocean: #0369a1;
   --color-deepwave-link: #2298a5;
   --color-parallax-overlay: rgba(52, 67, 84, 0.38);
 }
@@ -38,6 +36,9 @@ nav,
 article a {
   color: var(--color-deepwave-link);
   text-decoration: none;
+}
+blockquote {
+  @apply border-l-1 border-deepwave-blue pl-4;
 }
 /* Custom components 
 @layer components {

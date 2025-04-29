@@ -755,10 +755,8 @@
   }
 }
 :root {
-  --color-deepwave-blue: #1e40af;
+  --color-deepwave-blue: #1d436f;
   --color-deepwave-light-blue: #7295af;
-  --color-deepwave-dark-blue: #1e40af;
-  --color-deepwave-ocean: #0369a1;
   --color-deepwave-link: #2298a5;
   --color-parallax-overlay: rgba(52, 67, 84, 0.38);
 }
@@ -782,6 +780,12 @@ h1, h2, h3, h4, h5, h6, nav, .sans {
 article a {
   color: var(--color-deepwave-link);
   text-decoration: none;
+}
+blockquote {
+  border-left-style: var(--tw-border-style);
+  border-left-width: 1px;
+  border-color: var(--color-deepwave-blue);
+  padding-left: calc(var(--spacing) * 4);
 }
 .menu_shadow {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);

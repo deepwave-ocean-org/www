@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Überfischung</title>
+      <link>http://localhost:1313/blogs/%C3%BCberfischung/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/%C3%BCberfischung/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Good News</title>
       <link>http://localhost:1313/blogs/good-news/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0100</pubDate>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/blogs/politik/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/blogs/politik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Überfischung</title>
-      <link>http://localhost:1313/blogs/%C3%BCberfischung/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/%C3%BCberfischung/</guid>
       <description></description>
     </item>
   </channel>
