@@ -11,7 +11,7 @@
     <item>
       <title>Klima</title>
       <link>http://localhost:1313/blogs/klima/</link>
-      <pubDate>Mon, 21 Apr 2025 18:35:11 +0100</pubDate>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/klima/</guid>
       <description></description>
     </item>
@@ -27,6 +27,13 @@
       <link>http://localhost:1313/blogs/politik/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/blogs/politik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Überfischung</title>
+      <link>http://localhost:1313/blogs/%C3%BCberfischung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/%C3%BCberfischung/</guid>
       <description></description>
     </item>
   </channel>

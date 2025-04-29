@@ -1,4 +1,8 @@
-{{ define "main-bordered" }}
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
+{{ define "main" }}
+{{ partial "headers/default_parallax" . }}
+<article class="px-16">
+    <div class="not_full_width min-h-screen mt-12 max-w-4xl">
+        {{ .Content }}
+    </div>
+    </article>
 {{ end }}

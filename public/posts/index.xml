@@ -9,13 +9,6 @@
     <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Helllo</title>
-      <link>http://localhost:1313/posts/helllo/</link>
-      <pubDate>Mon, 21 Apr 2025 18:35:11 +0100</pubDate>
-      <guid>http://localhost:1313/posts/helllo/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Davos: Logik eines Hardware-Upgrades</title>
       <link>http://localhost:1313/posts/davos-logik-eines-hardware-upgrades/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>

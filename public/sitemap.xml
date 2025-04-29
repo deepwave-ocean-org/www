@@ -8,16 +8,13 @@
     <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/helllo/</loc>
+    <loc>http://localhost:1313/posts/davos-logik-eines-hardware-upgrades/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/klima/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/davos-logik-eines-hardware-upgrades/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/eu-umweltrat-eintrag-von-kunststoffgranulat-in-die-umwelt-soll-verringert-werden/</loc>
@@ -29,10 +26,18 @@
     <loc>http://localhost:1313/blogs/politik/</loc>
     <lastmod>2024-12-18T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/podcast/deepwave-bei-zweivorzw%C3%B6lf/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcast/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ueber-uns/</loc>
   </url><url>
     <loc>http://localhost:1313/ueber-uns/wer-wir-sind/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/der-meeresschutz-kommt-unter-die-r%C3%A4der/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blogs/%C3%BCberfischung/</loc>
   </url>
 </urlset>

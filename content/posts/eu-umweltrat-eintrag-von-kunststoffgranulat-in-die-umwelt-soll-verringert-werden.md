@@ -4,7 +4,7 @@ date: 2024-12-18T00:00:00+01:00
 lastmod: 2024-12-18T00:00:00+01:00
 draft: false
 blogs: ["good news", "politik"]
-featured_image: "https://www.deepwave.org/wp-content/uploads/2025/01/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-1280x719.jpg"
+image: "https://www.deepwave.org/wp-content/uploads/2025/01/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-1280x719.jpg"
 image_caption: "© ISIPLAST / Wikimedia Commons (Creative Commons Attribution-Share Alike 4.0 International license)"
 author: "DEEPWAVE"
 source: "Pressemitteilung, 17.12.2024, BMVU"

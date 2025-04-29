@@ -1,6 +1,10 @@
-{{ define "main-bordered" }}
-    <h1>{{ .Title }}</h1>
-    {{ range .Pages }}
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ end }}
+{{ define "main" }}
+{{ partial "headers/default_parallax" . }}
+<div class="not_full_width min-h-screen">
+  termmi
+  {{ .Content }}
+  {{ range .Pages }}
+  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+</div>
 {{ end }}

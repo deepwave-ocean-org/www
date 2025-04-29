@@ -10,30 +10,36 @@
     
   
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+
 </head><body><header class="font-medium">
-    <div class="menu_shadow px-16">
+    <div class="menu_shadow">
         <div class="not_full_width">
         <div class="py-6 flex justify-end">
-            <ul class="flex space-x-4 text-sm">
+            <ul class="flex space-x-4 text-sm font-sans">
   
     <li>
-      <a href="/newsletter/" class="text-gray-700 hover:text-deepwave-light-blue">Newsletter</a>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
     </li>
   
     <li>
-      <a href="/die-ozeane/factsheets/" class="text-gray-700 hover:text-deepwave-light-blue">Factsheets</a>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
     </li>
   
     <li>
-      <a href="/ozeanbuecher/" class="text-gray-700 hover:text-deepwave-light-blue">Bücher</a>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
     </li>
   
     <li>
-      <a href="/die-ozeane/bilder/" class="text-gray-700 hover:text-deepwave-light-blue">Bilder</a>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
     </li>
   
     <li>
-      <a href="/podcast/" class="text-gray-700 hover:text-deepwave-light-blue">Podcasts</a>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
     </li>
   
 </ul>
@@ -46,7 +52,6 @@
             </a>
         </div>
         <div class="flex items-center justify-between">
-
             <nav class="hidden md:block pt-3">
     <ul class="flex space-x-6 py-4 text-gray-800">
   
@@ -94,13 +99,11 @@
   
 </ul>
 </nav>
-        
             <button class="md:hidden" id="mobile-menu-button">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
             </svg>
             </button>
-            
         </div>
       </div>
     </div>
@@ -111,7 +114,7 @@
     
     
     
-        <div class="menu_shadow px-16 py-3">
+        <div class="menu_shadow py-3">
             <div class="not_full_width">
             <ul class="flex space-x-4 overflow-x-auto py-1">
   
@@ -133,31 +136,35 @@
       </a>
     </li>
   
+    <li>
+      <a href="/blogs/%C3%BCberfischung/" class="text-gray-700 hover:text-blue-800 text-sm">
+        Überfischung
+      </a>
+    </li>
+  
 </ul>
           </div>
     </div>
     
   </header><div id="content">
-        <div class="not_full_width">
-<article class="my-8 text-xl">
+<section class="relative overflow-hidden w-full px-16">
     
-    <div class="featured-image mb-4">
-      
-      
-        <img src="https://www.deepwave.org/wp-content/uploads/2025/01/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-1280x719.jpg" alt="EU-Umweltrat: Eintrag von Mikroplastik in die Umwelt soll verringert werden" />
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed" style="background-image: url('https://www.deepwave.org/wp-content/uploads/2025/01/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-1280x719.jpg');">
         
-        <figcaption class="text-right text-md">
-          © ISIPLAST / Wikimedia Commons (Creative Commons Attribution-Share Alike 4.0 International license)
-        </figcaption>
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © ISIPLAST / Wikimedia Commons (Creative Commons Attribution-Share Alike 4.0 International license)
+          </figcaption>
         
-      
     </div>
     
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
 
-    <header>
-      <h1 class="text-3xl">EU-Umweltrat: Eintrag von Mikroplastik in die Umwelt soll verringert werden</h1>
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">EU-Umweltrat: Eintrag von Mikroplastik in die Umwelt soll verringert werden</h1>
       
-      <div class="">
+      
+      <div class="text-xl">
         <time>
 
 
@@ -166,15 +173,15 @@
 Dez. 18, 2024</time>
       </div>
       
-    </header>
-    
-    <div class="p-4 pl-0 text-xl">
-      <p>Pressemitteilung, 17.12.2024, BMVU</p>
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 17.12.2024, BMVU</p>
+      </div>
+      
     </div>
-    
-
-    <div class="pl-8 pr-16">
-      <h1 id="wichtiger-schritt-gegen-versehentlich-freigesetztes-kunststoffgranulat">Wichtiger Schritt gegen versehentlich freigesetztes Kunststoffgranulat</h1>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <h1 id="wichtiger-schritt-gegen-versehentlich-freigesetztes-kunststoffgranulat">Wichtiger Schritt gegen versehentlich freigesetztes Kunststoffgranulat</h1>
 <p>Schätzungen der Europäischen Kommission zufolge werden jährlich 50.000 bis 180.000 Tonnen Kunststoffgranulat versehentlich freigesetzt, etwa beim Ver- oder Umladen oder durch undichte Behältnisse. Das ausgetretene Granulat wird zum Beispiel durch Wind oder Regen in die Umwelt weitertransportiert. Schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt können die Folge sein. Die Mitgliedstaaten der EU haben heute ihre gemeinsame Position („Allgemeine Ausrichtung“) zum Vorschlag der EU-Kommission beschlossen. Künftig soll der ungewollte Eintrag von Kunststoffgranulat in die Umwelt bei der Herstellung, dem Transport und der Verarbeitung vermieden und vermindert werden. Der Verordnungsentwurf sieht Maßnahmen für Wirtschaftsbeteiligte vor, die mit Kunststoffgranulat umgehen (Hersteller, Transporteure, Verarbeiter).</p>
 <p>Bundesumweltministerin Steffi Lemke: „Mikroplastik ist eine der zentralen Herausforderungen bei der weltweiten Verschmutzung durch Plastikmüll. Gelangt Mikroplastik in die Umwelt, dann verbleibt es nahezu ewig in Flüssen, Meeren und Böden. Viel zu häufig landet Mikroplastik über unsere Äcker in unseren Lebensmitteln und damit auf unserem Teller. Diese Plastikvermüllung muss gestoppt werden. International setzt sich Deutschland für ein möglichst umfassendes, verpflichtendes, globales UN-Abkommen gegen Plastikmüll ein. Zugleich gehen wir in der EU voran: Mit der Kunststoffgranulat-Verordnung wollen wir eine wichtige Quelle für Mikroplastik endlich schließen. Mir ist es wichtig, dass wir die Verordnung mit Augenmaß ausgestalten: Neue Vorgaben müssen nicht zwingend zu mehr Papierkram bei Unternehmen und Aufwand bei Behörden führen. Wir brauchen in der EU eine zukunftsfähige, praxistaugliche und verlässliche Rechtsgrundlage.“</p>
 <p>Teil des Europäischen Green Deals und Ziel der EU ist es, die Einträge von Mikroplastik in die Umwelt bis 2030 um 30 Prozent zu verringern. Mikroplastik kann durch bewusst zugesetzte Mikroplastikpartikel aus Produkten und durch unbeabsichtigte Freisetzungen, zum Beispiel von Kunststoffgranulat, in die Umwelt gelangen. Durch das Eindringen von Mikroplastik in Luft, Gewässer und Böden sowie die Nahrungskette werden die Ökosysteme geschädigt, die biologische Vielfalt und gegebenenfalls auch die menschliche Gesundheit bedroht. Insbesondere die ungewollte Freisetzung von Kunststoffgranulat ist auf unzureichende Handhabungspraktiken zurückzuführen und demzufolge weitgehend vermeidbar.</p>
@@ -185,10 +192,9 @@ Dez. 18, 2024</time>
 <p>Diese Pressemitteilung findet ihr beim BMUV.</p>
 <p>Bereits 2023 trat in der EU ein Verbot von Mikroplastik in Kraft, welches vom BUND jedoch als unzureichend kritisiert wurde. Die Freisetzung von Mikroplastik muss dringend gestoppt werden, denn es ist inzwischen überall, in der Arktis, in der Tiefsee und auch Luft.</p>
 
-    </div>
 </article>
 
-
+        <div class="not_full_width">
         </div>
         </div></body>
 </html>

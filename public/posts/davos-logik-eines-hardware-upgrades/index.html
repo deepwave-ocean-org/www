@@ -10,30 +10,36 @@
     
   
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+
 </head><body><header class="font-medium">
-    <div class="menu_shadow px-16">
+    <div class="menu_shadow">
         <div class="not_full_width">
         <div class="py-6 flex justify-end">
-            <ul class="flex space-x-4 text-sm">
+            <ul class="flex space-x-4 text-sm font-sans">
   
     <li>
-      <a href="/newsletter/" class="text-gray-700 hover:text-deepwave-light-blue">Newsletter</a>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
     </li>
   
     <li>
-      <a href="/die-ozeane/factsheets/" class="text-gray-700 hover:text-deepwave-light-blue">Factsheets</a>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
     </li>
   
     <li>
-      <a href="/ozeanbuecher/" class="text-gray-700 hover:text-deepwave-light-blue">Bücher</a>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
     </li>
   
     <li>
-      <a href="/die-ozeane/bilder/" class="text-gray-700 hover:text-deepwave-light-blue">Bilder</a>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
     </li>
   
     <li>
-      <a href="/podcast/" class="text-gray-700 hover:text-deepwave-light-blue">Podcasts</a>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
     </li>
   
 </ul>
@@ -46,7 +52,6 @@
             </a>
         </div>
         <div class="flex items-center justify-between">
-
             <nav class="hidden md:block pt-3">
     <ul class="flex space-x-6 py-4 text-gray-800">
   
@@ -94,13 +99,11 @@
   
 </ul>
 </nav>
-        
             <button class="md:hidden" id="mobile-menu-button">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
             </svg>
             </button>
-            
         </div>
       </div>
     </div>
@@ -111,7 +114,7 @@
     
     
     
-        <div class="menu_shadow px-16 py-3">
+        <div class="menu_shadow py-3">
             <div class="not_full_width">
             <ul class="flex space-x-4 overflow-x-auto py-1">
   
@@ -133,31 +136,35 @@
       </a>
     </li>
   
+    <li>
+      <a href="/blogs/%C3%BCberfischung/" class="text-gray-700 hover:text-blue-800 text-sm">
+        Überfischung
+      </a>
+    </li>
+  
 </ul>
           </div>
     </div>
     
   </header><div id="content">
-        <div class="not_full_width">
-<article class="my-8 text-xl">
+<section class="relative overflow-hidden w-full px-16">
     
-    <div class="featured-image mb-4">
-      
-      
-        <img src="https://www.deepwave.org/wp-content/uploads/2025/01/hardware_technik_upgrade_davos_pixabay_moebiusdream-1280x960.jpg" alt="Davos: Logik eines Hardware-Upgrades" />
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed" style="background-image: url('https://www.deepwave.org/wp-content/uploads/2025/01/hardware_technik_upgrade_davos_pixabay_moebiusdream-1280x960.jpg');">
         
-        <figcaption class="text-right text-md">
-          © moebiusdream / Pixabay
-        </figcaption>
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © moebiusdream / Pixabay
+          </figcaption>
         
-      
     </div>
     
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
 
-    <header>
-      <h1 class="text-3xl">Davos: Logik eines Hardware-Upgrades</h1>
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Davos: Logik eines Hardware-Upgrades</h1>
       
-      <div class="">
+      
+      <div class="text-xl">
         <time>
 
 
@@ -166,15 +173,15 @@
 Jan 25, 2025</time>
       </div>
       
-    </header>
-    
-    <div class="p-4 pl-0 text-xl">
-      <p>Pressemitteilung, 20.01.2025, NABU</p>
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 20.01.2025, NABU</p>
+      </div>
+      
     </div>
-    
-
-    <div class="pl-8 pr-16">
-      <p>Krüger: <em>Die Erde passt nicht zu der Art wie wir Business machen wollen</em></p>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Krüger: <em>Die Erde passt nicht zu der Art wie wir Business machen wollen</em></p>
 <p>Berlin/Davos – Der Global Risks Report des Weltwirtschaftsforums (WEF) benennt die größten Herausforderungen, denen sich die Weltgemeinschaft im kommenden Jahr und im nächsten Jahrzehnt stellen muss. Demnach dominieren Umweltrisiken die Risikoeinschätzung für das kommende Jahrzehnt: Extreme Wetterereignisse, der Verlust der biologischen Vielfalt und der Zusammenbruch von Ökosystemen werden als die gravierendsten langfristigen Risiken angesehen. Sie geben einen Hinweis, dass die Art und Weise, wie die Weltwirtschaft wirtschaften will, nicht zur Hardware des Planeten Erde passt. NABU-Präsident Jörg-Andreas Krüger:</p>
 <p>„Wenn sich in diesen Tagen die globalen Entscheidungsträger der Weltwirtschaft in Davos treffen, dann wird deutlich, dass die Hardware unseres Planeten mit ihren Plänen nicht mehr Schritt hält. Das lässt nur zwei Möglichkeiten zu: Hardware-Upgrade oder wir arbeiten an einer Software, die besser auf die Hardware abgestimmt ist.“</p>
 <p>Steigende Temperaturen, schwindende Wälder, verschmutzte Meere und ein alarmierender Verlust an biologischer Vielfalt zeigen: Die planetaren Belastungsgrenzen sind erreicht, vielerorts bereits überschritten. Die Natur sendet unmissverständliche Warnsignale – Überschwemmungen, Dürren und Waldbrände sind keine Einzelereignisse mehr, sondern gehören zum Alltag.</p>
@@ -185,10 +192,9 @@ Jan 25, 2025</time>
 <p><!-- raw HTML omitted -->Diese Pressemitteilung<!-- raw HTML omitted --> findet ihr beim <!-- raw HTML omitted -->NABU<!-- raw HTML omitted -->.</p>
 <p>Trotz der alarmierenden Prognosen und der eindringlichen Warnungen, wie sie Greta Thunberg 2019 mit <a href="https://www.deepwave.org/i-want-you-to-panic-16-jaehrige-greta-thunberg-spricht-in-davos/">ihrem Appell „I want you to pani c“</a> beim Weltwirtschaftsforum vor sechs Jahren in Davos formulierte, zeigt die <a href="https://www.deepwave.org/gemeinsam-gegen-den-fossilen-irrweg-ccs-gesetz-stoppen/">Wirtschaftslandschaft kaum Fortschritte</a>. Solange die wirtschaftlichen Entscheidungsträger nicht bereit sind, die drängenden <a href="https://www.deepwave.org/nabu-gesunde-meere-als-grundlage-maritimer-wirtschaft/">Umweltherausforderungen</a> ernsthaft anzugehen, werden wir weiterhin an der Linie des <a href="https://www.deepwave.org/ccs-gesetz-mit-der-ampel-in-den-klima-jurassic-park/">ökologischen Abgrunds</a> balancieren.</p>
 
-    </div>
 </article>
 
-
+        <div class="not_full_width">
         </div>
         </div></body>
 </html>

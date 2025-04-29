@@ -2,6 +2,7 @@
 title: Der Meeresschutz kommt unter die Räder
 blogs:
   - Politik
+  - Überfischung
 ---
 Das Jahr beginnt mit … sich bleiern ausbreitender Fassungslosigkeit.
 

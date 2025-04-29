@@ -64,7 +64,7 @@ collections_config:
           view:
           picker_view:
         cascade: true
-      featured_image:
+      image:
         type: image
         cascade: true
       image_caption:

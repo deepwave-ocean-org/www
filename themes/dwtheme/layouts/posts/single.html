@@ -1,36 +1,6 @@
-{{ define "main-bordered" }}
-<article class="my-8 text-xl">
-    {{ if .Params.featured_image }}
-    <div class="featured-image mb-4">
-      {{ $img := .Params.featured_image }}
-      {{ if $img }}
-        <img src="{{ $img }}" alt="{{ .Title }}" />
-        {{ if .Params.image_caption }}
-        <figcaption class="text-right text-md">
-          {{ .Params.image_caption | markdownify }}
-        </figcaption>
-        {{ end }}
-      {{ end }}
-    </div>
-    {{ end }}
-
-    <header>
-      <h1 class="text-3xl">{{ .Title }}</h1>
-      {{ if .Date }}
-      <div class="">
-        <time>{{ partial "date-german.html" .Date }}</time>
-      </div>
-      {{ end }}
-    </header>
-    {{ if .Params.source }}
-    <div class="p-4 pl-0 text-xl">
-      <p>{{ .Params.source }}</p>
-    </div>
-    {{ end }}
-
-    <div class="pl-8 pr-16">
-      {{ .Content }}
-    </div>
+{{ define "main" }}
+{{ partial "headers/blog_parallax" . }}
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    {{ .Content }}
 </article>
-
 {{ end }}

@@ -8,8 +8,9 @@ module.exports = {
           'deepwave-ocean': 'var(--color-deepwave-ocean)',     
         },
         fontFamily: {
-          sans: ['Open Sans', 'sans-serif'],
-        },
+          'serif': ['Merriweather', 'Georgia', 'serif'],
+          'sans': ['Merriweather Sans', 'Helvetica', 'Arial', 'sans-serif'],
+        }
       },
     },
     plugins: [],

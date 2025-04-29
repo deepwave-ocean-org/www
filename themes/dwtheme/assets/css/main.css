@@ -9,18 +9,17 @@
   --color-deepwave-dark-blue: #1e40af;
   --color-deepwave-ocean: #0369a1;
   --color-deepwave-link: #2298a5;
-  --font-deepwave-sans: 'Merriweather Sans', Helvetica, Arial, Lucida, sans-serif;
-    --font-deepwave-serif: 'Merriweather', Georgia, serif;
+  --color-parallax-overlay: rgba(52, 67, 84, 0.38);
 }
 
 @layer components {
   .not_full_width {
-    @apply max-w-screen-xl mx-auto;
+    @apply max-w-screen-xl mx-auto px-16;
   }
 }
 
 html {
-  font-family: var(--font-deepwave-serif);
+  @apply font-serif text-gray-800;
 }
 p {
   margin-bottom: 0.8rem;
@@ -34,7 +33,7 @@ h5,
 h6,
 nav,
 .sans {
-  font-family: var(--font-deepwave-sans);
+  @apply font-sans;
 }
 article a {
   color: var(--color-deepwave-link);

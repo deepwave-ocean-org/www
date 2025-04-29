@@ -9,13 +9,6 @@
     <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Helllo</title>
-      <link>http://localhost:1313/posts/helllo/</link>
-      <pubDate>Mon, 21 Apr 2025 18:35:11 +0100</pubDate>
-      <guid>http://localhost:1313/posts/helllo/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Davos: Logik eines Hardware-Upgrades</title>
       <link>http://localhost:1313/posts/davos-logik-eines-hardware-upgrades/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
@@ -30,10 +23,17 @@
       <description>&lt;h1 id=&#34;wichtiger-schritt-gegen-versehentlich-freigesetztes-kunststoffgranulat&#34;&gt;Wichtiger Schritt gegen versehentlich freigesetztes Kunststoffgranulat&lt;/h1&gt;&#xA;&lt;p&gt;Schätzungen der Europäischen Kommission zufolge werden jährlich 50.000 bis 180.000 Tonnen Kunststoffgranulat versehentlich freigesetzt, etwa beim Ver- oder Umladen oder durch undichte Behältnisse. Das ausgetretene Granulat wird zum Beispiel durch Wind oder Regen in die Umwelt weitertransportiert. Schädliche Auswirkungen auf die menschliche Gesundheit oder die Umwelt können die Folge sein. Die Mitgliedstaaten der EU haben heute ihre gemeinsame Position („Allgemeine Ausrichtung“) zum Vorschlag der EU-Kommission beschlossen. Künftig soll der ungewollte Eintrag von Kunststoffgranulat in die Umwelt bei der Herstellung, dem Transport und der Verarbeitung vermieden und vermindert werden. Der Verordnungsentwurf sieht Maßnahmen für Wirtschaftsbeteiligte vor, die mit Kunststoffgranulat umgehen (Hersteller, Transporteure, Verarbeiter).&lt;/p&gt;</description>
     </item>
     <item>
+      <title>DEEPWAVE bei ZWEIvorZWÖLF</title>
+      <link>http://localhost:1313/podcast/deepwave-bei-zweivorzw%C3%B6lf/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcast/deepwave-bei-zweivorzw%C3%B6lf/</guid>
+      <description>&lt;p&gt;DEEPWAVE war Gast beim &lt;a href=&#34;https://www.zweivorzwoelf.info/episoden&#34;&gt;Nachhaltigkeitspodcast ZWEIvorZWÖLF&lt;/a&gt; von Andrea Gerhard und David Wehle. In der Folge #89 deepwave e.V. &amp;ndash; Meeresschutz spricht unsere CEO Anna Groß mit Andrea (die übrigens auch unsere Filmfestivals moderiert) über die zahlreichen Gefährdungen unserer Meere und was wir dagegen tun können, jede:r Einzelne und vor allem gemeinsam. Mit ansteckender Begeisterung trotz der nicht gerade leichten Themen stellen sie das breit gefächerte Engagement von DEEPWAVE vor.&lt;/p&gt;&#xA;&lt;p&gt;Hier eine kleine Übersicht der Themen, über die die beiden gesprochen haben:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title></title>
-      <link>http://localhost:1313/%C3%BCber-uns/wer-wir-sind/</link>
+      <link>http://localhost:1313/ueber-uns/wer-wir-sind/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/%C3%BCber-uns/wer-wir-sind/</guid>
+      <guid>http://localhost:1313/ueber-uns/wer-wir-sind/</guid>
       <description>&lt;p&gt;Timeline&lt;/p&gt;</description>
     </item>
     <item>

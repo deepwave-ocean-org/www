@@ -5,7 +5,7 @@ lastmod: 2025-01-25T00:00:00Z
 draft: false
 blogs:
   - klima
-featured_image: >-
+image: >-
   https://www.deepwave.org/wp-content/uploads/2025/01/hardware_technik_upgrade_davos_pixabay_moebiusdream-1280x960.jpg
 image_caption: © moebiusdream / Pixabay
 author: DEEPWAVE
