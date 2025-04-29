@@ -3,13 +3,60 @@
   link: https://klartext.deepwave.org
   background_image: /uploads/deepwave-flagge.jpeg
   overlay_color: '#1a4353'
-- title: Nachhaltige Fischerei
-  button_text: Mehr erfahren
+- title: Was wir tun
+  button_text: Unser Logbuch
   link: /nachhaltige-fischerei/
   background_image: /images/fishing-background.jpg
   overlay_color: '#142836'
-- title: Meeresschutzgebiete
-  button_text: Entdecken Sie mehr
+- title: NO DEEP SEA MINING - NEVER
+  button_text: Unsere Kampagne gegen Tiefseebergbau
   link: /meeresschutzgebiete/
   background_image: /images/marine-reserve-background.jpg
   overlay_color: '#0c3b5c'
+- title: DEEPWAVE zu Gast beim Podcast "Tee mit G."
+  button_text: Wie geht es dem Tiefseebergbau ? Und uns?
+  link: ''
+  background_image: ''
+  overlay_color:
+- title: Alle reden von CCS - wir auch
+  button_text: Unser Longread von Nico Czaja
+  link: ''
+  background_image: ''
+  overlay_color:
+- title: Spielend die Meere erkunden
+  button_text: die App zur Meeresfibel
+  link: ''
+  background_image: ''
+  overlay_color:
+- title: DEEPWAVE geht einen Schritt weiter
+  button_text: Unser Kooperationspartner Montemero
+  link: ''
+  background_image: ''
+  overlay_color:
+- title: Über die Wolken
+  button_text: >-
+    Wie man sie macht und ob man es lieber lassen sollte - Ein Longread von Nico
+    Czaja
+  link: ''
+  background_image: ''
+  overlay_color:
+- title: Kennt ihr schon unsere Trinkhalm-Alternativen-Vergleichstabelle?
+  button_text: No Straw is the Best Straw
+  link: ''
+  background_image: ''
+  overlay_color:
+- title: 'Unsere Filmfestivals '
+  button_text: DEEPWAVE und ICRS
+  link: ''
+  background_image: ''
+  overlay_color:
+- title: 'DEEPWAVE '
+  button_text: turns 22!
+  link: ''
+  background_image: ''
+  overlay_color:
+- title: Gemeinsam die Meere schützen
+  button_text: Werde Mitglied, Patron oder Förder:in!
+  link: ''
+  background_image: ''
+  overlay_color:
