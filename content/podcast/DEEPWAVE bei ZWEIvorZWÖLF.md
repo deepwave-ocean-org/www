@@ -1,9 +1,10 @@
 ---
 title: DEEPWAVE bei ZWEIvorZWÖLF
-blurb: In Folge 89 spricht unsere CEO Anna Groß mit Andrea (die übrigens auch unsere Filmfestivals moderiert) über die zahlreichen Gefährdungen unserer Meere
+blurb: In Folge 89 spricht unsere CEO Anna Groß mit Andrea (die übrigens auch unsere Filmfestivals moderiert) über die zahlreichen Gefährdungen unserer Meere.
 image: https://static.wixstatic.com/media/7fcd6e_6e1993367dee420ca4456d3df285ff09~mv2.jpg/v1/fill/w_624,h_624,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/89%20Deepwave%20website.jpg
 date: 2023-03-14T00:00:00Z
 image_caption: © ZWEIvorZWÖLF
+podcast_icon: true
 ---
 
 DEEPWAVE war Gast beim [Nachhaltigkeitspodcast ZWEIvorZWÖLF](https://www.zweivorzwoelf.info/episoden) von Andrea Gerhard und David Wehle. In der Folge #89 deepwave e.V. -- Meeresschutz spricht unsere CEO Anna Groß mit Andrea (die übrigens auch unsere Filmfestivals moderiert) über die zahlreichen Gefährdungen unserer Meere und was wir dagegen tun können, jede:r Einzelne und vor allem gemeinsam. Mit ansteckender Begeisterung trotz der nicht gerade leichten Themen stellen sie das breit gefächerte Engagement von DEEPWAVE vor.

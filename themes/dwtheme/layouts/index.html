@@ -1,10 +1,10 @@
 
 {{ define "main" }}
-{{ partial "slider.html" . }}
+{{ partial "headers/slider.html" . }}
 
 {{ $home_nav := site.Data.menu.home }}
 
-<div class="not_full_width py-12">
+<div class="not_full_width my-16">
     {{ range $index, $item := $home_nav }}
     {{ if modBool $index 3 }}
     <div class="flex flex-wrap justify-center gap-16 mb-16">
@@ -19,8 +19,8 @@
                     </div>
                     <div
                         class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
-                        <h3 class="text-2xl mb-2">{{ $item.title }}</h3>
-                        <div class="text-md font-sans">{{ $item.subtitle }}</div>
+                        <h3 class="text-2xl mb-1">{{ $item.title }}</h3>
+                        <div class="text-sm font-sans">{{ $item.subtitle }}</div>
                     </div>
                 </div>
             </a>
