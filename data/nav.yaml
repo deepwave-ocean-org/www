@@ -19,7 +19,7 @@ secondary:
     target: "_blank"
   - title: "Spenden"
     url: "/etwas-tun/spenden/"
-utility:
+service:
   - title: "Newsletter"
     url: "/newsletter/"
   - title: "Factsheets"
