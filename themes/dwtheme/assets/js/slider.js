@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     let currentIndex = 0;
     const itemCount = sliderItems.length;
+    let autoSlideInterval = 7000;
     
     // Touch handling variables
     let touchStartX = 0;
@@ -25,15 +26,15 @@ document.addEventListener('DOMContentLoaded', function() {
       // Hide current slide
       sliderItems[currentIndex].classList.remove('opacity-100');
       sliderItems[currentIndex].classList.add('opacity-0');
-      sliderDots[currentIndex].classList.remove('bg-white', 'w-3', 'h-3');
-      sliderDots[currentIndex].classList.add('bg-gray-400', 'w-2', 'h-2');
+        sliderDots[currentIndex].classList.remove('bg-white', 'scale-110');
+        sliderDots[currentIndex].classList.add('bg-gray-400', 'scale-100');
       
       // Show new slide
       currentIndex = index;
       sliderItems[currentIndex].classList.remove('opacity-0');
       sliderItems[currentIndex].classList.add('opacity-100');
-      sliderDots[currentIndex].classList.remove('bg-gray-400', 'w-2', 'h-2');
-      sliderDots[currentIndex].classList.add('bg-white', 'w-3', 'h-3');
+        sliderDots[currentIndex].classList.remove('bg-gray-400', 'scale-100');
+        sliderDots[currentIndex].classList.add('bg-white', 'scale-110');
     }
     
     // Previous slide function
@@ -93,21 +94,22 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Start auto sliding
-    let slideInterval = setInterval(autoSlide, 5000);
+    let slideInterval = setInterval(autoSlide, autoSlideInterval);
     
     // Reset timer function
     function resetAutoSlideTimer() {
-      clearInterval(slideInterval);
-      slideInterval = setInterval(autoSlide, 5000);
+        console.log('Resetting auto slide timer', slideInterval);
+        clearInterval(slideInterval);
+        slideInterval = setInterval(autoSlide, autoSlideInterval);
     }
     
     // Pause auto slide on hover
     sliderContainer.addEventListener('mouseenter', () => {
-      clearInterval(slideInterval);
+        clearInterval(slideInterval);
     });
     
     sliderContainer.addEventListener('mouseleave', () => {
-      slideInterval = setInterval(autoSlide, 5000);
+        slideInterval = setInterval(autoSlide, autoSlideInterval);
     });
     
     // Add keyboard navigation

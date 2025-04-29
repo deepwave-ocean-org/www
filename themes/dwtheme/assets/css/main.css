@@ -9,6 +9,8 @@
   --color-deepwave-dark-blue: #1e40af;
   --color-deepwave-ocean: #0369a1;
   --color-deepwave-link: #2298a5;
+  --font-deepwave-sans: 'Merriweather Sans', Helvetica, Arial, Lucida, sans-serif;
+    --font-deepwave-serif: 'Merriweather', Georgia, serif;
 }
 
 @layer components {
@@ -17,10 +19,23 @@
   }
 }
 
+html {
+  font-family: var(--font-deepwave-serif);
+}
 p {
   margin-bottom: 0.8rem;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+nav,
+.sans {
+  font-family: var(--font-deepwave-sans);
+}
 article a {
   color: var(--color-deepwave-link);
   text-decoration: none;
