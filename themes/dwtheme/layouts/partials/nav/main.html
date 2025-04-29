@@ -1,6 +1,6 @@
 <nav class="hidden md:block pt-3">
     <ul class="flex space-x-6 py-4 text-gray-800">
-  {{ range site.Data.nav.main }}
+  {{ range site.Data.menu.main }}
     <li class="relative group">
       <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
     </li>
@@ -10,7 +10,7 @@
 
 <nav class="hidden md:block pt-3">
     <ul class="flex space-x-4">
-    {{ range site.Data.nav.secondary }}
+    {{ range site.Data.menu.secondary }}
     <li class="relative group">
       <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
     </li>

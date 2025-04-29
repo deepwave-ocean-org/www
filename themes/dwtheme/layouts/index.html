@@ -2,7 +2,7 @@
 {{ define "main" }}
 {{ partial "slider.html" . }}
 
-{{ $home_nav := site.Data.nav.home }}
+{{ $home_nav := site.Data.menu.home }}
 
 <div class="not_full_width py-12">
     {{ range $index, $item := $home_nav }}

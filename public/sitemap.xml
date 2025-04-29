@@ -29,9 +29,9 @@
     <loc>http://localhost:1313/blogs/politik/</loc>
     <lastmod>2024-12-18T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%C3%BCber-uns/</loc>
+    <loc>http://localhost:1313/ueber-uns/</loc>
   </url><url>
-    <loc>http://localhost:1313/%C3%BCber-uns/wer-wir-sind/</loc>
+    <loc>http://localhost:1313/ueber-uns/wer-wir-sind/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/der-meeresschutz-kommt-unter-die-r%C3%A4der/</loc>
   </url>
