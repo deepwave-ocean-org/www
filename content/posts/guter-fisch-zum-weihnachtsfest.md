@@ -12,7 +12,7 @@ blogs:
   - Tiefsee
   - Forschung
   - Kultur
-  - Was tun
+  - Was tu 
 image: >-
   https://www.deepwave.org/wp-content/uploads/2025/01/david-foodphototasty-unsplash_guter_fisch_gegrillte_dorade-1280x855.jpg
 image_caption: © David Foodphototasty / Unsplash
