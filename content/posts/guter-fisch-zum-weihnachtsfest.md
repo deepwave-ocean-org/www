@@ -9,8 +9,6 @@ blogs:
   - Politik
   - Reflexionen
   - Klima
-  - Tiefsee
-  - Forschung
   - Kultur
   - Was tun
 image: >-
