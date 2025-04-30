@@ -32,18 +32,18 @@ source: >-
 > Dr. Ian Kane von der Universität Manchester, einer der Mitautoren der Studie, erläuterte: „Zu sehen, wie sich diese Strömungen verhalten, ist ein bisschen wie die Beobachtung des Wetters in Manchester -- es ändert sich ständig und ist oft überraschend. Aber die Beobachtung von Veränderungen in der Tiefsee ist eine echte Herausforderung, und bis jetzt hatten wir nur ein geringes Verständnis für die Hintergrundbedingungen in der Tiefsee".
 >
 > Der leitende Wissenschaftler des Projekts, Dr. Mike Clare vom NOC, fügte hinzu: „Die Tiefsee kann extrem dynamisch sein, und diese Studie unterstreicht die Bedeutung von Langzeitbeobachtungen, die entscheidende Informationen zum Verständnis des Ozeans liefern. Detailliertere Beobachtungen sind entscheidend für das Verständnis der wichtigen Rolle, die Bodenströmungen beim Transport von Sedimenten, Kohlenstoff und Schadstoffen auf unserem Planeten spielen".
->
-> Beteiligte Institutionen:\\
->
-> * MARUM -- Zentrum für Marine Umweltwissenschaften und Fakultät für Geowissenschaften, Universität Bremen, Bremen, Deutschland\\
-> * National Oceanography Centre, Southampton, UK\\
-> * Schule für Meeres- und Geowissenschaften, Universität Southampton, Southampton, UK\\
-> * Fachbereich für Erde, Energie und Umwelt, Universität Calgary, Calgary, Alberta, Kanada\\
-> * Schule für Erd- und Umweltwissenschaften, Universität Manchester, Manchester, UK\\
-> * Eni Upstream und technische Dienste, Mailand, Italien\\
-> * RINA Consulting, Mailand, Italien\\
-> * TotalEnergies, Paris, Frankreich
->
+
+Beteiligte Institutionen:
+
+* MARUM -- Zentrum für Marine Umweltwissenschaften und Fakultät für Geowissenschaften, Universität Bremen, Bremen, Deutschland\\
+* National Oceanography Centre, Southampton, UK\\
+* Schule für Meeres- und Geowissenschaften, Universität Southampton, Southampton, UK\\
+* Fachbereich für Erde, Energie und Umwelt, Universität Calgary, Calgary, Alberta, Kanada\\
+* Schule für Erd- und Umweltwissenschaften, Universität Manchester, Manchester, UK\\
+* Eni Upstream und technische Dienste, Mailand, Italien\\
+* RINA Consulting, Mailand, Italien\\
+* TotalEnergies, Paris, Frankreich
+
 > Das MARUM gewinnt grundlegende wissenschaftliche Erkenntnisse über die Rolle des Ozeans und des Meeresbodens im gesamten Erdsystem. Die Dynamik des Ozeans und des Meeresbodens prägen durch Wechselwirkungen von geologischen, physikalischen, biologischen und chemischen Prozessen maßgeblich das gesamte Erdsystem. Dadurch werden das Klima sowie der globale Kohlenstoffkreislauf beeinflusst und es entstehen einzigartige biologische Systeme. Das MARUM steht für grundlagenorientierte und ergebnisoffene Forschung in Verantwortung vor der Gesellschaft, zum Wohl der Meeresumwelt und im Sinne der Nachhaltigkeitsziele der Vereinten Nationen. Es veröffentlicht seine qualitätsgeprüften, wissenschaftlichen Daten und macht diese frei zugänglich. Das MARUM informiert die Öffentlichkeit über neue Erkenntnisse der Meeresumwelt, und stellt im Dialog mit der Gesellschaft Handlungswissen bereit. Kooperationen des MARUM mit Unternehmen und Industriepartnern erfolgen unter Wahrung seines Ziels zum Schutz der Meeresumwelt.
 
 [Diese Pressemitteilung](https://www.marum.de/Tiefsee-Stroemungen.html)&nbsp;vom 31. Juli 2024 findet ihr beim&nbsp;[MARUM](https://www.marum.de/index.html).
