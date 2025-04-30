@@ -25,8 +25,14 @@ article h2,
 article h3,
 article h4,
 article h5,
-article h6 {
+article h6,
+article ul {
   margin-bottom: 0.8rem;
+}
+article li {
+  margin-bottom: 0.4rem;
+  list-style: disc;
+  padding-left: 1.5rem;
 }
 
 h1,
