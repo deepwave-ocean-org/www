@@ -15,7 +15,24 @@
 <link
     href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
     rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
 
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
 </head><body><header class="font-sans">
     <div class="menu_shadow">
         <div class="not_full_width">
@@ -119,6 +136,12 @@
             <ul class="flex space-x-4 overflow-x-auto py-1">
   
     <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+    <li>
       <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
         Good News
       </a>
@@ -131,8 +154,32 @@
     </li>
   
     <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+    <li>
       <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
         Politik
+      </a>
+    </li>
+  
+    <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+    <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+    <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
       </a>
     </li>
   
@@ -147,9 +194,11 @@
     </div>
     
   </header><div id="content">
+    <div id="content-area">
 <section class="relative overflow-hidden w-full px-16">
     
-    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed" style="background-image: url('https://www.deepwave.org/wp-content/uploads/2025/01/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-1280x719.jpg');">
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2025/01/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-1280x719.jpg');">
         
           <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
             © ISIPLAST / Wikimedia Commons (Creative Commons Attribution-Share Alike 4.0 International license)
@@ -193,6 +242,65 @@ Dez. 18, 2024</time>
 <p>Bereits 2023 trat in der EU ein Verbot von Mikroplastik in Kraft, welches vom BUND jedoch als unzureichend kritisiert wurde. Die Freisetzung von Mikroplastik muss dringend gestoppt werden, denn es ist inzwischen überall, in der Arktis, in der Tiefsee und auch Luft.</p>
 
 </article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/posts/guter-fisch-zum-weihnachtsfest/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2025/01/david-foodphototasty-unsplash_guter_fisch_gegrillte_dorade-1280x855.jpg" alt="„Guter Fisch“ zum Weihnachtsfest" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">„Guter Fisch“ zum Weihnachtsfest</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><h4 id="forschungseinrichtungen-umweltverbände-und-die-verbraucherzentralen-aktualisieren-die-gemeinsame-liste-guter-fisch-für-bewussten-einkauf-von-meeresfisch">Forschungseinrichtungen, Umweltverbände und die Verbraucherzentralen aktualisieren die gemeinsame Liste „Guter...</h4></p>
+            
+
+        </div>
+    </a>
+</div>
+    
+    
+    <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/posts/weder-%C3%B6de-noch-leer-tiefseeboden-wimmelt-von-leben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/12/Tiefsee-Lebewesen_Senckenberg_Arktis-980x572.jpg" alt="Weder öde noch leer: Tiefseeboden wimmelt von Leben" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Weder öde noch leer: Tiefseeboden wimmelt von Leben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><h4 id="neue-übersichtsstudie-zeigt-vielfalt-von-lebensräumen-und-organismen-in-der-arktischen-tiefsee">Neue Übersichtsstudie zeigt Vielfalt von Lebensräumen und Organismen in der arktischen Tiefsee</h4>
+<p>Die Tiefsee der Arktis...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+    <div hx-get="/posts/weder-%C3%B6de-noch-leer-tiefseeboden-wimmelt-von-leben/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+        hx-select="#content-area" hx-push-url="true">
+    </div>
+    
+</div>
+</div>
 
         <div class="not_full_width">
         </div>

@@ -6,46 +6,7 @@
     {{ .Content }}
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {{ range .Pages }}
-        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
-            <a href="{{ .RelPermalink }}" class="block">
-                {{ with .Params.image }}
-                <div class="relative h-48 bg-gray-200">
-                    <img src="{{ . }}" alt="{{ $.LinkTitle }}" class="w-full h-full object-cover" />
-                </div>
-                {{ else }}
-                <div class="relative h-48 bg-gray-700 flex items-center justify-center">
-                    <div class="text-white text-center p-6">
-                        <h2 class="text-xl font-bold">{{ .LinkTitle }}</h2>
-                    </div>
-                </div>
-                {{ end }}
-        
-        
-                <div class="p-4">
-                    <div class="flex items-center mb-4">
-                        {{ with .Params.podcast_icon }}
-                        <div class="bg-gray-200 p-2 rounded-md mr-3">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600" fill="none"
-                                viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
-                            </svg>
-                        </div>
-                        {{ end }}
-                        <div>
-                            <h3 class="text-lg font-semibold text-gray-900">{{ .LinkTitle }}</h3>
-                        </div>
-                    </div>
-        
-                    {{ with .Params.blurb }}
-                    <p class="text-gray-600 text-sm">{{ . }}</p>
-                    {{ else }}
-                    <p class="text-gray-600 text-sm">{{ .Summary | truncate 120 "..." }}</p>
-                    {{ end }}
-        
-                </div>
-            </a>
-        </div>
+        {{ partial "card" .}}
         {{ end }}
     </div>
 </div>

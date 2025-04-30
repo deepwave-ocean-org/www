@@ -15,7 +15,24 @@
 <link
     href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
     rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
 
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
 </head><body><header class="font-sans">
     <div class="menu_shadow">
         <div class="not_full_width">
@@ -119,6 +136,12 @@
             <ul class="flex space-x-4 overflow-x-auto py-1">
   
     <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+    <li>
       <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
         Good News
       </a>
@@ -131,8 +154,32 @@
     </li>
   
     <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+    <li>
       <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
         Politik
+      </a>
+    </li>
+  
+    <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+    <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+    <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
       </a>
     </li>
   
@@ -147,22 +194,51 @@
     </div>
     
   </header><div id="content">
+
 <section class="relative overflow-hidden w-full">
     
-    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed" 
-        style="background-image: url('');">
+    <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
+        style="background-image: url('https://www.deepwave.org/wp-content/uploads/2018/10/1_News.jpg');">
     </div>
     
-    <div class="absolute inset-0" style="background-color: var(--color-parallax-overlay);"></div>
+    <div class="absolute inset-0" style="background-color: rgba(16,37,68,0.54);"></div>
 
     <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white my-24">
       <h1 class="text-3xl md:text-3xl mb-2">Good News</h1>
       
+        <div class="text-xl">Das Meer und seine Bewohner geraten immer mehr in das Bewusstsein der Gesellschaft. Nachrichten über unseren Umgang mit den Meeren sind oft erschreckend, aber es gibt auch Lichtblicke, die Ansporn sind, umzudenken.</div>
+      
     </div>
   </section>
+
 <div class="not_full_width min-h-screen my-12">
     
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+            <a href="/posts/guter-fisch-zum-weihnachtsfest/" class="block">
+                
+                <div class="relative h-48 bg-gray-200">
+                    <img src="https://www.deepwave.org/wp-content/uploads/2025/01/david-foodphototasty-unsplash_guter_fisch_gegrillte_dorade-1280x855.jpg" alt="Good News" class="w-full h-full object-cover" />
+                </div>
+                
+        
+        
+                <div class="p-4">
+                    <div class="flex items-center mb-4">
+                        
+                        <div>
+                            <h3 class="text-lg font-semibold text-gray-900">„Guter Fisch“ zum Weihnachtsfest</h3>
+                        </div>
+                    </div>
+        
+                    
+                    <p class="text-gray-600 text-sm"><h4 id="forschungseinrichtungen-umweltverbände-und-die-verbraucherzentralen-aktualisieren-die-gemeinsame-liste-guter-fisch-für-bewussten-einkauf-von-meeresfisch">Forschungseinrichtungen, Umweltverbände und die Verbraucherzentralen aktualisieren die gemeinsame Liste „Guter...</h4></p>
+                    
+        
+                </div>
+            </a>
+        </div>
         
         <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
             <a href="/posts/eu-umweltrat-eintrag-von-kunststoffgranulat-in-die-umwelt-soll-verringert-werden/" class="block">

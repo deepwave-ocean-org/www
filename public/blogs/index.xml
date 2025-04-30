@@ -16,6 +16,34 @@
       <description></description>
     </item>
     <item>
+      <title>Good News</title>
+      <link>http://localhost:1313/blogs/good-news/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/good-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kultur</title>
+      <link>http://localhost:1313/blogs/kultur/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/kultur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politik</title>
+      <link>http://localhost:1313/blogs/politik/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/politik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflexionen</title>
+      <link>http://localhost:1313/blogs/reflexionen/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/reflexionen/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Überfischung</title>
       <link>http://localhost:1313/blogs/%C3%BCberfischung/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
@@ -23,17 +51,24 @@
       <description></description>
     </item>
     <item>
-      <title>Good News</title>
-      <link>http://localhost:1313/blogs/good-news/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/blogs/good-news/</guid>
+      <title>Was tun?</title>
+      <link>http://localhost:1313/blogs/was-tun/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/was-tun/</guid>
       <description></description>
     </item>
     <item>
-      <title>Politik</title>
-      <link>http://localhost:1313/blogs/politik/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/blogs/politik/</guid>
+      <title>Forschung</title>
+      <link>http://localhost:1313/blogs/forschung/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/forschung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tiefsee</title>
+      <link>http://localhost:1313/blogs/tiefsee/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/tiefsee/</guid>
       <description></description>
     </item>
   </channel>
