@@ -35,13 +35,13 @@ source: >-
 
 Beteiligte Institutionen:
 
-* MARUM -- Zentrum für Marine Umweltwissenschaften und Fakultät für Geowissenschaften, Universität Bremen, Bremen, Deutschland\\
-* National Oceanography Centre, Southampton, UK\\
-* Schule für Meeres- und Geowissenschaften, Universität Southampton, Southampton, UK\\
-* Fachbereich für Erde, Energie und Umwelt, Universität Calgary, Calgary, Alberta, Kanada\\
-* Schule für Erd- und Umweltwissenschaften, Universität Manchester, Manchester, UK\\
-* Eni Upstream und technische Dienste, Mailand, Italien\\
-* RINA Consulting, Mailand, Italien\\
+* MARUM -- Zentrum für Marine Umweltwissenschaften und Fakultät für Geowissenschaften, Universität Bremen, Bremen, Deutschland\
+* National Oceanography Centre, Southampton, UK\
+* Schule für Meeres- und Geowissenschaften, Universität Southampton, Southampton, UK\
+* Fachbereich für Erde, Energie und Umwelt, Universität Calgary, Calgary, Alberta, Kanada\
+* Schule für Erd- und Umweltwissenschaften, Universität Manchester, Manchester, UK\
+* Eni Upstream und technische Dienste, Mailand, Italien\
+* RINA Consulting, Mailand, Italien\
 * TotalEnergies, Paris, Frankreich
 
 > Das MARUM gewinnt grundlegende wissenschaftliche Erkenntnisse über die Rolle des Ozeans und des Meeresbodens im gesamten Erdsystem. Die Dynamik des Ozeans und des Meeresbodens prägen durch Wechselwirkungen von geologischen, physikalischen, biologischen und chemischen Prozessen maßgeblich das gesamte Erdsystem. Dadurch werden das Klima sowie der globale Kohlenstoffkreislauf beeinflusst und es entstehen einzigartige biologische Systeme. Das MARUM steht für grundlagenorientierte und ergebnisoffene Forschung in Verantwortung vor der Gesellschaft, zum Wohl der Meeresumwelt und im Sinne der Nachhaltigkeitsziele der Vereinten Nationen. Es veröffentlicht seine qualitätsgeprüften, wissenschaftlichen Daten und macht diese frei zugänglich. Das MARUM informiert die Öffentlichkeit über neue Erkenntnisse der Meeresumwelt, und stellt im Dialog mit der Gesellschaft Handlungswissen bereit. Kooperationen des MARUM mit Unternehmen und Industriepartnern erfolgen unter Wahrung seines Ziels zum Schutz der Meeresumwelt.
