@@ -2,43 +2,37 @@
 {{ if .Title }}
 {{ partial "headers/default_parallax" . }}
 {{ end }}
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+{{ $timelineJS := resources.Get "js/timeline_masonry.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $timelineJS.RelPermalink }}"></script>
+
 <div class="not_full_width min-h-screen my-12">
     {{ .Content }}
+    
     <div class="masonry-grid w-full">
+        <div class="hidden md:block absolute left-1/2 top-0 bottom-0 w-[1px] bg-deepwave-blue"
+            style="transform: translateX(-50%);">
+            <!-- This creates the vertical line -->
+        </div>
         {{ range $index, $page := .Pages }}
-        <div class="masonry-item w-full lg:w-1/2 px-3 mb-6">
-            <article class="border border-gray-900 p-6">
+        <article class="masonry-item w-full md:w-[49%] px-6 mb-6">
+            <div
+                class="timeline-dot hidden opacity-0 md:block absolute w-5 h-5 rounded-full bg-deepwave-blue border-2 border-white">
+            </div>
+        
+            <div class="timeline-card p-6">
                 <h1 class="text-2xl font-bold mb-4">
                     {{ $page.Title }}
                 </h1>
                 <div>
                     {{ .Content }}
                 </div>
-            </article>
-        </div>
+            </div>
+        </article>
         {{ end }}
     </div>
     
-    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-    <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      // Initialize Masonry with proper options
-      var grid = document.querySelector('.masonry-grid');
-      console.log(grid);
-      var msnry = new Masonry(grid, {
-        itemSelector: '.masonry-item',
-        percentPosition: true,
-        columnWidth: '.masonry-item',
-        gutter: 0,
-        transitionDuration: 0 // Disable animation for faster rendering
-      });
-      
-      // Force layout recalculation after images load
-      var imgLoad = imagesLoaded(grid);
-      imgLoad.on('progress', function() {
-        msnry.layout();
-      });
-    });
-    </script>
+    
 </div>
 {{ end }}

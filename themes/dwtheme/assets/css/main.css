@@ -38,17 +38,36 @@ article figcaption {
   @apply text-sm text-gray-500 text-right;
 }
 
-.column-layout {
-  column-count: 2;
-  column-gap: 1.5rem;
-  width: 100%;
+.timeline-card {
+  background: #EFEFEF;
+  -webkit-box-shadow: 0 3px 0 #B9C5CD;
+  -moz-box-shadow: 0 3px 0 #B9C5CD;
+  box-shadow: 0 3px 0 #B9C5CD;
+  opacity: 0;
+  transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
-.item {
-  break-inside: avoid;
-  margin-bottom: 1.5rem;
-  display: inline-block;
-  width: 100%;
+.timeline-card.animation-ready {
+  transform: translate3d(0, 50px, 0);
+}
+
+.timeline-card.visible {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}
+
+@keyframes te-fadeInUpBig {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 50px, 0);
+    transform: translate3d(0, 50px, 0)
+  }
+
+    to {
+      opacity: 1;
+      -webkit-transform: none;
+      transform: none
+    }
 }
 
 h1,
