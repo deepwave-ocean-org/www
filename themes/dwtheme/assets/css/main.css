@@ -34,6 +34,22 @@ article li {
   list-style: disc;
   margin-left: 1.5rem;
 }
+article figcaption {
+  @apply text-sm text-gray-500 text-right;
+}
+
+.column-layout {
+  column-count: 2;
+  column-gap: 1.5rem;
+  width: 100%;
+}
+
+.item {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  width: 100%;
+}
 
 h1,
 h2,

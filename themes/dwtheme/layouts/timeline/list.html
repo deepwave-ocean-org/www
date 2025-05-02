@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{ if .Title }}
+{{ partial "headers/default_parallax" . }}
+{{ end }}
+<div class="not_full_width min-h-screen my-12">
+    {{ .Content }}
+    <div class="masonry-grid w-full">
+        {{ range $index, $page := .Pages }}
+        <div class="masonry-item w-full lg:w-1/2 px-3 mb-6">
+            <article class="border border-gray-900 p-6">
+                <h1 class="text-2xl font-bold mb-4">
+                    {{ $page.Title }}
+                </h1>
+                <div>
+                    {{ .Content }}
+                </div>
+            </article>
+        </div>
+        {{ end }}
+    </div>
+    
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Initialize Masonry with proper options
+      var grid = document.querySelector('.masonry-grid');
+      console.log(grid);
+      var msnry = new Masonry(grid, {
+        itemSelector: '.masonry-item',
+        percentPosition: true,
+        columnWidth: '.masonry-item',
+        gutter: 0,
+        transitionDuration: 0 // Disable animation for faster rendering
+      });
+      
+      // Force layout recalculation after images load
+      var imgLoad = imagesLoaded(grid);
+      imgLoad.on('progress', function() {
+        msnry.layout();
+      });
+    });
+    </script>
+</div>
+{{ end }}
