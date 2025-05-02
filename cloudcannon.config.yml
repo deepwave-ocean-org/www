@@ -111,6 +111,8 @@ collections_config:
     description: ''
     preview:
     sort:
+      key: date
+      order: descending
     sort_options:
     _editables:
     _enabled_editors:
