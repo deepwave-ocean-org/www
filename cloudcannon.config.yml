@@ -112,7 +112,7 @@ collections_config:
     preview:
     sort:
       key: date
-      order: ascending
+      order: desc
     sort_options:
     _editables:
     _enabled_editors:
