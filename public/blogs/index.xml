@@ -6,13 +6,27 @@
     <description>Recent content in Blogs on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Klima</title>
       <link>http://localhost:1313/blogs/klima/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/klima/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politik</title>
+      <link>http://localhost:1313/blogs/politik/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/politik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bluestraw</title>
+      <link>http://localhost:1313/blogs/bluestraw/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/bluestraw/</guid>
       <description></description>
     </item>
     <item>
@@ -23,44 +37,23 @@
       <description></description>
     </item>
     <item>
-      <title>Kultur</title>
-      <link>http://localhost:1313/blogs/kultur/</link>
+      <title>Pplastic-Pollution</title>
+      <link>http://localhost:1313/blogs/pplastic-pollution/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/kultur/</guid>
+      <guid>http://localhost:1313/blogs/pplastic-pollution/</guid>
       <description></description>
     </item>
     <item>
-      <title>Politik</title>
-      <link>http://localhost:1313/blogs/politik/</link>
+      <title>Ueberfischung</title>
+      <link>http://localhost:1313/blogs/ueberfischung/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/politik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reflexionen</title>
-      <link>http://localhost:1313/blogs/reflexionen/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/reflexionen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Überfischung</title>
-      <link>http://localhost:1313/blogs/%C3%BCberfischung/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/%C3%BCberfischung/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Was tun?</title>
-      <link>http://localhost:1313/blogs/was-tun/</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/was-tun/</guid>
+      <guid>http://localhost:1313/blogs/ueberfischung/</guid>
       <description></description>
     </item>
     <item>
       <title>Forschung</title>
       <link>http://localhost:1313/blogs/forschung/</link>
-      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/forschung/</guid>
       <description></description>
     </item>
@@ -72,10 +65,150 @@
       <description></description>
     </item>
     <item>
+      <title>Was tun?</title>
+      <link>http://localhost:1313/blogs/was-tun/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/was-tun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kultur</title>
+      <link>http://localhost:1313/blogs/kultur/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/kultur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflexionen</title>
+      <link>http://localhost:1313/blogs/reflexionen/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/reflexionen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Veranstaltungen</title>
+      <link>http://localhost:1313/blogs/veranstaltungen/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/veranstaltungen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Favoriten</title>
+      <link>http://localhost:1313/blogs/favoriten/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/favoriten/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literatur</title>
+      <link>http://localhost:1313/blogs/literatur/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/literatur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Videos-Und-Audio</title>
+      <link>http://localhost:1313/blogs/videos-und-audio/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/videos-und-audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alternativen-Zu-Einwegplastik</title>
+      <link>http://localhost:1313/blogs/alternativen-zu-einwegplastik/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/alternativen-zu-einwegplastik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musik</title>
+      <link>http://localhost:1313/blogs/musik/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/musik/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Bluestraw-News</title>
       <link>http://localhost:1313/blogs/bluestraw-news/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/bluestraw-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filme</title>
+      <link>http://localhost:1313/blogs/filme/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/filme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kunst</title>
+      <link>http://localhost:1313/blogs/kunst/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/kunst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ehemals-News</title>
+      <link>http://localhost:1313/blogs/ehemals-news/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/ehemals-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presse</title>
+      <link>http://localhost:1313/blogs/presse/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/presse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep-Sea</title>
+      <link>http://localhost:1313/blogs/deep-sea/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/deep-sea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plastic-Pollution</title>
+      <link>http://localhost:1313/blogs/plastic-pollution/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/plastic-pollution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bildung</title>
+      <link>http://localhost:1313/blogs/bildung/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/bildung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forschung-En</title>
+      <link>http://localhost:1313/blogs/forschung-en/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/forschung-en/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/blogs/politics/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auf-Privat-Gestellt</title>
+      <link>http://localhost:1313/blogs/auf-privat-gestellt/</link>
+      <pubDate>Thu, 19 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/auf-privat-gestellt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Überfischung</title>
+      <link>http://localhost:1313/blogs/%C3%BCberfischung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/%C3%BCberfischung/</guid>
       <description></description>
     </item>
   </channel>

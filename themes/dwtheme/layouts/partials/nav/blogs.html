@@ -1,6 +1,13 @@
 <ul class="flex space-x-4 overflow-x-auto py-1">
+  {{ $filteredPages := slice }}
   {{ range .Site.Taxonomies.blogs }}
-    <li>
+    {{ if .Page.Params.order }}
+    {{ $filteredPages = $filteredPages | append .Page }}
+    {{ end }}
+    {{ end }}
+    
+    {{ range sort $filteredPages "Page.Params.order" "asc" }}
+  <li>
       <a href="{{ .Page.RelPermalink }}" class="hover:text-deepwave-light-blue">
         {{ .Page.Title }}
       </a>

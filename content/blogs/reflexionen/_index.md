@@ -5,4 +5,7 @@ subtitle: >-
     gepostet auf @deepwave_ocean_org
 image: https://www.deepwave.org/wp-content/uploads/2019/02/Parallaxe_Veranstaltungen.jpg
 overlay: transparent
+aliases:
+    - /veranstaltungen/
+order: 3
 ---

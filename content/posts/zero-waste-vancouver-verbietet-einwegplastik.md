@@ -1,7 +1,7 @@
 ---
 title: "Zero-Waste: Vancouver verbietet Einwegplastik"
 date: 2018-05-18
-blogs:
+blogs: 
   - "bluestraw-news"
   - "good-news"
   - "politik"
@@ -10,9 +10,10 @@ tags:
   - "plastik"
   - "politik"
   - "zero-waste"
+image: "https://www.deepwave.org/wp-content/uploads/2018/05/vancouver-2613994_1920.jpg"
+image_caption: "© 12019 / Pixabay  © <a href='https://centerforilpolitics.org/most-controversial-games-canada/'>Games from Canada</a>"
+author: "DEEPWAVE"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2018/05/vancouver-2613994_1920.jpg" link="https://www.deepwave.org/wp-content/uploads/2018/05/vancouver-2613994_1920.jpg" alt="Skyline Vancouvers vom Wasser mit rosanen Wolken hinter den Gebäuden" caption="© 12019 / Pixabay  © <a href='https://centerforilpolitics.org/most-controversial-games-canada/'>Games from Canada</a>" >}}
 
 Vancouver ist die erste Stadt in Kanada, die ab Juni 2019 Plastikhalme, Styroporbecher und To-Go Behälter verbietet. Das ist ein großer Schritt für die Stadt in Richtung ihrer "Zero-Waste" Strategie, die sie bis 2040 erreichen möchte. Und das Problem ist sehr groß: Jede Woche landen allein 4,6 Millionen Plastikbecher und -tüten im Müll, wovon Einwegverpackungen etwa 50 Prozent des gesamten Mülls ausmachen. Die finanzielle Folge ist, dass der Staat jedes Jahr etwa 2,5 Millionen Dollar Steuergelder dafür ausgibt, die Umwelt sauber zu halten.
 

@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ if .Title }}
+    {{ partial "headers/default_parallax" . }}
+{{ end }}
+<div class="not_full_width min-h-screen my-12">
+    {{ .Content }}
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {{ $filteredPages := slice }}
+        {{ range .Site.Taxonomies.blogs }}
+            {{ if .Page.Params.order }}
+            {{ $filteredPages = $filteredPages | append .Page }}
+            {{ end }}
+        {{ end }}
+    
+        {{ range sort $filteredPages "Page.Params.order" "asc" }}
+            {{ partial "card" .}}
+        {{ end }}
+        </div>
+    </div>
+{{ end }}

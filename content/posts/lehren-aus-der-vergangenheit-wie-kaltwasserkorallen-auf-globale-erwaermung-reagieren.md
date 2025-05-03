@@ -1,0 +1,27 @@
+---
+title: "Leh­ren aus der Ver­gan­gen­heit: Wie Kalt­was­ser­ko­ral­len auf glo­ba­le Er­wär­mung re­agie­ren"
+date: 2022-06-10
+blogs: 
+  - "forschung"
+  - "klima"
+image: "https://www.deepwave.org/wp-content/uploads/2022/06/Lophelia_pertusa_NOAA_Kaltwasserkorallen.jpg"
+image_caption: "© NOAA / Wikimedia Commons (CC BY-SA 2.0)"
+source: "Pressemitteilung, 07. Juni 2022, MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten, Uni­ver­si­tät Bre­men"
+author: "Amalia Klein"
+related: 
+  - "/gigantisches-submarines-kaltwasserkorallen-gebirge/"
+---
+
+Ko­ral­len re­agie­ren auf Ver­än­de­run­gen ih­rer Um­ge­bung – das gilt so­wohl für tro­pi­sche wie für Kalt­was­ser­ko­ral­len und schließt zum Bei­spiel Ände­run­gen von Tem­pe­ra­tur, Salz­ge­halt und pH-Wert ih­rer Um­ge­bung ein. Jetzt ha­ben For­schen­de des MARUM un­ter der Lei­tung von Dr. Ro­d­ri­go da Cos­ta Por­til­ho-Ra­mos in ei­ner Stu­die un­ter­sucht, wie sich wär­me­re Tem­pe­ra­tu­ren im Zuge der Kli­ma­er­wär­mung auf Kalt­was­ser­ko­ral­len aus­wir­ken. Da­für ha­ben sie ge­nau­er be­trach­tet, wie Ko­ral­len in den ver­gan­ge­nen 20.000 Jah­ren auf Um­welt­ver­än­de­run­gen re­agiert ha­ben. Die Stu­die ist jetzt in der Fach­zeit­schrift _PLOS Biology_ er­schie­nen.
+
+Kalt­was­ser­ko­ral­len und hier ins­be­son­de­re die Art _Lophelia pertusa_ sind Ar­chi­tek­ten kom­ple­xer Riff­struk­tu­ren. Sie bil­den die Grund­la­ge für wich­ti­ge Le­bens­räu­me von Tief­see­or­ga­nis­men, die in die­sen Struk­tu­ren Schutz, aber auch Nah­rung fin­den. Al­ler­dings re­agie­ren Ko­ral­len­rif­fe auch sen­si­bel auf sich än­dern­de Le­bens­be­din­gun­gen. Dazu ge­hö­ren etwa die Er­wär­mung der Ozea­ne, die Ver­saue­rung, der ab­neh­men­de Sau­er­stoff­ge­halt und auch der va­ri­ie­ren­de Nähr­stoff­zu­fluss. Ändert sich ei­ner die­ser Pa­ra­me­ter, zum Bei­spiel durch den glo­ba­len Kli­ma­wan­del, kann sich das auf die Ge­sund­heit des ge­sam­ten Ko­ral­len­riffs aus­wir­ken. Zu ver­ste­hen, wie ge­nau die­se Öko­sys­te­me auf Um­welt­ver­än­de­run­gen re­agie­ren, ist da­her laut der ak­tu­el­len Stu­die wich­tig, um sie künf­tig bes­ser schüt­zen zu kön­nen.
+
+Um die kri­tischs­ten Pa­ra­me­ter iden­ti­fi­zie­ren zu kön­nen, die das Aus­ster­ben und Wie­der­an­sie­deln von Kalt­was­ser­ko­ral­len aus­lö­sen kön­nen, ha­ben Er­st­au­tor Ro­d­ri­go da Cos­ta Por­til­ho-Ra­mos vom MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten der Uni­ver­si­tät Bre­men und sei­ne Kol­leg:in­nen Se­di­men­te von sechs Kalt­was­ser­ko­ral­len-Stand­or­ten im Nord­at­lan­tik und im Mit­tel­meer un­ter­sucht. In sol­chen Se­di­men­ten sind ver­gan­ge­ne Um­welt­be­din­gun­gen ge­spei­chert. Sie er­mög­li­chen es For­schen­den her­aus­zu­fin­den, wann und war­um sich Kalt­was­ser­ko­ral­len ver­mehrt ha­ben und wann nicht. Die Er­geb­nis­se, be­ton­ten die Au­tor:in­nen, wür­den auch zei­gen, wie die Ko­ral­len auf künf­ti­ge kli­ma­ti­sche Ver­än­de­run­gen re­agie­ren könn­ten. Die Stu­die ana­ly­siert Ver­än­de­run­gen der wich­tigs­ten Um­welt­fak­to­ren über die ver­gan­ge­nen 20.000 Jah­re, den Zeit­raum der letz­ten gro­ßen glo­ba­len Er­wär­mung nach der letz­ten Eis­zeit, und ver­gleicht die­se mit dem Auf­tre­ten von Kalt­was­ser­ko­ral­len.
+
+"Wir ha­ben in die Ver­gan­gen­heit ge­blickt, um zu ver­ste­hen, wie _Lophelia pertusa_ auf Um­welt­ver­än­de­run­gen re­agiert hat", fasst Por­til­ho-Ra­mos zu­sam­men. Die Ko­ral­len ver­schwan­den oder kehr­ten in eine Re­gi­on meis­tens dann zu­rück, wenn sich das Nah­rungs­an­ge­bot für die Ko­ral­len oder der Sau­er­stoff­ge­halt des Was­sers ver­än­dert hat. Kalt­was­ser­ko­ral­len er­näh­ren sich von mi­kro­sko­pisch klei­nem Plank­ton und Par­ti­keln, die mit der Mee­res­strö­mung trans­por­tiert wer­den. We­nig Ein­fluss auf das Ab­ster­ben und die Ver­meh­rung von Kalt­was­ser­ko­ral­len hat­ten die Tem­pe­ra­tur und der Salz­ge­halt des Was­sers. "Dar­um ge­hen wir da­von aus, dass vor al­lem Nah­rungs­zu­fuhr und die Ver­füg­bar­keit von Sau­er­stoff die ent­schei­den­den Fak­to­ren sein wer­den, wenn es um Le­ben und Tod von Kalt­was­ser­ko­ral­len geht", be­tont Por­til­ho-Ra­mos. Un­klar ist, wie sich die Oze­an­ver­saue­rung lang­fris­tig aus­wirkt, da es dazu kei­ne pa­läo­zea­no­gra­phi­schen Da­ten gibt.
+
+Als Öko­sys­tem-In­ge­nieu­re tra­gen die Kalt­was­ser­ko­ral­len maß­geb­lich zur Ent­ste­hung von Bio­di­ver­si­täts-Hot­spots in der Tief­see bei. Mit ih­rem Ein­fluss auf Nah­rungs­net­ze und Nähr­stoff­kreis­läu­fe, mit ih­rer Rol­le als Fisch-Kin­der­gär­ten und mit ei­ner be­ein­dru­cken­den Bio­di­ver­si­tät lie­fern Kalt­was­ser­ko­ral­len-Rif­fe wich­ti­ge Öko­sys­tem-Leis­tun­gen. Um die­se auch in Zei­ten des Kli­ma­wan­dels in der Zu­kunft er­hal­ten zu kön­nen, bil­den die Er­geb­nis­se die­ser Stu­die eine wich­ti­ge Grund­la­ge, um wis­sens­ba­sier­te Ma­nage­ment­stra­te­gi­en für sol­che Tief­see-Öko­sys­te­me zu ent­wi­ckeln. Da­mit trägt sie auch maß­geb­lich zu den Zie­len des Bre­mer Ex­zel­len­clus­ters bei, dass sich der Er­for­schung des Oze­an­bo­dens wid­met.
+
+[Diese Pressemitteilung](https://www.marum.de/Entdecken/KWK-Erwaermung.html) findet ihr beim [MARUM](https://www.marum.de/index.html).
+
+Weitere Informationen zu [Kaltwasserkorallenriffen](https://www.deepwave.org/gigantisches-submarines-kaltwasserkorallen-gebirge/) und die Auswirkungen der Klimakrise, findet ihr in unserem [Forschungs-](https://www.deepwave.org/blogs/forschung/) und [Klimablog](https://www.deepwave.org/blogs/klima/).

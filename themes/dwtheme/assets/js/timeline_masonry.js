@@ -1,5 +1,5 @@
-
-document.addEventListener('DOMContentLoaded', function () {
+init_masonry = function () {
+    console.log('init_masonry');
     var grid = document.querySelector('.masonry-grid');
     var msnry = new Masonry(grid, {
         itemSelector: '.masonry-item',
@@ -8,6 +8,8 @@ document.addEventListener('DOMContentLoaded', function () {
         gutter: 24
     });
     function positionDots() {
+        document.getElementById('center_line').style.opacity = '1';
+
         const items = document.querySelectorAll('.masonry-item');
         const centerX = grid.offsetWidth / 2;
 
@@ -18,7 +20,6 @@ document.addEventListener('DOMContentLoaded', function () {
             // Determine if item is on left or right side of center
             const itemCenterX = rect.left + rect.width / 2;
             const isOnLeft = itemCenterX < centerX;
-            console.log('Item center X:', itemCenterX, 'Center X:', centerX, 'Is on left:', isOnLeft);
             if (isOnLeft) {
                 // Item is on left, dot goes on right
                 dot.style.right = 'calc(-2.5 * 4px - 2%)';
@@ -34,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         });
     }
-    document.positionDots = positionDots;
     positionDots();
     // Wait for images to load
     imagesLoaded(grid).on('always', function() {
@@ -43,9 +43,9 @@ document.addEventListener('DOMContentLoaded', function () {
     });
     
     // Reposition dots on window resize
-    // window.addEventListener('resize', function() {
-    //     setTimeout(positionDots, 100);
-    // });
+    window.addEventListener('resize', function () {
+        setTimeout(positionDots, 500);
+    });
 
 
     // Set up Intersection Observer for animations
@@ -77,4 +77,12 @@ document.addEventListener('DOMContentLoaded', function () {
     cards.forEach(card => {
         observer.observe(card);
     });
-});
+}
+document.addEventListener('DOMContentLoaded', function () {
+    init_masonry();
+}
+);
+if (document.readyState === 'complete' || document.readyState === 'interactive') {
+    // DOM already loaded (hx-boost case), run immediately
+    setTimeout(init_masonry, 0);
+}

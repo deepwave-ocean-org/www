@@ -1,0 +1,20 @@
+---
+title: "Gemeinnützigkeit für eine kritische Zivilgesellschaft schützen"
+date: 2020-07-30
+blogs: 
+  - "politik"
+  - "was-tun"
+image: "https://www.deepwave.org/wp-content/uploads/2020/06/Alarmstufe_Rot_Demonstration_Schild-scaled.jpg"
+image_caption: "© Markus Spiske on Unsplash"
+author: "Lea Teichmann"
+---
+
+Im Oktober letzten Jahres verloren die globalisierungskritische Organisation [Attac](https://www.attac.de/) und das Netzwerk [Campact](https://www.campact.de/) den Status der Gemeinnützigkeit. Nach einer Rechtsauslegung des Bundesfinanzhofes (BFH) sei bei ihren Vorgehen die „geistige Offenheit“ wegen Einmischungen in politische Debatten nicht gegeben. Nun klärt das Hessische Finanzgericht, welche Verantwortlichkeiten beim Attac-Trägerverein liegen. Auf dieses Urteil wartet die Organisation aktuell und will im Nachgang weitere rechtliche Schritte prüfen und ggf. Verfassungsbeschwerde beim Bundesverfassungsgericht in Karlsruhe einlegen. Aufgrund der aktuellen Rechtslage und des BFH-Urteils sind rechtliche Schritte nach Auffassung der Rechtsanwälte von Campact allerdings nicht erfolgversprechend. Deswegen fordert Campact eine Änderung der gesetzlichen Grundlagen der Gemeinnützigkeit. Demnach soll Bundesfinanzminister Olaf Scholz (SPD) einen Vorschlag zur Modernisierung der Abgabenordnung vorlegen, damit gemeinnützige Organisationen sich an der politischen Debatte beteiligen können, ohne dadurch steuerliche Nachteile befürchten zu müssen.
+
+Der Verlust der Gemeinnützigkeit bei Attac und Campact hat auch bei uns von DEEPWAVE für Diskussionen und Aufregung gesorgt. Felix Kolb von Campact bringt unsere Befürchtungen, „dass viele Vereine \[…\] sich überlegen werden: Äußere ich mich selbst nur gelegentlich zu [politischen Themen](https://www.deepwave.org/blogs/politik/), die nicht in meiner Satzung stehen und riskiere da vielleicht meine Gemeinnützigkeit“ auf den Punkt. Das Urteil kann nämlich zum Anlass werden, Akteure der Zivilgesellschaft verstummen zu lassen. Das betrifft auch uns. Wir sind zwar nach der Abgabenordnung zweifelsfrei gemeinnützig, da wir uns für Umwelt- und Tierschutz engagieren, aber wir können diese Ziele nicht mit aufgesetzten Scheuklappen verfolgen. Wir sehen uns als Teil einer kritischen Zivilgesellschaft und für unsere Demokratie mitverantwortlich. Klima-, Umwelt- und Tierschutz sind untrennbar mit dem Einstehen für eine offene, tolerante und demokratische Gesellschaft verbunden. „Letztlich geht es um parteipolitische Neutralität. Und da sollte dann auch die Grenze gezogen werden, weil, geistig offen kann nicht eine Grundhaltung sein. Geistig offen kann nur der Prozess der Meinungsbildung sein. Aber die eigentliche Meinung selbst kann per definitionem nicht mehr geistig offen sein.“, bekräftigt die Steuerrechtprofessorin Anna Leisner-Egensperger.
+
+Um zu verhindern, dass Vereine nicht den Status der Gemeinnützigkeit verlieren, nur weil sie sich gegen Rassismus äußern, hat sich die Allianz „[Rechtssicherheit für politische Willensbildung e.V.](https://www.zivilgesellschaft-ist-gemeinnuetzig.de/die-allianz/)“ gebildet. Mehr als 170 politisch engagierte Vereine und Stiftungen haben sich zusammengeschlossen, um zum Beispiel die Förderung sozialer Gerechtigkeit oder Menschenrechte zu erweitern und Forderungen wie die von Campact zur Modernisierung der Abgabenordnung zu unterstützen.
+
+Campact hat außerdem eine entsprechende Petition aufgesetzt, welche bereits gut 300.000 Unterschriften sammeln konnte. Da auch die Gemeinnützigkeit von openPetition bedroht ist, verweisen wir ebenfalls auf deren Petition.
+
+**DEEPWAVE ruft ausdrücklich dazu auf, die Petitionen von [Campact](https://aktion.campact.de/gemeinnuetzigkeit/appell/teilnehmen?pk_vid=aefa7e6db4cda4461592213935d87ea7) und [openPetition](https://www.openpetition.de/petition/online/zivilgesellschaft-nuetzt-der-gemeinschaft-politische-beteiligung-ist-gemeinnuetzig) für den Schutz der Gemeinnützigkeit für eine kritische Zivilgesellschaft zu unterzeichnen, um diesen unabdingbaren Beitrag zur demokratischen Debatte zu schützen.**

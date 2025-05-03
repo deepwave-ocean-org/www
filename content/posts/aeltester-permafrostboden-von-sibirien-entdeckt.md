@@ -1,0 +1,37 @@
+---
+title: "Ältester Permafrostboden von Sibirien entdeckt"
+date: 2021-06-16
+blogs: 
+  - "forschung"
+  - "klima"
+image: "https://www.deepwave.org/wp-content/uploads/2021/08/1024px-Permafrost_in_Herschel_Island_011.jpg"
+image_caption: "© Boris Radosavljevic / Wikimedia Commons (CC BY 2.0)"
+source: "Pressemitteilung, 15.06.2021, Alfred-Wegener-Institut"
+author: "DEEPWAVE"
+related: 
+  - "/klimafoscher-warnen-vor-planetarem-notfallzustand/"
+---
+
+Ein internationales Team von Fachleuten hat bei der Altersbestimmung einer Permafrostschicht in Sibirien einen neuen Rekord aufgestellt: Sage und schreibe mindestens 650.000 Jahre ist der Boden an der tiefsten Stelle alt. Die jetzt im Magazin _Quaternary Research_ veröffentlichten Forschungsergebnisse zeigen aber auch, wie empfindlich der Boden auf Störungen reagiert – und wie schnell er zerstört werden kann.
+
+Ein internationales Forschungsteam hat das Alter des bislang ältesten, bekannten Permafrostbodens in Sibirien bestimmt. Der Boden in 50 Metern Tiefe in der Nähe der ostsibirischen Gemeinde Batagai ist seit rund 650.000 Jahren gefroren – ein Rekord. „Das bedeutet, dass diese Permafrostschicht bereits mehrere Kalt- und Warmzeiten überdauert hat“, sagt der Geograph Dr. Thomas Opel vom Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar und Meeresforschung (AWI) in Potsdam. Diese Erkenntnis ist von Bedeutung, weil sie zeigt, dass Permafrostböden selbst in wärmeren Zeiten nicht gänzlich abtauen müssen. So hat der Permafrostboden von Batagai offensichtlich auch besonders warme Phasen vor rund 130.000 Jahren überstanden, als es in der Arktis im Sommer rund vier bis fünf Grad Celsius wärmer war als heute. Beim Permafrost handelt es sich um Böden und Gesteine, die permanent gefroren sind, teilweise bis zu mehrere Hundert Meter tief. Sie kommen vor allem in Nordamerika und Sibirien aber auch in Hochgebirgen vor und konservieren wie eine gigantische Gefriertruhe riesige Mengen abgestorbener Biomasse, vor allem Pflanzenreste aber auch Überreste von Vertretern der Tierwelt der letzten Eiszeit wie Mammut oder Wollnashorn. Taut der Permafrost auf, werden Bakterien aktiv, die die uralte Biomasse abbauen und durch ihren Stoffwechsel die Klimagase Kohlendioxid und Methan freisetzen; je stärker das Tauen, desto stärker der Gasausstoß. Im Hinblick auf den heutigen Klimawandel befürchten Fachleute, dass sich dadurch der Treibhauseffekt noch verstärkt.
+
+**Unter günstigen Bedingungen haltbarer als gedacht**
+
+Insofern sind die aktuellen Ergebnisse, die das Forschungsteam jetzt im Magazin Quaternary Research veröffentlicht haben, von großer Relevanz. Sie zeigen, dass sehr alter, tief begrabener Permafrost bei tiefen Temperaturen im Boden natürliche Wärmeperioden überdauern kann, während der Permafrost anderenorts und vor allem von der Oberfläche her durch Erwärmung massiv abtaut. Andererseits zeigt die Situation bei Batagai aber auch, wie empfindlich der Permafrostboden auf Störungen durch den Menschen reagiert. Der 650.000 Jahre alte Permafrostboden liegt an einem Berghang eigentlich in rund 50 Meter Tiefe, wo permanent eine Temperatur von etwa minus 10 Grad Celsius herrscht. Ein Teil des Hangs aber war zwischen den 1940er und 1960er Jahren teilweise entwaldet und außerdem mit schweren Kettenfahrzeugen einer nahe gelegen Mine befahren worden. Dadurch ging die schützende und isolierende Pflanzendecke verloren. In der Folge taute der jüngere Permafrost an der Oberfläche im Sommer auf, bis der Boden schließlich ins Rutschen geriet und den alten Permafrost freilegte. Seit Jahren trägt das Schmelzwasser das aufgetaute Material hangabwärts, sodass ein großer Krater entstanden ist. Inzwischen ist die Abbruchkante bis zu 50 Meter tief. Zudem erodiert der Hang weiter um bis zu 30 Meter pro Jahr.
+
+**Kombination verschiedener Analysemethoden**
+
+Das internationale Team aus deutschen, russischen und englischen Forscherinnen und Forschern hat unter Leitung von Prof. Julian Murton von der University of Sussex den Permafrostboden vom oberen Ende der Abbruchkante bis zu ihrem Fuß mit verschiedenen Methoden untersucht, um das Alter des Permafrostes in den verschiedenen Tiefen genau zu bestimmen. Durch Bestrahlung mit Licht wurde beispielsweise gemessen, wann die in den Sandkörnern enthaltenen Quarz- und Feldspatkristalle in den verschiedenen Tiefen von nachfolgenden Schichten überlagert wurden und zum letzten Mal dem Sonnenlicht ausgesetzt waren. Die Forschenden vom Helmholtz-Zentrum Dresden-Rossendorf bestimmten dahingegen in den Eisproben die Konzentration von radioaktivem und stabilem Chlor mittels der hochsensitiven Beschleunigermassenspektrometrie. Dadurch ließ sich direkt das Alter des Eises selbst bestimmen, welches sich in Form langer Keile im Laufe von Jahrtausenden im Permafrost gebildet hat.
+
+Des Weiteren wurden Isotope bestimmter chemischer Elemente gemessen. Mit Isotopen bezeichnet man Atome, die unterschiedlich viele Neutronen besitzen und damit unterschiedlich schwer sind. Vom Sauerstoff etwa gibt es in der Natur drei Isotope: 16O, 17O und 18O, von denen das Team um Thomas Opel zwei für die Analysen nutzte. 18O hat zwei Neutronen mehr als 16O und ist somit schwerer. Im Laufe von Warm- und Kaltzeiten ändert sich die Konzentration der 16O- und 18O-Isotope im Eis der Gletscher und Permafrostböden, woraus man auf die vorherrschenden Klimabedingungen und damit indirekt auf das Alter der verschiedenen Permafrostschichten und des enthaltenen Eises schließen kann.
+
+„Die Datierungsergebnisse von Batagai zeigen eindrucksvoll, wie stabil ein Permafrostboden sein kann und so Jahrhunderttausende überdauert“, sagt Thomas Opel. „Aber auch, wie empfindlich er gegenüber Störungen ist.“ Der Schaden sei irreparabel, weil der offen liegende Permafrostboden in jedem Sommer weiter abtaue. In den vergangenen 50 Jahren hat sich die Hangrutschung bereits auf eine Breite von rund 900 Metern ausgedehnt.
+
+**Kürzlich gestartetes Kooperationsprojekt**
+
+Das Potential des alten Permafrosts von Batagai für die Rekonstruktion von Klima- und Umweltbedingungen vergangener Zeiten ist Gegenstand eines gemeinsamen Forschungsprojekts vom AWI in Potsdam und der Northumbria University aus England, das kürzlich gestartet ist. In diesem vom britischen Leverhulme Trust geförderten Projekt soll untersucht werden, unter welchen Klimabedingungen in der geologischen Vergangenheit sich der sibirische Permafrost gebildet hat, stabil war oder degradiert ist. Diese Erkenntnisse sind wichtig für Vorhersagen über die zukünftige Entwicklung des Permafrosts im Zuge der voranschreitenden Klimaerwärmung. Sowohl die bisherigen als auch die zukünftigen Arbeiten des AWI in Potsdam zu Batagai beruhen insbesondere auf der langjährigen Zusammenarbeit mit dem Melnikov Permafrost Institut und der Nordöstlichen Föderalen Universität in Jakutsk.
+
+[Diese Pressemitteilung](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/aeltester-permafrostboden-von-sibirien-entdeckt.html) findet ihr beim [Alfred-Wegener-Institut.](https://www.awi.de/)
+
+Das Schmelzen der Permafrostböden aufgrund der Klimakrise gehört, wie das Schmelzen der Eisschilde, zu den sogenannten [Kipppunkten](https://www.deepwave.org/klimafoscher-warnen-vor-planetarem-notfallzustand/). Mehr darüber könnt ihr in unserem [Forschungs](https://www.deepwave.org/blogs/forschung/)\- und [Klimablog](https://www.deepwave.org/blogs/klima/) nachlesen.

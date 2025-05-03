@@ -6,14 +6,19 @@
 <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
 {{ $timelineJS := resources.Get "js/timeline_masonry.js" | resources.Minify | resources.Fingerprint }}
 <script src="{{ $timelineJS.RelPermalink }}"></script>
-
+<script>
+    htmx.onLoad(function () {
+        console.log("htmx loaded");
+        console.log(window.init_masonry);
+        window.init_masonry()
+    })
+</script>
 <div class="not_full_width min-h-screen my-12">
     {{ .Content }}
     
     <div class="masonry-grid w-full">
-        <div class="hidden lg:block absolute left-1/2 top-0 bottom-0 w-[1px] bg-deepwave-blue"
+        <div id="center_line" class="hidden opacity-0 lg:block absolute left-1/2 top-0 bottom-0 w-[1px] bg-deepwave-blue"
             style="transform: translateX(-50%);">
-            <!-- This creates the vertical line -->
         </div>
         {{ range $index, $page := .Pages }}
         <article class="masonry-item w-full lg:w-[49%] px-6 mb-6">

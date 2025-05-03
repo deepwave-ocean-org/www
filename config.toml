@@ -5,6 +5,8 @@ theme = "dwtheme"
 
 [taxonomies]
   category = "blogs"
+[permalinks]
+  posts = "/:filename/"
 
 [build]
   [build.buildStats]
