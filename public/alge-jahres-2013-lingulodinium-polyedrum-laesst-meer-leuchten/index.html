@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2013/01/animal-5383375_1920.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © MierCatPhotography / Pixabay
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">DBG: Lingulodinium polyedrum lässt das Meer leuchten</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jan 02, 2013</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 02. Januar 2013, Sektion Phykologie der Deutschen Botanischen Gesellschaft</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Algenforscher haben den Einzeller Lingulodinium polyedrum zur Alge des Jahres gewählt. Der mit einem Panzer und zwei Geißeln ausgestattete Dinoflagellat fasziniert nicht nur die Forschenden sondern auch Skipper und Strandgänger, weil er sich unter bestimmten Bedingungen massenhaft vermehren und nachts das Meer blau leuchten lassen kann. Die Wissenschaftler, die den Dinoflagellaten auswählten und in der Sektion Phykologie der Deutschen Botanischen Gesellschaft organisiert sind, wollen damit eine Algenart würdigen, deren Leuchtfähigkeit fasziniert, einen ausgeprägten Tag-Nacht-Rhythmus hat und als Sensor genutzt wird, wie PD Dr. Mona Hoppenrath vom Deutschen Zentrum für marine Biodiversitätsforschung DZMB bei Senckenberg am Meer in Wilhelmshaven ausführt.</p>
+<p><strong>Schwimmt im Phytoplankton</strong></p>
+<p><em>Lingulodinium polyedrum</em> gewinnt seine Energie wie Pflanzen durch Photosynthese und lebt deshalb in den lichtdurchfluteten oberen Schichten temperierter und warmer Meere. Wie alle Dinoflagellaten hat <em>Lingulodinium</em> zwei Geißeln, mit denen er sich im Wasser fortbewegt. Eine der beiden Geißeln treibt ihn mit Wellenbewegungen an, sodass sein Körper rotiert. So kam die Art zu ihrem Namen, da „dineo“ sich drehen oder wirbeln bedeutet. Nachts wandern Dinoflagellaten um sich rotierend mehrere Meter in die Tiefe, wo sie Nährstoffe aufnehmen, wie etwa Nitrat. Sind genügend Nährstoffe vorhanden, und hat das Meer eine für sie optimale Temperatur, kann sich der Flagellat massenhaft vermehren. Wie viele Dinoflagellaten ist <em>Lingulodinium</em> außen von einer Hülle aus stabilen Platten geschützt, weshalb diese Lebewesen im deutschen Sprachraum oft als „Panzergeißler“ bezeichnet werden. In unseren Breiten machen Dinoflagellaten gemeinsam mit Kieselalgen den Hauptteil des pflanzlichen Planktons aus. Unter für sie günstigen Bedingungen können sich Dinoflagellaten massenhaft vermehren und dann das Meer rötlich, orange oder braun färben, je nach den in ihnen enthaltenen Farbstoffen.</p>
+<p><strong>Wie der Dinoflagellat das Meer färbt</strong></p>
+<p><em>Lingulodinium polyedrum</em> ist einer der wenigen Dinoflagellaten, die mit einer biochemischen Reaktion in ihrem Inneren blaues Licht erzeugen können. Dieses Biolumineszenz genannte Phänomen bewerkstelligt der Einzeller in winzigen, abgeschlossenen, organartigen Abteilen in seinen Zellen, den sogenannten Szintillonen, die das dazu notwendige Enzym und ein Binde-Eiweiß für das Substrat enthalten. Lingulodinium erzeugt blaue Lichtblitze, wenn Scherbewegungen an ihm rütteln oder die Zellen aufgebrochen werden und glimmt, besonders gegen Ende der Nacht. Werden mehrere Millionen Zellen gleichzeitig geschüttelt, etwa durch Boote oder sich brechende Wellen, verschwimmen Lichtblitze und Glimmen der einzelnen Zellen zu einem Leuchten. Das ist besonders gut an manchen Küsten während der Nacht zu beobachten. In unserer Region tritt das Phänomen im Sommer vor der Küste Helgolands auf, wo es allerdings von dem Dinoflagellaten Noctiluca erzeugt wird. An nordeuropäischen Küsten ist aufgrund des kühlen Klimas dagegen kaum mit einer Massenvermehrung von Lingulodinium zu rechnen.</p>
+<p><strong>Leuchten zur Feindabwehr?</strong></p>
+<p>Noch ist nicht endgültig geklärt, warum <em>Lingulodinium polyedrum</em> nachts überhaupt leuchtet. Einer bislang nicht widerlegten Hypothese zufolge locken die Dinoflagellaten damit Raubtiere an, die die sie selbst bedrohenden Feinde auffressen. „Versuche zeigten, dass Fische, die Räuber von Dinoflagellaten beispielsweise  kleine Krebse fressen, in der Nacht effektiver jagen, wenn die Dinoflagellaten leuchten. Dies wird als „<em>burglar alarm</em>“ Hypothese, also als eine Art Alarmanlagenfunktion diskutiert“ erklärt Hoppenrath, die bereits 21 neue Arten der weltweit etwa 2000-2500 vorkommenden Arten von Dinoflagellaten erstmals beschrieben und mit einem Namen versehen hat. „Es ist wichtig, die einzelnen Arten zu benennen und wissenschaftlich exakt zu beschreiben, weil das die Grundlage für viele wissenschaftliche wie angewandte Disziplinen ist. Das ist wichtig für Ökosystem- oder Biodiversitätsforscher, für Evolutionsbiologen und für Menschen im Fischereiwesen“, fasst die auf die Klassifikation (Taxonomie) von Dinoflagellaten spezialisierte Biologin ihre Arbeit zusammen.</p>
+<p><strong>Mehr interdisziplinäre Forschung ist notwendig</strong></p>
+<p>Lingulodinium polyedrum wird mit Substanzen in Verbindung gebracht, die auch von anderen Panzergeißlern bekannt sind. Vermutlich ist er in der Lage, die als Yessotoxin und Saxitoxin bezeichneten Stoffe herzustellen, die in der Lebensmittelsicherheit eine Rolle spielen. Für den Menschen werden sie dann bedenklich, wenn sie in der Nahrungskette angereichert werden. Damit Menschen keine zu großen Mengen davon aufnehmen, weil sie Schalentiere wie Muscheln oder Krebse essen, die das Meerwasser filtrieren und diese Substanzen daher im Laufe ihres Lebens anreichern, hat die Europäische Behörde für Lebensmittelsicherheit (EFSA) 2009 Grenzwerte für den Verzehr von Schalentierfleisch festgelegt. In welchen Mengen Lingulodinium polyedrum die beiden Stoffe produziert, ist aber bislang nicht exakt bestimmt. Da aber nie ganz auszuschließen ist, ob sich nicht auch andere, bedenklichere Organismen in den leuchtenden Wellen befinden, sollte Vorsicht beim Baden walten. Denn andere Arten von Dinoflagellaten können durchaus relevante Mengen Toxine produzieren, die dem Menschen auch ohne Verzehr gefährlich werden können. Daher sei es so wichtig, Dinoflagellaten genau zu klassifizieren, betont Hoppenrath. Zur weiteren Forschung sollten nicht nur Toxikologen oder Ernährungsforscher, sondern auch auf die Verwandtschaftsverhältnisse (Taxonomie) spezialisierte Biologen beitragen.</p>
+<p><strong>Lingulodinium hat ein Nachtleben</strong></p>
+<p>Für <em>Lingulodinium polyedrum</em> interessieren sich auch andere Forscher, weil er einem ausgeprägten Tag-Nacht-Rhythmus folgt. Das Meeresleuchten entsteht hauptsächlich nachts. „In der Nacht gibt es eine viel größere Anzahl von Szintillonen als am Tag. Diese enthalten die nachts auch vermehrt vorkommenden Eiweiße, die an der biolumineszenten Reaktion beteiligt sind, “, führt Professorin Dr. Maria Mittag aus, die den Regulatiosmechanismus eines dieser Eiweiße des Tag-Nacht-Rhythmus an <em>Lingulodinium polyedrum</em> erforschte, als dieser noch den wissenschaftlichen Namen <em>Gonyaulax polyedra</em> trug. Auch die Wanderung von den oberen Meeresschichten in die Tiefe werde bei <em>Lingulodinium polyedrum</em> von seiner inneren Uhr gesteuert. „Interessanterweise ist die Periode des Biolumineszenz-Rhythmus bei <em>Lingulodinium</em> aber etwas kleiner als 24 Stunden, im Gegensatz zum Menschen, bei dem der Schlaf-Wach-Rhythmus - ohne die tägliche Justierung durch den Wechsel von Sonne und Nacht - bei etwa 25 Stunden liegt“, erklärt Professorin Mittag.</p>
+<p><em>Lingulodinium polyedrum</em> fasziniert Biologen, weil er noch einige genetische Geheimnisse birgt. Bislang weiß niemand genau, warum dieser winzige Organismus viel mehr Erbsubstanz enthält, als der sehr viel größere Mensch oder warum die Gene für manche Eiweiße in tausenden von Kopien vorkommen, wie etwa die des genannten Bindeproteins oder das des Farbstoffes Peridinin, der ihm seine orange-braune Farbe verleiht. Die vielen Kopien erschweren es auch, ihn wissenschaftlich zu untersuchen, um etwa molekularbiologische Prozesse zu enträtseln.</p>
+<p><strong>Nutzung als Sensor</strong></p>
+<p>Wegen seiner Leuchtfähigkeit kann der Panzergeißler Lingulodinium polyedrum auch zum Messen von Giften und / oder neuen Wirkstoffen genutzt werden. Beispielsweise kann bei toxischen Substanzen der Zeitpunkt bestimmt werden, ab wann die meisten <em>Lingulodinium</em>-Zellen absterben und zerfallen, was am stärkeren Aufleuchten zu erkennen ist. Zum anderen können <em>Lingulodinium</em>-Zellen als Sensor für Versuche über Zellstress dienen, der sich ebenfalls über die Biolumineszenz messen lässt. „Als Testsystem eignet sich <em>Lingulodinium</em> besonders gut, weil er sich recht gut kultivieren lässt, weil schon einiges über ihn bekannt ist und die Biolumineszenz automatisiert zu messen ist“, erklärt Hoppenrath. „Außerdem kann mit diesem Einzeller die Zahl von Tierversuchen, mit denen sonst solche Erkenntnisse gewonnen werden, vermindert werden“.</p>
+<p>Diese <a href="https://www.dbg-phykologie.de/?tx_wwpreset%5Barticle%5D=5712&amp;back=475">Pressemitteilung</a> findet ihr bei der <a href="https://www.dbg-phykologie.de/">Sektion Phykologie der Deutschen Botanischen Gesellschaft</a>.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/forscherinnen-finden-leben-in-der-ozeanischen-kruste/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2013/03/Erdkruste.jpg" alt="Forscher:innen finden Leben in der ozeanischen Kruste" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Forscher:innen finden Leben in der ozeanischen Kruste</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Forscher:innen haben tief in der ozeanischen Kruste Mikroorganismen nachgewiesen, nachdem sie in Proben, die eine...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/20-000-pinguine-durch-oelpest-im-atlantik-bedroht/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2011/03/penguin-2104173_1920.jpg" alt="20.000 Pinguine durch Ölpest im Atlantik bedroht" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">20.000 Pinguine durch Ölpest im Atlantik bedroht</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Nachdem ein Frachtschiff gekentert ist, sind rund 20.000 seltene Felsenpinguine an der südafrikanischen Inselgruppe...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/20-000-pinguine-durch-oelpest-im-atlantik-bedroht/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

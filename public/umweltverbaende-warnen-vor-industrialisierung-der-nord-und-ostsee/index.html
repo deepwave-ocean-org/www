@@ -1,0 +1,1814 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2021/06/port-5349834_1920.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Thanasis Papazacharias / Pixabay
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Umweltverbände warnen vor Industrialisierung der Nord- und Ostsee</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jun 25, 2021</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Gemeinsame Pressemitteilung, 25.06.2021</p>
+<p>Mehr Nachhaltigkeit bei der Marinen Raumordnung gefordert</p>
+<p>Hamburg/Berlin – Umweltverbände fordern in einer gemeinsamen Stellungnahme zum Entwurf der Marinen Raumordnung eine nachhaltige Nutzung der deutschen Meere ohne Gefährdung von Schutzgebieten. Schon heute gehören die deutsche Nord- und Ostsee zu den am stärksten industrialisierten Meeresgebieten weltweit und ihr ökologischer Zustand ist schlecht. Der neue Marine Raumordnungsplan für die deutsche Ausschließliche Wirtschaftszone (AWZ) soll hier für Ausgleich sorgen – doch der finale Entwurf sieht das Gegenteil vor. „Die jetzt geplante deutliche Zunahme der Nutzung von Nord- und Ostsee darf nicht auf Kosten von Arten und Lebensräumen gehen. Der Ausbau der Offshore-Windenergie und Meeresnaturschutz müssen Hand-in-Hand gehen, um sowohl der Klima- als auch der Biodiversitätskrise zu begegnen. Um einen naturverträglichen Ausbau der Offshore Windenenergie zu ermöglichen, muss auch die Belastung anderer Nutzungen drastisch reduziert werden. Bereits heute finden in Schutzgebieten Rohstoffabbau, Leitungsbau, militärische Übungen, unbegrenzte Schifffahrt und Fischerei statt. Auch der Ausbau der Offshore Windenergie in Schutzgebieten wird im aktuellen Plan nicht mehr ausgeschlossen. Dies ist ein massiver Rückschritt zum aktuell gültigen Plan von 2009. Die Gesamtbelastung unserer Meere und Küsten ist viel zu hoch und der rechtlich verbindliche gute Umweltzustand kann so nicht erreicht werden“, kritisieren die Umweltverbände BUND, DEEPWAVE, DNR, Fair Oceans, Greenpeace, NABU, Schutzstation Wattenmeer, Whale &amp; Dolphin Conservation und WWF.</p>
+<p>Die Bundesregierung fordert, dass Biodiversitäts- und Klimaschutz international eng miteinander verknüpft werden. Doch vor der eigenen Haustür droht dies zu misslingen. Allein im Naturschutzgebiet Doggerbank, der größten Sandbank der Nordsee und wichtiger Lebensraum für Seevögel, Haie und Wale, soll laut Planungsentwurf der Ausbau von bis zu sechs Gigawatt Windenergie geprüft werden. Dadurch wird mindestens ein Drittel der Schutzgebietsfläche  verbaut.  „Hier wird eine rote Linie überschritten“, kritisieren die Umweltverbände. „Die Europäische Kommission hat aufgrund der mangelhaften Umsetzung des Natura-2000-Schutzgebietsnetzwerks bereits ein Vertragsverletzungsverfahren gegen Deutschland eingeleitet. Wie schrill müssen die Alarmglocken noch läuten bis die zuständigen Behörden endlich umsteuern?“, warnen die Verbände. Wenn der Klimaschutz im Meer priorisiert wird, geht das nur mit gesunden Meeren, denn diese sind die größten Kohlenstoffsenken der Welt. Eine Vielzahl wissenschaftlicher Studien belegt, dass Meeresschutzgebiete frei von Nutzung hierzu einen wichtigen Beitrag leisten.</p>
+<p>Noch vor der Bundestagswahl möchte das Bundesinnenministerium den Raumordnungsplan unter fachlicher Ausarbeitung des Bundesamts für Seeschifffahrt und Hydrographie per Rechtsverordnung verabschieden – im Einvernehmen mit den anderen beteiligten Ministerien. Ob dies gelingen wird, bleibt aufgrund der vielen ungelösten Konflikte im finalen Entwurf unklar. Für die Umweltverbände steht fest, dass das Ziel der Raumordnung – die nachhaltige Nutzung und der gute Umweltzustand – mit dem vorgelegten Entwurf klar verfehlt wird.</p>
+<p>Weitere Informationen findet ihr in der <a href="https://www.nabu.de/downloads/3-natur-und-landschaft/meeresschutz/210625_MRO_Stellungnahme_NGOs_Juni_2021.pdf">Stellungname der Umweltverbände</a>.</p>
+<p><strong>Hintergrund</strong></p>
+<p><em>Der finale Entwurf des Raumordnungsplans vom 2. Juni 2021 legt die Nutzung der deutschen Ausschließlichen Wirtschaftszone (AWZ) in Nord- und Ostsee für die nächsten Jahrzehnte fest. Damit hat der Prozess auch eine Schlüsselfunktion für den Schutz von Nord- und Ostsee. Seit Ende 2019 wird über die neue marine Raumordnung verhandelt, die dritte öffentliche Beteiligungsphase läuft bis zum 25.6.2021. Nach einer finalen Ressortabstimmung soll der neue Raumordnungsplan als Verordnung durch das Bundesinnenministerium noch vor der Bundestagswahl verabschiedet werden. Eine parlamentarische Beteiligung ist nicht vorgesehen.</em></p>
+<p><em>Die EU-Richtlinie zur maritimen Raumordnung (2014/89) sieht vor, dass in den nationalen Raumordnungspläne für die AWZs der Mitgliedsstaaten zum Erreichen des guten Umweltzustands beitragen, wie es die EU-Meeresstrategie-Rahmenrichtlinie (2008/56) vorsieht. Dies bestätigt die Europäische Kommission in ihrem Bericht zur Umsetzung der MSRL von 2020 und die Bundesregierung in einer Kleinen Anfrage von Bündnis 90/Die Grünen:</em></p>
+<p><a href="https://deref-web.de/mail/client/gCRQVD-ggic/dereferrer/?redirectUrl=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FDE%2FTXT%2FPDF%2F%3Furi%3DCELEX%3A52020DC0259%26from%3DEN"><em>https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:52020DC0259&amp;from=EN</em></a>  </p>
+<p><a href="https://deref-web.de/mail/client/9AnPptH0S7Q/dereferrer/?redirectUrl=https%3A%2F%2Fdip21.bundestag.de%2Fdip21%2Fbtd%2F19%2F226%2F1922698.pdf"><em>https://dip21.bundestag.de/dip21/btd/19/226/1922698.pdf</em></a></p>
+<p><em>Informationen zum laufenden Vertragsverletzungsverfahren der Europäischen Kommission gegen Deutschland zur mangelnden Umsetzung des Natura-2000-Schutzgebietsnetzwerks:</em> <a href="https://deref-web.de/mail/client/jFFpQPC2J8I/dereferrer/?redirectUrl=https%3A%2F%2Fec.europa.eu%2Fcommission%2Fpresscorner%2Fdetail%2Fen%2Fip_21_412"><em>https://ec.europa.eu/commission/presscorner/detail/en/ip_21_412</em></a></p>
+<p> </p>
+<p><a href="https://www.deepwave.org/nabu-raumordnungsplan-ohne-plan-meeresnatur-ist-grosser-verlierer/"><strong>Update vom 05.08.2021</strong></a>: Die Marine Raumordnung wurde am 04.08.2021 ohne Aussprache und ohne parlamentarische Beteiligung vom Bundeskabinett verabschiedet. Der NABU kritisiert das Festhalten an der Übernutzung der Meere und den Fokus auf rein wirtschaftlichen Interessen.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+        
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+    
+    
+
+    
+        
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-raumordnungsplan-ohne-plan-meeresnatur-ist-grosser-verlierer/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2021/08/1024px-Borkum_Hauptstrand_-_2020_-_2687.jpg" alt="NABU: Raumordnungsplan ohne Plan – Meeresnatur ist großer Verlierer" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU: Raumordnungsplan ohne Plan – Meeresnatur ist großer Verlierer</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>NABU übt scharfe Kritik an der vom Bundeskabinett verabschiedeten Meeresraumordnung</p>
+<p>Berlin – Ohne Aussprache und ohne...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/klimawandel-fuehrt-zu-grossen-ozonverlusten-ueber-der-arktis/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2021/08/1024px-Sunset_in_the_Arctic_7348953774.jpg" alt="Klimawandel führt zu großen Ozonverlusten über der Arktis" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Klimawandel führt zu großen Ozonverlusten über der Arktis</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Ergebnisse der MOSAiC-Expedition zeigen: Die erwartete Erholung der Ozonschicht könnte ausbleiben, wenn die globale...</strong></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/klimawandel-fuehrt-zu-grossen-ozonverlusten-ueber-der-arktis/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

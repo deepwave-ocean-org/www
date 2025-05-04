@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">&#34;Das Ozeanbuch - Über die Bedrohung der Meere&#34; von Esther Gonstalla</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jul 03, 2019</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <blockquote>
+<p><a href="https://www.deepwave.org/wp-content/uploads/2019/07/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/07/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla-300x300.jpeg" alt="Das Ozeanbuch - Über die Bedrohung der Meere liiegt aufgesclagen, als auch mit dem Cover vor einem Globus"></a>&ldquo;Es ist ein interessanter biologischer Umstand, dass wir alle in unseren Adern die exakt gleiche Menge an Salzgehalt haben wie das Meerwasser und damit auch Salz in unserem Blut, unserem Schweiß, unseren Tränen.&rdquo; - John F. Kennedy</p></blockquote>
+<p>Immer dann, wenn ich einen kurzen Moment an meinem Schreibtisch in Zürich vom Lernen abschweife und mich in meinem Zimmer umschaue, dann bleibt mein Blick an einem sehr intensiven Blau hängen. Es ist die Farbe des Ozeanbuches, das äußerlich so schön ist und innen von der Bedrohung der Ozeane berichtet. Sofort tauche ich ab in meine Gedankenwelt nach Hamburg, wo ich ein halbes Jahr bei DEEPWAVE mitwirken und mitleben durfte. Von ihnen habe ich das Buch geschenkt bekommen.</p>
+<p>Ich war eines von diesen Kindern, das einen Delfinschulranzen, eine Delfinbettdecke, Delfinohrringe, Delfinstifte, Delfin-T-Shirts, Delfinplüschtiere, Delfinposters, ja sogar einen Delfinklosessel besaß. Vor 220 Millionen Jahren lag die Schweiz das letzte Mal am Meer, da musste ich mir schon selbst eines anfertigen. Es war mir aber auch klar, dass ich den Geruch und die Geräusche der Meere nicht ersetzen konnte. Für diese musste ich geduldig auf den Sommer warten, weil wir dann mit der Familie immer den ganzen Monat am Mittelmeer verbrachten.</p>
+<p>Schon damals, aber auch jetzt noch füllen Momente am Meer meine Energielücken ganz aufs Neue auf. Der Blick in die klare Ferne, der Wind, der alte Gedanken auf nostalgische Weise aufwirbeln kann und sie auch wieder zum Verschwinden bringt, die ungewisse Tiefe, die sich ein paar Meter vor einem einstellt&hellip;da fühlt man sich sehr klein und unwissend wie ein Neugeborenes.</p>
+<p>Bei DEEPWAVE bin ich dann das erste Mal auf so viele Menschen gestoßen, die sich sehr mit dem Meer verbunden fühlen. Ich war beeindruckt, wie sie ihre ganze Energie und Lebenszeit in ihr einziges Ziel stecken, nämlich den respektvolleren und nachhaltigeren Umgang mit unseren Ozeanen. Die Menschen, denen ich begegnet bin, wissen so viel und betonen gleichzeitig aber auch immer, dass sie sehr wenig von diesem Ökosystem und dessen umfangreicher Funktion auf unserem Blauen Planeten verstehen. Dies ist noch ein guter Grund mehr, warum wir uns mit unserem ausbeuterischen und nicht genügend weit gedachten Verhalten in die eigene Haut schneiden und damit sofort aufhören sollen.</p>
+<p>Da war aber auch noch etwas anderes. Es konnten nicht alleine wissenschaftliche Fakten sein, die die Menschen bei DEEPWAVE jeden Tag aufs Neue motivierten und sie bei ihren Taten voll und ganz überzeugten. Von diesen Menschen habe ich noch etwas Tieferes, ja eigentlich auch viel Trivialeres auf den Weg mitbekommen.</p>
+<p>Jedes Wesen ist Teil eines großen Ganzen und hat einen ehrenvollen Platz darin erhalten. Die Schönheit und unglaubliche Vielfalt der Natur ist ein riesiges Geschenk für uns alle. Da darf man auf keinen Fall auf Kosten anderer leben. Man bedenke: wer mehr Platz einnimmt als für ihn gedacht wäre, nimmt diesen einem anderen Wesen weg. Wenn man das begriffen hat, glaube ich, braucht man sich als Nicht-Wissenschaftler*in gar nicht krampfhaft mit den Fakten auseinanderzusetzen, dann wird so manches auf einmal so natürlich. Und vieles beginnt beim Umgang mit seinem Nächsten, wie ernst man sein Gegenüber nimmt, wie überlegen oder gleichgestellt man sich fühlt und wieviel Respekt und Liebe man bereit ist weiterzugeben.</p>
+<p>Ich glaube es braucht diese zwei Seiten, um sich im Umweltschutz tief einzusetzen, die wissenschaftliche, aber auch diesen voll umfassenden Einheitsgedanken. Das Ozeanbuch zeigt, dass die Ozeane riesig sind und einiges erdulden, aber wir sie nun so stark bedrohen, dass das Gleichgewicht, in dem die Natur zu stehen mag, langsam aber sicher aus dem Ruder läuft.</p>
+<p>Deshalb ist für uns alle bei DEEPWAVE ganz klar: &ldquo;Die Zeit der Verhandlungen ist vorbei. Die Zeit der Handlungen ist längst überfällig.&rdquo;</p>
+<p>Das Ozeanbuch packt alle Gefahren, die den Ozeanen drohen, in eine Geschichte, die Geschichte der Menschheit, die ohne Ozeane nie begonnen hätte. Sie schildert die Zusammenhänge aller wichtigen Themen, der biologischen Vielfalt bis zum Ozean als Industriegebiet in knappen Texten und sehr übersichtlichen, sofort einleuchtenden Infografiken, die mehr verstehen lassen als manche Abhandlung.</p>
+<p>Wir alle sind mit den Meeren verbunden und alles ist mit allem verbunden. Das macht uns das Ozeanbuch klar. Auch wenn manche Binnenlandbewohner das Gefühl haben, die Meere seien so weit entfernt und man habe nichts oder wenig mit ihnen zu tun, weil man keinen Fisch isst, nie ans Meer fährt oder seine Bewohner und Schätze gar nicht kennt - sie täuschen sich. Die Ozeane haben die größten Wärmespeicherkapazitäten der Welt, sie sind unsere Kohlenstoffspeicher und erzeugen über 70% des Sauerstoffs auf der Erde. Ihre gewaltigen Naturkräfte halten den ganzen Planeten zusammen. Wir Menschen aber bedrohen die Ozeane zurzeit und somit unsere eigene Spezies zugleich.</p>
+<p>Ich bin auf dem Weg ans Meer. Mein erster Segeltörn erwartet mich an der Ostsee. Das Ozeanbuch liegt auf meinem Schoß und gerade habe ich gelernt, dass 99% unseres Telefon- und Internetverkehrs, also eigentlich fast jede Nachricht, die ich verschicke, durch ein Ozeankabel dem Meeresboden entlang verläuft.</p>
+<p> Amel Messaadi für DEEPWAVE.</p>
+<p>Weitere Buchrezensionen findet ihr bei unserem Projekt <a href="http://www.deepwave.org/ozeanbuecher/">Ozeanbücher</a>. Das Buch <a href="https://www.buecherinkleinborstel.de/shop/item/9783960060123/das-ozeanbuch-von-esther-gonstalla-gebundenes-buch">&ldquo;Das Ozeanbuch - Über die Bedrohung der Meere&rdquo; von Esther Gonstalla</a> könnt ihr bei unserem Partner, dem Buchladen <a href="https://www.buecherinkleinborstel.de/">Tolle Geschichten</a> in Klein Borstel oder eurer lokalen Buchhandlung erwerben.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/a-450-year-record-of-north-sea-herring-pried-from-clams/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/07/matt-artz-4IhOQ4vwXaQ-unsplash-scaled.jpg" alt="A 450-Year Record of North Sea Herring, Pried from Clams" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">A 450-Year Record of North Sea Herring, Pried from Clams</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>An unseeming yet long living mussel species, the island mussel, provided scientists with an insight into the population...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ostseelife-erste-virtuelle-realitaet-der-ostsee-unterwasserwelt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/07/plaice-205276_1920.jpg" alt="Erste Virtuelle Realität der Ostsee-Unterwasserwelt" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Erste Virtuelle Realität der Ostsee-Unterwasserwelt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Jetzt können wir zusammen mit OstseeLIFE in die faszinierende Ostsee-Unterwasserwelt abtauchen - auch ohne Taucherbrille...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/ostseelife-erste-virtuelle-realitaet-der-ostsee-unterwasserwelt/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

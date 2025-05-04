@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2019/05/eran-menashri-aw3j_lgA0Q8-unsplash-scaled.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Eran Menashri / Unsplash
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Fos­si­les Zooplankton zeigt, dass ma­ri­ne Öko­sys­te­me im An­thro­po­zän an­ge­kom­men sind</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Mai 23, 2019</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 22.05.2019, MARUM (Zentrum für Marine Umweltwissenschaften)</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>For­scher ver­öf­fent­li­chen neue glo­ba­le Ver­gleichs­stu­die in Na­tu­re</p>
+<p>Der von Men­schen ver­ur­sach­te Kli­ma­wan­del wirkt sich auf die Ar­ten­viel­falt und Öko­sys­te­me aus, und ma­ri­ne Öko­sys­te­me sind kei­ne Aus­nah­me. Um zu be­wer­ten, wie ge­nau der Kli­ma­wan­del Öko­sys­te­me be­ein­flusst, muss der ak­tu­el­le Zu­stand mit vor­in­dus­tri­el­len Zeit­räu­men ver­gli­chen wer­den. Jetzt ha­ben For­scher des MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten der Uni­ver­si­tät Bre­men so­wie des In­sti­tuts für Che­mie und Bio­lo­gie des Mee­res der Uni­ver­si­tät Ol­den­burg nach­ge­wie­sen, dass sich Ge­mein­schaf­ten ma­ri­nen Plank­tons aus heu­ti­ger und vor­in­dus­tri­el­ler Zeit nach­weis­bar un­ter­schei­den. Das ma­ri­ne Plank­ton hat so­zu­sa­gen das An­thro­po­zän er­reicht. Dazu ha­ben die For­scher die Zu­sam­men­set­zung fos­si­len Plank­tons (Fo­ra­mi­ni­fe­ren) in Se­di­men­ten aus der vor­in­dus­tri­el­len Ära mit der aus neue­rer Zeit ver­gli­chen. Ihre Er­geb­nis­se hat das Team in der Fach­zeit­schrift Na­tu­re ver­öf­fent­licht.</p>
+<p>Plank­to­ni­sche Fo­ra­mi­ni­fe­ren sind Kleinst­le­be­we­sen, die an der Ober­flä­che der Ozea­ne le­ben. Ster­ben sie, la­gern sich ihre Kalk­ge­häu­se in Mee­res­bo­den­s­edi­men­ten ab. Sol­che fos­si­len Fo­ra­mi­ni­fe­ren do­ku­men­tie­ren den Zu­stand der Ozea­ne, be­vor der Mensch be­gon­nen hat, das Kli­ma zu be­ein­flus­sen. Der heu­ti­ge Zu­stand ist wie­der­um in Pro­ben aus Sink­stoff­fal­len der ver­gan­ge­nen 50 Jah­re ab­ge­bil­det. Durch den Ver­gleich von fos­si­len und mo­der­nen Le­bens­ge­mein­schaf­ten der Fo­ra­mi­ni­fe­ren kön­nen For­schen­de ab­schät­zen, wie sehr sich das Plank­ton seit der In­dus­tria­li­sie­rung ver­än­dert hat.</p>
+<p>Für ihre Stu­die ha­ben Dr. Lu­kas Jon­kers und Prof. Mi­chal Ku­ce­ra vom MARUM an der Uni­ver­si­tät Bre­men so­wie Prof. Hel­mut Hil­le­brand vom In­sti­tut für Che­mie und Bio­lo­gie des Mee­res (ICBM) der Uni­ver­si­tät Ol­den­burg über 3.700 Da­ten­sät­ze aus Se­di­men­ten aus vor­in­dus­tri­el­ler Zeit mit Pro­ben aus Sink­stoff­fal­len ver­gli­chen, die den Zu­stand des Plank­tons von 1978 bis 2013 zei­gen. So kom­men die For­scher zu dem Schluss, dass sich die heu­ti­ge Zu­sam­men­set­zung der Ar­ten von der in der vor­in­dus­tri­el­len Zeit sys­te­ma­tisch un­ter­schei­det. „Das er­staun­li­che war, dass die­ser Un­ter­schied nicht zu­fäl­lig ist, son­dern ein Si­gnal der Erd­er­wär­mung zeigt: Heu­ti­ge Le­bens­ge­mein­schaf­ten in sich er­wär­men­den Re­gio­nen stim­men mit vor­in­dus­tri­el­len Le­bens­ge­mein­schaf­ten aus wär­me­ren Re­gio­nen über­ein“, er­klärt Lu­kas Jon­kers. Das be­deu­tet auch: Die mo­der­nen Ar­ten­ge­mein­schaf­ten am sel­ben Stand­ort sind an­de­re als zu vor­in­dus­tri­el­ler Zeit.</p>
+<p>„Wir wis­sen schon lan­ge, dass sich Ar­ten­ge­sell­schaf­ten ver­än­dern, aber für vie­le Le­bens­ge­mein­schaf­ten gibt es we­gen zu kur­zer Be­ob­ach­tun­gen kei­ne be­last­ba­ren und vor al­lem glo­ba­len Ver­gleichs­grö­ßen“, sagt Jon­kers. Das habe sich nun mit den ana­ly­sier­ten Da­ten ge­än­dert. „Der Da­ten­satz ist groß und da­mit auch glo­bal re­prä­sen­ta­tiv.“ Das Be­un­ru­hi­gen­de an der Be­ob­ach­tung sei, dass in vie­len Re­gio­nen des Oze­ans die Plank­ton­ge­mein­schaf­ten of­fen­sicht­lich „in frem­de Ge­wäs­ser“ ab­ge­wan­dert sind. Dort müs­sen sie sich an neue Be­din­gun­gen an­pas­sen und un­ter Um­stän­den ihre Nah­rungs­net­ze neu bil­den. „Die Fra­ge ist, ob sie dies zü­gig tun kön­nen, oder ob der Kli­ma­wan­del zu schnell vor­an­schrei­tet, als dass die Ge­mein­schaf­ten sich an­pas­sen könn­ten“, sagt Mi­chal Ku­ce­ra.</p>
+<p>„Un­se­re Ko­ope­ra­ti­on zeigt, wie wich­tig es ist, dass Pa­läo­öko­lo­gie und mo­der­ne Bio­di­ver­si­täts­for­schung zu­sam­men­ar­bei­ten“, fügt Hel­mut Hil­le­brand hin­zu. Er lei­tet die Ar­beits­grup­pe Plank­to­lo­gie des ICBM und das Helm­holtz-In­sti­tut für Funk­tio­nel­le Ma­ri­ne Bio­di­ver­si­tät an der Uni­ver­si­tät Ol­den­burg. „Un­se­re Stu­die hilft zu ver­ste­hen, wie der Kli­ma­wan­del die Bio­di­ver­si­tät be­ein­flusst. Das ist eine der Haupt­fra­gen des jüngst ver­öf­fent­lich­ten glo­ba­len Be­richts des Welt­bio­di­ver­si­täts­ra­tes.“</p>
+<p>Die Re­ak­tio­nen ma­ri­ner Öko­sys­te­me auf Kli­ma­wan­del wer­den von den For­schen­den in Ol­den­burg und Bre­men im Ex­zel­lenz­clus­ter „Der Oze­an­bo­den – un­er­forsch­te Schnitt­stel­le der Erde“ künf­tig wei­ter un­ter­sucht.</p>
+<p>Diese <a href="https://www.marum.de/Entdecken/Fossiles-Zooplankton-zeigt-dass-marine-Oekosysteme-im-Anthropozaen-angekommen-sind.html">Pressemitteilung</a> findet ihr beim <a href="https://www.marum.de/index.html">MARUM</a>.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/vermuellt-und-leergefischt-wie-retten-wir-die-meere/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Vermüllt und leergefischt - Wie retten wir die Meere?</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Vermüllt und leergefischt - Wie retten wir die Meere?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Unsere wissenschaftliche Beirätin, Dr. Franziska Bils, war im Gespräch bei SWR2 mit Prof. Dr. Julian Gutt...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/dorschbestand-in-der-oestlichen-ostsee-kollabiert-umweltverbaende-fordern-sofortigen-fangstopp/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/05/fishing-425342_1920.jpg" alt="Dorschbestand in der östlichen Ostsee kollabiert – Umweltverbände fordern sofortigen Fangstopp" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Dorschbestand in der östlichen Ostsee kollabiert – Umweltverbände fordern sofortigen Fangstopp</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Internationale Fischereiwissenschaftler berichten über alarmierenden Zustand des östlichen Dorschbestands in der Ostsee...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/dorschbestand-in-der-oestlichen-ostsee-kollabiert-umweltverbaende-fordern-sofortigen-fangstopp/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

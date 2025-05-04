@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Überfischung der Weltmeere nimmt weiter zu und beschleunigt sich laut Welternährungsorganisation</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jul 11, 2018</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung [Fair Oceans](http://www.fair-oceans.info/) Rom, 11.07.2018</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Überfischung der Weltmeere nimmt weiter zu und beschleunigt sich – Nahezu ein Drittel der von der Welternährungsorganisation erfassten Fischbestände ist überfischt</p>
+<p>Alle zwei Jahre anlässlich der Sitzung des Ausschusses für Fischerei veröffentlicht die Welternährungsorganisation der UN ihren Bericht über den Zustand der Weltfischbestände und der Aquakultur. SOFIA, so die Abkürzung von State of World Fisheries and Aquaculture, basiert auf den offiziellen Daten der Staaten, die zusammengetragen und detailliert ausgewertet werden. Die Ergebnisse und von SOFIA aufgezeigten Entwicklungstendenzen sind weltweit ein Gradmesser für die Probleme in der Fischereiwirtschaft. Fair Oceans nimmt zum mittlerweile vierten Mal an der Sitzung teil, die derzeit vom 09. bis 13. Juli in Rom stattfindet. Die zu Beginn der Ausschusssitzung vorgelegten Zahlen aus dem aktuellen SOFIA-Bericht von 2018 machen deutlich, dass die Überfischung der Ozeane und Meere weiterhin ungebremst zunimmt.</p>
+<p>Von 1974 bis 2015 hat sich die Überfischung der Weltmeere von 10% auf nun 33,1% erhöht. Durchschnittlich gab es in diesem Zeitraum von Jahr zu Jahr einen Anstieg von gut einem halben Prozentpunkt. Der Vergleich mit den Zahlen aus den Jahren 2009, 2011 und 2013 zeigt nun eine überdurchschnittlich starke Zunahme der Überfischung, die sich mit dem neuen Bericht bestätigt. Von 1989 bis 2009 betrug der Anstieg über diese 20 Jahre insgesamt nur rund 4%. In jüngster Zeit hat sich die Geschwindigkeit mit der die Überfischung zunimmt jedoch dramatisch beschleunigt. Seit 2009 addiert sich diese Zunahme schon jetzt bis zur aktuell in Rom vorgestellten Bestandsaufnahme aus dem Jahr 2015 auf 3,2%. Allein von 2013 bis 2015 wuchs die Zahl der über ihre ökologischen Grenzen hinaus ausgebeuteten Bestände um 1,7%.</p>
+<p>Der Bericht der Welternährungsorganisation zur Fischerei ist aber weit mehr als eine bloße Zahlensammlung. Er verdeutlicht die globale Bedeutung der Fischerei für die Ernährungssicherheit, ebenso wie die Notwendigkeit die Fischbestände nachhaltig zu managen.</p>
+<p>In Rom bewertet Kai Kaschinski, Projektkoordinator von Fair Oceans, die aktuelle Entwicklung: „Der Meeresschutz hat in Öffentlichkeit und Politik an Gewicht gewonnen. Trotzdem verschlechtert sich der Zustand der Meere und speziell der Fischbestände unaufhörlich. Der aktuelle Bericht der Welternährungsorganisation zeigt die ganze Dramatik dieser Situation. Die Ausweitung der Überfischung wird mittelfristig katastrophale Folgen haben. Schreibt sich die Entwicklung fort, bricht rein rechnerisch spätestens Ende diesen Jahrhunderts der letzte Fischbestand zusammen. Die Fischereiwirtschaft wird entsprechend früher in der Bedeutungslosigkeit versinken.“</p>
+<p>SOFIA stellt unter anderem auch die neuen Zahlen zum Pro-Kopf-Verbrauch von Fisch und Meeresfrüchten vor. 2017 waren es 20,5 kg, 0,4 kg mehr als 2014, die weltweit durchschnittlich pro Kopf verzehrt wurden. Rund 3,2 Mrd. Menschen deckten dabei ihren Bedarf an tierischem Eiweiß zu etwa 20% aus der Fischerei und Aquakultur. Während die Wildfänge seit Mitte der 90er Jahre stagnieren, sichert die Aquakultur mit ihren Produktionssteigerungen den kontinuierlichen Anstieg des Angebots. 80 Mio. t der Gesamtmenge an Fisch und Meeresfrüchten von 171 Mio. t kamen Ende 2016 aus der Aquakultur. Da ein erheblicher Teil des Wildfangs zu Fischmehl verarbeitet wird, stammt mittlerweile mehr als die Hälfte des Fisches und der Meeresfrüchte für den menschlichen Verzehr aus der Aquakultur.</p>
+<p>Kai Kaschinski führt hierzu aus: „Die großen Umbrüche, die wir derzeit auf dem Meer erleben, treffen die Fischereiwirtschaft in doppelter Hinsicht. Zum einen verändert sie sich von innen heraus und wird mehr und mehr von der Aquakultur dominiert, mit all den negativen Aspekten der Massentierhaltung. Auf der anderen Seite ist der Zusammenbruch der natürlichen Bestände nicht nur dem Missmanagement in der Fischerei geschuldet. Meeresverschmutzung, Offshore-Projekte, Schifffahrt, Tourismus und nicht zuletzt der Klimawandel bedrohen die Fischbestände in vielerlei Hinsicht. Die Industrialisierung der Meere mit ihren negativen Begleiterscheinungen geschieht auf Kosten der Fischerei.“</p>
+<p>Allein in ihrer neuesten Studie zum Klimawandel, die am zweiten Tag der Sitzung des Ausschusses für Fischerei vorgestellt wurde, geht die Welternährungsorganisation durch die Erwärmung der Ozeane von zusätzlichen Verlusten beim Fischfang von bis zu 12,1% aus.</p>
+<p>Francisco Mari, Referent von Brot für die Welt, begleitet ebenfalls die Ausschusssitzung und stellt fest: „Mit der zunehmenden Überfischung und dem Verlust der Fischbestände werden die Existenzgrundlagen der Kleinfischer gefährdet. Ihre zentrale Rolle für die Ernährungssicherheit im globalen Süden muss jedoch in jedem Fall gewahrt bleiben. Wir unterstützen deshalb die Umsetzung der Richtlinien zum Schutz der Kleinfischerei. Die Initiativen der Welternährungsorganisation in diesem Bereich müssen von der EU politisch und auch mit ausreichenden finanziellen Mitteln unterstützt werden. Das Gleiche gilt für den Klimaschutz und die illegale Fischerei. Auch hier müssen die EU und die Bundesregierung handeln und dabei vorrangig die Bedürfnisse der Kleinfischerei in ihre Überlegungen einbeziehen.“</p>
+<p>Fair Oceans sieht in der Richtlinie zum Schutz der Kleinfischerei eine gute Grundlage um entwicklungspolitischen Problemen in der internationalen Fischereipolitik Geltung zu verschaffen und das Management der Küstenzonen sozial gerechter und zugleich ökologisch sinnvoll zu gestalten. Es sind die armen Küstengemeinschaften, die am stärksten von einer intakten Meereswelt abhängig sind und denen die Verschlechterung des Zustands der Ökosysteme am meisten zusetzt.</p>
+<p>Bei Nachfragen wenden Sie sich bitte an</p>
+<p>Kai Kaschinski <a href="mailto:kai.kaschinski@fair-oceans.info">kai.kaschinski@fair-oceans.info</a></p>
+<p>Den vollständigen Report findet ihr hier: <a href="http://www.fao.org/3/I9540EN/i9540en.pdf">http://www.fao.org/3/I9540EN/i9540en.pdf</a></p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deutsche-wollen-besseren-meeresschutz-und-keine-genpflanzen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2018/11/c__pixabay.com__csm_fische_schwarm_kp_1200_cfaa6bf1ba_8611f6956d.png" alt="Deutsche wollen besseren Meeresschutz und keine Genpflanzen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Deutsche wollen besseren Meeresschutz und keine Genpflanzen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Naturbewusstseinsstudie 2017 von BMU und BfN veröffentlicht</strong></p>
+<p>Umfrage belegt: Plastikmüll wird als Bedrohung gesehen,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/buergermeister-von-lampedusa-verbietet-plastik-einweggeschirr/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Bürgermeister von Lampedusa verbietet Plastik-Einweggeschirr</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Bürgermeister von Lampedusa verbietet Plastik-Einweggeschirr</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Auf den sizilianischen Inseln Lampedusa und Linosa sollen zukünftig Plastik-Einweggeschirr und Plastiktüten verboten...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/buergermeister-von-lampedusa-verbietet-plastik-einweggeschirr/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+  
+    
+    
+      
+        <link rel="stylesheet" href="/css/main.css">
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Überfischung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2024/12/NOAA_tiefsee_quelle_raucher-1280x720.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © NOAA Office of Ocean Exploration and Research, 2016 Deepwater Exploration of the Marianas
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Tief durchatmen: Der geheime Stoffwechsel ethanfressender Archaeen</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Okt. 16, 2024</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 23.10.2024, MARUM – Zentrum für Marine Umweltwissenschaften</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <blockquote>
+<p>Quellen am Meeresboden setzen von Natur aus Alkane frei &ndash; Schadstoffe, die potenziell gefährlich für Lebewesen sind und zur globalen Erwärmung beitragen. Zum Glück leben in den Sedimenten rund um die Quellen Mikroben, die als biologische Filter fungieren: Sie verbrauchen den Großteil der Alkane, bevor sie in die Ozeane und unsere Atmosphäre gelangen. Diese so genannte anaerobe Oxidation von Alkanen ist ein wichtiger Prozess, den wir bisher aber kaum verstehen. Forschende des Max-Planck-Instituts für Marine Mikrobiologie und des MARUM &ndash; Zentrum für Marine Umweltwissenschaften der Universität Bremen veröffentlichen nun eine Studie über den Abbau von Ethan, dem zweithäufigsten Alkan in Meeresquellen. Sie beschreiben die Enzyme, die an dem Prozess beteiligt sind und zeigen, dass deren Reaktion mit einem gängigen Dogma auf dem Gebiet der anaeroben Biochemie bricht. Ihre Ergebnisse sind in Nature Communications erschienen.</p>
+<p>Die anaerobe Oxidation von Ethan wurde vor einigen Jahren beschrieben, doch viele ihrer Geheimnisse müssen noch enträtselt werden. „Wir zeichneten die chemischen Reaktionen des Prozesses auf ein Blatt Papier und entdeckten große Lücken in der Biochemie, die noch nicht erforscht waren. Alles deutete darauf hin, dass die beteiligten Organismen ihre Zellenergie auf einem bislang unbekannten Weg gewinnen&quot;, erklärt Erstautor Olivier Lemaire. Die beiden letzten Enzyme des Prozesses erzeugen Kohlendioxid (CO2) aus dem Ethan. Andere Mikroben verwenden ein Protein namens Ferredoxin, um die auf diesem Weg entstehenden Elektronen aufzunehmen. „Das hatte man auch bei Ethanoxidierern vermutet. Als wir uns jedoch das Genom der Mikroben ansahen, stellten wir fest, dass sie nicht über die nötigen enzymatischen Werkzeuge verfügen, um Zellenergie mithilfe von Ferredoxin zu gewinnen. Irgendwas anderes musste also im Spiel sein.&quot;</p></blockquote>
+<h3 id="erfolgreiche-wissenschaftliche-zusammenarbeit-bei-einer-anspruchsvollen-studie">Erfolgreiche wissenschaftliche Zusammenarbeit bei einer anspruchsvollen Studie</h3>
+<blockquote>
+<p>Gelöst werden konnte dieses Rätsel nur dank einer engen Zusammenarbeit innerhalb der Partnerinstitutionen. Gunter Wegener vom MARUM und seinem Team gelang es, Sedimentproben von erdgasreichen hydrothermalen Quellen zu sammeln, und aus diesen die Ethanabbauer im Labor zu kultivieren &ndash; eine äußerst anspruchsvolle Aufgabe. Mit Hilfe dieser Kulturen konnte dann die Gruppe von Tristan Wagner die an der Ethanoxidation beteiligten Enzyme isolieren und charakterisieren. „Die Isolierung von Enzymen aus einer so kostbaren und komplexen mikrobiellen Kultur ist eine große Herausforderung, aber mit viel Mühe und Sorgfalt haben wir es geschafft&quot;, so Wagner.</p></blockquote>
+<h3 id="eine-andere-enzymatische-zusammensetzung-bewirkt-eine-neuverdrahtung-des-stoffwechsels">Eine andere enzymatische Zusammensetzung bewirkt eine Neuverdrahtung des Stoffwechsels</h3>
+<blockquote>
+<p>Die jetzt veröffentlichten Analysen zeigen, dass beide Enzyme ein zusätzliches Protein enthalten, das mit dem Rest des Enzyms über eine Redoxkette von Eisen- und Schwefelatomen elektronisch verbunden ist. Durch diese Untereinheit wird es möglich, einen alternativen Elektronenakzeptor zu verwenden: Das F420, ein Molekül auf der Basis von Flavin, einer Klasse von Chemikalien, die auch für den Menschen wichtig ist (z.B. als Vitamin B2).</p>
+<p>„Enzymkomplexe aus CO2-bildenden Proteinen und F420-Reduktasen waren bisher unbekannt&quot;, sagt Co-Autor Tristan Wagner. Durch weitere Experimente bestätigten die Forschenden, dass beide Enzyme F420 als Elektronenakzeptor nutzen. „Diese Entdeckung bricht ein Dogma auf dem Forschungsfeld des anaeroben Stoffwechsels, weil sie die Fähigkeiten dieser Enzyme erweitert.&quot;</p>
+<p>„Wir vermuten, dass die Kopplung der CO2-Bildung mit F420 als Elektronenakzeptor den gesamten Prozess anregt. Die Elektronen werden dann über die Zellmembran auf eine andere Mikrobe übertragen, die Sulfat reduziert &ndash; ein gängiges Verfahren von alkanoxidierenden Konsortien&quot;, erklärt Gunter Wegener.</p></blockquote>
+<h3 id="ein-meilenstein-im-verständnis-des-ethanabbaus">Ein Meilenstein im Verständnis des Ethanabbaus</h3>
+<blockquote>
+<p>Mit der Lösung dieses Stoffwechselrätsels lüften Lemaire und seine Kollegen einen zentralen Aspekt der ethanabbauenden Mikroben, die eine wichtige Rolle im Kohlenstoffkreislauf spielen. Sie zeigen zudem, dass sich Erkenntnisse, die an einigen wenigen Modellorganismen gewonnen werden, nicht einfach auf verwandte Arten übertragen lassen. Die beteiligten Enzyme können vielseitiger sein als angenommen. „Unsere Studie verdeutlicht, wie wenig wir über den Stoffwechsel dieser Mikroben wissen, die seit Milliarden von Jahren auf unserem Planeten leben und sich an so viele Lebensräume anpassen können, und wie wichtig es ist, diese mit Hilfe experimenteller Methoden zu erforschen&quot;, so Tristan Wagner abschließend.</p>
+<p>Die weitreichende Bedeutung dieser Studie liegt zudem darin, dass die von diesen Mikroorganismen durchgeführte Oxidation von Alkanen entscheidend dazu beiträgt, dass die biologischen Filter in den Unterwasserquellen funktionieren und eine massive Freisetzung von natürlich produzierten Alkanen in die Atmosphäre und das Meerwasser verhindern.</p>
+<p>Diese Studie ist Teil der Forschung des Exzellenzclusters „Ozeanboden &ndash; unerforschte Schnittstelle der Erde&quot;, der am MARUM angesiedelt ist. Der Kohlenstoffkreislauf und Energiegewinnung von Mikroorganismen gehören zu den Kernthemen des Clusters.</p></blockquote>
+<p><a href="https://www.marum.de/Tief-durchatmen-Der-geheime-Stoffwechsel-ethanfressender-Archaeen.html">Diese Pressemitteilung</a> findet ihr beim <a href="https://www.marum.de/">MARUM &ndash; Zentrum für Marine Umweltwissenschaften</a>.</p>
+<p>Dass es in der Tiefsee anaerobe Oxidation von Ethan gibt, ist <a href="https://www.deepwave.org/langsam_alt_und_ausergewohnlich_methanfressende_einzeller_tief_im_meeresboden/">schon lange bekannt</a>. Doch diese neuen Erkenntnisse zeigen erneut, wie wenig wir doch über dieses einzigartige Ökosystem wissen. Währenddessen rückt der <a href="https://www.deepwave.org/tiefseebergbau-fuer-einsteigerinnen/">Tiefseebergbau</a> bedrohlich näher und droht, die sensiblen Quellen und die darin lebenden Mikroben unwiederbringlich zu zerstören. Wenn diese natürlichen biologischen Filter beschädigt werden, könnten große Mengen schädlicher Alkane in die Meere und die Atmosphäre gelangen &ndash; mit unberechenbaren Folgen für das Klima und die Gesundheit der Ozeane. Es ist entscheidend, diese faszinierenden, aber fragilen Ökosysteme <a href="https://www.deepwave.org/deep-sea/">vor solchen Eingriffen zu schützen</a>, bevor wir sie unwiederbringlich verlieren.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/posts/weder-%C3%B6de-noch-leer-tiefseeboden-wimmelt-von-leben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/12/Tiefsee-Lebewesen_Senckenberg_Arktis-980x572.jpg" alt="Weder öde noch leer: Tiefseeboden wimmelt von Leben" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Weder öde noch leer: Tiefseeboden wimmelt von Leben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><h4 id="neue-übersichtsstudie-zeigt-vielfalt-von-lebensräumen-und-organismen-in-der-arktischen-tiefsee">Neue Übersichtsstudie zeigt Vielfalt von Lebensräumen und Organismen in der arktischen Tiefsee</h4>
+<p>Die Tiefsee der Arktis...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+    
+    
+    <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/posts/wie-ist-das-wetter-in-der-tiefsee/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/10/noaa_tiefsee_krabben_submarine_ring_of_fire-980x735.jpg" alt="Wie ist das Wetter in der Tiefsee?" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Wie ist das Wetter in der Tiefsee?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><em>Neue Nature Geoscience-Studie zeigt wechselhaftes Verhalten der Strömungen in der Tiefsee</em></p>
+<blockquote>
+<p>Eine neue Studie zeigt, wie...</p></blockquote></p>
+            
+
+        </div>
+    </a>
+</div>
+    <div hx-get="/posts/wie-ist-das-wetter-in-der-tiefsee/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+        hx-select="#content-area" hx-push-url="true">
+    </div>
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

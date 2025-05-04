@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+  
+    
+    
+      
+        <link rel="stylesheet" href="/css/main.css">
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">
+        Überfischung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2024/10/kevin_riemer_schadendorf.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Kevin Riemer-Schadendorf / dieUmweltDruckerei
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Für eine nachhaltige Entwicklung: Global denken und lokal handeln!</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Okt. 26, 2024</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Unser Interview mit <a href="https://www.linkedin.com/in/kevinriemer/">Dr. Kevin Riemer-Schadendorf</a>, dem Leiter Nachhaltigkeit und Kommunikation bei der UmweltDruckerei, über nachhaltiges Wirtschaften, Klimaschutz und seine Liebe zum Meer.</p>
+<p><strong>Warum seid ihr die Druckerei, die wir empfehlen, wenn es darum geht, wirklich umweltfreundlich zu drucken?</strong></p>
+<blockquote>
+<p>Seit unserer Gründung im Jahre 2009 verfolgen wir einen ganzheitlichen Nachhaltigkeitsansatz. Wir mussten unsere Prozesse nicht erst sukzessive ökologisch transformieren, sondern sind von Beginn an ökologisch aufgestellt.</p></blockquote>
+<p><strong>Kannst du in ein paar Sätzen umreißen, was euch besonders macht?</strong></p>
+<blockquote>
+<p>Wir drucken ausschließlich mit Ökostrom und Bio-Farben auf 100 % Recyclingpapier. Die unvermeidbaren CO₂-Emissionen werden bei uns obligatorisch über öko-soziale Projekte kompensiert. Und natürlich sind wir Blauer Engel zertifiziert.</p></blockquote>
+<p><strong>Und was ist das Besondere an euren Farben und Papieren? Recyclingpapier wird ja immer noch bei manchen kritisch für einen qualitativen Druck gesehen, dennoch erzielt ihr so großartige Ergebnisse: Unsere Flyer werden stets gelobt. Sie sind farbintensiv und tief dunkelblau, wie es sich für eine NGO mit unserem Namen gehört.</strong></p>
+<blockquote>
+<p>Das Vorurteil, dass Recyclingpapiere noch immer gräulich oder gelblich aussehen, hält sich seit Jahrzehnten hartnäckig. Doch das ist schon längst nicht mehr so! Wer sich kostenlos unsere <a href="https://www.dieumweltdruckerei.de/papiermuster">Papiermuster</a> bestellt, kann sich leicht davon überzeugen. Wir sind was Recyclingpapiere angeht stets auf dem neuesten Stand. Gerade wechseln wir auf das <em>Circle Offset Premium White</em>. Es hat die höchstmögliche Weiße im Rahmen der Blauen Engel-Zertifizierung (135 CIE). In Kombination mit unseren Bio-Farben bildet es die Grundlage für hochwertige Druckergebnisse. Diese veganen Bio-Farben basieren auf Pflanzenölbasis. Sie benötigen dazu keine umweltschädlichen Mineralöle, um euer sattes Dunkelblau zu erzeugen.</p></blockquote>
+<p><strong>Ihr engagiert euch ja ebenfalls aktiv für den</strong> <a href="https://www.youtube.com/c/dieUmweltDruckerei1"><strong>Umweltschutz</strong></a><strong>. Fördert ihr in dem Kontext auch den Meeresschutz?</strong></p>
+<blockquote>
+<p>Richtig, wir engagieren uns primär für den Klima- und Artenschutz; vornehmlich in Deutschland, Europa und Afrika. Sowohl Natur- als auch Klima- und Meeresschutz können schwerlich getrennt voneinander betrachtet werden. Alles hängt miteinander zusammen.</p>
+<p>Ein Beispiel ist die Korallenbleiche, die primär durch steigende Wassertemperaturen verursacht wird. Wenn das Klima sich erwärmt, stressen die hohen Temperaturen die Korallen, was zur Bleiche führt und das gesamte Ökosystem gefährdet. Exemplarisch sind Meeresschildkröten auf gesunde Korallenriffe angewiesen, da diese Lebensräume für viele ihrer Beutetiere bieten. Korallenbleiche beeinträchtigen somit die Nahrungsgrundlage der Schildkröten. Zudem sind die Eier der Schildkröten anfällig für Veränderungen im Klima, da Temperatur und Meeresspiegel direkte Auswirkungen auf ihre Brutstätten haben. Um die Meeresschildkröten zu schützen, supporten wir beispielsweise ein <a href="https://www.dieumweltdruckerei.de/blog/tag/meeresschildkroeten/">Artenschutzprojekt in Kenia</a>. Gemeinsam haben wir vor Ort 1.200 Mangroven gepflanzt. Die Bäume leisten nicht nur einen wichtigen Klima- und Erosionsschutz, sondern dienen den Schildkröten und weiteren Arten als sicheres Brut- und Aufzuchtgebiet.</p></blockquote>
+<figure><a href="https://www.deepwave.org/wp-content/uploads/2024/10/kevin_riember_schadendorf_schildkroete.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2024/10/kevin_riember_schadendorf_schildkroete.jpg"
+    alt="Dr. Kevin Riemer-Schadendorf schwimmt im flachen Wasser mit einer Meeresschildkröte"></a><figcaption>
+      <p>© Kevin Riemer-Schadendorf/ dieUmweltDruckerei</p>
+    </figcaption>
+</figure>
+
+<p><strong>Das passt gut zu unserem eigenen Mangrovenschutzprojekt</strong> <a href="https://www.deepwave.org/projekte/mangrovenprojekt/"><strong>MANGREEN</strong></a> <strong>in Tamil Nadu. Hast du eigentlich eine persönliche Verbindung zum Meer?</strong></p>
+<blockquote>
+<p>Es gibt ja die Standardfrage, ob man eher ein „Berg- oder Meerestyp“ sei, wenn es um die Urlaubsplanung geht. Als Hamburger Jung bin ich am Wasser groß geworden, daher kann ich für mich ganz klar sagen: Meer! Sobald ich die Möglichkeit finde, springe ich ins Wasser – egal wie kalt das jeweilige Meer, der See oder Fluss auch immer ist. Ich wohne zur Hälfte in Hamburg und Berlin. Wenn ich nicht im Ausland am Meer bin, dann zieht es mich als Ausgleich nahezu jede Woche in die Hamburger Alsterschwimmhalle oder ins Berliner Prinzenbad.</p></blockquote>
+<p><strong>Apropos Wasser: Kannst du unseren Leser:innen erklären, warum es bei uns im DEEPWAVE Büro nur noch Hahnenwasser oder soziales Wasser gibt? Und zwar seitdem wir deine sehr zu empfehlende</strong> <strong>Podcast-Folge</strong> <strong>bei <a href="https://www.zweivorzwoelf.info/episoden">ZWEIvorZWÖLF (Folge #32)</a> gehört haben.</strong></p>
+<blockquote>
+<p>Das freut mich sehr! Und du hast meinen Begriff „soziales Wasser“ übernommen. Das ist zwar kein offizieller Begriff; beschreibt aber relativ gut, aus welchen zwei Perspektiven man Trinkwasser vornehmlich betrachten sollte; nämlich aus der ökologischen und eben aus der sozialen Perspektive. Sozial nenne ich das Wasser von <a href="https://www.vivaconagua.org/">Viva con Agua</a>, da mit jedem Kauf weltweite Trinkwasserprojekte gefördert werden, denn noch immer haben über <a href="https://www.tagesschau.de/ausland/europa/unesco-weltwasserbericht-100.html">zwei Milliarden</a> Menschen keinen Zugang zu sauberem Trinkwasser.</p>
+<p>Vielleicht noch wichtiger ist die ökologische Betrachtungsweise. Ich denke, wir sind uns alle einig, dass es völlig hanebüchen ist, hierzulande etwa Wasser von den Fiji-Inseln zu trinken. Da wird Wasser, stinknormales H₂O, am anderen Ende der Welt in Plastik abgepackt und einmal um die ganze Welt transportiert, um letztlich in Deutschland als sinnloser Müll zu enden oder gar wieder als Plastikmüll in die Türkei oder Malaysia exportiert zu werden, wo es in Deponien jahrhundertelang verrottet oder schlimmstenfalls in den Meeren als Mikroplastik endet. Eine wahrlich katastrophale Rohstoff-, Umwelt- und Klimabilanz. Und zudem völlig unnötig! Das <a href="https://utopia.de/ratgeber/kann-man-leitungswasser-deutschland-wirklich-trinken_4996/">Leitungswasser in Deutschland</a> ist eines der am strengsten kontrollierten Lebensmittel. Wir bekommen es nahezu kostenlos aus dem Wasserhahn. Ich trinke es seit meiner Geburt. Wenn ich Menschen in Afrika oder Indien erzähle, dass wir reinstes Trinkwasser aus der Leitung bekommen, darin baden und damit sogar unsere Notdurft herunterspülen, bekommt man recht schnell ein Gefühl dafür, wie privilegiert wir in Europa leben. Wenn ich ihnen darüber hinaus erzähle, dass Menschen, trotz dieses Privilegs, dennoch lieber Wasser im Supermarkt kaufen, ernte ich zu Recht, nennen wir es, erstaunte Gesichter.</p></blockquote>
+<p><strong>Du hast eben das Thema Umweltbilanzen angesprochen. Was ist für dich die wichtigste Schraube in der Bekämpfung der Klima- und Biodiversitätskrise? Und welche Rolle spielen Druckereien im Gesamtgefüge der Klimakrise?</strong></p>
+<blockquote>
+<p>Die wichtigste Schraube in der Bekämpfung der Klima- und Biodiversitätskrise ist die drastische Reduzierung des menschengemachten CO₂-Ausstoßes, insbesondere durch den Übergang zu erneuerbaren Energien, die Förderung nachhaltiger Landwirtschaft und die Verbesserung der Energieeffizienz samt Mobilitätswende. Dies reduziert nicht nur die Treibhausgase, sondern schützt letztlich auch Lebensräume, die für die Biodiversität entscheidend sind, indem wir die Umweltbelastungen verringern und die Resilienz der Ökosysteme stärken.</p>
+<p>In diesem Gesamtkontext spielt <em>jeder</em> eine Rolle. Natürlich auch die Wirtschaft und entsprechend Druckereien, die ebenfalls Energie und Rohstoffe benötigen. Manche scheinen sich dieser Verantwortung, jedoch nicht vollends bewusst zu sein. Häufig weisen politische Parteien mit dem Finger auf die jeweilige Oppositionspartei oder gar auf die Regierungen der Nachbarländer oder die Unternehmen schieben die Schuld auf die Konsument:innen und umgekehrt. Schuldzuweisungen führen zu keinen Lösungen! Jeder trägt Verantwortung. Wie heißt es in Dürrenmatts <a href="https://de.wikipedia.org/wiki/Die_Physiker">Die Physiker</a> noch gleich: <em>„Was alle angeht, können nur alle lösen. Jeder Versuch eines Einzelnen, für sich zu lösen, was alle angeht, muss scheitern.“</em> Der menschengemachte Klimawandel ist natürlich ein globales Problem. Das wissen wir spätestens seit den wissenschaftlichen Studien des <a href="https://de.wikipedia.org/wiki/Club_of_Rome">Club of Rome</a> Ende der 1960er Jahre. Die Klimakrise kann nur gemeinsam gelöst werden durch internationale Kooperationen, multilaterale Abkommen und supranationale Institutionen.</p></blockquote>
+<p><strong>Abschließend würden wir gerne in diesem Zusammenhang wissen: Was ist dein ganz persönliches Rezept gegen <em>doom and gloom</em>? Wie ermutigst du dich selbst bei all den schlechten Nachrichten jeden Tag?</strong></p>
+<blockquote>
+<p>Also in eine Weltuntergangsstimmung zu verfallen, halte ich natürlich für wenig erstrebenswert, obgleich wohl jeder bereits mal einen Hauch aus Melancholie und Pessimismus verspürte, wenn man jeden Abend in der Tagesschau die schlechten Nachrichten von Krieg, Klimakrise und Umweltverschmutzung ertragen muss. Ich hingegen klammere mich an die Maxime: <em>Think globally, act locally</em>. Versuche nicht, die Welt alleine zu retten, denn das wird dir nicht gelingen. Schaue einfach bei dir in der Nachbarschaft. Was gibt es dort für ökologische und soziale Probleme? Entscheide dich für eines und versuche dieses zu lösen, um damit die Welt ein kleines bisschen besser zu gestalten.</p></blockquote>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    %!s(&lt;nil&gt;)
+    
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

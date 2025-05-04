@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2016/07/ehuxcells_kailohbeck-geomar.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Kai Lohbeck / GEOMAR
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Ozeanversauerung – die Grenzen der Anpassung</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jul 11, 2016</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 11.07.2016, GEOMAR</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p><strong>Weltweit längstes Labor-Experiment mit der Kalkalge <em>Emiliania huxleyi</em> zeigt, dass evolutionäre Anpassung an Versauerung nur eingeschränkt möglich ist</strong> </p>
+<p>Die wichtigste einzellige Kalkalge der Weltmeere, <em>Emiliania huxleyi</em>, ist grundsätzlich in der Lage, sich durch Evolution an Ozeanversauerung anzupassen. Das bisher längste Evolutionsexperiment mit diesem Organismus zeigt jedoch, dass das Anpassungspotenzial nicht so groß ist, wie ursprünglich angenommen. So konnte sich die Wachstumsrate unter erhöhten Kohlendioxid-Konzentrationen auch nach vier Jahren nicht weiter nennenswert verbessern. Die Kalkbildung war sogar geringer als bei heutigen Zellen von <em>Emiliania huxleyi</em>. Die Studie zeigt, dass die evolutiven Effekte im Phytoplankton komplexer sind, als bisher angenommen.</p>
+<p>In einem bislang einmaligen Evolutionsexperiment demonstrierten Wissenschaftler des GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel und des Thünen-Instituts für Seefischerei, dass sich die wichtigste einzellige Kalkalge der Weltozeane, <em>Emiliania huxleyi</em>, nur begrenzt per Evolution an Ozeanversauerung anpassen kann. Dass die Anpassung per Evolution möglich ist, hatten GEOMAR-Wissenschaftler bereits 2012 bewiesen. Jetzt, vier Jahre nach Start des Experiments, hat sich die Anpassung in den Wachstumsraten der Kalkalge nur wenig verbessert. „Das Anpassungspotential von <em>Emiliania huxleyi</em> ist doch geringer als ursprünglich vermutet. Auch nach vier Jahren Evolution kann die Kalkalge die Beeinträchtigungen des Wachstums durch Versauerung nicht komplett kompensieren“, erklärt Dr. Lothar Schlüter, Erstautor der Studie und ehemaliger Doktorand am GEOMAR. Ihre Ergebnisse, die im Rahmen des Exzellenzclusters „The Future Ocean“ und des deutschen Forschungsverbunds BIOACID (Biological Impacts of Ocean Acidification) gewonnen wurden, stellen die Forscher jetzt im Fachmagazin Science Advances vor.</p>
+<p>Basis der Untersuchung war eine einzelne Zelle der Kalkalge aus dem Raunefjord in Norwegen. Da sich <em>Emiliania huxleyi</em> im Labor etwa einmal am Tag durch Teilung vermehrt, konnten aus dem Isolat zahlreiche genetisch zunächst identische Kulturen gewonnen werden. Für die Studie wurden jeweils fünf Kulturen unter konstanter Temperatur und drei unterschiedlichen Konzentrationen an Kohlendioxid (CO2) gehalten: Einem Kontrollwert mit heutigen Verhältnissen, den Bedingungen, die nach den kritischsten Berechnungen des Weltklimarats gegen Ende dieses Jahrhunderts erreicht werden könnten, und dem höchstmöglichen Grad an Versauerung.</p>
+<p>Nach vier Jahren, beziehungsweise 2100 Algen-Generationen später, stellten die Wissenschaftler fest: Die Zellen angepasster Populationen teilten sich zwar deutlich schneller als die nicht-angepassten, wenn beide der Ozeanversauerung ausgesetzt waren. Aber ihre Fitness verbesserte sich nur unwesentlich. Nach einem Jahr trat zunächst eine leichte Steigerung der Wachstumsraten relativ zu den Kontrollkulturen ein, später jedoch kaum noch – was im Gegensatz zu vielen anderen Evolutionsexperimenten steht. „Offenbar hat die Anpassung Grenzen, und die Beeinträchtigung der Wachstumsrate kann durch Evolution nicht komplett kompensiert werden“, so Schlüter.</p>
+<p>Einzellige Kalkalgen wie <em>Emiliania huxleyi</em> binden in ihren Kalkplättchen (Coccolithen) Kohlenstoff. Diese Kalkplättchen spielen als Ballast eine wichtige Rolle für den Kohlenstofftransport in den tiefen Ozean – und somit für die Fähigkeit der Weltmeere, Kohlendioxid aus der Atmosphäre aufzunehmen und die Folgen des Klimawandels abzumildern. „Drei Jahre nach Beginn des Experiments war die Produktion an Kalkplättchen in den an höhere CO2-Konzentrationen angepassten Kulturen geringer als bei nicht-angepassten“, berichtet Prof. Thorsten Reusch, Leiter der Marinen Ökologie und Koordinator der Studie. „Uns überraschte, dass dieser Effekt nicht gleich zu Beginn des Experiments eintrat – denn wenn die Ozeanversauerung die biologische Kalkbildung behindert, müsste diese direkt reduziert werden.“ Entgegen der 2012 publizierten Ergebnisse über die Beobachtungen im ersten Jahr des Experiments konstatieren die Forscher jetzt, dass Evolution die negativen Effekte auf die Kalkbildung der einzelnen Mikroalgen verstärkt.</p>
+<p>Die langfristig an Ozeanversauerung angepassten Kulturen hatten ihre Fähigkeit zur Bildung von Kalkplättchen jedoch nicht grundsätzlich reduziert. Wenn diese wieder heutigen CO2-Konzentrationen ausgesetzt wurden, war die Produktion wieder genauso hoch wie bei heutigen Kalkalgen. „Die Algen reduzieren die Kalzifizierung nur dann, wenn diese für sie aufwändiger ist – nämlich unter Ozeanversauerung“, betont Prof. Reusch. Zurzeit laufen weitere Untersuchungen, um die zellbiologischen Mechanismen zu verstehen, durch die ihre Kalkbildung reguliert wird. „Die evolutionäre Antwort von Phytoplankton-Organismen ist bei weitem komplexer als ursprünglich angenommen. Laborexperimente mit einzelnen Arten helfen uns, sie besser nachzuvollziehen. Nur mit diesem Wissen können wir abzuschätzen, wie der globale Wandel den Kohlenstoffkreislauf in Zukunft ändern wird.“</p>
+<p><a href="https://www.geomar.de/news/article/ozeanversauerung-die-grenzen-der-anpassung">Diese Pressemitteilung</a> findet ihr bei <a href="https://www.geomar.de/">GEOMAR</a>.</p>
+<p>Neuste Entdeckungen zur Anpassung von Kalkalgen an die Ozeanversauerung findet ihr in unserem Beitrag <a href="http://deepwave.org/was-geisterfossilien-ueber-vergangene-klimafolgen-verraten">&ldquo;Was „Geisterfossilien” über vergangene Klimafolgen verraten&rdquo;</a>.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/allianz-fuer-ozeanforschung-eine-nasa-fuer-die-meere/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.shz.de/img/incoming/crop19087351/2315124972-cv16_9-h495-o/20140825-601-pos473-maikenicolai-geomar-original.jpg" alt="Allianz für Ozeanforschung: Eine Nasa für die Meere" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Allianz für Ozeanforschung: Eine Nasa für die Meere</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Die Union und SPD wollen, laut Koalitionsvertrag, eine Allianz der Ozeanforschung errichten. Ziel ist es, die...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/meeresboden-als-langzeitdeponie-fuer-plastik/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2016/02/yannis-papanastasopoulos-U6dnImauDAE-unsplash-scaled.jpg" alt="Meeresboden als Langzeitdeponie für Plastik" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Meeresboden als Langzeitdeponie für Plastik</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Kieler Meeresforscher untersuchen Abbau von Plastiktüten im Sediment</strong></p>
+<p>10.02.2016/Kiel. Kieler Meeresforscher haben...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/meeresboden-als-langzeitdeponie-fuer-plastik/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

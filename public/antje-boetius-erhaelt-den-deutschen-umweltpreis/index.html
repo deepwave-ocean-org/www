@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Prof. Antje Boetius erhält den Deutschen Umweltpreis 2018</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Nov 03, 2018</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p><a href="https://www.deepwave.org/wp-content/uploads/2019/01/meeresbiologin-antje-boetius-1.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2019/01/meeresbiologin-antje-boetius-1.jpg" alt=""></a>© Alfred-Wegener-Institut / Kerstin Rolfes (CC-BY 4.0)</p>
+<p>Bereits zum 26. Mal wurde der Deutsche Umweltpreis der Deutschen Bundesstiftung Umwelt (DBU) vergeben, die Meeresbiologin Prof. Dr. Antje Boetius ist eine der Gewinnerinnen. Der mit 500.000 Euro dotierte Preis ist der größte unabhängige Umweltpreis Europas. Durch die Vergabe betont die DBU die große Bedeutung der Weltmeere für Klima, Lebensvielfalt und Nahrungsversorgung und warnt gleichzeitig vor dem Klimawandel, der Umweltverschmutzung und Überfischung.</p>
+<p><strong>Ein Leben für die Ozeane</strong></p>
+<p>Mit unterschiedlichen Schwerpunkten erforscht Antje Boetius die Biodiversität der Tiefsee, betreibt Wissenschaftskommunikation und setzt Projekte zwischen Wissenschaft, Kunst und Kultur um – die Ozeane und ihre Vielfalt sind die Themen der wohl bekanntesten Meeresforscherin Deutschlands. Ihren Anspruch an das Meer sieht sie dabei sogar durchaus romantisch: „Es geht darum, ein Paradies zu erhalten.“</p>
+<p>Ende der 1980er begann Antje Boetius‘ Reise in die unbekannten Weiten der Tiefsee. Sie studierte Biologie an der Universität Hamburg und setzte Anfang der 90er mit einem Studium der Biologischen Ozeanographie an der Scripps Institution of Oceanography in den USA nach. Der Startschuss für eine beeindruckende Laufbahn war gefallen. Für ihre Diplomarbeit über Tiefseebakterien verbrachte Boetius einige Monate auf diversen Forschungsschiffen im Pazifik und Atlantik. Ihre Dissertation schrieb die heute 51-Jährige an der Universität Bremen dann im Jahr 1996 über „mikrobielle Stoffumsätze in der Tiefsee der Arktis“, bevor sie 2001 zunächst Assistenz-Professorin an der Jacobs University Bremen und wissenschaftliche Mitarbeiterin am Alfred-Wegener-Institut im Fachbereich Geologie wurde. Seit 2009 ist sie Professorin für Geomikrobiologie an der Universität Bremen.</p>
+<p>Die international hoch geschätzte Wissenschaftlerin, die seit November 2017 außerdem Direktorin am Alfred-Wegener-Institut (AWI) ist, dem Helmholtz-Zentrum für Polar- und Meeresforschung in Bremerhaven, wurde mit verschiedensten Preisen ausgezeichnet. Unter anderem erhielt sie für ihre Arbeit den Gottfried-Wilhelm-Leibniz-Preis sowie den Communicator-Preis der Deutschen Forschungsgemeinschaft, den Advanced Grand des Europäischen Forschungsrates und nun vor wenigen Tagen den Deutschen Umweltpreis.</p>
+<p><strong>Mit Begeisterung und ganzheitlicher Sicht gegen die Bedrohungen des Meeres</strong></p>
+<p>Plastikmüll, Klimawandel, Tiefseebergbau oder Überfischung – die Liste der Bedrohungen für das Meer ist lang. Während in der Bevölkerung insbesondere das Thema Plastikmüll aktuell große Beachtung findet, sieht Boetius die Themen für gleichermaßen bedeutsam und gefährlich an. Langfristig gedacht ist jedoch immer noch der Klimawandel die größte Bedrohung, denn schon jetzt gibt es laut Boetius keine Region mehr in den Ozeanen, die nicht von ihm betroffen ist. Algen und Mikroorganismen machen die oberen Zonen des Meeres produktiv, verändern sich allerdings durch den Klimawandel und haben somit eine direkte Wirkung auf die fernsten Tiefseetiere. Das Konzept „unberührte Natur“ wird es dadurch für zukünftige Generationen gar nicht mehr geben, so die Wissenschaftlerin.</p>
+<p>Zum Verständnis der komplexen klimatischen Zusammenhänge hat Boetius mit dem Kerngebiet ihrer Forschung schon viel beitragen können. Beispielsweise wurde die Symbiose von Archaeen (Urbakterien) und Bakterien, die vom starken Treibhausgas Methan leben, erstmals von ihr entdeckt – eine wichtige Funktion in unserem Kohlenstoffkreislauf. Alle paar Jahre widmet sich die Forscherin allerdings wieder neuen Themen der Meeresbiologie, um das große Ganze zu sehen. Kein Wunder, denn auf ihren bald 50 mehrmonatigen Meeresexpeditionen weltweit kommt sie immer wieder mit neuen Phänomenen in Berührung – eine für sie unendliche Inspirationsquelle für Projekte und Forschung. Woher ihr unersättlicher Forschungswille stammt? Aus Neugierde auf das Unbekannte und der Faszination darüber, wie vieles wir noch immer nicht über unsere Welt wissen. Und natürlich daraus, wirklich etwas zu bewirken zu wollen.</p>
+<p><strong><em>»Mir ist wichtig, dass wir verstehen, dass das Wissen, Forschen und Entdecken ein Teil der Frage ist: Wer sind wir Menschen, wo wollen wir hin, wie wollen wir in Zukunft mit der Erde und den Meeren leben.«</em></strong></p>
+<p><strong>Wissen und Kommunikation als Brücke</strong></p>
+<p>Schon kleinste Veränderungen in unserer Lebensweise haben Konsequenzen für die Ozeane – der Bedarf an Wissen darüber ist groß, ebenso wie der Bedarf daran, mehr über die Rolle der Ozeane in globalen Zusammenhängen zu erfahren. Es geht immer wieder darum, andere Arten des Umgangs mit der Natur herauszufinden, dafür ist Wissen ein bedeutender Schritt. Und genau dieses Wissen will die Meeresbiologin an möglichst viele Menschen weitergeben.</p>
+<p>Es geht um Information, aber auch um Überzeugungen und das Bewirken von Veränderungen. Die Kommunikation mit den unterschiedlichsten Gruppen – ob Politiker, Medienschaffende oder Kinder – ist ein Schlüssel hierfür. Dafür geht Boetius gerne auch unkonventionelle Wege in Richtungen, in denen Wissenschaft sonst eher selten vorkommt. Beispielsweise in Kindersendungen und Unterhaltungsshows, in Lesungen mit Autoren oder Kulturveranstaltungen mit Musikern und Künstlern. Wer sich traut, neue Wege zu gehen, schafft es, unterschiedlichste Menschen zu erreichen und bisher unbeantwortete Fragen zu thematisieren – und genau das gelingt Boetius ausgezeichnet.</p>
+<p>Luisa Münch für DEEPWAVE</p>
+<p>Mehr darüber erfahrt in der <a href="https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/prof-antje-boetius-erhaelt-den-deutschen-umweltpreis-2018.html">Pressemitteilung</a> vom <a href="https://www.awi.de/">AWI</a> und in diesem <a href="https://www.youtube.com/watch?v=qAUuNtN2dJE&amp;feature=youtu.be&amp;fbclid=IwAR1oOqsxyEKz_cTpFrHjkhwtLCknoLILtr8ETC-1pYFhNQ-fZxIJ-k7RC1Y">Videobeitrag</a> der Deutschen Bundesstiftung Umwelt.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-bundesregierung-tut-zu-wenig-gegen-das-artensterben/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">NABU: Bundesregierung tut zu wenig gegen das Artensterben</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU: Bundesregierung tut zu wenig gegen das Artensterben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Tennhardt: Biodiversitätskonferenz muss neue Artenschutzpolitik auf den Weg bringen</p>
+<p>Berlin/Sharm-el-Sheich – Zum Auftakt...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/weddellmeer-plaene-fuer-groesstes-meeresschutzgebiet-gescheitert/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2018/11/antarctica-4500429_1920.jpg" alt="Weddellmeer: Pläne für größtes Meeresschutzgebiet gescheitert" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Weddellmeer: Pläne für größtes Meeresschutzgebiet gescheitert</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Das <a href="https://www.deepwave.org/kein-schutz-fuer-das-suedpolarmeer/">Weddellmeer</a> ist das größte Randmeer der Antarktis und bietet einen einzigartigen Lebensraum für etwa 14.000...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/weddellmeer-plaene-fuer-groesstes-meeresschutzgebiet-gescheitert/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

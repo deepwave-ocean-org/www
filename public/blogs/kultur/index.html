@@ -1,0 +1,1496 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+
+<section class="relative overflow-hidden w-full">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
+        style="background-image: url('https://www.deepwave.org/wp-content/uploads/2018/10/7_Kultur.jpg');">
+    </div>
+    
+    <div class="absolute inset-0" style="background-color: rgba(25,21,18,0.6);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white my-24">
+      <h1 class="text-3xl md:text-3xl mb-2">Kultur</h1>
+      
+        <div class="text-xl">Von Moby Dick, der Titanic bis hin zum Schimmelreiter,  das Meer in Theater, Literatur, Film, Musik und Kunst öffnet uns die Augen über uns und unsere Rolle auf diesem Planeten.</div>
+      
+    </div>
+  </section>
+
+<div class="not_full_width min-h-screen my-12">
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ethikrat-lasten-im-kampf-gegen-den-klimawandel-gerecht-verteilen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/03/hudson-hintze-unsplash_ethikrat_zusammen_gerecht_verteilen-scaled.jpg" alt="Lasten im Kampf gegen den Klimawandel gerecht verteilen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Lasten im Kampf gegen den Klimawandel gerecht verteilen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Ethikrat: Lasten im Kampf gegen den Klimawandel gerecht verteilen</strong></p>
+<p>Heute stellt der Deutsche Ethikrat seine Stellungnahme...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/move-like-water-story-of-the-sea-and-its-creatures-von-hannah-stowe/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;Move Like Water: Story of the Sea and Its Creatures&#34; von Hannah Stowe</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Move Like Water: Story of the Sea and Its Creatures&#34; von Hannah Stowe</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/wp-content/uploads/2023/09/Move_Like_Water.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2023/09/Move_Like_Water-300x284.jpg" alt="Buchcover Move Like Water, ein gezeichneter Wal der aus dem Meer springt"></a></p>
+<p>„There was never a time where I did not know the sea.“ Mit diesem Satz startet die 29-jährige Britin Hannah Stowe in...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/der-heissbaer/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/03/Cover_DerHeissbaer_Bilderbuch_Kinderbuch_Klimawandel_72fd26e6-fc0b-4fbb-bd93-506ae410dfe1-scaled.jpg" alt="Der HEISSbär" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Der HEISSbär</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Der HEISSbär ist ein Buch voller Optimismus und praktischer Tipps, die besonders die Kleinsten von uns dazu ermutigen,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-klaenge-der-arktischen-und-antarktischen-meere-neu-erleben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/02/Mother_and_baby_sperm_whale.jpg" alt="Die Klänge der arktischen und antarktischen Meere neu erleben" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die Klänge der arktischen und antarktischen Meere neu erleben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>105 internationale Klangkunstschaffende beteiligen sich an Kunst-Wissenschafts-Kooperation „Polar Sounds“</strong></p>
+<p>[03. Februar...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/wenn-haie-leuchten-von-julia-schnetzer/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/06/Wenn_Haie_leuchten_Julia_Schnetzer.jpg" alt="„Wenn Haie leuchten“ von Julia Schnetzer" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">„Wenn Haie leuchten“ von Julia Schnetzer</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Wenn ich einen Wunsch für mein 18-jähriges Ich äußern dürfte, dann dass „<a href="https://www.buecherinkleinborstel.de/shop/item/9783446269477/wenn-haie-leuchten-von-julia-schnetzer-gebundenes-buch">Wenn Haie leuchten</a>“ von Julia Schnetzer schon...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Diskussionsvortrag zur Dokumentation &#34;Seaspiracy&#34;</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Diskussionsvortrag zur Dokumentation &#34;Seaspiracy&#34;</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.youtube.com/watch?v=FWe">https://www.youtube.com/watch?v=FWe</a>_yW_kUjI</p>
+<p>Quelle: <a href="https://www.asta-landau.de/">AStA Landau</a> auf YouTube</p>
+<p>Die Netflix Dokumentation <em>Seaspiracy</em> geht...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/selfish-macht-auf-unseren-plastikkonsum-aufmerksam/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;Selfish&#34; macht auf unseren Plastikkonsum aufmerksam</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Selfish&#34; macht auf unseren Plastikkonsum aufmerksam</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Ihr sitzt in einem Sushi Restaurant und freut euch, mal wieder in ein frisches Stück Lachs beißen zu können. Der Koch...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/haenyeo-die-meeresfrauen-suedkoreas/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/08/Apnoetauchen.jpg" alt="haenyeo - die Meeresfrauen Südkoreas" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">haenyeo - die Meeresfrauen Südkoreas</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Schwerelos schwebe ich ein paar Zentimeter über dem Meeresgrund. Nur meine Knie und Zehen berühren hin und wieder den...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/plankton-von-christian-sardet/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/06/Buchcover_Plankton_von_Christian_Sardet-1.jpg" alt="„Plankton“ von Christian Sardet" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">„Plankton“ von Christian Sardet</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Als ich während meines meeresbiologischen Masters in Plymouth eine Studienfreundin besuchte, stach mir auf ihrem...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/tiefsee-vielfalt-in-der-dunkelheit/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/07/Tauchroboter_ROV_KIEL_6000_GEOMAR-scaled.jpg" alt="Tiefsee - Vielfalt in der Dunkelheit" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tiefsee - Vielfalt in der Dunkelheit</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Das Begleitbuch zu den neuen Ausstellungsräumen „Tiefsee“ und „Meeresforschung“ im Senckenberg Naturmuseum Frankfurt...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/under-europes-first-underwater-restaurant/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/07/Restaurant_Under_in_Norwegen_von_innen.jpg" alt="&#34;Under&#34; - Europes first underwater restaurant" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Under&#34; - Europes first underwater restaurant</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>In the south of Norway, close to a town called Lindesnes, and five meters below the surface the first underwater...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/geschenkempfehlung-die-insel-der-delfine-von-fabian-ritter/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/12/Die_Insel_der_Delfine_Cover.jpg" alt="Geschenkempfehlung - Die Insel der Delfine von Fabian Ritter" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Geschenkempfehlung - Die Insel der Delfine von Fabian Ritter</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Auf der kleinen Kanareninsel La Gomera, 300 Meter über dem Meeresspiegel, steht ein kleines zusammengezimmertes...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/sea-thru-die-wahren-farben-der-unterwasserwelt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/11/sea_thru_Korallen_Farben_Algorithmus.gif" alt="&#34;Sea-Thru&#34;- Die Farben der Unterwasserwelt ohne Wasser" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Sea-Thru&#34;- Die Farben der Unterwasserwelt ohne Wasser</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Mit dem Programm &ldquo;Sea-Thru&rdquo; wird es möglich, die Farben der <a href="https://www.deepwave.org/die-ozeane/">Unterwasserwelt</a> so zu sehen, wie sie an Land...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/zehn-kinderbuecher-die-uns-fuer-die-meere-begeistern/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Zehn Kinderbücher, die uns für die Meere begeistern</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Zehn Kinderbücher, die uns für die Meere begeistern</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>[et_pb_section fb_built=&ldquo;1&rdquo; _builder_version=&ldquo;4.16&rdquo;...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/zwoelf-buecher-fuer-die-ozeane-zum-lernen-staunen-und-kritischen-nachdenken/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>[et_pb_section fb_built=&ldquo;1&rdquo; _builder_version=&ldquo;4.16&rdquo;...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/bereit-zu-handeln-fuenf-buecher-zum-anpacken/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Bereit zu handeln? Fünf Bücher zum Anpacken</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Bereit zu handeln? Fünf Bücher zum Anpacken</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>[et_pb_section fb_built=&ldquo;1&rdquo; _builder_version=&ldquo;4.16&rdquo;...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/fische-fische-ueberall-von-britta-teckentrup/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/10/Fische_Fische_%c3%bcberall_Britta_Teckentrup_Empfehlung-1.jpg" alt="&#34;Fische, Fische überall&#34; von Britta Teckentrup" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Fische, Fische überall&#34; von Britta Teckentrup</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Eigentlich möchte man das Buch anfangs gar nicht aufschlagen. Das Cover dieses Kindersachbuchs ist so wunderschön, die...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/was-fische-wissen-von-jonathan-balcombe/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/10/Balcombe_Was_Fische_wissen_Cover-scaled.jpg" alt="&#34;Was Fische wissen&#34; von Jonathan Balcombe" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Was Fische wissen&#34; von Jonathan Balcombe</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Gewöhnlich hält man Fische für ein bisschen oder auch sehr dumm. Sie bevölkern einen Lebensraum, von dem wir hier auf...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deep-sea-mining-leave-my-down-below-alone/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Deep sea mining!? Leave my down below alone!</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Deep sea mining!? Leave my down below alone!</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Die Organisation <a href="https://seas-at-risk.org/">Seas at Risk</a> zeigt mit ihrem Cartoon-Video: &ldquo;Deep sea mining!? Leave my down below alone!&rdquo;...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/our-plastic-our-problem-a-marine-litter-info-operetta/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Our Plastic, Our Problem (A marine litter info-operetta!)</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Our Plastic, Our Problem (A marine litter info-operetta!)</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Hier eine kleine Info-Operette für alle Plastik-und Musikliebhaber! Sie zeigt, warum sich in der Gesellschaft und in der...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/earth-by-lil-dicky/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;EARTH&#34; by Lil Dicky</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;EARTH&#34; by Lil Dicky</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p> </p>
+<p><a href="https://www.youtube.com/watch?time">https://www.youtube.com/watch?time</a>_continue=431&amp;v=pvuN_WvF1to&amp;feature=emb_title</p>
+<p>Quelle: <a href="https://youtu.be/pvuN_WvF1to">Lil Dicky</a> auf YouTube...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/blue-the-day-the-sea-changed/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">BLUE: The Day The Sea Changed</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">BLUE: The Day The Sea Changed</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>&ldquo;No matter where you live on our planet, you are connected to the sea&rdquo;</p>
+<p><a href="https://bluethefilm.org/">&ldquo;BLUE: The Day The Sea...</a></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;21 Lektionen für das 21. Jahrhundert&#34; von Yuval Noah Harari</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;21 Lektionen für das 21. Jahrhundert&#34; von Yuval Noah Harari</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/wp-content/uploads/2019/07/Harari_21_Lektionen_fuer_das_21te_Jahrhundert.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/07/Harari_21_Lektionen_fuer_das_21te_Jahrhundert-300x300.jpeg" alt="Das Buch &ldquo;21 Lektionen für das 21. Jahrhundert&rdquo; von Yuval Noah Harari ist zu sehen. Im Hintergrund sind weitere Bücher mit Augen auf dem Cover zu sehen."></a>Mir war nie klar, wie relevant Geschichte ist. Bis ich auf Empfehlung meines Bruders „Eine kurze Geschichte der...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/das-ozeanbuch-ueber-die-bedrohung-der-meere/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;Das Ozeanbuch - Über die Bedrohung der Meere&#34; von Esther Gonstalla</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Das Ozeanbuch - Über die Bedrohung der Meere&#34; von Esther Gonstalla</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><blockquote>
+<p><a href="https://www.deepwave.org/wp-content/uploads/2019/07/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/07/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla-300x300.jpeg" alt="Das Ozeanbuch - Über die Bedrohung der Meere liiegt aufgesclagen, als auch mit dem Cover vor einem Globus"></a>&ldquo;Es ist ein interessanter biologischer Umstand, dass wir alle in unseren Adern die exakt gleiche Menge an...</p></blockquote></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-liedermacher-der-meere/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/06/vivek-kumar-fs283LESUtc-unsplash-scaled.jpg" alt="Die Liedermacher der Meere" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die Liedermacher der Meere</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Der Mensch ist nicht das einzige Lebewesen, das komplexe Kommunikationsstrukturen aufweist. Fast alle Meeresbewohner...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/vier-fuers-klima/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Vier fürs Klima von Petra Pinzler und Günther Wessler</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Vier fürs Klima von Petra Pinzler und Günther Wessler</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/wp-content/uploads/2019/06/Vier_f%C3%BCrs_Klima.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/06/Vier_f%C3%BCrs_Klima-300x300.jpeg" alt="Das Buch Vier fürs Klima vor einem Fahrrad mit einem Bioapfel und einem konventionellen Apfel"></a>Dass wir zu viel CO2 und andere Treibhausgase in die Luft pusten, ist wohl allen inzwischen klar. Dass wir als...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/sea-change-a-message-of-the-oceans-by-sylvia-earle/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/06/Sylvia_Earl_1.jpeg" alt="Sea Change: A Message of the Oceans by Sylvia Earle" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Sea Change: A Message of the Oceans by Sylvia Earle</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Die US-amerikanische Umweltaktivistin und Meeresforscherin Sylvia Earle hat in ihrer Karriere viel gesehen und erlebt,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/unterwasserlaerm-ein-unueberhoerbares-problem/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Unterwasserlärm – Ein unüberhörbares Problem.</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Unterwasserlärm – Ein unüberhörbares Problem.</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Unterwasserlärm ist eine tödliche Gefahr für Wale und viele andere Meeresbewohner. Wir sind dafür verantwortlich, dass...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/der-schwarm/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;Der Schwarm&#34; von Frank Schätzing</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Der Schwarm&#34; von Frank Schätzing</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/wp-content/uploads/2019/06/Der_scharm_mit-elphi.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/06/Der_scharm_mit-elphi-300x300.jpeg" alt="Das Buch &ldquo;Der Schwarm&rdquo; an einer Hafenkante mit Kran und Elbphilarmonie im Hintergrund"></a>„Hier, lies das mal!“ sagte Onno Groß bei unserem ersten Treffen im Jahr 2005. Das Buch „Der Schwarm“ von Frank...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/meuterei-auf-hoher-see/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Die drei ??? - Meuterei auf hoher See</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die drei ??? - Meuterei auf hoher See</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/wp-content/uploads/2019/06/Drei_Frage_Meuterei.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/06/Drei_Frage_Meuterei-300x300.jpeg" alt="Die CD zum Hörspiel &ldquo;Die drei Fragezeichen: Meuterei auf hoher See&rdquo;, ein Smartphone auf dem die Folge läuft und Kopfhörer"></a>In der Folge 83 „Meuterei auf hoher See“ haben Justus (1. Detektiv), Peter (2. Detektiv) und Bob (Recherche und Archiv)...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-geschichte-des-wassers/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;Die Geschichte des Wassers&#34; von Maja Lunde</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Die Geschichte des Wassers&#34; von Maja Lunde</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/wp-content/uploads/2019/06/Die_Geschichte_das_Wassers_2.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/06/Die_Geschichte_das_Wassers_2-300x300.jpeg" alt="Das Buch &ldquo;Die Geschichte des Wassers&rdquo; an Ufer eines kleinen Flusses mitten in der Natur"></a><strong>„Die Geschichte des Wassers“</strong> – Eine Geschichte, die nachwirkt</p>
+<p>Es ist mitten im Jahrhundertsommer 2018, als ich „Die...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/das-meer/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;Das Meer&#34; von Jules Michelet</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Das Meer&#34; von Jules Michelet</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><blockquote>
+<p><a href="https://www.deepwave.org/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-25-at-10.14.20.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-25-at-10.14.20-300x300.jpeg" alt="Das sehr alte Buch &ldquo;Das Meer&rdquo; vor einer alten Zeichnung mir Tiefseelebewesen"></a>“Ist dieses wie Blut so salzige Meer, das einen Kreislauf besitzt, einen Puls und ein Herz (wie Maury den Äquator...</p></blockquote></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ins-weite-ins-offene/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Ins Weite, ins Offene</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Ins Weite, ins Offene</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/ins-weite-ins-offene/vektorfeld_dina_1_klein/"><img src="https://www.deepwave.org/wp-content/uploads/2019/06/VEKTORFELD_DINA_1_klein.png" alt=""></a></p>
+<h3 id="benefizkonzert-für-deepwave-ev-mit-vektorfeld">Benefizkonzert für DEEPWAVE e.V. mit VEKTORFELD</h3>
+<p> </p>
+<p>[one_half]</p>
+<h4 id="samstag-29-juni-2019-20-uhr">Samstag, 29. Juni 2019, 20 Uhr</h4>
+<h4 id="maria-magdalenen-kirche-stübeheide-175-22337-hamburg-klein-borstel">Maria-Magdalenen-Kirche...</h4></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/der-film-albatross-gaensehaut-und-plastikverschmutzung/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/06/HelgoVogelFelsNetzRest17_073.jpg" alt="Der Film &#34;Albatross&#34;: Das stille, quälend langsame Sterben durch Plastik" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Der Film &#34;Albatross&#34;: Das stille, quälend langsame Sterben durch Plastik</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Einundfünfzig, zweiundfünfzig, dreiundfünfzig&hellip; Stück für Stück entnimmt <a href="https://www.deepwave.org/chris-jordan-polluting-plastics/">Chris Jordan</a> mit einer Pinzette einem...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deepwave-filmfestival-zum-schutz-der-meere/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">DEEPWAVE Filmfestival zum Schutz der Meere</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">DEEPWAVE Filmfestival zum Schutz der Meere</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/deepwave-filmfestival-zum-schutz-der-meere/_kirsten_und_joachim_jakobsen/"><img src="https://www.deepwave.org/wp-content/uploads/2019/04/%C2%A9_Kirsten_und_Joachim_Jakobsen.jpg" alt=""></a>© Kirsten Jakobsen/Joachim Jakobsen</p>
+<p>Wir freuen uns euch zum ersten DEEPWAVE Filmfestival am 24. Mai 2019 in Hamburg mit...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/his-epic-message-will-make-you-want-to-save-the-world-short-film-showcase/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">His Epic Message Will Make You Want to Save the World | Short Film Showcase</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">His Epic Message Will Make You Want to Save the World | Short Film Showcase</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Während die menschliche Population weiter wächst, wachsen auch die durch uns entstandenen Schäden an der Umwelt. Der...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/chris-jordan-polluting-plastics/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Chris Jordan: Polluting Plastics</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Chris Jordan: Polluting Plastics</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Ein Kunstwerk aus 2,4 Millionen Plastikteilchen aus dem Pazifik? Künstler und Fotograf Chris Jordan zeigt, wie so etwas...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/international-ocean-film-tour-volume-6/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">International OCEAN FILM TOUR Volume 6</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">International OCEAN FILM TOUR Volume 6</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>&ldquo;Adventure. Action. Ocean Life. Die Int. OCEAN FILM TOUR Volume 6 bringt euch zurück ans Meer&rdquo;</p>
+<p>Die...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/piwi-ein-bildungsprojekt-fuer-kinder/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.piwipedia.de/de/wp-content/uploads/sites/3/2018/04/header_big_1180x400.jpg" alt="Juniors Corner: PIWI- Ein Bildungsprojekt für Kinder" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Juniors Corner: PIWI- Ein Bildungsprojekt für Kinder</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Das Bildungsprojekt PIWI ist ein Umweltbildungsangebot für Kinder und ihre Begleitpersonen, um sie spielerisch an das...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/tigran-hamasyan-markos-and-markos/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Tigran Hamasyan - Markos and Markos</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tigran Hamasyan - Markos and Markos</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.youtube.com/watch?v=jFeoInAR8Dw&amp;feature=youtu.be">https://www.youtube.com/watch?v=jFeoInAR8Dw&amp;feature=youtu.be</a></p>
+<p> </p>
+<p>Tigran Hamasyan&rsquo;s <em>Markos and Markos</em> from his...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/umweltbelastung-wie-wir-die-ozeane-entlasten-koennen/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Wie wir die Ozeane entlasten können</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Wie wir die Ozeane entlasten können</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>W</p>
+<figure><a href="https://www.deepwave.org/wp-content/uploads/2018/12/tractor-4543124_1920-1.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2018/12/tractor-4543124_1920-1.jpg"
+    alt="Umweltbelastung:...</a></figure></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/elegy-for-the-arctic/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Elegy for the Arctic</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Elegy for the Arctic</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Repostet aus gegebenem Anlass: für alle Teilnehmer der UN-Klimakonferenz in Katowice 2018</p>
+<p>Through his music, acclaimed...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/cinemare-internationales-meeresfilmfestival-kiel-24-28-okt-2018/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2018/09/movie-theater-2502213_1920.jpg" alt="CineMare: 3. Internationales Meeresfilmfestival" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">CineMare: 3. Internationales Meeresfilmfestival</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Nachdem DEEPWAVE e.V. im Jahr 2016 beim 1. CineMare Meeresfilmfestival als Partner mit an Bord war, freuen wir uns sehr,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/parodie-plastic-state-of-mind/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2018/02/daniel-romero-DPC8oN2IMcY-unsplash-scaled.jpg" alt="Plastic State of Mind" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Plastic State of Mind</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Ben Zolno transportiert in seiner Parodie des Songs <em>Empire State of Mind</em> die klare Botschaft: „Ban single use plastic...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/street-art-gegen-grundschleppnetzfischerei/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2014/07/graffiti-569265_1920.jpg" alt="Street-Art gegen Grundschleppnetzfischerei" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Street-Art gegen Grundschleppnetzfischerei</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Während sich heute die Fischereiminister:innen der EU-Mitgliedsstaaten treffen, nehmen sieben bekannte...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+    </div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

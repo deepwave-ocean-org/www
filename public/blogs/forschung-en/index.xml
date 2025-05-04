@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forschung-En on My New Hugo Site</title>
+    <link>http://example.org/blogs/forschung-en/</link>
+    <description>Recent content in Forschung-En on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/blogs/forschung-en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IUCN report: the future of deep sea mining</title>
+      <link>http://example.org/iucn-report-the-future-of-deep-sea-mining/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/iucn-report-the-future-of-deep-sea-mining/</guid>
+      <description>&lt;p&gt;When we think of the &lt;a href=&#34;https://www.deepwave.org/the-oceans/the-deep-sea/?lang=en&#34;&gt;deep sea&lt;/a&gt;, we often associate this unique habitat with cold and darkness. What at first seems dull and empty is home to an amazing variety of species. IUCN&amp;rsquo;s 2018 report also described ecosystems as unique and valuable. The report&amp;rsquo;s authors stress that we have brought many marine species and habitats to the brink of destruction through our ruthless treatment of our environment. As commercial interest in the raw materials of deep sea soils increases, there is an urgent need to prevent deep-sea exploitation and destruction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A 450-Year Record of North Sea Herring, Pried from Clams</title>
+      <link>http://example.org/a-450-year-record-of-north-sea-herring-pried-from-clams/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/a-450-year-record-of-north-sea-herring-pried-from-clams/</guid>
+      <description>&lt;p&gt;An unseeming yet long living mussel species, the island mussel, provided scientists with an insight into the population development of the Herring over the last 450 years. This was done through chemical analysis of the mussel shells, forming annual rings similar to those of trees. How can these rings be utilised to gain insight into the population changes of various fish species? Findings like these are yet another proof for the complexity of our ecosystem. They show how closely linked the &lt;a href=&#34;https://www.deepwave.org/the-oceans/?lang=en&#34;&gt;oceanic habitat&lt;/a&gt; is with its inhabitants, and how the climate influences all its parameters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mutilated dolphins wash up on French coast in record numbers</title>
+      <link>http://example.org/mutilated-dolphins-wash-up-on-french-coast-in-record-numbers-2/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/mutilated-dolphins-wash-up-on-french-coast-in-record-numbers-2/</guid>
+      <description>&lt;p&gt;This year, more dead dolphins were washed up on the French Atlantic coast than ever before. According to estimates of activists, there are at least 1100 animals, but the estimated number of unreported cases is 10 times higher, because many dead bodies already sink in the open sea. Many of the animals were severely injured and mutilated. Although the exact causes of death are not clear, the dolphins appear to have come into contact with large &lt;a href=&#34;https://www.deepwave.org/the-oceans/overfishing/?lang=en&#34;&gt;fishing trawlers and nets&lt;/a&gt;. Because the nets used are not selective in fishing, the dolphins often die as bycatch and drown when they become entangled in the net underwater or die when the net which the catch is pulled up. The number of dolphins killed in this way has risen sharply in the last three years, bringing already endangered European populations further to the brink of extinction. The French Minister of Agriculture has announced an &amp;ldquo;action plan&amp;rdquo; that includes special nets with acoustic signals to alert the dolphins to the net. &lt;a href=&#34;https://sea-shepherd.de/&#34;&gt;Sea Shepherd&lt;/a&gt; criticizes this plan because many fishermen are afraid that the acoustic signals will also drive away fish. How the implementation will be controlled is also unclear.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

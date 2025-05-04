@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">„Hard Rock“ auf dem Meeresboden der Tiefsee</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jul 01, 2020</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, Senckenberg Gesellschaft für Naturforschung, 19. Juni 2020</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <figure><a href="https://www.deepwave.org/wp-content/uploads/2020/07/Hard_Rock_Steine_in_der_Tiefsee.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2020/07/Hard_Rock_Steine_in_der_Tiefsee.jpg"
+    alt="Steine und Felsen zwischen Sand unterwasser in der Tiefsee"></a><figcaption>
+      <p>© GEOMAR ROV Kiel6000 aus einem Manganknollengebiet im Pazifik.</p>
+    </figcaption>
+</figure>
+
+<h4 id="der-weg-zur-entschlüsselung-der-artenvielfalt-am-meeresgrund-ist-steiniger-als-bisher-angenommen">Der Weg zur Entschlüsselung der Artenvielfalt am Meeresgrund ist steiniger, als bisher angenommen</h4>
+<p>Senckenberg- und GEOMAR- Forscher:innen haben mittels hydroakustischer Meeresbodenkartierung herausgefunden, dass der Meeresgrund im Atlantik sehr viel vielfältiger ist, als bislang angenommen. Bisher wurden von Biolog:innen in der abyssalen Tiefsee hauptsächlich monotone Sedimentebenen vermutet. Die Wissenschaftler:innen zeigen nun in ihrer heute im Fachjournal „PNAS “ veröffentlichten Studie, dass im Atlantik ein Flickenteppich von Felshabitaten und anderen Hartsubstraten zu erwarten ist, der in manchen Regionen dieser Tiefenzone 30 Prozent des Meeresbodens ausmachen kann. Es wird erwartet, dass die Vielfalt der Lebensräume direkte Auswirkungen auf die dortige Lebewelt hat.</p>
+<p>Die Tiefsee ist bekannt für ihre unerforschte und überraschend große Artenvielfalt – trotz der extremen Lebensbedingungen ist sie Heimat für zahlreiche Organismen, die sich auf vielfältige Weise angepasst haben: vom Riesenkalmar über den Pelikanaal bis hin zu blaugrün leuchtenden Schlangensternen. „Diese Vielfalt, die uns auf jeder Expedition begegnet, steht in einem Widerspruch zu der Annahme, dass der Lebensraum dieser Tiere recht gleichförmig sein soll“, erklärt Dr. Torben Riehl vom Senckenberg Forschungsinstitut und Naturmuseum in Frankfurt und fährt fort: „Wir haben uns gefragt: Wieso können in einem derart homogenen Lebensraum so viele Arten koexistieren und überhaupt erst entstehen? Ist der abyssale Meeresboden möglicherweise weniger monoton, als angenommen?“</p>
+<p>Riehl hat gemeinsam mit der Leiterin der Senckenberg-Abteilung „Marine Zoologie“ Prof. Dr. Angelika Brandt und Tiefsee-Forscher:innen des GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel während einer Expedition mit dem Forschungsschiff Sonne im Jahr 2015 das Gebiet um eine unterseeische Bruchzone genau unter die Lupe genommen. Als Bruchzonen werden von Geolog:innen Täler in der – in diesem Fall – ozeanischen Kruste bezeichnet die quer zu den Mittelozeanischen Rücken verlaufen und sich über hunderte Kilometer erstrecken. Die Wissenschaftler*innen haben den Meeresboden des tropischen Nordatlantik in etwa 4.500 bis 5.500 Metern Tiefe über eine Fläche von 94.000 Quadratkilometern kartiert und analysiert. „Unsere hydroakustischen Daten erlauben eine Unterscheidung zwischen felsigem und sedimentiertem Meeresboden sowie Übergangsbereichen. Probenahmen und Videos haben gezeigt, dass die angewandte Methode tatsächlich in dieser Tiefe funktioniert. Das kartierte Gebiet war von Felshabitaten übersäht. Damit können wir sagen, dass der Meeresboden in dieser Tiefenzone viel heterogener ist, als gemeinhin angenommen. Diese Hartsubstrate wurden bislang schlichtweg übersehen!“, sagt Riehl und erklärt weiter: „Die meisten Karten vom Meeresgrund in diesen Tiefen haben meist nur eine Auflösung im Kilometerbereich — das ist als wenn man als Weitsichtiger versucht, ohne Brille das Kleingedruckte zu lesen; es sind nur stark verschwommene Konturen sichtbar. Nimmt man nun unsere neu erstellten Karten des Seebodens zum Vergleich, ist es, als würde man die Lesebrille aufsetzen. Die neu erstellten Karten haben eine Auflösung von 60 Metern und sind im Vergleich zu früher gestochen scharf. Es lassen sich Details erkennen, die man bislang bestenfalls erahnen konnte. Zusätzlich zum Meeresbodenmodell konnten wir aus den erhobenen Daten weitere Aussagen über den Meeresboden machen.“</p>
+<p>Doch wie konnten die steinigen Lebensräume trotz zahlreicher Tiefsee-Expeditionen seit den 1950er-Jahren bisher unbemerkt bleiben? Das Team um den Frankfurter Tiefseeforscher vermutet in seiner Studie, dass dies mit der bisher lediglich stichprobenartigen Erforschung und auch mit den Forschungs-Geräten selbst zusammenhängt: Schlitten, Schleppnetze, Bohrgeräte und Co wurden überwiegend für den Einsatz auf relativ ebenen und vor allem weichen Sedimenten entwickelt. „Die Tiefseefauna zu beproben, ist technisch höchst anspruchsvoll. Besteht aufgrund der Kartengrundlage, so ungenau sie sein mag, die Möglichkeit einer unebenen Topographie am Meeresboden, wird der Geräteeinsatz an diesem Ort in der Regel noch einmal überdacht. Denn sollten die Geräte beim Einsatz verloren gehen oder beschädigt werden, könnte das die Expedition gefährden. Diese Praxis führt aber zu einer Verzerrung unseres Bildes von der Tiefsee“, ergänzt Riehl.</p>
+<p>Das Team hat seine Ergebnisse auf den gesamten Atlantik extrapoliert und so die Gesamtfläche verfügbarer Hartsubstrate geschätzt. Riehl hierzu: „Je nach Krustenalter macht Hartsubstrat bis zu 30 Prozent des Meeresbodens aus. Insgesamt kommen wir hier auf eine Fläche von über 260.000 Quadratkilometern für die wir felsigen Meeresboden annehmen können. Da fester Untergrund ein bedeutender Lebensraum für zahlreiche Tiefseeorganismen ist und Einfluss auf die Verbreitung von Arten hat, ist dies eine extrem wichtige Information, um die Biodiversität im Abyssal neu zu interpretieren und ihre Ursprünge und Zusammensetzung besser zu verstehen!“</p>
+<p>Die angewandte Methode kombiniert Informationen über die Topographie und die Rauigkeit des Meeresbodens, welche mithilfe eines Fächer-Echolots gewonnen werden. „Sie wurde unseres Wissens nach erstmals auf diese Weise in abyssalen Tiefen angewandt und ermöglicht so die Unterscheidung von Lebensraumtypen und die Quantifikation dieser Habitatvielfalt. Somit lässt sie sich für die Erkundung des Meeresbodens, zum Beispiel im Zusammenhang mit der Errichtung von Schutzgebieten in der Tiefsee, einsetzen“, gibt Riehl einen Ausblick.</p>
+<p><strong>Publikation</strong> Torben Riehl, Anne-Cathrin Wölfl, Nico Augustin, Colin W. Devey, Angelika Brandt (2020): Discovery of widely available abyssal rock patches reveals overlooked habitat type and prompts rethinking deep-sea biodiversity. Proceedings of the National Academy of Sciences Jun 2020, 201920706; DOI: 10.1073/pnas.1920706117</p>
+<p>Diese <a href="https://www.senckenberg.de/de/pressemeldungen/hard-rock-in-der-tiefsee/">Pressemitteilung</a> findet ihr auf der Website des <a href="https://museumfrankfurt.senckenberg.de/en/">Senckenberg Museum Frankfurt</a>.</p>
+<p>Wer mehr über das faszinierende Leben in den Tiefen der Meere erfahren möchte, kann einen Einstieg auf unserer <a href="https://www.deepwave.org/die-ozeane/die-tiefsee/">Tiefseeseite</a> finden.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/mit-der-sonne-in-den-norden-beginn-der-iceage-expedition/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Mit der Sonne in den Norden: Beginn der IceAGE-Expedition</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Mit der Sonne in den Norden: Beginn der IceAGE-Expedition</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Wilhelmshaven/Hamburg, 02.07.2020. Aktuell befinden sich 34 Forschende, unter der Leitung von Senckenbergerin Dr. Saskia...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-klimabewegung-hat-ein-rassismusproblem/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/10/tonnydatteln-4961-960-640-80-c.jpg" alt="Die Klimabewegung hat ein Rassismusproblem" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die Klimabewegung hat ein Rassismusproblem</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Tonny Nowshin ist Klimaaktivistin. Regelmäßig ist sie Teil von Aktionen, die der Welt und der <a href="https://www.deepwave.org/die-ozeane/klimawandel/">Klimakrise</a> eine Stimme...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/die-klimabewegung-hat-ein-rassismusproblem/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2019/06/Champ_de_nodules_dans_le_Pacifique_equatorial_nord.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © CC BY-SA 3.0 / Wikimedia Commons
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Forschende warnen vor Tiefsee-Goldrausch</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jun 28, 2019</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 17.08.2018, EurekAlert!</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Angesichts der immer weiter voranschreitenden Pläne für einen baldigen Start des Tiefseebergbaus haben Wissenschaftler:innen und Politikexpert:innen der Universität Exeter und Greenpeace eine neue Studie veröffentlicht. In ihr sprechen sie Empfehlungen aus, wie die Menschheit Umweltschäden durch Tiefseebergbau verhindern kann. Im Vordergrund steht dabei der Schutz der Biodiversität der Tiefsee. EurekAlert! hat dazu folgende Pressemitteilung veröffentlicht:</p>
+<h4 id="warning-over-deep-sea-gold-rush">Warning over deep-sea &ldquo;gold rush&rdquo;</h4>
+<p>A &ldquo;gold rush&rdquo; of seabed mining could lead to unprecedented damage to fragile deep-sea ecosystems, researchers have warned. With major decisions on the future of seabed mining expected in 2019-20, scientists and policy experts from the University of Exeter and Greenpeace have recommended a range of measures to prevent environmental damage. They say deep-sea ecosystems currently need more protection, rather than new threats. They also argue that mining in the deep sea (depths below 200m) could be avoided altogether if humanity moved towards a &ldquo;circular economy&rdquo; that focuses on reuse and recycling of metals, reduces overconsumption and limits built-in obsolescence of technology.</p>
+<p>&ldquo;This &lsquo;gold rush&rsquo; is being driven by our ever-growing demand for minerals,&rdquo; said Dr David Santillo, a marine biologist and senior Greenpeace scientist based at the University of Exeter. &ldquo;Should we allow seabed mining - with the risk it poses to deep-sea ecosystems - or should we focus instead on reducing this demand for virgin minerals?&rdquo; The scientists also call for an improved network of Marine Protected Areas, strict regulations and monitoring of all human activities on the seabed, and far greater transparency on the costs and benefits of any proposed mining. &ldquo;The deep sea is beyond the jurisdiction of any single state and we need more joined-up global governance to prevent biodiversity loss from human activities&rdquo;, said Dr Kirsten Thompson, a marine biologist at the University of Exeter and co-author on the study. &ldquo;Some areas targeted for seabed mining are known to be hotspots for biodiversity, including habitat for endemic corals and nursery grounds for sharks.&rdquo;</p>
+<p>The paper, published in the journal <em>Frontiers in Marine Science</em>, gives an overview of the current state of regulations and their likely effectiveness, with the aim to stimulate wider discussion before the International Seabed Authority reaches any decisions to allow commercial mining of the seafloor. &ldquo;Many marine scientists are concerned that, once the first commercial contract for mining is issued, there will be no going back,&rdquo; said Kathryn Miller, a co-author on the study. &ldquo;Before that happens, we should be absolutely certain that we have looked carefully at all the other options for a more sustainable future.&rdquo;</p>
+<p>The study recommends:</p>
+<ul>
+<li>Sustainability: Create a &ldquo;circular economy&rdquo; based on reuse and recycling, extending product lifespans and discouraging overconsumption.</li>
+<li>Monitoring: Robust monitoring and research of deep-sea ecosystems through an international ocean agency.</li>
+<li>Protection: Establish a coherent network of Marine Protected Areas.</li>
+<li>Transparency: Inform the global community, including all indigenous groups and small-island states, of the costs and benefits of proposed activity according to the United Nations convention stipulation that activities in the deep sea must be carried out for &ldquo;the benefit of mankind&rdquo;.</li>
+<li>Legislation: Strict regulations to prevent harm to ecosystems must be enforced by the regulatory body and be independently verified.</li>
+</ul>
+<p>The study follows a previous paper that suggested seabed mining could do irreversible damage to deep-sea ecosystems.</p>
+<p><a href="https://www.eurekalert.org/news-releases/583242">Diese Pressemitteilung</a> vom 17.08.2018 findet ihr bei <a href="https://eurekalert.org/">EurekAlert!</a>.</p>
+<p>Das Paper <a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00480/full">Seabed mining and approaches to governance of the deep seabed</a> findet ihr bei <a href="https://www.frontiersin.org/journals/marine-science#">Frontiers in Marine Science</a>.</p>
+<p>Auch in Anbetracht der Tatsache, dass die bisher erschlossenen Erdölvorkommen immer kleiner werden, rückt der <a href="https://www.deepwave.org/wp-content/uploads/2015/03/Tiefsee-Oel.pdf">Abbau der riesigen Ölfelder</a> in der Tiefsee in den Fokus der Unternehmen.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-liedermacher-der-meere/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/06/vivek-kumar-fs283LESUtc-unsplash-scaled.jpg" alt="Die Liedermacher der Meere" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die Liedermacher der Meere</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Der Mensch ist nicht das einzige Lebewesen, das komplexe Kommunikationsstrukturen aufweist. Fast alle Meeresbewohner...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/vier-fuers-klima/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Vier fürs Klima von Petra Pinzler und Günther Wessler</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Vier fürs Klima von Petra Pinzler und Günther Wessler</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/wp-content/uploads/2019/06/Vier_f%C3%BCrs_Klima.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/06/Vier_f%C3%BCrs_Klima-300x300.jpeg" alt="Das Buch Vier fürs Klima vor einem Fahrrad mit einem Bioapfel und einem konventionellen Apfel"></a>Dass wir zu viel CO2 und andere Treibhausgase in die Luft pusten, ist wohl allen inzwischen klar. Dass wir als...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/vier-fuers-klima/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

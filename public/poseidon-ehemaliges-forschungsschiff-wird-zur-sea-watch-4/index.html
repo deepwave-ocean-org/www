@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Poseidon - Ehemaliges Forschungsschiff wird zur Sea-Watch 4</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Okt. 02, 2020</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p> </p>
+<figure><a href="https://www.deepwave.org/wp-content/uploads/2020/10/Sea-Watch_4_Im_Einsatz_Chris_Grodotzki_sea-watch-org-scaled.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2020/10/Sea-Watch_4_Im_Einsatz_Chris_Grodotzki_sea-watch-org-scaled.jpg"
+    alt="Das ehemalige Forschungschiff Poseidon, dass nun unter dem Namen Sea-Watch 4 Flüchtlinge in Seenot im Mittelmeer rettet ist auf hoher See zu sehen. Das Foto wurde aus einem Schlauchboot aufgenommen. Ein zweites Schlauchboot mit Einsatzkräften in Arbeit ist zu sehen"></a><figcaption>
+      <p>© <!-- raw HTML omitted --><!-- raw HTML omitted -->Chris Grodotzki | <!-- raw HTML omitted --><!-- raw HTML omitted -->sea-watch.org<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+    </figcaption>
+</figure>
+
+<p><em>Ein sehr persönlicher Bericht über das Forschungsschiff <strong>Poseidon</strong>, das Ende Januar 2020 von Sea-Watch gemeinsam mit dem Bündnis United4Rescue erstanden werden konnte, im Februar diesen Jahres auf den Namen <strong>Sea-Watch 4</strong> getauft wurde und nun im Mittelmeer im Einsatz ist. Dass dieser Einsatz nötig ist, ist bittere Realität. Unfassbar aber wahr: Das Sterben im Mittelmeer wird von der EU und unserer Regierung nicht verhindert, sondern täglich in Kauf genommen. Das Retten von Menschenleben wird privaten Organisationen wie der Sea-Watch und ihren mutigen Seeleuten überlassen, ohne sie wäre das Leid noch verheerender. Wer nicht will, dass diese menschenverachtende Praxis in seinem Namen verübt wird, kann einiges tun: zum Beispiel davon sprechen. Jeden Tag aufs Neue. Und Organisationen wie Sea-Watch.org unterstützen.</em></p>
+<p>Im Jahr 2008 nahm ich als Fotografin und Filmemacherin an einer Forschungsexpedition der Universität Hamburg in Kooperation mit dem WWF an Bord der <em>Poseidon</em> teil. 12 Jahre später wird das ehemalige deutsche Forschungsschiff zum neuen Rettungsschiff der Hamburger Organisation <a href="https://sea-watch.org/">Sea-Watch</a>, die seit fünf Jahren schiffbrüchige Flüchtlinge im Mittelmeer rettet. Die europäischen Staaten schauen seit Jahrzehnten dem Sterben im Mittelmeer mehr oder weniger untätig zu. Umso erfreulicher, dass die Evangelische Kirche endlich ein Zeichen gesetzt hat und maßgeblich daran beteiligt war, dass die <em>Poseidon</em> nun als <a href="https://sea-watch.org/projekt/sea-watch-4/">Sea-Watch 4</a> zum humanitären Einsatz kommt.</p>
+<p>2008 hatte ich das Thema Flüchtlinge noch nicht auf dem Radar. Als diplomierte Foto/Film-Designerin widmete ich mich fotografisch und filmisch dem Thema Meer und landete so auf einer Expeditionsfahrt der <a href="https://www.geomar.de/news/article/tschuess-poseidon/">Poseidon</a>, bei der ich für die Universität Hamburg und den WWF die Forschungsarbeiten an Bord dokumentieren sollte.</p>
+<figure><a href="https://www.deepwave.org/wp-content/uploads/2020/10/Bevor_die_Poseidon_zur_Sea-Watch-4_Jonathan_Weinspach_sea-watch-org-scaled.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2020/10/Bevor_die_Poseidon_zur_Sea-Watch-4_Jonathan_Weinspach_sea-watch-org-scaled.jpg"
+    alt="Das Forschungsschiff Poseidon am Hafen"></a><figcaption>
+      <p>© Jonathan Weinspach | sea-watch.org</p>
+    </figcaption>
+</figure>
+
+<p>Forschungsthema waren die Seamounts, die Tiefseeberge vor Madeira. Drei Wochen an Bord, von Madeira bis Bremerhaven, einziger Landgang in Lissabon. Ich erlebte hautnah den Alltag von Wissenschaftler:innen und Seeleuten und erhielt so Einblicke in die Meeresforschung und das Leben an Bord, eine Welt für sich. Highlights waren meine morgendlichen Apfelpfannkuchen mit Zimt von unserem Smutje, die mit kleinem Aufzug aus der Kombüse hoch in den Speisesaal gefahren kamen, und die Delfine, die in der Biscaya neben dem Schiff in den Wellen auftauchten und uns eine Weile begleiteten. Und dann ein neues Erleben von Zeit: an Bord vergeht sie manchmal sehr langsam, Smartphones gab es noch nicht und Internet nur für den Notfall. Schließlich vertrieb ich mir die Zeit, indem ich dem 2. Kapitän dabei half, Seekarten zu korrigieren. In den riesigen detaillierten Karten mit dem Bleistift neue See- oder Landmarken einzuzeichnen, gab mir einen weiteren neuen Blickwinkel auf das Meer. Als ich in Lissabon nach 14 Tagen das erste Mal wieder festen Boden unter den Füßen hatte, wurde ich prompt landkrank.</p>
+<p>2009 verließ ich dann meinen damaligen Liegeplatz Hamburg und zog auf die winzige sizilianische Insel Salina. Vier Jahre blieb ich und in der Zeit erfuhr ich erstmals von dem Schicksal der afrikanischen Flüchtlinge, die zu Hunderten und Tausenden mit winzigen Booten über das Mittelmeer Kurs auf Europa nehmen und oft auf Lampedusa landen, einer Insel, die südwestlich von Sizilien liegt. „Meine“ Insel Salina liegt im Nordosten Siziliens, so dass dort keine Flüchtlingsboote ankommen. Trotzdem verspürte ich das Bedürfnis zu helfen. Als 2011 der Notstand ausgerufen wurde, weil die Insel Lampedusa den Ansturm an Geflüchteten nicht mehr managen konnte, kamen viele Freiwillige auf die Insel, um zu helfen. Vom Roten Kreuz erfuhr ich, dass vor allem Ärzte und Krankenschwestern gesucht wurden und meine Hilfe nicht wirklich benötigt wurde. Als 2015 Sea-Watch gegründet und die ersten Expeditionen von Lampedusa aus organisiert wurden, bewarb ich mich als Koordinatorin an Land, schließlich sprach ich inzwischen fließend Italienisch, doch auch dieses Mal wurde meine Hilfe nicht gebraucht. Inzwischen denke ich, dass es für mich besser ist, diese Erfahrungen nicht gemacht zu haben. Das Flüchtlingsleid hautnah zu erleben, hätte mir wahrscheinlich stark zugesetzt und mich verbittert. Ich habe großen Respekt vor allen Freiwilligen, die sich auf den verschiedenen Rettungsschiffen in den letzten Jahren engagiert haben und die unzählige Menschen gerettet haben, aber auch das Sterben auf dem Meer hautnah miterleben mussten.</p>
+<p>So versuche ich nun im Kleinen Sea-Watch zu unterstützen. Und wenn ich selber als Guide mit Gästen meiner Reiseagentur LaMar an Bord von Whale Watching Booten in See steche, trage ich oft das „University of Empathy“ Shirt von Sea-Watch, wodurch sich schon viele Gespräche zur Flüchtlingskrise ergeben haben.</p>
+<figure><a href="https://www.deepwave.org/wp-content/uploads/2020/10/Sea-Watch-4_Ruben_Neugebauer-sea-watch-org-scaled.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2020/10/Sea-Watch-4_Ruben_Neugebauer-sea-watch-org-scaled.jpg"
+    alt="Die Sea-Watch 4 fährt auf offener See zu einer Flüchtlingsrettungsmission"></a><figcaption>
+      <p>© Ruben Neugebauer | sea-watch.org</p>
+    </figcaption>
+</figure>
+
+<p>Was für eine Freude zu erfahren, dass „meine“ alte <em>Poseidon</em> nun in den Dienst der „Empathy“ gestellt wurde. Und was für ein Zeichen, dass die Evangelische Kirche maßgeblich am Kauf der <em>Poseidon</em> für die Sea-Watch-Mission beteiligt war. Die Kirche hat viel zu lange zu dem Drama auf dem Mittelmeer geschwiegen. Möge diese Mission der Auftakt sein für ein Umdenken in ganz Europa, in Religion und Politik, damit es irgendwann keine traurigen Nachrichten von untergegangenen Flüchtlingsbooten und brennenden Flüchtlingslagern oder -heimen mehr geben wird!</p>
+<p>Barbara Focke für DEEPWAVE</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/meeresstroemungen-werden-immer-schneller/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/10/xavier-mouton-photographie-1LUIwkQ6we0-unsplash-scaled.jpg" alt="Meeresströmungen werden immer schneller" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Meeresströmungen werden immer schneller</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Die <a href="https://www.deepwave.org/cop27-fonds-fuer-klimaschaeden-gibt-hoffnung-15-grad-limit-gefaehrdet/">Erderwärmung</a> bringt grundlegende Vorgänge in unseren Meeren durcheinander. Nun fanden Forscher:innen anhand eines...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/selfish-macht-auf-unseren-plastikkonsum-aufmerksam/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;Selfish&#34; macht auf unseren Plastikkonsum aufmerksam</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Selfish&#34; macht auf unseren Plastikkonsum aufmerksam</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Ihr sitzt in einem Sushi Restaurant und freut euch, mal wieder in ein frisches Stück Lachs beißen zu können. Der Koch...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/selfish-macht-auf-unseren-plastikkonsum-aufmerksam/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

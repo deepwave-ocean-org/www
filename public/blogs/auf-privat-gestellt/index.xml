@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auf-Privat-Gestellt on My New Hugo Site</title>
+    <link>http://example.org/blogs/auf-privat-gestellt/</link>
+    <description>Recent content in Auf-Privat-Gestellt on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/blogs/auf-privat-gestellt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WWF: Gefahr von Ölschiffsunfällen ist groß</title>
+      <link>http://example.org/wwf-gefahr-oelschiffsunfaellen-gross/</link>
+      <pubDate>Thu, 19 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://example.org/wwf-gefahr-oelschiffsunfaellen-gross/</guid>
+      <description>&lt;p&gt;Frankfurt - 20 Jahre nach der Havarie der Exxon Valdez in Alaska - einer der größten Umweltkatastrophen aller Zeiten - ist die Gefahr einer Wiederholung groß. Das ist das Ergebnis einer heute veröffentlichten WWF-Studie &amp;ldquo;Lessons not Learned&amp;rdquo;. Demnach gibt es noch immer keine Techniken, um im Falle einer Ölpest deren Folgen wirksam verringern zu können. Zugleich breitet sich die Ölindustrie in der Arktis immer weiter aus, und durch das Schmelzen des Eises auf den arktischen Meeren wird die Schifffahrt in bislang unzugänglichen Gebieten möglich. Der WWF verlangt deshalb &amp;ldquo;No-Go-Areas&amp;rdquo; wenigstens für die empfindlichsten Meeresgebiete in der Arktis. So müssten etwa die Bristol Bay in Alaska, aber auch andere Regionen der Welt wie die Umgebung der Lofoten in Norwegen für die Durchfahrt von Tankern und für die Förderung von Öl gesperrt werden.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

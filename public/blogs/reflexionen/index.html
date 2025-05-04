@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+
+<section class="relative overflow-hidden w-full">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
+        style="background-image: url('https://www.deepwave.org/wp-content/uploads/2019/02/Parallaxe_Veranstaltungen.jpg');">
+    </div>
+    
+    <div class="absolute inset-0" style="background-color: transparent;"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white my-24">
+      <h1 class="text-3xl md:text-3xl mb-2">Reflexionen</h1>
+      
+        <div class="text-xl">Gedanken, Sichtungen, Hintergründe  … hier findet ihr Aktuelles zu unserer Arbeit und die persönlichen Texte unserer CEO Anna Groß gepostet auf @deepwave_ocean_org</div>
+      
+    </div>
+  </section>
+
+<div class="not_full_width min-h-screen my-12">
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/der-meeresschutz-kommt-unter-die-raeder/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/01/2024-01-11_Reflexionen.jpeg" alt="Der Meeresschutz kommt unter die Räder" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Der Meeresschutz kommt unter die Räder</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Das Jahr beginnt mit … sich bleiern ausbreitender Fassungslosigkeit.</p>
+<p>Dabei fing es so gut an: lange Spaziergänge in Eis...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/was-wir-nicht-verarbeiten-koennen-wird-uns-veraendern/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Insta_Was_wir_nicht_verarbeiten_koennen_Sonne_Wolken_Meer.png" alt="Was wir nicht verarbeiten können, wird uns verändern" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Was wir nicht verarbeiten können, wird uns verändern</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Wir wussten, dass es passieren wird, wir haben uns nicht vorgestellt, dass es so passiert. Wir haben uns nichts...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/apnoetauchen-und-meeresschutz/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-07.10.00.jpeg" alt="Apnoetauchen und Meeresschutz" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Apnoetauchen und Meeresschutz</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Am Kreidesee zu stehen und nicht zu tauchen ist wie - Meeresschutz.</p>
+<p>Hier war einmal eine große Zementfabrik, die ein...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/world-ocean-day-part-lll/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-07.10.00-7.jpeg" alt="World Ocean Day Part lll" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">World Ocean Day Part lll</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Am 6. Juni haben wir unser Filmfestival sozusagen auf politischer Ebene fortgesetzt: Treffen der AG Tiefseebergbau,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/world-ocean-day-part-lv/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-07.10.00-4.jpeg" alt="World Ocean Day Part lV" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">World Ocean Day Part lV</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Ein anderer Blick auf die Meere. Der, den wir brauchen.</p>
+<p>7. Juni, Berlin, Konferenz zur internationalen Meerespolitik...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/world-ocean-day-part-l/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-07.10.00-6.jpeg" alt="World Ocean Day Part l" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">World Ocean Day Part l</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Am Donnerstag war der Weltozeantag. Dieses Jahr stand er bei uns im Zeichen von meerespolitischen Treffen und Tagungen,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/world-ocean-day-part-ll/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-07.10.00-10.jpeg" alt="World Ocean Day Part ll" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">World Ocean Day Part ll</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Gleichzeitig fand die großartige Konferenz „Tech[no]fixes – Zivilgesellschaftliche Perspektiven im Umgang mit...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deepwave-filmfestival-zum-schutz-der-hoch-und-tiefsee-20-jahre-deepwave/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Insta_Filmfestival_Ausschnitt.png" alt="DEEPWAVE Filmfestival zum Schutz der Hoch- und Tiefsee – 20 Jahre DEEPWAVE" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">DEEPWAVE Filmfestival zum Schutz der Hoch- und Tiefsee – 20 Jahre DEEPWAVE</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Tief unter den Wellen, weit entfernt von unserer Aufmerksamkeit, könnte bald die größte Bergbauaktion in der Geschichte...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/kernforderungen-fuer-eine-zukunftsfaehige-meerespolitik/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Insta_Kernforderungen_Meerespolitik.png" alt="Kernforderungen für eine zukunftsfähige Meerespolitik" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Kernforderungen für eine zukunftsfähige Meerespolitik</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Ein Titel, der alles sagt.</p>
+<p>Gemeinsam mit 16 umwelt- und entwicklungspolitischen Organisationen wenden wir uns mit diesem...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/welchen-fisch-darf-ich-essen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-26-112128.png" alt="Welchen Fisch darf ich essen?" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Welchen Fisch darf ich essen?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Karfreitag werden wir wieder gefragt: Welchen Fisch darf ich essen? Die Antwort ist ganz einfach: keinen. &ldquo;Ja aber...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/cop27/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-26-112920.png" alt="COP27" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">COP27</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Am Anfang der COP27, als das Wort Backsliding plötzlich im Raum stand, damit drohend, dass es auf dieser COP nur noch...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/tiefseebergbau-fuer-einsteigerinnen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/12/Tiefseebergbau_fuer_EinsteigerInnen_Ausschnitt_Fibel_Instagram.jpg" alt="Tiefseebergbau für Einsteiger:innen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tiefseebergbau für Einsteiger:innen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Vor ein paar Tagen hat unsere aktuelle Regierung an entscheidender Stelle ein <a href="https://www.deepwave.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/">Votum</a> abgegeben, das uns alle hier...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/der-strand-wird-immer-schmaler/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-26-114228.png" alt="Der Strand wird immer schmaler ..." class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Der Strand wird immer schmaler ...</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Jedes Jahr gegen Anfang Oktober sind wir am Meer, an der Westküste Dänemarks, da wo die Nordsee wirkt wie das, was sie...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/was-sind-nostraws/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/03/AnnaMandel_LostInPlastic_1.png" alt="Was sind NoStraws?" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Was sind NoStraws?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Wir haben jetzt einen <a href="https://deepwave.shop/">Shop</a>! Aber wir verkaufen nix. Wie jetzt?</p>
+<p>Ihr könnt bei uns NoStraws kaufen. Und das ist das, was...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deepwave-zu-gast-beim-gruenland-podcast-2/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/09/Screenshot-2023-12-04-170417.png" alt="DEEPWAVE zu Gast beim GRÜNLAND-Podcast" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">DEEPWAVE zu Gast beim GRÜNLAND-Podcast</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>DEEPWAVE war beim GRÜNLAND-Podcast zu Gast. Unsere großartigen Gastgeberinnen Anja und Jana wollten mit mir in 30...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/unsere-verbindung-zum-meer/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-30-163250.png" alt="Unsere Verbindung zum Meer" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Unsere Verbindung zum Meer</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Es regnet. Den ganzen Tag, seit heute früh. Dass dieses Geräusch, dieser Geruch, diese feuchte Kühle der Luft einmal so...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ein-besonderer-tag-und-ein-persoenlicher-beitrag/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-30-164121.png" alt="Ein besonderer Tag und ein persönlicher Beitrag" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Ein besonderer Tag und ein persönlicher Beitrag</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Heute ist ein besonderer Tag. Und dies ist ein persönlicher Beitrag. Dies ist die private Geschichte von DEEPWAVE.</p>
+<p>Vor...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ein-dank-an-unser-grossartiges-team/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-30-164906.png" alt="Ein Dank an unser großartiges Team" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Ein Dank an unser großartiges Team</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Ich bin so stolz darauf, unser Logo auf diesem Rücken zu sehen. Manchmal frage ich mich: was machen wir da eigentlich,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/unser-filmfestival-die-sprachlosigkeit-ueberwinden/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/jkjlk.png" alt="Unser Filmfestival: die Sprachlosigkeit überwinden" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Unser Filmfestival: die Sprachlosigkeit überwinden</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Unser <a href="https://www.deepwave.org/filmfestival-2022/">Filmfestival</a> letzten Freitag in Hamburg erfüllt uns immer noch mit großer staunender Freude. Was für ein Abend!...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/world-ocean-day-2022/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-30-170935.png" alt="World Ocean Day 2022" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">World Ocean Day 2022</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Wie in diesen Zeiten über den Tag heute schreiben&hellip; World Ocean Day und überall auf der Welt wird von den Meeren...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nach-2-jahren-pause-gibt-es-wieder-unser-filmfestival-in-hamburg/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-30-173728.png" alt="Nach 2 Jahren Pause gibt es wieder unser Filmfestival in Hamburg!" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Nach 2 Jahren Pause gibt es wieder unser Filmfestival in Hamburg!</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Wir freuen uns riesig, nach 2 Jahren Pause wieder unser <a href="https://www.deepwave.org/filmfestival-2022/">Filmfestival</a> in Hamburg ausrichten zu können!</p>
+<p>Ewige Nacht in der...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/world-ocean-day-2020/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-30-173940.png" alt="World Ocean Day 2020" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">World Ocean Day 2020</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Vor einem halben Jahr, mitten im Sommer, war der World Ocean Day, oder wie manche sagen der World Oceans Day. Gibt es...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/venedig-bilder-der-stille/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-171104.png" alt="Venedig: Bilder der Stille" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Venedig: Bilder der Stille</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Ursprünglich wollte ich über die Eröffnung des Ocean Space in Venedig schreiben. Vor ziemlich genau einem Jahr. Dass ich...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/an-der-krippe/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-171652.png" alt="An der Krippe" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">An der Krippe</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Weihnachtliche Anmerkung: Wir hatten das Glück in der traditionell mitternächtlichen Christmette eine heftige politische...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/waelder-unter-wasser/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-172213.png" alt="Wälder unter Wasser" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Wälder unter Wasser</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Kelpwälder. Wer weiß, dass es sie gibt? Diese Wälder unter Wasser. Wir schauen auf die Meeresoberfläche, spiegelglatt...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/das-glueck-unter-wasser-zu-schweben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-173057.png" alt="Das Glück unter Wasser zu schweben" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Das Glück unter Wasser zu schweben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Wie fliegen&hellip; unter Wasser ist der einzige Ort, wo wir ahnen können, wie es wäre, die Schwerelosigkeit zu...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/zwischen-sternenhimmel-und-meeresleuchten/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-173307.png" alt="Zwischen Sternenhimmel und Meeresleuchten" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Zwischen Sternenhimmel und Meeresleuchten</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Das Forschungsschiff in der Nacht steht für unsere Arbeit bei DEEPWAVE: wir fahren zwar nicht mit Schiffen raus, aber...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/beifang-ein-unwort/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-174554.png" alt="Beifang. Ein Unwort." class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Beifang. Ein Unwort.</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Beifang. Was ein Unwort. Etwas wird mit dem eigentlichen Fang mitgefangen. Nein. Das Wort ist Hohn, so verpackt, dass es...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+    </div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

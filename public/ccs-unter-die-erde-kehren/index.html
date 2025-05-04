@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2023/03/Ablasshandel_Holzschnitt_CCS.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Ablasshandel im Mittelalter / Wikimedia Commons
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Unter die Erde kehren</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Mär 01, 2023</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <h2 id="ein-gastbeitrag-von-nico-czaja">Ein Gastbeitrag von Nico Czaja</h2>
+<p> </p>
+<h2 id="über-die-subterrane-unterbringung-von-co-mittels-ccs-als-mzbdkw"><strong>Über die subterrane Unterbringung von CO****₂</strong> <strong>mittels CCS¹</strong> <strong>als MZBDKW²</strong></h2>
+<p> </p>
+<p>Ich war mal Katholik und bin damit ein Experte für Schuld, Sühne und die kundige Verrechnung der beiden miteinander. Die Zweischneidigkeit des Konzeptes “Beichte” gehört zu meinen faszinierendsten Kindheitserinnerungen: Wie schön und klug und, ja, christlich von der katholischen Kirche, einen institutionellen Raum zu öffnen, in dem man sich den eigenen Verfehlungen stellen, um Vergebung bitten und Nachsicht erfahren kann – und wie interessant die Anreize, die es setzt, wenn jede Sünde einen überschaubaren Gegenwert in Bußehandlungen hat. Und rumsdibums hatte ich ganz allein die Grundprinzipien des Ablasshandel erfunden. Mit zehn Jahren!</p>
+<p>Schade, dass mir das Mittelalter knapp zuvorgekommen war, so dass meine Erfindung mir zwar die Navigation meines Alltags erleichterte (heimlich Schokolade der kleinen Schwester essen kostet zwei Vaterunser, alles klar, rechnet sich, los geht’s), aber darüber hinaus keine großen gesellschaftlichen Umwälzungen nach sich zog. </p>
+<p>Das Mindeste, das mir von damals noch bleibt, ist die Erkenntnis: Wenn man nicht aufpasst, kann sich ein nützliches Werkzeug, das eigentlich für die Verminderung des Ausstoßes von Sündhaftigkeit in die Atmosphäre gedacht ist, schnell in eines verwandeln, das nur dazu dient, dem fortgesetzten Emittieren von Sünde einen leuchtenden Anstrich von Frömmigkeit zu verleihen, damit man vor sich selbst und der Welt unverdient als Gutmensch dastehen darf.</p>
+<p> </p>
+<h3 id="cross-country-skiing">Cross Country Skiing?</h3>
+<p>Damit bin ich ganz offensichtlich Experte erster Wahl, um über ein Thema zu sprechen, das so sperrig ist, dass es noch nicht einmal einen griffige deutsche Bezeichnung dafür gibt, nämlich über das sogenannte CCS. </p>
+<p>Gemeint ist damit die unterirdische Kohlendioxidspeicherung (Carbon Capture and Storage). Es handelt sich hierbei um eine Reihe von Technologien in unterschiedlichen Reifestadien, mit denen CO₂, das im Rahmen von Verbrennungsprozessen mit fossilen Brennstoffen zum Beispiel in Kraftwerken oder bei bestimmten Prozessen in der Schwerindustrie entsteht, abgeschieden, herausgefiltert oder sonstwie entnommen wird, um es zum Beispiel in erschöpften Gas- oder Erdöllagerstätten für immer und ewig einzulagern, damit es nicht in die Atmosphäre geraten und dort zum Klimawandel beitragen kann.</p>
+<p>Die veraltete Technologie <em>Baum</em>, von der einige ewiggestrige Traditionalisten behaupten, dass sie doch eine ganz ähnliche Aufgabe übernehme, ist hier explizit nicht gemeint. (Man muss auch durchaus zugeben, dass die zumindest in dieser Hinsicht derzeit tatsächlich ein <a href="https://www.klimareporter.de/international/der-grosse-schwindel-mit-den-co2-zertifikaten">Imageproblem</a> hat.)</p>
+<p> </p>
+<h3 id="also-eine-total-gute-idee">Also eine total gute Idee?</h3>
+<p>Das klingt natürlich erstmal knorke, und “die Wissenschaft”, beziehungsweise ein groß genuger Anteil der Wissenschaft, dass das so beim <a href="https://www.umweltbundesamt.de/themen/wasser/gewaesser/grundwasser/nutzung-belastungen/carbon-capture-storage#grundlegende-informationen">Umweltbundesamt</a> stehen kann, ist der Meinung, dass man theoretisch auf diese Weise 65 bis 85 Prozent des bei diesen Prozessen entstehenden CO₂ dauerhaft aus der Atmosphäre fernhalten kann. Ob die CCS-Technologien, die derzeit im Gespräch sind, dieses Versprechen tatsächlich in absehbarer Zeit einlösen können, steht auf mehreren anderen Blättern:</p>
+<ul>
+<li>Eine Studie des <a href="https://ieefa.org/">IEEFA</a> (Institute for Energy Economics and Financial Analysis, ein gemeinnütziger Thinktank in den USA) hat 13 solcher Projekte untersucht, die zusammen über die Hälfte aller weltweit installierten CCS-Kapazitäten ausmachen, und kam zu einem eher unterwältigenden <a href="https://www.theguardian.com/environment/2022/sep/01/carbon-capture-is-not-a-solution-to-net-zero-emissions-plans-report-says">Ergebnis</a> – sieben dieser Projekte bleiben bisher deutlich hinter den Erwartungen zurück, zwei sind gescheitert, eines ist bis auf weiteres auf Eis gelegt.</li>
+<li><a href="https://www.theguardian.com/environment/2022/sep/01/carbon-capture-is-not-a-solution-to-net-zero-emissions-plans-report-says">Fast drei Viertel</a> des derzeit weltweit aufgefangenen CO₂ fallen in der Ölindustrie an und werden dort auf eine Weise genutzt, über deren positive Klimawirkung man, naja, streiten kann: EOS (enhanced oil recovery) heißt das Verfahren, in dem man eingefangenes Kohlendioxid in erschöpfte Ölfelder hineinpumpt, um die letzten Tropfen Öl aus ihnen herauszudrücken. Dabei werden direkt und indirekt weitere Emissionen verursacht: Direkte durch die riesige Menge fossiler Energie, die verwendet wird, um das Gas zu komprimieren und unter die Erde zu pumpen; indirekte durch das so geförderte Öl, das ohne CCS brav im Boden geblieben wäre und nun unvermeidlich zusätzlich irgendwo in Verbrennungsprozessen landet.</li>
+<li>Unter der Erde eingelagerte Klimagase müssten theoretisch über Jahrhunderte auf Lecks überwacht werden, um sicherzustellen, dass sie dort auch bleiben. Wer das wie bewerkstelligen soll, ist unklar; wer privaten Unternehmen zutraut, das zu übernehmen, gegebenenfalls auch noch lang, nachdem mit einer Anlage alle Profite gemacht sind, die man hat machen können, soll das tun; das Umweltbundesamt, das eine Reihe von Vorgaben für das Monitoring solcher Lagerstätten aufgestellt hat, <a href="https://www.umweltbundesamt.de/themen/wasser/gewaesser/grundwasser/nutzung-belastungen/carbon-capture-storage#klimapolitische-einordnung-von-ccs">stellt jedenfalls nüchtern fest</a>: “Bisher ist dem Umweltbundesamt nicht bekannt, dass die Einhaltung dieser Monitoringvorgaben durch Studien, Forschungen oder in der Praxis belegt worden wäre.” </li>
+</ul>
+<p> </p>
+<h3 id="aufs-richtige-pferd-setzen">Aufs richtige Pferd setzen</h3>
+<p>Aber vielleicht macht die Technologie da noch große Sprünge! Vielleicht wird CCS irgendwann so günstig, oder der CO₂-Preis so hoch, dass es sich trotz der oben erwähnten Komplikationen und Risiken richtig lohnt! </p>
+<p>Heute ist das zwar definitiv nicht der Fall, und wie viel Zeit bis dahin vergehen wird, wissen wir nicht so ganz genau. Aber vielleicht ist auch ENDLICH MAL ein bisschen Optimismus fällig? Immer diese Schwarzmalerei! Warum langweilige, bewährte Technologien verwenden, die wir schon haben, anstatt auf aufregende Innovationen zu spekulieren? Wir haben so viele Möglichkeiten, tolle Sachen zu erfinden, mit denen wir das Klima in den Griff bekommen können: CCS! Fusionsreaktoren! Warpkerne! Teleporter! Marskolonien! Künstliche Gehirne! Zeitmaschinen! </p>
+<p>Weil es Quatsch ist, deshalb. Weil wir den allergrößten Teil der Lösung <em>schon haben</em>. Weil es allzu leicht zum Vorwand wird, eine fossile Industrie noch ein bisschen länger für Profite zu melken, die eigentlich längst auf dem Weg zur Tür ist. Wie ich, der die Schokolade klaut und sich sagt, dass man das ja morgen oder halt wann anders locker beichten und dann mit ein zwei Ave Marias gegensteuern kann. In der Hinsicht ticken mein zehnjähriges Ich und Unternehmen der fossilen Wirtschaft ganz ähnlich, wir brauchen beide solide Anreize, um die Leerstelle zu füllen, wo bei anderen der moralische Kompass sitzt.</p>
+<p>Aber eigentlich sollte inzwischen auch in den letzten Hirnzellen der letzten Köpfe des letzten CEOs, der letzten Politikerin angekommen sein, dass ausgerechnet Zeit eine der wenigen Ressourcen ist, die wir nicht haben.</p>
+<p> </p>
+<h3 id="also-eine-total-schlechte-idee">Also eine total schlechte Idee?</h3>
+<p><a href="https://de.wikipedia.org/wiki/Mark_Z._Jacobson">Marc Z. Jacobson</a>, ein überaus renommierter Klimaforscher, ist der <a href="https://www.theguardian.com/environment/2023/jan/23/no-miracles-needed-prof-mark-jacobson-on-how-wind-sun-and-water-can-power-the-world">Meinung</a>, dass CCS Schnickschnack ist – wir müssen lediglich alles, was wir haben, in den Ausbau der Erneuerbaren stecken, um hundertprozentige Klimaneutralität zu erreichen, alles andere sei teure Zeitverschwendung und/oder ein Feigenblatt für rückständige Industrien. </p>
+<p>Damit gilt er auch unter seinen Kolleginnen und Kollegen als Radikaler. Denn dass wir zum Ausgleich tatsächlich unvermeidbarer Emissionen vor allem in bestimmten industriellen Prozessen, bei der Zementherstellung und in der Landwirtschaft zum Beispiel, nicht ganz ohne irgendeine Form von CO₂-Entzug aus der Atmosphäre auskommen werden, sei es direkt an der Quelle, wo die Emissionen entstehen, oder in der freien Wildbahn aus der Luft, scheint in der Wissenschaft <a href="https://www.thirdway.org/memo/the-science-based-case-for-ccus">Konsens</a> zu sein.</p>
+<p>Wirft man aber einen genaueren Blick auf diese beiden Sichtweisen, geht es dabei eher um Nuancen denn um vollständig unterschiedliche Ansätze. Einig ist man sich nämlich über alle Lager hinweg, dass der Weg in die Klimaneutralität im Rahmen des <a href="https://www.europarl.europa.eu/RegData/etudes/IDAN/2015/573876/EPRS_IDA(2015)573876_DE.pdf">Vorsorgeprinzips</a> zuallererst über <a href="https://www.umweltbundesamt.de/themen/wasser/gewaesser/grundwasser/nutzung-belastungen/carbon-capture-storage#klimapolitische-einordnung-von-ccs">Vermeidung von Emissionen</a> erfolgen muss, also durch den Ersatz klimaschädlicher durch klimaneutrale Produkte und Technologien. Damit kommt man schon sehr weit.</p>
+<p>Wie weit genau, darüber wird gestritten, und <a href="https://www.nrel.gov/news/program/2021/the-challenge-of-the-last-few-percent-quantifying-the-costs-and-emissions-benefits-of-100-renewables.html">diese verbleibenden Meter</a> auf dem Weg zur Netto-Null – sind es 15 Prozent? Sind es keine? – das ist die Arena, in der die Debatte zwischen Jacobson und weiten Teilen der wissenschaftlichen Gemeinschaft stattfindet.</p>
+<p>Erst an diesem Punkt kommen die natürlichen (z.B. Bäume) und dann die technischen (z.B. CCS) CO₂-Senken ins Spiel: Dort, wo gar nichts anderes sinnvoll, technologisch möglich, effizient, bezahlbar ist; dort also, wo sein Einsatz tatsächlich zu einer Netto-Verminderung des CO₂-Gehalts in der Atmosphäre führt, anstatt dass man nur mit der einen Hand mühsam rauskratzt, was man mit der anderen fröhlich weiteremittiert. Zusätzlichkeit heißt das Zauberwort.</p>
+<p>Und bittesehr in genau dieser Reihenfolge. Es mag zwar tragischerweise an nicht-kaputten Systemen für die Bemessung und Zertifizierung tatsächlich eingesparter Emissionen in Klimaschutzprojekten <a href="https://letsflip.de/kompensation-un-unwirksame-co2-zertifikate/">fehlen</a>, aber das Einspeichern von CO₂ in Biomasse birgt ein gigantisches Potential. </p>
+<p>Wälder und Wiesen sind super, aber bei Weitem nicht das Einzige, das wir haben: Mit jedem Hektar wiedervernässtem Moor (da gäbe es <a href="https://www.boell.de/de/2023/01/10/trockengelegte-moore-so-viele-emissionen-wie-der-gesamte-deutsche-flugverkehr">einiges zu tun</a>) binden wir <a href="https://www.lubw.baden-wuerttemberg.de/klimawandel-und-anpassung/moorboeden#:~:text=Moore%20sind%20CO2%2DSpeicher&amp;text=700%20Tonnen%20Kohlenstoff%20je%20Hektar,Boden%20in%20Mooren%20fixiert%20ist.">so viel CO₂</a> wie mit sechs Hektar Wald, und Küstenökosysteme wie Seegraswiesen, Mangrovenwälder und Salzmarschen speichern je nach Standort pro Fläche sogar <a href="https://cdrmare.de/wp-content/uploads/2022/08/CDRmare_Kuestenoekosysteme_factsheet_220830.pdf">das Fünf- bis Dreißigfache</a>.</p>
+<p>Also: Wir kommen allem Anschein nach nicht ohne CCS aus. Deswegen ist es vermutlich durchaus sinnvoll, die zugehörigen Technologien im Auge zu behalten und weiterzuentwickeln.</p>
+<p>Aber der Einsatz von CCS ist ganz massiv eine Frage der Priorisierung. Als Heilserwartung, zu deren Gunsten wir auf die aggressive Förderung bereits erprobter und nachweislich wirkungsvoller Technologien verzichten könnten, taugt es nicht; als lebensverlängernden Ablasshandel für die fossile Industrie brauchen wir es umso weniger.</p>
+<p> </p>
+<h3 id="ein-licht-am-ende-des-ölfelds">Ein Licht am Ende des Ölfelds</h3>
+<p>Vielleicht, und hier sei wirklich einmal ein wenig Optimismus ins Spiel gebracht, ist dieser letzte Punkt aber auch ein bisschen eine Phantomdebatte. Vielleicht haben viele entscheidende Köpfe ja doch schon begriffen, dass die Transformation in die Fossilfreiheit längst kein allein grünes Thema mehr ist. Vielleicht sind wir inzwischen ja doch an einem <a href="https://www.spiegel.de/wissenschaft/mensch/erneuerbare-energien-weltweit-der-wendepunkt-ist-da-kolumne-a-3f3cf5f0-e667-49ac-84ab-04ff8afa8aad">Wendepunkt</a> angelangt. Denn, <a href="https://freiheitsrechte.org/themen/demokratie/geodatenbanken">Bayern hin oder her</a>, weltweit ist der Zubau an Gas- und Kohlekraftwerken im Vergleich zu den Erneuerbaren zuletzt deutlich auf dem Weg in die <a href="https://www.global-climatescope.org/">Bedeutungslosigkeit</a>, und selbst eine scheinbar so harte Nuss wie Texas (Texas!) ist im Begriff, Deutschland zu überholen in Sachen Ökostrom-Anteil. Und das geschieht nicht, weil plötzlich auch die konservative Mehrheit endlich ihr grünes Herz entdeckt hat: </p>
+<p>Windräder sind dort inzwischen in vielen Fällen <a href="https://www.economist.com/business/2023/01/12/go-to-texas-to-see-the-anti-green-future-of-clean-energy?utm_medium=cpc.adword.pd&amp;utm_source=google&amp;ppccampaignID=18151738051&amp;ppcadID=&amp;utm_campaign=a.22brand_pmax&amp;utm_content=conversion.direct-response.anonymous&amp;gclid=CjwKCAiA0cyfBhBREiwAAtStHGbPHIbfr79anFb3d_KMqV-aq57nfprnxLysR5zPIJMb2YLRcNgaWxoCGSUQAvD_BwE&amp;gclsrc=aw.ds">profitabler</a> als jede andere Landnutzung.</p>
+<p>Nico Czaja für DEEPWAVE</p>
+<p>_________________________________</p>
+<p>¹ Carbon Capture and Storage ² Maßnahme zur Bekämpfung des Klimawandels</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deepwave-wird-20/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">DEEPWAVE wird 20!</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">DEEPWAVE wird 20!</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>DEEPWAVE wird 20! Schaut euch hier unser Geburtstagsvideo zu <a href="https://www.deepwave.org/ueber-uns/woher-wir-kommen/">20 Jahren Vereinsarbeit</a> an:...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/abkuehlung-von-teilen-der-arktis-kehrt-sich-offenbar-um/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2010/07/1024px-Axel_Heiberg_Island_01.jpg" alt="Abkühlung von Teilen der Arktis kehrt sich offenbar um" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Abkühlung von Teilen der Arktis kehrt sich offenbar um</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><em>Bereits im Jahr 2010 wurde festgestellt, dass in der Arktis seit 1990 ein anhaltender Erwärmungstrend zu beobachten ist:...</em></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/abkuehlung-von-teilen-der-arktis-kehrt-sich-offenbar-um/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

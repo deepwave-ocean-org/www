@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2023/08/MARUM_sea_anemone-scaled.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © MARUM − Zentrum für Marine Umweltwissenschaften, Universität Bremen / Wikimedia Commons (CC BY 4.0)
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Interaktive Ausstellung: Le­ben am Ozeanboden</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jul 13, 2023</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 12.07.2023, MARUM</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p><strong>Neue in­ter­ak­ti­ve Aus­stel­lung „3.688 Me­ter un­ter dem Mee­res­spie­gel“ im Haus der Wis­sen­schaft</strong></p>
+<p>Die viel­fäl­ti­gen Aus­wir­kun­gen der Kli­ma­kri­se stel­len glo­ba­le Her­aus­for­de­run­gen dar, die auch die Mee­res­for­schung vor neue Auf­ga­ben von gro­ßer ge­sell­schaft­li­cher Be­deu­tung stellt. Da­bei spielt der Ozeanboden eine sehr wich­ti­ge Rol­le. Er um­fasst 71 Pro­zent der fes­ten Ober­flä­che der Erde und be­fin­det sich im Schnitt 3.688 Me­ter un­ter dem Mee­res­spie­gel. Eine neue Aus­stel­lung, kon­zi­piert vom Ex­zel­lenz­clus­ter „Ozeanboden“ am MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten der Uni­ver­si­tät Bre­men, wid­met sich ganz dem Mee­res­bo­den. Sie ist ab dem 20. Juli im Bre­mer Haus der Wis­sen­schaft zu se­hen.</p>
+<p>In der Tief­see ist es dun­kel und kalt. Noch bis vor ei­ni­gen Jahr­zehn­ten schien sie den Men­schen ein weit­ge­hend un­wirt­li­cher Le­bens­raum zu sein. Mitt­ler­wei­le hat sich die­ses Bild grund­le­gend ge­wan­delt. Un­ser heu­ti­ges Wis­sen um die Tief­see mit ih­ren ein­zig­ar­ti­gen und oft­mals fra­gi­len Öko­sys­te­men ver­dan­ken wir der fort­schrei­ten­den Ent­wick­lung neu­er Tech­no­lo­gi­en. Sie er­mög­li­chen es Wis­sen­schaft­ler:in­nen fern­ge­steu­er­te Un­ter­su­chun­gen selbst in sehr gro­ßen Was­ser­tie­fen und un­ter ex­tre­men Be­din­gun­gen. Den­noch sind uns die weit­aus größ­ten Tei­le der Tief­see und des Ozeanboden nach wie vor na­he­zu un­be­kannt.</p>
+<p>Wel­che Rol­le die Tief­see und ins­be­son­de­re der Ozeanboden im Sys­tem Erde spielt, steht im Mit­tel­punkt der For­schungs­ar­bei­ten am MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten der Uni­ver­si­tät Bre­men. Hier ist der Ex­zel­lenz­clus­ter „Oze­an­bo­den – un­er­forsch­te Schnitt­stel­le der Erde“ an­ge­sie­delt.</p>
+<p><strong>Interaktiv abtauchen in die Tiefsee</strong></p>
+<p>In der in­ter­ak­ti­ven Aus­stel­lung „3.688 Me­ter un­ter dem Mee­res­spie­gel“ las­sen sich For­schen­de über die Schul­ter schau­en. Schritt für Schritt er­fah­ren Be­su­cher:in­nen im Haus der Wis­sen­schaft mehr – über den Oze­an­bo­den als gro­ßes zu­sam­men­hän­gen­des Öko­sys­tem, wie sich For­schen­de auf Ex­pe­di­tio­nen in die Tief­see vor­be­rei­ten und wel­che Tech­no­lo­gi­en sie da­bei nut­zen.</p>
+<p>„Die Ab­la­ge­run­gen am Oze­an­bo­den sind als Ar­chi­ve für Um­welt- und Kli­ma­ver­än­de­run­gen ver­gan­ge­ner Zeit nicht nur für die Kli­ma­for­schung von ex­trem gro­ßer Be­deu­tung. Der Oze­an­bo­den ist auch eine der zen­tra­len Schnitt­stel­len für glo­ba­le Stoff­kreis­läu­fe wie den Koh­len­stoff­kreis­lauf“, sagt Prof. Mi­cha­el Schulz, Di­rek­tor des MARUM und Spre­cher des Ex­zel­lenz­clus­ters.</p>
+<p><strong>Originalexponate aus der Tiefe</strong></p>
+<p>Ein in­ter­ak­ti­ver Co­mic ver­mit­telt, wie Wis­sen­schaft auf ei­nem For­schungs­schiff funk­tio­niert und be­glei­tet ei­nen Tauch­ro­bo­ter zu Hei­ßen Quel­len in der Tief­see. An ei­ner gro­ßen di­gi­ta­len Welt­kar­te kön­nen die Be­su­cher:in­nen schritt­wei­se das Was­ser aus dem Weltoze­an ab­las­sen und so den Ozeanboden selbst er­kun­den. Die Aus­stel­lung zeigt auch Ori­gi­na­le aus den Tie­fen der Mee­re, wie Ske­let­te von Kalt­was­ser­ko­ral­len oder das Bruch­stück ei­nes Schwar­zen Rau­chers. Da­ne­ben gibt es 3D-Mo­del­le von Groß­ge­rä­ten, die in der mo­der­nen Mee­res­for­schung ein­ge­setzt wer­den und von win­zi­gen Mi­kro­or­ga­nis­men, die der Wis­sen­schaft bei der Kli­ma­for­schung hel­fen.</p>
+<p>„Wenn die Tauch­ro­bo­ter ab­tau­chen, herrscht eine ge­wis­se Span­nung an Bord. Wel­che Un­ter­was­ser­wel­ten be­kommt das Team zu Ge­sicht? Die­se Fas­zi­na­ti­on für die For­schung möch­ten wir den Be­su­cher:in­nen ver­mit­teln“, sagt Dr. Frank Schmie­der, der die Aus­stel­lung zu­sam­men mit Nils Strack­bein aus dem Team für Trans­fer und Wis­sen­schafts­kom­mu­ni­ka­ti­on kon­zi­piert hat.</p>
+<p><strong>Vortragsprogramm und Fotoausstellung</strong></p>
+<p>Die For­schungs­ar­bei­ten der Wis­sen­schaft­ler:in­nen am MARUM ste­hen wäh­rend der Aus­stel­lung auch im Mit­tel­punkt der Vor­trags­rei­he „Wis­sen um 11“. Am 22. Juli be­rich­tet Prof. Wolf­gang Bach über Hei­ße Quel­len am Mee­res­bo­den. Um Hei­ße Quel­len im Ark­ti­schen Oze­an geht es am 26. Au­gust im Vor­trag von Dr. Ma­ren Wal­ter. Prof. Achim Kopf re­fe­riert am 23. Sep­tem­ber zum The­ma CO2-Spei­che­rung in der Oze­an­krus­te. Dr. Ur­su­la Röhl be­schließt die Rei­he am 21. Ok­to­ber mit ih­rem Vor­trag zum Kli­maar­chiv Ozeanboden.</p>
+<p>Wel­che Tech­no­lo­gi­en der Ex­zel­lenz­clus­ter in der Tief­see ein­setzt, zeigt au­ßer­dem die  Fo­to­aus­stel­lung „Ex­pe­di­ti­on Tief­see“ im Haus der Wis­sen­schaft, die noch bis zum 23. Au­gust zu se­hen ist. Be­su­chen­de kön­nen hier ab­tau­chen zu fas­zi­nie­ren­den Öko­sys­te­men der Tief­see. Der Ein­tritt zu bei­den Aus­stel­lun­gen ist frei.</p>
+<p>Die Aus­stel­lung ist mo­du­lar auf­ge­baut und soll künf­tig wei­ter aus­ge­baut wer­den. So kann sie in un­ter­schied­li­chen Grö­ßen und Räu­men ge­zeigt wer­den.</p>
+<p><a href="https://www.marum.de/Entdecken/3688.html">Diese Pressemitteilung</a> findet ihr beim <a href="https://www.marum.de/index.html">MARUM.</a></p>
+<p>In unserer <a href="https://www.deepwave.org/die-ozeane/bilder/">Fotogalerie &ldquo;Tiefsee&rdquo;</a> könnt ihr abtauchen und das einzigartige Ökosystem und seine Bewohner entdecken.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ein-tuerspalt-fuer-den-europaeischen-naturschutz/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/08/FFH-Gebiet_NSG_Schwansener_See_11_von_82-scaled.jpg" alt="Ein Türspalt für den europäischen Naturschutz" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Ein Türspalt für den europäischen Naturschutz</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><em>Krüger: Mühsamer Kampf, um Europas Ökosysteme vor Hitze und Fluten zu schützen / Angstmache und Populismus von EVP und...</em></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/stop-deep-sea-mining-stoppt-den-tiefseebergbau-bevor-es-zu-spaet-ist/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Stop Deep Sea Mining! Stoppt den Tiefseebergbau, bevor es zu spät ist</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Stop Deep Sea Mining! Stoppt den Tiefseebergbau, bevor es zu spät ist</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Wir brauchen in diesen entscheidenden Wochen so viele Staaten wie möglich, die sich bei der ISA (International Seabed...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/stop-deep-sea-mining-stoppt-den-tiefseebergbau-bevor-es-zu-spaet-ist/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

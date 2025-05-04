@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+  
+    
+    
+      
+        <link rel="stylesheet" href="/css/main.css">
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">
+        Überfischung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2024/07/Borkum_Klage_gegen_Gasbohrungen_Detmold.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Detmold / Pixabay
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Historisches Urteil zum Schutz des Wattenmeeres vor Borkum</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Apr 19, 2024</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Pressemitteilung, 18.04.2024, Deutsche Umwelthilfe (DUH)</p>
+<p><strong>Historisches Urteil zum Schutz des Wattenmeeres: Deutsche Umwelthilfe gewinnt Klage gegen Ölkonzern One-Dyas zum Stopp der Gasbohrungen vor Borkum</strong></p>
+<p>• Rechtbank Den Haag folgt Antrag der DUH, der Stadt Borkum und ihrer Partner und verkündet finales Urteil zum Stopp der Gasbohrungen vor Borkum</p>
+<p>• Historisches Urteil für Klima- und Umweltschutz und gegen fossile Projekte: Entscheidung verhindert unwiederbringliche Zerstörung des Riffs am Bauplatz der Bohrplattform</p>
+<p>• DUH kündigt an, nun auch gegen weitere Öl-Förderung auf der Förderplattform Mittelplate in der deutschen Nordsee rechtlich vorzugehen</p>
+<p>Berlin/Den Haag, 18.4.2024: Die Deutsche Umwelthilfe (DUH) begrüßt die Entscheidung der Rechtbank Den Haag, die geplanten Baumaßnahmen des Öl- und Gaskonzerns One-Dyas in der Nordsee sofort zu stoppen. Damit hat die DUH heute gemeinsam mit der Bürgerinitiative Saubere Luft Ostfriesland, der niederländischen NGO Mobilisation for the Environment (MOB) und der Stadt Borkum einen historischen Erfolg mit ihrer Klage gegen neue Gasbohrungen in der Nordsee erzielt. Die DUH kündigt nun auch rechtliche Schritte gegen die Ölförderung Mittelplate im UNESCO-Weltnaturerbe Wattenmeer an. Sascha Müller-Kraenner, Bundesgeschäftsführer der DUH: <em>„Die Entscheidung der Rechtbank Den Haag markiert einen Wendepunkt im Kampf für Klimaschutz und den Erhalt unserer Natur. Sie ist ein klares Signal dafür, dass der Schutz des UNESCO-Weltnaturerbes Wattenmeer und anderer sensibler Ökosysteme Vorrang hat vor kurzfristigen wirtschaftlichen Interessen. Staaten und Konzerne müssen sich jetzt klar machen: Klima- und Umweltschutz sind rechtliche Verpflichtungen und kein freiwilliger Luxus. Dieses Urteil ist ein historischer Schritt für eine Nordsee frei von schmutzigen fossilen Bohrplattformen und für den endgültigen Ausstieg aus allen fossilen Energieträgern. Damit das Realität wird, machen wir weiter Druck und leiten nun auch rechtliche Schritte gegen die Öl-Förderung auf der Förderplattform Mittelplate im Nationalpark Wattenmeer ein.“</em> Jürgen Akkermann, Bürgermeister der Stadt Borkum: <em>„Vor einigen Wochen bebte im Landkreis Diepholz zum wiederholten Male die Erde. Dadurch wurden Häuser beschädigt und die Bevölkerung verunsichert. Der Grund dafür war die nahegelegene Erdgasförderung. Für touristische Destinationen, die ausschließlich vom Tourismus und der Gesundheitsvorsorge leben, wie z.B. die ostfriesischen Inseln, wäre dies und die Belastung der Umwelt durch die Förderung verheerend. Wir freuen uns, dass mit diesem starken Signal aus Den Haag, eine wichtige Entscheidung für den Klima- und Umweltschutz, aber auch für den Küstenschutz der deutschen und niederländischen Inseln getroffen wurde.“</em> Bondine Kloostra, Rechtsanwältin: <em>&ldquo;Ich begrüße das Urteil ausdrücklich: Ein Teil der Genehmigung wurde für ungültig erklärt, weil die Gasbohrungen Stickstoffablagerungen in geschützter Natur verursachen. Das Gerichtsurteil unterstreicht, wie schlecht es um den Schutz der Natur in den Niederlanden bestellt ist. Es gibt noch viel zu tun, um unsere Natur und unsere Zukunft wirksam zu schützen und diesen Schutz konsequent rechtlich durchzusetzen.&rdquo;</em></p>
+<p>Bernd Meyerer, Sprecher der Bürgerinitiative ‚Saubere Luft Ostfriesland‘: <em>„Zusammenarbeit zahlt sich aus! Dieser große Erfolg wurde möglich durch die grenzüberschreitende Bündelung von Engagement und Sacharbeit von vollkommen unterschiedlichen Organisationen. Sich für den Erhalt der Natur einzusetzen lohnt sich! Als nächste Schritte müssen nun die endgültige Absage der Genehmigung durch das deutsche LBEG und die Anerkennung und Unterschutzstellung der neu gefundenen Riffflächen durch die deutschen Naturschutzbehörden erfolgen.“</em> Stijn van Uffelen, Sprecher der niederländische NGO ‚Mobilisation for the Environment‘: <em>„Dies ist sowohl ein Sieg für die Natur als auch für die Gerechtigkeit. Die Unternehmen der fossilen Energiewirtschaft können nicht einfach so weitermachen und müssen sich wie alle anderen an die Umweltvorschriften halten. Dennoch hat diese Klage einen üblen Beigeschmack. Es ist seltsam, über ein neues Bohrloch zu diskutieren, wenn sich die Regierung zum Ausstieg aus fossilen Brennstoffen verpflichtet hat. Es ist uns ein Rätsel, warum neue Bohrungen noch nicht einem generellen Verbot unterliegen.“</em> Die DUH und die anderen Umweltorganisationen hoffen nun, dass das Urteil auch in Zukunft zu einem verstärkten Schutz der Nordsee, anderer Meeresgebiete und dem Einhalten von Klimazielen beiträgt.</p>
+<p><strong>Hintergrund</strong></p>
+<p>Mit einer neuen Förderplattform wollte One-Dyas ein Gasfeld in der Nordsee erschließen, das zur Hälfte in der niederländischen und zur Hälfte in der deutschen Nordsee liegt. Die Plattform liegt knapp 500 Meter vor der deutschen Seegrenze und in unmittelbarer Nähe des UNESCO-Weltnaturerbes Wattenmeer sowie mehrerer Natura-2000-Gebiete. Umweltverbände warnen, dass die Erdgasförderung im sensiblen Ökosystem Wattenmeer den Erhalt der Artenvielfalt gefährdet und den Klimazielen zuwiderläuft. Auch die Insel Borkum ist konkret bedroht. Die geringen jährlichen Fördermengen tragen selbst bei besten Förderbedingungen nicht mehr als 0,7 Prozent zum deutschen Erdgasverbrauch bei. Diesem Betrag stehen drohende CO2-Emissionen von bis zu 65 Millionen Tonnen gegenüber, wenn der Konzern seine Förderpläne in der Region umsetzt.</p>
+<p><a href="https://www.duh.de/presse/pressemitteilungen/pressemitteilung/historisches-urteil-zum-schutz-des-wattenmeeres-deutsche-umwelthilfe-gewinnt-klage-gegen-oelkonzern/">Diese Pressemitteilung</a> findet ihr bei der <a href="https://www.duh.de/">DUH</a>.</p>
+<p>Dieses historische Urteil ist nicht die erste <a href="https://www.deepwave.org/weiterer-erfolg-gegen-gasbohrungen-vor-borkum-deutsche-umwelthilfe-erreicht-vor-gericht-aufrechterhaltung-des-baustopps/">erfolgreiche Klage der DUH</a> gegen die Gasbohrungen vor Borkum. Warum die Förderung von Erdöl und -gas so gefährlich ist, und wie sich DEEPWAVE dazu positioniert, könnt ihr <a href="https://www.deepwave.org/die-ozeane/erdoel-und-erdgas/">hier</a> nachlesen.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    %!s(&lt;nil&gt;)
+    
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

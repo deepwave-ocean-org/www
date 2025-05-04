@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2020/08/Delfin_FlavioGasperini_unsplash-scaled.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Flavio Gasperini / Unsplash
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Verhaltenskodex: Beobachtung von Delfinen und Walen in deutschen Gewässern</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jun 25, 2020</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Gemeinsame Pressemitteilung der Gesellschaft zur Rettung der Delphine e.V., Whale and Dolphin Conservation und dem Bund für Naturschutz, 23.06.2020</p>
+<p><strong>Abstand halten! – Leitlinien für die Wal- und Delfinbeobachtung</strong></p>
+<p><strong>Erster Verhaltenskodex für Umgang mit wildlebenden Walen und Delfinen in Deutschland</strong> <strong>veröffentlicht</strong></p>
+<p>Putbus/Insel Vilm/München, 23. Juni 2020: Wale und Delfine üben auf Menschen eine ungemein große Anziehungskraft aus. Doch was ist bei der Begegnung mit Meeressäugern im offenen Meer zu beachten? Whale and Dolphin Conservation (WDC), die Gesellschaft zur Rettung der Delphine (GRD) und das Bundesamt für Naturschutz (BfN) haben jetzt gemeinsam die ersten Leitlinien zur Beobachtung von Walen und Delfinen in Deutschland veröffentlicht.</p>
+<p>Die Präsidentin des Bundesamtes für Naturschutz Prof. Beate Jessel: „Wir sind sehr froh, dass es durch die enge Zusammenarbeit mit den beiden Nichtregierungsorganisationen erstmals gelungen ist, Leitlinien für Deutschland für den richtigen und naturverträglichen Umgang mit Walen und Delfinen zu entwickeln. Dies ist ein sehr wichtiger Schritt, da leider in vielen Ländern immer noch solche Handlungsanweisungen fehlen. Das Beobachten und Erleben von Natur liefert uns Menschen wertvolle Erfahrungen. Wir sollten uns dabei allerdings stets so verhalten, dass keine negativen Konsequenzen für die Natur entstehen. Für die Begegnung mit Walen und Delfinen in deutschen Gewässern gibt der Leitfaden jetzt den notwendigen Rahmen vor und liefert wichtige Empfehlungen.“</p>
+<p>Neben den heimischen Schweinswalen kommen auch in der deutschen Nord- und Ostsee immer wieder Große Tümmler oder sogar Großwale in Küstennähe vor. Diese ziehen gewöhnlich eine große öffentliche Aufmerksamkeit auf sich. Fabian Ritter, Meeresbiologe bei WDC: „Wir sind sehr stolz auf diesen neuen Leitfaden, der darstellt, wie respektvolles und angemessenes Verhalten gegenüber Walen und Delfinen aussieht. Diese Tiere üben verständlicherweise eine große Faszination auf Menschen aus und viele möchten ihnen näherkommen. Doch trotz ihrer Größe und ihrem oft neugierigen Verhalten dem Menschen gegenüber sind sie auch sehr sensibel und verletzlich. Wir sind der Überzeugung, dass der neue Leitfaden dem Wohl und der Sicherheit der Tiere und des Menschen gleichermaßen zugutekommt.&quot;</p>
+<p>Immer mehr Menschen möchten auch hierzulande Wale und Delfine in freier Wildbahn beobachten, wobei es häufig zu direktem Kontakt kommt. Daher war es dringend notwendig, Leitlinien für ein angemessenes Verhalten bei der Begegnung mit den Tieren zu erstellen. In der Vergangenheit gingen Personen in der Nähe von Schleusen oder Wasserstraßen schwimmen, wo sie zum Beispiel dem Menschen zugewandte Große Tümmler hautnah erleben wollten. Dies ist für die Tiere mit sehr viel Stress verbunden, aber auch der Mensch kann durch die Tiere mit ihrem massiven Körper verletzt werden. Immerhin wird ein Großer Tümmler bis zu 3,80 m lang und rund 600 kg schwer.</p>
+<p>„Begegnungen zwischen großen Beutegreifern und Menschen sind in Deutschland ein ständiger Konfliktherd. Allzu oft geht dieser Konflikt zu Lasten der Tiere aus. Wölfe, Kegelrobben oder Luchse haben keinen leichten Stand. Delfine dagegen schon. Doch das wird nur so lange gut gehen, bis erstmals Menschen angegriffen oder verletzt werden. Deshalb ist es elementar wichtig, der Bevölkerung fundierte Richtlinien für nachhaltige und verträgliche Mensch-Tier-Begegnungen an die Hand zu geben“, erläutert der Biologe Ulrich Karlowski von der GRD.</p>
+<p>Bei den nun vorgelegten ersten Verhaltensregeln für den Umgang mit Walen und Delfinen in Deutschland handelt es sich um einen Meilenstein bei den Schutzbemühungen. Im Kern geht es darum, den Menschen deutlich zu machen, dass sie stets einen respektvollen Abstand zu den Tieren halten und sehr vorsichtig agieren sollen. Wesentlich ist es darüber hinaus, dass den Tieren die Entscheidung überlassen wird, ob sie in Interaktion mit uns Menschen gehen wollen oder nicht. Denn in ihrem Element sind schließlich wir Menschen Gäste.</p>
+<p>Diese <a href="https://de.whales.org/wp-content/uploads/sites/4/2020/06/2020_06_23-PM-Leitfaden-Wale-Delfine.pdf">Pressemitteilung</a> und den vollständigen <a href="https://de.whales.org/wp-content/uploads/sites/4/2020/06/20200623_Verhaltenscodex-Wale-Delfine.pdf">Verhaltenskodex</a> findet ihr bei der <a href="https://de.whales.org/">Whale and Dolphin Conservation</a>.</p>
+<p>Meereslebewesen werden jedoch nicht nur durch unvorsichtige Beobachter:innen gefährdet und gestresst, sondern auch durch verschiedene Lärmquellen, die die stille Welt stören. Weitere Informationen findet ihr dazu auf unserer <a href="https://www.deepwave.org/die-ozeane/laerm/">Lärmseite</a>.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-klimabewegung-hat-ein-rassismusproblem/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/10/tonnydatteln-4961-960-640-80-c.jpg" alt="Die Klimabewegung hat ein Rassismusproblem" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die Klimabewegung hat ein Rassismusproblem</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Tonny Nowshin ist Klimaaktivistin. Regelmäßig ist sie Teil von Aktionen, die der Welt und der <a href="https://www.deepwave.org/die-ozeane/klimawandel/">Klimakrise</a> eine Stimme...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-sichtungs-app-ostsee-tiere/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/04/Ostseestrand_mit_Robben_Susanne_Jutzeler_suju-foto_pixabay.jpg" alt="Die Sichtungs-App &#34;OstSeeTiere&#34;" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die Sichtungs-App &#34;OstSeeTiere&#34;</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Die Artenvielfalt der Meere ist durch die Einwirkung äußerer, vor allem menschengemachter Einflüsse zunehmend bedroht....</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/die-sichtungs-app-ostsee-tiere/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+  
+    
+    
+      
+        <link rel="stylesheet" href="/css/main.css">
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">
+        Überfischung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Meeresumweltsymposium 2018 zeigt positive Entwicklungen auf</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jun 22, 2018</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Pressemitteilung <a href="https://www.bsh.de/DE/Home/home_node.html">Bundesamt für Seeschifffahrt und Hydrographie</a> (BSH)</p>
+<p>Hamburg 22.06.2018</p>
+<p>Die Entwicklungen zum Schutz der Meeresumwelt haben in den letzten Jahren erhebliche Fortschritte gezeigt.</p>
+<p>Umweltbelastende Chemikalien haben auf Grund der gesetzlichen Regulierung in Nord- und Ostsee deutlich abgenommen. Einige Substanzen im Bereich der Flammschutzmittel nehmen bereits im Vorfeld des ab 2020 geltenden Verbotes ab. Die präsentierten Untersuchungen zum Verhalten von Seevögeln in der Nähe von Offshore-Windparks fließen in die Konsultationen zum Vorentwurf des Flächenentwicklungsplans für Nord- und Ostsee ein.</p>
+<p>Das sind einige Ergebnisse aus dem 28. Meeresumwelt-Symposium in Hamburg. Schwerpunkte waren dieses Jahr Vorhaben zur Erreichung des Nachhaltigkeitsziels 14 „Schutz und Nachhaltige Nutzung der Meere und ihrer Ressourcen“ der Agenda 2030 der Vereinten Nationen sowie Fragen im Bereich „Schifffahrt und Umwelt“, „Meeresmüll“, „Offshore-Windenergie und Seevögel“ und „Nachhaltige Aquakultur“.</p>
+<p>In ihrer Rede zur Eröffnung zeigte die Präsidentin des Bundesamtes für Seeschifffahrt und Hydrographie und maritime Botschafterin der Internationalen Seeschifffahrtsorganisation IMO, Monika Breuch-Moritz, auf, dass die internationalen Übereinkommen zum Schutz der Umwelt wirken. „Diese positiven Ergebnisse motivieren die Nutzer der Meere, sich weiter dem Umweltschutz zu verschreiben“, betonte sie vor rund 400 Gästen aus Wissenschaft, Wirtschaft, Verwaltung, Umweltschutzverbänden, Politik und Medien. „Gerade beim Kampf gegen Müll im Meer ist es erforderlich, weltweit bei den Hauptbelastungspfaden von Land aus anzusetzen, um möglichst effektiv die Meeresumwelt zu schützen. “ Dies komme auch der dortigen Bevölkerung zugute, erläuterte sie.</p>
+<p>Der Parlamentarische Staatssekretär im Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, Florian Pronold, bezeichnete Meeresschutz als das Bohren dicker Bretter auf nationaler, europäischer und internationaler Ebene. Er warnte davor, die gleichen Anforderungen, die in den hochentwickelten Industrienationen umgesetzt werden können, an den Meeresumweltschutz in Entwicklungsländern zu stellen.</p>
+<p>Der Hauptgeschäftsführer des Verbands Deutscher Reeder betonte die Verantwortung der Nutzer der Meere, so auch der Schifffahrt für deren Schutz. Die Ablösung des Schweröls durch alternative Kraftstoffe, zum Beispiel verflüssigtes Erdgas LNG, sei ein wichtiger Schritt zu einem klimaneutralen Seetransport. Er forderte hierzu eine Innovationsoffensive in Forschung und Entwicklung.</p>
+<p>Erste Ergebnisse wissenschaftlicher Untersuchungen des Verhaltens von Seetaucher, Trottellumme und Dreizehenmöwe im Bereich von Offshore-Windparks waren ein weiterer Bestandteil der Diskussion auf dem 28. Meeresumweltsymposium. Die Untersuchungen hatte das Bundesamt für Seeschifffahrt und Hydrographie gemeinsam mit dem Bundesamt für Naturschutz in Auftrag gegeben, um die neuesten Erkenntnisse aus dem Betriebsmonitoring der Windparks auswerten zu lassen. Die Erkenntnisse werden in den Entwurf des Flächenentwicklungsplans von Nord- und Ostsee einfließen.</p>
+<p>Das Meeresumwelt-Symposium ist die wichtigste interdisziplinäre Plattform zum Schutz der marinen Umwelt in Deutschland. Jährlich diskutieren Vertreterinnen und Vertreter aus Wissenschaft, Wirtschaft, Verwaltung, Politik und Umweltverbänden die drängenden Fragen und aktuellen Erkenntnisse zum Schutz der Meere.</p>
+<p>Das Bundesamt für Seeschifffahrt und Hydrographie (BSH) ist die zentrale maritime Behörde in Deutschland. Rund 850 Menschen in rund 100 Berufen befassen sich mit Aufgaben in der Seeschifffahrt, der Ozeanographie, der nautischen Hydrographie, der Offshore-Windenergie und der Verwaltung. Fünf eigene Vermessungs-, Wracksuch- und Forschungsschiffen operieren in der deutschen ausschließlichen Wirtschaftszone von Nord- und Ostsee. Das BSH arbeitet international in mehr als 12 Organisationen und etwa 200 dort angesiedelten Gremien unter anderem bei der Entwicklung internationaler Übereinkommen mit. Das BSH ist eine Bundesoberbehörde und Ressortforschungseinrichtung im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur mit Dienstsitzen in Hamburg und Rostock.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    %!s(&lt;nil&gt;)
+    
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

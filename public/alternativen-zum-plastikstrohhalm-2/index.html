@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2020/07/MACCHERONI_von_oben_wie_ein_Seeigel_32-1024x604-1.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Anna Mandel / DEEPWAVE
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Alternativen zum Plastikstrohhalm</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Aug 28, 2018</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Hier findet ihr eine Liste von diversen Alternativen zum Strohhalm aus Plastik (der eigentlich Trinkhalm heißt) mit ihren jeweiligen Vor- und Nachteilen.</p>
+<p>Der beste Strohhalm ist gar keiner!</p>
+<p><strong>Wiederverwendbare Alternativen</strong> Trinkhalme aus Glas sind angenehm im Gebrauch, spülmaschinengeeignet und durch ihre glatte Oberfläche gut zu reinigen und besonders hygienisch. Im Gastrobereich gibt es allerdings noch keine Vorrichtungen, die ein leichtes, schnelles Reinigen ermöglichen. Sie eignen sich für  Heiß- und Kaltgetränke und haben keinen Eigengeschmack. Die Halme sind aus bruchsicherem Laborglas, das selbst bei einem Sturz zu Boden nicht zerbricht, und werden mit Hülle und Reinigungsbürstchen angeboten, die es ermöglichen, sie auch unterwegs zu nutzen. Das Glas darf jedoch nicht im normalen Altglascontainer entsorgt werden, sondern muss einem speziellen Entsorger für hitzebeständiges Laborglas zugeführt werden.</p>
+<p>Trinkhalme aus Edelstahl sind eine umweltfreundliche Alternative mit langer Lebensdauer und recycelbar, allerdings nicht geeignet für Heißgetränke, da Verbrühungsgefahr. Sie sind generell gut in der Gastrobranche verwendbar, auch wenn bemängelt wird, dass man nicht so gut sehen kann, ob alle Rückstände durch die Spülmaschine entfernt wurden, weil sie nicht durchsichtig sind. Außerdem werden sie nicht von allen Benutzern als geschmacksneutral empfunden und bei Menschen mit Beeinträchtigungen (wozu auch starke Alkoholisierung zählt) besteht die Gefahr der Selbstverletzung.</p>
+<p>Eine weitere Alternative ist der Bambushalm, dessen Material von Natur aus antibakteriell ist. Da Bambus Flüssigkeiten gut aufnimmt, ist dieser Trinkhalm etwas schwerer zu reinigen und daher für den Gastrobereich in Deutschland nicht zugelassen, für den Hausgebrauch aber gut geeignet, wenn man sich an seinen Eigengeschmack gewöhnt hat.  Er ist nur schwer kompostierbar, dafür bruchsicher. Außerdem sind die Anbaumethoden in Betracht zu ziehen und der negative ökologische Footprint aufgrund des Transports aus Asien.</p>
+<p>Halme aus sogenannten Biokunststoffen (biobasierte Kunststoffe) werden von uns nicht empfohlen. Sie ähneln zu sehr Plastik und verhindern so ein Umdenken. Ebenso ist die Bezeichnung „bio“ irreführend, die nichts mit der Lebensmittelkennzeichnung zu tun hat, sondern auf das natürliche Ausgangsmaterial hinweist, das meist Maisstärke ist. Und insofern dieser Mais Genmais aus den USA ist, sind sie ein No-Go für uns. Außerdem sind sie weder wirklich kompostierbar, da sie dies nur in idustriellen Anlagen wären, die dafür aber in Deutschland nicht zur Verfügung stehen, noch wirklich recycelbar, da die Scanner der Recyclinganlagen sie als Kunststoff aussortieren und so der Verbrennung zuführen.</p>
+<p><strong>Nicht wiederverwendbare Alternativen</strong> Unser Favorit, falls es nicht ohne Trinkhalm zu gehen scheint: die Nudel! Maccaroni in allen möglichen Stärken gibt es überall, wenn der Hartweizenanteil hoch ist, halten sie lange in der Flüssigkeit, und wenn sie dann doch aufweichen, kann man sie essen, was nicht nur Kinder gut finden.</p>
+<p>Die  klassische Alternative ist der Strohhalm aus Stroh, aus dem Material, das ihm den Namen gegeben hat und aus dem er seit seiner Erfindung war, bis er vor einigen Jahrzehnten durch das vermeintlich günstigere Material Plastik ersetzt wurde. Heute wird wieder Roggenstroh in biologischer Qualität angebaut, das sich für die Verwendung als Trinkhalm eignet.  Der Strohstrohhalm ist kompostierbar, in Maßen für Heißgetränke und Smoothies geeignet und – neben der Pastavariante – die ökologischste Alternative in Situationen, in denen auf Wegwerfware nicht verzichtet werden will.</p>
+<p>Die bereits bekannten Papierhalme eignen sich nur für Kaltgetränke. Sie werden im besten Fall aus recyceltem Papier hergestellt, sind allerdings meist bedruckt oder beschichtet, was eine Zuführung zum Recyclingkreislauf fragwürdig macht.</p>
+<p>Neu im experimentellen Bereich sind bienenwachsbeschichtete Halme aus Raps und aus Apfeltrester.</p>
+<p>Quellen:</p>
+<p><a href="http://nachhaltig-sein.info/lebensweise/alternativen-plastik-strohhalm-vergleich-nachhaltigkeit">nachhaltig-sein.info/lebensweise/alternativen-plastik-strohhalm-vergleich-nachhaltigkeit</a></p>
+<p><a href="https://www.halm.co/de/wiederverwendbare-strohhalme-im-vergleich">https://www.halm.co/de/wiederverwendbare-strohhalme-im-vergleich</a></p>
+<p><a href="https://www.bambus-freunde.de/trinkhalme-aus-plastik-warum-du-keine-mehr-benutzen-solltest/">https://www.bambus-freunde.de/trinkhalme-aus-plastik-warum-du-keine-mehr-benutzen-solltest/</a></p>
+<p><a href="http://www.bbc.com/news/uk-43169004">http://www.bbc.com/news/uk-43169004</a></p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/der-6-runde-tisch-meeresmuell/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Der 6. Runde Tisch Meeresmüll</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Der 6. Runde Tisch Meeresmüll</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Der Runde Tisch Meeresmüll (<a href="https://muell-im-meer.de/">https://muell-im-meer.de/</a>) bringt Vertreter von Umweltschutzorganisationen, Instituten,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/neue-kooperation-in-hamburg-mit-fckstraws/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Neue Kooperation in Hamburg mit FCKSTRAWS</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Neue Kooperation in Hamburg mit FCKSTRAWS</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Für die Hamburger Clubszene machen die „clubkinder“ und die „greenmusic initiative“ den Anfang: Sie wollen das Hamburger...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/neue-kooperation-in-hamburg-mit-fckstraws/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+
+<section class="relative overflow-hidden w-full">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
+        style="background-image: url('');">
+    </div>
+    
+    <div class="absolute inset-0" style="background-color: var(--color-parallax-overlay);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white my-24">
+      <h1 class="text-3xl md:text-3xl mb-2">Bluestraw</h1>
+      
+    </div>
+  </section>
+
+<div class="not_full_width min-h-screen my-12">
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/eu-umweltrat-eintrag-von-kunststoffgranulat-in-die-umwelt-soll-verringert-werden/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2025/01/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-scaled.jpg" alt="EU-Umweltrat: Eintrag von Mikroplastik in die Umwelt soll verringert werden" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">EU-Umweltrat: Eintrag von Mikroplastik in die Umwelt soll verringert werden</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><h2 id="wichtiger-schritt-gegen-versehentlich-freigesetztes-kunststoffgranulat">Wichtiger Schritt gegen versehentlich freigesetztes Kunststoffgranulat</h2>
+<p>Schätzungen der Europäischen Kommission zufolge...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/verbot-von-einweg-e-zigaretten-soll-ins-elektrogesetz-deutsche-umwelthilfe-fordert-nach-votum-des-bundesrats-schnellstmoegliche-nachbesserung/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/12/vapes_einweg_e_zigaretten_wikimedia_commons-scaled.jpg" alt="Verbot von Einweg-E-Zigaretten soll ins Elektrogesetz: Deutsche Umwelthilfe fordert nach Votum des Bundesrats schnellstmögliche Nachbesserung" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Verbot von Einweg-E-Zigaretten soll ins Elektrogesetz: Deutsche Umwelthilfe fordert nach Votum des Bundesrats schnellstmögliche Nachbesserung</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Berlin, 22.11.2024: Der Bundesrat hat sich heute für ein Verbot von Einweg-E-Zigaretten in Deutschland ausgesprochen....</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/neue-zahlen-zu-einweg-kaffeekapseln-28-milliarden-stueck-und-fast-10-000-tonnen-muell-pro-jahr-durch-jacobs-nestle-und-co/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/11/Kaffeekapseln_Einweg_Nespresso_Thomas_Wolter_Pixabay.jpg" alt="Neue Zahlen zu Einweg-Kaffeekapseln: 2,8 Milliarden Stück und fast 10.000 Tonnen Müll pro Jahr durch Jacobs, Nestlé und Co." class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Neue Zahlen zu Einweg-Kaffeekapseln: 2,8 Milliarden Stück und fast 10.000 Tonnen Müll pro Jahr durch Jacobs, Nestlé und Co.</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>• <strong>Berechnungen der Deutschen Umwelthilfe für das Jahr 2022 basierend auf Marktdaten und Gewichtsmessungen</strong></p>
+<p><strong>• Hersteller...</strong></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/mikroplastik-im-meer-neue-methode-ermoeglicht-analyse-von-partikeln-aus-beschichtungen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2025/01/shaah-shahidh-unsplash_schiff_rot_mikroplastik_farbe_beschichtung-scaled.jpg" alt="Mikroplastik im Meer: Neue Methode ermöglicht Analyse von Partikeln aus Beschichtungen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Mikroplastik im Meer: Neue Methode ermöglicht Analyse von Partikeln aus Beschichtungen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Mikroplastik im Meer könnte größtenteils auch aus Beschichtungen sowie Farbanstrichen von Schiffen und Bauwerken im Meer...</strong></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/verhandlungen-gegen-die-plastikflut-starten/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/08/Plastikmuell_TheDigitalArtist_Pixabay.jpg" alt="Verhandlungen gegen die Plastikflut starten" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Verhandlungen gegen die Plastikflut starten</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>WWF: „Abkommen muss rechtsverbindlich sein, Verbote besonders schädlicher Kunststoffprodukte umfassen und die...</strong></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nostraw-shop-no-straw-is-the-best-straw/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/03/AnnaMandel_LostInPlastic_1.png" alt="NoStraw Shop – NO STRAW is the best straw" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NoStraw Shop – NO STRAW is the best straw</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://deepwave.shop/"><strong>zum SHOP</strong></a></p>
+<p>DEEPWAVE hat jetzt einen Shop – trotzdem verkaufen wir nichts.</p>
+<p>Wie das funktioniert?</p>
+<p>Im <a href="https://deepwave.shop/">NoStraw Shop</a> könnt ihr...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/kreislaufwirtschaft-plastikverschmutzung-hat-kuenftig-ihren-preis/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/02/muelltonne_kenny-eliason-unsplash-scaled.jpg" alt="Plastikverschmutzung hat künftig ihren Preis" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Plastikverschmutzung hat künftig ihren Preis</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Bundeskabinett beschließt Gesetz zum Aufbau eines Einwegkunststofffonds</strong></p>
+<p>Die Bundesregierung hat heute beschlossen, dass...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/mikroplastik-in-kosmetik-jederzeit-und-ueberall-erkennen-mit-der-toxfox-app/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/10/smartphone_toxfox_app_jonas-leupe-unsplash-scaled.jpg" alt="Mikroplastik in Kosmetik jederzeit und überall erkennen – mit der ToxFox-App" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Mikroplastik in Kosmetik jederzeit und überall erkennen – mit der ToxFox-App</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/vermeidung-des-mikroplastikeintrags-in-die-marine-umwelt-workshop/">Mikroplastik</a> und andere Schadstoffe, welche sowohl unserer Umwelt als auch unserer Gesundheit schaden, befinden sich...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/09/Mikroplastik_Tiefsee_Meeresgrund_Senckenberg-1.jpg" alt="Endstation Tiefsee: Mikroplastik belastet Meeresgrund noch stärker als angenommen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Endstation Tiefsee: Mikroplastik belastet Meeresgrund noch stärker als angenommen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Forschungsteam weist hohe Mikroplastik-Verschmutzung im westpazifischen Kurilen-Kamtschatka-Graben nach</strong></p>
+<p>Die...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/un-umweltversammlung-durchbruch-gegen-die-plastikflut-was-175-staaten-jetzt-beschlossen-haben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/10/Plastik_Plastikflut_naja-bertolt-jensen-unsplash-scaled.jpg" alt="Durchbruch gegen die Plastikflut: Was 175 Staaten jetzt beschlossen haben" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Durchbruch gegen die Plastikflut: Was 175 Staaten jetzt beschlossen haben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Die UN-Umweltversammlung hat ein neues Plastikabkommen ins Leben gerufen, welches endlich die weltweite...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-globale-plastikflut-erreicht-die-arktis/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/05/Muell_auf_Meereis_002_MBergmann_AWI.jpg" alt="Die globale „Plastikflut“ erreicht die Arktis" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die globale „Plastikflut“ erreicht die Arktis</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>AWI-Studie zeigt: Plastikmüll verschmutzt den Arktischen Ozean in bedenklichem Ausmaß</strong></p>
+<p>Vor der weltweiten Verschmutzung...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-wichtigkeit-des-coastal-cleanup-days-2020/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/10/Felix_Botschafter_Quadrat.jpeg" alt="Die Wichtigkeit des Coastal Cleanup Days 2020" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die Wichtigkeit des Coastal Cleanup Days 2020</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Am 19. September versammeln sich Freiwillige auf der ganzen Welt, um sich für den jährlichen <a href="https://oceanconservancy.org/trash-free-seas/international-coastal-cleanup/">International Coastal...</a></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/tassen-statt-tampons-die-meere-schuetzen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/08/DEEPWAVE_Tassen_statt_Tampons_Kampagnenfoto-scaled.jpg" alt="Tassen statt Tampons: die Meere schützen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tassen statt Tampons: die Meere schützen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Für die Projektvorstellung August 2020 der Organisation <a href="https://onefortheplanet.de/">one for the planet e.V.</a> haben wir ein kleine Kampagne enwickelt,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/plastik-in-der-tiefsee-nach-einem-vierteljahrhundert-noch-wie-neu/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/07/Quarkverpackung_neben_Manganknolle-scaled.jpg" alt="Plastik in der Tiefsee" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Plastik in der Tiefsee</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Plastik in der Tiefsee: Nach einem Vierteljahrhundert noch wie neu</strong></p>
+<p>Erste Langzeitstudie zum Kunststoffabbau in mehr als...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/fckstraws-initiative-bietet-know-how-an/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">FCKSTRAWS-Initiative bietet Know-how an</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">FCKSTRAWS-Initiative bietet Know-how an</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Die FCKSTRAWS-Initiative ruft dazu auf, keine Strohhalme mehr aus Plastik zu verwenden. Sie hat die Hamburger Clubszene...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/umweltkonferenz-der-uno-startschuss-gegen-plastikmuell-im-meer/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/03/waste-1433138_1920.jpg" alt="UN-Umweltkonferenz - Startschuss gegen Plastikmüll im Meer?" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">UN-Umweltkonferenz - Startschuss gegen Plastikmüll im Meer?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Es besteht die Hoffnung, dass die UN-Umweltkonferenz in Nairobi nun endlich den ersten Schritt in Richtung eines...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+    </div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

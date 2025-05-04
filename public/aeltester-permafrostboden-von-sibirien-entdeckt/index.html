@@ -1,0 +1,1815 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2021/08/1024px-Permafrost_in_Herschel_Island_011.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Boris Radosavljevic / Wikimedia Commons (CC BY 2.0)
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Ältester Permafrostboden von Sibirien entdeckt</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jun 16, 2021</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 15.06.2021, Alfred-Wegener-Institut</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Ein internationales Team von Fachleuten hat bei der Altersbestimmung einer Permafrostschicht in Sibirien einen neuen Rekord aufgestellt: Sage und schreibe mindestens 650.000 Jahre ist der Boden an der tiefsten Stelle alt. Die jetzt im Magazin <em>Quaternary Research</em> veröffentlichten Forschungsergebnisse zeigen aber auch, wie empfindlich der Boden auf Störungen reagiert – und wie schnell er zerstört werden kann.</p>
+<p>Ein internationales Forschungsteam hat das Alter des bislang ältesten, bekannten Permafrostbodens in Sibirien bestimmt. Der Boden in 50 Metern Tiefe in der Nähe der ostsibirischen Gemeinde Batagai ist seit rund 650.000 Jahren gefroren – ein Rekord. „Das bedeutet, dass diese Permafrostschicht bereits mehrere Kalt- und Warmzeiten überdauert hat“, sagt der Geograph Dr. Thomas Opel vom Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar und Meeresforschung (AWI) in Potsdam. Diese Erkenntnis ist von Bedeutung, weil sie zeigt, dass Permafrostböden selbst in wärmeren Zeiten nicht gänzlich abtauen müssen. So hat der Permafrostboden von Batagai offensichtlich auch besonders warme Phasen vor rund 130.000 Jahren überstanden, als es in der Arktis im Sommer rund vier bis fünf Grad Celsius wärmer war als heute. Beim Permafrost handelt es sich um Böden und Gesteine, die permanent gefroren sind, teilweise bis zu mehrere Hundert Meter tief. Sie kommen vor allem in Nordamerika und Sibirien aber auch in Hochgebirgen vor und konservieren wie eine gigantische Gefriertruhe riesige Mengen abgestorbener Biomasse, vor allem Pflanzenreste aber auch Überreste von Vertretern der Tierwelt der letzten Eiszeit wie Mammut oder Wollnashorn. Taut der Permafrost auf, werden Bakterien aktiv, die die uralte Biomasse abbauen und durch ihren Stoffwechsel die Klimagase Kohlendioxid und Methan freisetzen; je stärker das Tauen, desto stärker der Gasausstoß. Im Hinblick auf den heutigen Klimawandel befürchten Fachleute, dass sich dadurch der Treibhauseffekt noch verstärkt.</p>
+<p><strong>Unter günstigen Bedingungen haltbarer als gedacht</strong></p>
+<p>Insofern sind die aktuellen Ergebnisse, die das Forschungsteam jetzt im Magazin Quaternary Research veröffentlicht haben, von großer Relevanz. Sie zeigen, dass sehr alter, tief begrabener Permafrost bei tiefen Temperaturen im Boden natürliche Wärmeperioden überdauern kann, während der Permafrost anderenorts und vor allem von der Oberfläche her durch Erwärmung massiv abtaut. Andererseits zeigt die Situation bei Batagai aber auch, wie empfindlich der Permafrostboden auf Störungen durch den Menschen reagiert. Der 650.000 Jahre alte Permafrostboden liegt an einem Berghang eigentlich in rund 50 Meter Tiefe, wo permanent eine Temperatur von etwa minus 10 Grad Celsius herrscht. Ein Teil des Hangs aber war zwischen den 1940er und 1960er Jahren teilweise entwaldet und außerdem mit schweren Kettenfahrzeugen einer nahe gelegen Mine befahren worden. Dadurch ging die schützende und isolierende Pflanzendecke verloren. In der Folge taute der jüngere Permafrost an der Oberfläche im Sommer auf, bis der Boden schließlich ins Rutschen geriet und den alten Permafrost freilegte. Seit Jahren trägt das Schmelzwasser das aufgetaute Material hangabwärts, sodass ein großer Krater entstanden ist. Inzwischen ist die Abbruchkante bis zu 50 Meter tief. Zudem erodiert der Hang weiter um bis zu 30 Meter pro Jahr.</p>
+<p><strong>Kombination verschiedener Analysemethoden</strong></p>
+<p>Das internationale Team aus deutschen, russischen und englischen Forscherinnen und Forschern hat unter Leitung von Prof. Julian Murton von der University of Sussex den Permafrostboden vom oberen Ende der Abbruchkante bis zu ihrem Fuß mit verschiedenen Methoden untersucht, um das Alter des Permafrostes in den verschiedenen Tiefen genau zu bestimmen. Durch Bestrahlung mit Licht wurde beispielsweise gemessen, wann die in den Sandkörnern enthaltenen Quarz- und Feldspatkristalle in den verschiedenen Tiefen von nachfolgenden Schichten überlagert wurden und zum letzten Mal dem Sonnenlicht ausgesetzt waren. Die Forschenden vom Helmholtz-Zentrum Dresden-Rossendorf bestimmten dahingegen in den Eisproben die Konzentration von radioaktivem und stabilem Chlor mittels der hochsensitiven Beschleunigermassenspektrometrie. Dadurch ließ sich direkt das Alter des Eises selbst bestimmen, welches sich in Form langer Keile im Laufe von Jahrtausenden im Permafrost gebildet hat.</p>
+<p>Des Weiteren wurden Isotope bestimmter chemischer Elemente gemessen. Mit Isotopen bezeichnet man Atome, die unterschiedlich viele Neutronen besitzen und damit unterschiedlich schwer sind. Vom Sauerstoff etwa gibt es in der Natur drei Isotope: 16O, 17O und 18O, von denen das Team um Thomas Opel zwei für die Analysen nutzte. 18O hat zwei Neutronen mehr als 16O und ist somit schwerer. Im Laufe von Warm- und Kaltzeiten ändert sich die Konzentration der 16O- und 18O-Isotope im Eis der Gletscher und Permafrostböden, woraus man auf die vorherrschenden Klimabedingungen und damit indirekt auf das Alter der verschiedenen Permafrostschichten und des enthaltenen Eises schließen kann.</p>
+<p>„Die Datierungsergebnisse von Batagai zeigen eindrucksvoll, wie stabil ein Permafrostboden sein kann und so Jahrhunderttausende überdauert“, sagt Thomas Opel. „Aber auch, wie empfindlich er gegenüber Störungen ist.“ Der Schaden sei irreparabel, weil der offen liegende Permafrostboden in jedem Sommer weiter abtaue. In den vergangenen 50 Jahren hat sich die Hangrutschung bereits auf eine Breite von rund 900 Metern ausgedehnt.</p>
+<p><strong>Kürzlich gestartetes Kooperationsprojekt</strong></p>
+<p>Das Potential des alten Permafrosts von Batagai für die Rekonstruktion von Klima- und Umweltbedingungen vergangener Zeiten ist Gegenstand eines gemeinsamen Forschungsprojekts vom AWI in Potsdam und der Northumbria University aus England, das kürzlich gestartet ist. In diesem vom britischen Leverhulme Trust geförderten Projekt soll untersucht werden, unter welchen Klimabedingungen in der geologischen Vergangenheit sich der sibirische Permafrost gebildet hat, stabil war oder degradiert ist. Diese Erkenntnisse sind wichtig für Vorhersagen über die zukünftige Entwicklung des Permafrosts im Zuge der voranschreitenden Klimaerwärmung. Sowohl die bisherigen als auch die zukünftigen Arbeiten des AWI in Potsdam zu Batagai beruhen insbesondere auf der langjährigen Zusammenarbeit mit dem Melnikov Permafrost Institut und der Nordöstlichen Föderalen Universität in Jakutsk.</p>
+<p><a href="https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/aeltester-permafrostboden-von-sibirien-entdeckt.html">Diese Pressemitteilung</a> findet ihr beim <a href="https://www.awi.de/">Alfred-Wegener-Institut.</a></p>
+<p>Das Schmelzen der Permafrostböden aufgrund der Klimakrise gehört, wie das Schmelzen der Eisschilde, zu den sogenannten <a href="https://www.deepwave.org/klimafoscher-warnen-vor-planetarem-notfallzustand/">Kipppunkten</a>. Mehr darüber könnt ihr in unserem <a href="https://www.deepwave.org/blogs/forschung/">Forschungs</a>- und <a href="https://www.deepwave.org/blogs/klima/">Klimablog</a> nachlesen.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+        
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+    
+    
+
+    
+        
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/klimafoscher-warnen-vor-planetarem-notfallzustand/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/01/eisschmelze-eis-polkappen-antarktis-arktis-106_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg" alt="Klimafoscher warnen vor &#34;planetarem Notfallzustand&#34;" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Klimafoscher warnen vor &#34;planetarem Notfallzustand&#34;</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Dass bereits ein kritischer Punkt bezüglich des <a href="https://www.deepwave.org/die-ozeane/klimawandel/">Klimawandels</a> erreicht ist, lässt sich nicht mehr leugnen. Doch dass...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/waermeattacken-aus-dem-meer-ozean-setzt-arktischem-meereis-zu/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2021/06/20150921_PS94_Arktis_374_SHendricks-scaled.jpg" alt="AWI: Wärmeattacken aus dem Meer: Ozean setzt arktischem Meereis zu" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">AWI: Wärmeattacken aus dem Meer: Ozean setzt arktischem Meereis zu</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Der Einstrom warmer Wassermassen aus dem Nordatlantik in die europäischen Randmeere des Arktischen Ozeans trägt...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/waermeattacken-aus-dem-meer-ozean-setzt-arktischem-meereis-zu/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

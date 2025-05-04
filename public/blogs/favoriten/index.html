@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+
+<section class="relative overflow-hidden w-full">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
+        style="background-image: url('');">
+    </div>
+    
+    <div class="absolute inset-0" style="background-color: var(--color-parallax-overlay);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white my-24">
+      <h1 class="text-3xl md:text-3xl mb-2">Favoriten</h1>
+      
+    </div>
+  </section>
+
+<div class="not_full_width min-h-screen my-12">
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/progress-in-marine-conservation-2023/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/09/dd.jpg" alt="Progress in Marine Conservation 2023" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Progress in Marine Conservation 2023</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Auf der vom Bundesamt für Naturschutz in Kooperation mit dem Deutschen Meeresmuseum/OZEANEUM in Stralsund ausgerichteten...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/meeresoffensive-kernforderungen-fuer-eine-zukunftsfaehige-meerespolitik/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Kernforderungen für eine zukunftsfähige Meerespolitik</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Kernforderungen für eine zukunftsfähige Meerespolitik</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>[et_pb_section fb_built=&ldquo;1&rdquo; _builder_version=&ldquo;4.16&rdquo; global_colors_info=&quot;{}&quot;][et_pb_row...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nostraw-shop-no-straw-is-the-best-straw/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/03/AnnaMandel_LostInPlastic_1.png" alt="NoStraw Shop – NO STRAW is the best straw" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NoStraw Shop – NO STRAW is the best straw</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://deepwave.shop/"><strong>zum SHOP</strong></a></p>
+<p>DEEPWAVE hat jetzt einen Shop – trotzdem verkaufen wir nichts.</p>
+<p>Wie das funktioniert?</p>
+<p>Im <a href="https://deepwave.shop/">NoStraw Shop</a> könnt ihr...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ccs-unter-die-erde-kehren/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/03/Ablasshandel_Holzschnitt_CCS.jpg" alt="Unter die Erde kehren" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Unter die Erde kehren</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><h2 id="ein-gastbeitrag-von-nico-czaja">Ein Gastbeitrag von Nico Czaja</h2>
+<p> </p>
+<h2 id="über-die-subterrane-unterbringung-von-co-mittels-ccs-als-mzbdkw"><strong>Über die subterrane Unterbringung von CO****₂</strong> <strong>mittels CCS¹</strong> <strong>als MZBDKW²</strong></h2>
+<p> </p>
+<p>Ich war mal...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/tiefseebergbau-fuer-einsteigerinnen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/12/Tiefseebergbau_fuer_EinsteigerInnen_Ausschnitt_Fibel_Instagram.jpg" alt="Tiefseebergbau für Einsteiger:innen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tiefseebergbau für Einsteiger:innen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Vor ein paar Tagen hat unsere aktuelle Regierung an entscheidender Stelle ein <a href="https://www.deepwave.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/">Votum</a> abgegeben, das uns alle hier...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/bundesregierung-geht-in-die-offensive-fuer-saubere-ozeane-den-schutz-mariner-artenvielfalt-und-gegen-meeresmuell/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/02/baltic-sea-g7130935a5_1920.jpg" alt="Bundesregierung geht in die Offensive für saubere Ozeane, den Schutz mariner Artenvielfalt und gegen Meeresmüll" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Bundesregierung geht in die Offensive für saubere Ozeane, den Schutz mariner Artenvielfalt und gegen Meeresmüll</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Die Bundesregierung will mit einer Meeresoffensive gegen Umweltverschmutzung vorgehen und den Schutz der marinen...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/weltweit-groesstes-fischbrutgebiet-in-der-antarktis-entdeckt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2022/01/Fischbrutgebiet_weddelmeer_antarktis_eisfisch.jpg" alt="Weltweit größtes Fischbrutgebiet in der Antarktis entdeckt" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Weltweit größtes Fischbrutgebiet in der Antarktis entdeckt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Forschende weisen etwa 60 Millionen Nester antarktischer Eisfische auf 240 Quadratkilometern im Weddellmeer nach</strong></p>
+<p>Nahe...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Diskussionsvortrag zur Dokumentation &#34;Seaspiracy&#34;</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Diskussionsvortrag zur Dokumentation &#34;Seaspiracy&#34;</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.youtube.com/watch?v=FWe">https://www.youtube.com/watch?v=FWe</a>_yW_kUjI</p>
+<p>Quelle: <a href="https://www.asta-landau.de/">AStA Landau</a> auf YouTube</p>
+<p>Die Netflix Dokumentation <em>Seaspiracy</em> geht...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/klimaschutz-erhalt-der-biodiversitaet-und-soziale-gerechtigkeit-diese-aufgaben-lassen-sich-nur-im-dreiklang-loesen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2021/08/farmer-2260636_1920.jpg" alt="Klimaschutz, Erhalt der Biodiversität und soziale Gerechtigkeit – diese Aufgaben lassen sich nur im Dreiklang lösen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Klimaschutz, Erhalt der Biodiversität und soziale Gerechtigkeit – diese Aufgaben lassen sich nur im Dreiklang lösen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Neuer Workshop-Bericht zu Klima und Artenvielfalt nennt Leitplanken für zukunftsweisende Politik</strong></p>
+<p>Der Kampf gegen die...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/poseidon-ehemaliges-forschungsschiff-wird-zur-sea-watch-4/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Poseidon - Ehemaliges Forschungsschiff wird zur Sea-Watch 4</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Poseidon - Ehemaliges Forschungsschiff wird zur Sea-Watch 4</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p> </p>
+<figure><a href="https://www.deepwave.org/wp-content/uploads/2020/10/Sea-Watch_4_Im_Einsatz_Chris_Grodotzki_sea-watch-org-scaled.jpg"><img...</a></figure></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/haenyeo-die-meeresfrauen-suedkoreas/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/08/Apnoetauchen.jpg" alt="haenyeo - die Meeresfrauen Südkoreas" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">haenyeo - die Meeresfrauen Südkoreas</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Schwerelos schwebe ich ein paar Zentimeter über dem Meeresgrund. Nur meine Knie und Zehen berühren hin und wieder den...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/mission-erde-alexander-gerst-und-antje-boetius-tauchen-ab/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Mission Erde: Alexander Gerst und Antje Boetius tauchen ab</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Mission Erde: Alexander Gerst und Antje Boetius tauchen ab</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>[et_pb_section fb_built=&ldquo;1&rdquo; _builder_version=&ldquo;3.22&rdquo;][et_pb_row...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/mit-fake-news-richtig-umgehen-ein-essay-2/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Mit Fake News richtig umgehen – ein Essay</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Mit Fake News richtig umgehen – ein Essay</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><img src="https://www.deepwave.org/wp-content/uploads/2020/05/011_Bild_DE.png" alt="Zwei Personen vor einem Ölgemälde einer zeigt auf das Bild und sagt Ist schön da draußen oder Der andere stutzt und fragt Draußen"></p>
+<p>© Oliver Wünsch</p>
+<p>Fake News – auch zum Thema <a href="https://www.deepwave.org/die-ozeane/klimawandel/">Klimawandel</a> und <a href="https://www.deepwave.org/die-ozeane/meerespolitik/">Meerespolitik</a> – verbreiten sich rasant. Laut der in <em>Science...</em></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/buergerinitiative-gegen-haifischflossenhandel-jede-stimme-zaehlt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/02/Stop_Sharkfinning_B%c3%bcrgerinitiative.jpg" alt="EU-Bürgerinitiative gegen Haifischflossenhandel: Jede Stimme zählt!" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">EU-Bürgerinitiative gegen Haifischflossenhandel: Jede Stimme zählt!</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/the-fin-trail-trailer-out-now-about-the-fin-10948672/"><em>Shark finning</em></a>. Ein Thema, das leider viel zu selten in den Medien behandelt wird. Auch wenn bereits viele von der...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/germanzero-klimaplan/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/12/German_Zero_Warenwirtschaft_Hamburg_Der_15_Grad_Klimaplan_fuer_Deutschland.jpg" alt="GermanZero: Der 1,5-Grad-Klimaplan für Deutschland" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">GermanZero: Der 1,5-Grad-Klimaplan für Deutschland</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Hier ein Newsletter, den wir gerade bekommen haben. Wir unterstützen die Sache!</p>
+<p>Newsletter von der <a href="https://www.warenwirtschaften.de/">Warenwirtschaft...</a></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/muellsammelaktion-auf-hamburgs-kanaelen/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Müllsammelaktion auf Hamburgs Kanälen</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Müllsammelaktion auf Hamburgs Kanälen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>[caption id=&ldquo;attachment_20805294&rdquo; align=&ldquo;alignnone&rdquo; width=&ldquo;1279&rdquo;]<img src="https://www.deepwave.org/wp-content/uploads/2019/09/Muellsammlung_Header.jpeg" alt="Im Kanu auf Müllsuche."> ©...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ipcc-sonderbericht-folgen-des-klimawandels-auf-ozeane-und-eisgebiete/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/09/andy-wang-RxzyCRCmlRA-unsplash-scaled.jpg" alt="IPCC-Sonderbericht: Folgen des Klimawandels auf Ozeane und Eisgebiete" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">IPCC-Sonderbericht: Folgen des Klimawandels auf Ozeane und Eisgebiete</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>Sonderbericht des Weltklimarates IPCC prognostiziert gravierende Folgen für die Ozeane und Eisgebiete</strong></p>
+<p>Wir alle wissen,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">&#34;21 Lektionen für das 21. Jahrhundert&#34; von Yuval Noah Harari</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;21 Lektionen für das 21. Jahrhundert&#34; von Yuval Noah Harari</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><a href="https://www.deepwave.org/wp-content/uploads/2019/07/Harari_21_Lektionen_fuer_das_21te_Jahrhundert.jpeg"><img src="https://www.deepwave.org/wp-content/uploads/2019/07/Harari_21_Lektionen_fuer_das_21te_Jahrhundert-300x300.jpeg" alt="Das Buch &ldquo;21 Lektionen für das 21. Jahrhundert&rdquo; von Yuval Noah Harari ist zu sehen. Im Hintergrund sind weitere Bücher mit Augen auf dem Cover zu sehen."></a>Mir war nie klar, wie relevant Geschichte ist. Bis ich auf Empfehlung meines Bruders „Eine kurze Geschichte der...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nein-zum-raubbau-an-der-tiefsee/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/06/Deep_sea_corals_Wagner_Seamount.jpg" alt="Nein zum Raubbau an der Tiefsee" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Nein zum Raubbau an der Tiefsee</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Das erste Tiefseebergbauprojekt &ldquo;Solwara 1&rdquo; soll  in diesem Jahr am Boden der Bismarcksee vor...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/vermuellt-und-leergefischt-wie-retten-wir-die-meere/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Vermüllt und leergefischt - Wie retten wir die Meere?</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Vermüllt und leergefischt - Wie retten wir die Meere?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Unsere wissenschaftliche Beirätin, Dr. Franziska Bils, war im Gespräch bei SWR2 mit Prof. Dr. Julian Gutt...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-fordert-regulierung-von-plastikmuellexporten/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">NABU fordert Regulierung von Plastikmüllexporten</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU fordert Regulierung von Plastikmüllexporten</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Berlin – Anlässlich der Tagung der Vertragsparteien des Basler Übereinkommens in Genf (ab 29. April) fordert der NABU...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/was-passiert-wenn-die-erde-4c-waermer-wird/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Was passiert, wenn die Erde 4°C wärmer wird?</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Was passiert, wenn die Erde 4°C wärmer wird?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Der Weltklimarat (IPCC) geht davon aus, dass sich unsere Erde um 4 °C erwärmen wird, ohne weitere Anstrengungen den...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/tag-des-artenschutzes-tiefseefisch-orange-roughy/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/03/CSIRO_ScienceImage_2948_Orange_Roughy-scaled.jpg" alt="Tag des Artenschutzes: Tiefseefisch - Orange Roughy" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tag des Artenschutzes: Tiefseefisch - Orange Roughy</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Alljährlich findet am 3. März der Tag des Artenschutzes statt, der aus dem Washingtoner Artenschutzübereinkommen CITES...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+    </div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

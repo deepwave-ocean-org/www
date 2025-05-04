@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+  
+    
+    
+      
+        <link rel="stylesheet" href="/css/main.css">
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">
+        Überfischung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Whitley Awards: &#34;Green Oscars&#34;</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Mai 08, 2018</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Die Verleihung der Oscars in Hollywood zieht jedes Jahr aufs Neue große Aufmerksamkeit auf sich, aber auch im Naturschutz gibt es die sogenannten „Green Oscars“  (offiziell: Whitley Awards). Bei den Whitley Awards verleiht der <a href="https://whitleyaward.org/about-us/">Whitley Fund for Nature</a>  jährlich Preise an lokale Naturschutzprojekte. Zudem bietet er Trainings und finanzielle Unterstützung für Einzelkämpfer:innen des Naturschutzes im globalen Süden an. Durch die Verleihung der Whitley Awards richtet der Whitley Fund for Nature jedes Jahr die Aufmerksamkeit auf einige besonders fördernswerte Projekte und verhilft ihnen dadurch zu internationalem Ansehen.</p>
+<h4 id="kerstin-forsberg-planeta-océano">Kerstin Forsberg: Planeta Océano</h4>
+<p>Dieses Jahr ist unter anderem Kerstin Forsberg und ihre Meeresschutzorganisation <a href="http://www.planetaoceano.org/">Planeta Océano</a> in Peru unter den Preisträger:innen. Forsberg setzt sich unter Einbeziehung der lokalen Fischer:innen erfolgreich dafür ein, dass der Fang, Verzehr oder Verkauf von Mantarochen in Peru für illegal erklärt wird.</p>
+<p><a href="https://www.youtube.com/watch?v=7AX1TByXTpQ">https://www.youtube.com/watch?v=7AX1TByXTpQ</a></p>
+<p>Quelle: <a href="https://www.youtube.com/watch?v=7AX1TByXTpQ">https://www.youtube.com/watch?v=7AX1TByXTpQ</a></p>
+<h4 id="pablo-borboroglu-global-penguin-society-gps">Pablo Borboroglu: <a href="https://www.globalpenguinsociety.org/#vmo">Global Penguin Society (GPS)</a></h4>
+<p>Pablo Borboroglu und seine Organisation <a href="https://www.globalpenguinsociety.org/#vmo">Global Penguin Society (GPS)</a> wurden ausgezeichnet für ihre bisher erzielten Erfolge im Pinguinschutz. Über die Hälfte der globalen Pinguinarten sind vom Aussterben bedroht. Die Global Penguin Society hat 125 Organisationen aus Wissenschaft, Bildung und Fischereimanagment zusammengebracht, die sich auf verschiedenen Ebenen und in unterschiedlichen Regionen der Welt für den Schutz der Pinguine einsetzen.</p>
+<p><a href="https://www.youtube.com/watch?v=aRID0kkwYF8&amp;t=60s">https://www.youtube.com/watch?v=aRID0kkwYF8&amp;t=60s</a></p>
+<p>Quelle: <a href="https://www.youtube.com/watch?v=aRID0kkwYF8&amp;t=60s">https://www.youtube.com/watch?v=aRID0kkwYF8&amp;t=60s</a></p>
+<p>UPDATE: Forscher:innen haben nun Belege dafür, dass <a href="https://www.deepwave.org/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/">Unterwasserlärm nicht nur Delfine und Wale schädigt</a>. Auch Pinguinen wird durch <a href="https://www.deepwave.org/die-ozeane/laerm/">Schiffsmotoren und seismische Airguns</a> geschadet. Dies gewinnt Bedeutung, da die Antarktis zunehmend ins <a href="https://www.deepwave.org/klimakrise-in-der-arktis-wie-der-laerm-unter-wasser-die-wale-bedroht/">Blickfeld wirtschaftlicher Interessen</a> rückt und deshalb mit mehr Lärm in dieser Region zu rechnen ist.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    %!s(&lt;nil&gt;)
+    
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Kein Fisch Meer: Deutsche Umwelthilfe, Our Fish und DEEPWAVE fordern ein Ende der Überfischung zum Welttag der Meere</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Jun 04, 2019</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p><a href="https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/fischmarkt-abgesagt/"><img src="https://www.deepwave.org/wp-content/uploads/2019/06/Fischmarkt-abgesagt.jpg" alt=""></a> © Finke / DUH</p>
+<p>Deutsche Umwelthilfe, Our Fish und DEEPWAVE kritisieren Versäumnis der Politik, Überfischung zu stoppen – DUH fordert Ende der Überfischung und illegaler Fischrückwürfe auf See – Aktion der DUH, Our Fish und DEEPWAVE zum Welttag der Meere vor den Toren der Bundesregierung veranschaulicht verheerende Auswirkungen der Überfischung – Marktschreier prangert zu hohe Fangmengen für Dorsch, Hering &amp; Co. an</p>
+<p>Berlin, 4.6.2019: Es bleiben nicht mal mehr sieben Monate, um die Überfischung in unseren europäischen Meeren zu beenden. Zu dieser Frist verpflichteten sich 2013 alle EU-Mitgliedstaaten in der Gemeinsamen Fischereipolitik (GFP). Kurz vor dem Welttag der Meere am 8. Juni machen die Deutsche Umwelthilfe (DUH), Our Fish und DEEPWAVE auf die verheerenden Folgen eines nicht nachhaltigen Fischereimanagements aufmerksam. Vor dem Reichstag in Berlin forderten sie die Bundesregierung mit einer bildstarken Aktion auf, die Überfischung bis 2020 zu beenden.</p>
+<p>Leere Marktstände auf einem inszenierten abgesagten Fischmarkt verdeutlichen, wie es in Zukunft an der Nord- und Ostseeküste immer häufiger aussehen könnte. Ein einsamer Marktschreier schildert stimmgewaltig, wie es zu den leeren Fischauslagen kommen konnte.</p>
+<p>41 Prozent der Fischbestände im Nordostatlantik sind überfischt. Zu diesen Fischpopulationen zählen auch der westliche Hering und der östliche Dorsch in der Ostsee. Diese Populationen sind aktuell in einem sehr schlechten Zustand. Erstmals empfehlen die Wissenschaftler vom Internationale Rat für Meeresforschung 2019 für beide Populationen eine Null-Quote, das heißt einen Fangstopp ab 2020. Auch das Warnemünder Heringsfest wurde bereits in diesem Jahr abgesagt, da es im Frühjahr nicht genug Heringe in der Ostsee gab. Das ist unter anderem das Resultat jahrzehntelanger Überfischung.</p>
+<p><em>„Unsere wichtigsten Speisefischarten in Nord- und Ostsee stehen unter Druck: Überdüngung, Verschmutzung, die Folgen der Klimakrise und die Überfischung machen unseren Meeresökosystemen zu schaffen&quot;</em>, sagt Sascha Müller-Kraenner, DUH-Bundesgeschäftsführer. <em>„Trotz der gesetzlichen Vorgabe, die Überfischung bis 2020 zu beenden, wurden wieder zu viele Fangquoten für 2019 oberhalb der wissenschaftlichen Empfehlungen festgelegt. Frau Klöckner – es ist fünf vor zwölf und Sie sind als Fischereiministerin verantwortlich für unsere Fischpopulationen. Sorgen Sie für den sofortigen Fangstopp bedrohter Populationen und nachhaltige Fangmengen bis 2020“</em>, fordert Müller-Kraenner weiter.</p>
+<p><em>„2019 muss das Jahr sein, in dem die Fanggrenzen endlich den wissenschaftlichen Empfehlungen entsprechen. Außerdem müssen die EU-Fischereiminister das 2020-Ziel der Gemeinsamen Fischereipolitik ernst nehmen, um die Überfischung in den europäischen Meeren zu beenden&quot;</em>, sagt Rebecca Hubbard, Direktorin der Our Fish Kampagne. <em>„Eigentlich ist es eine einfache Rechnung: Wird zu viel Fisch aus dem Meer geholt, kollabieren die Fischpopulationen und sind dann wirtschaftlich nicht mehr nutzbar. Nur eine nachhaltige Fischerei kann die Widerstandsfähigkeit unserer Fischpopulationen gegenüber den Auswirkungen der Klimakrise stärken und führt zu höheren wirtschaftlichen Erträgen und somit zur Schaffung und Erhaltung von Arbeitsplätzen in der Fischerei und den Küstengemeinden.“</em></p>
+<p>Anna Groß, CEO der Meeresschutzorganisation DEEPWAVE: <em>„Überfischung ist nicht nur ein ökonomisches Problem. Sie zeigt deutlich unseren völlig falschen Bezug zu den Meeren. Wir behandeln sie als auszuschöpfende Ressource, als Wasserstraße, als Entsorgungsdeponie. Ohne uns darüber im Klaren zu sein, dass wir so zielstrebig auf das Kippen unserer Meere zusteuern. Die derzeitige Fischerei ist verschwenderisch und zerstört eine gemeinschaftliche Ressource. Sie kann dies nur tun, weil sie durch eine Politik gedeckt wird, die unseren Meeren nicht genug Zeit gibt, um sich zu regenerieren. Trotz der seit Januar 2019 vollumfänglichen Anlandungspflicht werden für den täglichen Konsum unvorstellbare Mengen an Meereslebewesen als ungewollter Beifang zurück ins Meer geworfen und wie Abfall behandelt.“</em></p>
+<p><strong>Über Our Fish</strong></p>
+<p>Die europäische Initiative Our Fish will sicherstellen, dass die EU-Mitgliedstaaten die Gemeinsame Fischereipolitik umsetzen und für nachhaltige Fischbestände in den europäischen Meeren sorgen. Die Deutsche Umwelthilfe koordiniert die Our Fish-Kampagne in Deutschland.</p>
+<p><strong>Über DEEPWAVE</strong></p>
+<p>Die Meeresschutzorganisation mit Sitz in Hamburg setzt sich regional und international für den Schutz der Ozeane und ihrer Bewohner ein. DEEPWAVE setzt sich für ein geschärftes Bewusstsein für den globalen Zusammenhang der Gefährdungen des Wasserplaneten ein, denn nur so kann das gemeinsame Erbe des Weltmeeres für künftige Generationen erhalten werden. Die essentielle Problematik der Überfischung auf der Agenda zu halten, ist eine der Aufgaben von DEEPWAVE.</p>
+<p><strong>Links:</strong></p>
+<ul>
+<li>Pressefotos der Aktion finden Sie ab 15 Uhr hier: <a href="http://l.duh.de/p190604">http://l.duh.de/p190604</a></li>
+<li>Mehr über Our Fish: <a href="https://our.fish/de/">https://our.fish/de/</a></li>
+<li>Mehr zu DEEPWAVE: <a href="https://www.deepwave.org/">https://www.deepwave.org/</a></li>
+<li>Mehr zur Fischereipolitik: <a href="https://www.duh.de/fischerei/">https://www.duh.de/fischerei/</a></li>
+</ul>
+<p><strong>Kontakt:</strong></p>
+<p>Sascha Müller-Kraenner, Bundesgeschäftsführer DUH 0160 90354509, <a href="mailto:mueller-kraenner@duh.de">mueller-kraenner@duh.de</a></p>
+<p>Anna Groß, CEO DEEPWAVE 040 4609 1461, <a href="mailto:deepwave.annagross@gmx.de">deepwave.annagross@gmx.de</a></p>
+<p>Katja Hockun, Projektmanagerin DUH 030 2400867-895, <a href="mailto:hockun@duh.de">hockun@duh.de</a></p>
+<p>Rebecca Hubbard, Programmdirektorin Our Fish +34 657669425, <a href="mailto:rebecca@our.fish">rebecca@our.fish</a></p>
+<p><strong>DUH-Pressestelle:</strong></p>
+<p>Ann-Kathrin Marggraf, Marlen Bachmann 030 2400867-20, <a href="mailto:presse@duh.de">presse@duh.de</a></p>
+<p><a href="http://www.duh.de/">www.duh.de</a>, <a href="http://www.twitter.com/umwelthilfe">www.twitter.com/umwelthilfe</a>, <a href="http://www.facebook.com/umwelthilfe">www.facebook.com/umwelthilfe</a>,<a href="http://www.instagram.com/umwelthilfe">www.instagram.com/umwelthilfe</a></p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/treibhausgase-unter-die-nordsee/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/06/k-mitch-hodge-spHGjF80AQE-unsplash-scaled.jpg" alt="Treibhausgase unter die Nordsee?" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Treibhausgase unter die Nordsee?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Bis zum Jahr 2050 klimaneutral zu werden, stellt Deutschland vor eine große Herausforderung - doch es gibt einen neuen,...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/dramatischer-weltbericht-menschheit-tilgt-die-natur-von-der-erde/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2019/06/red-1283776_1920.jpg" alt="Dramatischer Weltbericht: Menschheit tilgt die Natur von der Erde" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Dramatischer Weltbericht: Menschheit tilgt die Natur von der Erde</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Der UN-Weltbiodiversitätsrat IPBES veröffentlicht bedrückende Fakten zum Zustand der Artenvielfalt. Das Artensterben hat...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/dramatischer-weltbericht-menschheit-tilgt-die-natur-von-der-erde/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

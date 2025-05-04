@@ -1,0 +1,1802 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Erstmals Glyphosat-Nachweis im Meer</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Dez. 19, 2020</time>
+      </div>
+      
+      
+      <div class="pt-4 text-xl">
+        <p>Pressemitteilung, 14.12.2020, IOW Leibnitz-Institut für Ostseeforschung Warnemünde</p>
+      </div>
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>IOW entwickelt neue Methode und führt erfolgreiche Messungen in der Ostsee durch</p>
+<p>Glyphosat ist einer der weltweit meistgenutzten Unkrautvernichter. Das umstrittene Herbizid, das unter anderem im Verdacht steht, krebserregend zu sein, wird auch in Deutschland intensiv genutzt. Vom Land gelangt es in Flüsse, die es ins Meer spülen. Wie viel sich dort findet, war allerdings bisher unbekannt, denn in Salzwasser waren Glyphosat und sein Abbauprodukt Aminomethylphosphonsäure (AMPA) aus methodischen Gründen nicht nachweisbar. Marisa Wirth vom Leibniz-Institut für Ostseeforschung Warnemünde (IOW) hat nun eine neue Methode entwickelt, mit der beide Stoffe im Meer zuverlässig gemessen werden können. Damit konnte sie Glyphosat und AMPA erstmals in der Ostsee nachweisen. Glyphosat, das als sogenanntes „Totalherbizid“ vor allem in Landwirtschaft, Gartenbau und Industrie genutzt wird, aber auch in Privathaushalten häufig zur Anwendung kommt, gelangt durch Regen- und Winderosion von den Einsatzflächen in Bäche, Flüsse und Seen. Dementsprechend kann es gemeinsam mit seinem durch biologische Prozesse entstehenden Abbauprodukt, der Aminomethylphosphonsäure (AMPA), weltweit im Süßwasser nachgewiesen werden. IOW-Forscher konnten beide Stoffe auch schon in Ästuaren nachweisen, die in die Ostsee münden, niemals jedoch im Meer selbst. Wie toxisch das Herbizid auf Meeresorganismen wirkt, ist nicht abschließend geklärt. „Als Grundvoraussetzung, um das Gefahrenpotenzial einer Substanz für ein Ökosystem beurteilen zu können, muss man zu allererst herauszufinden, ob und in welchen Konzentrationen die Substanz dort nachgewiesen werden kann“, hebt Marisa Wirth hervor, die sich in ihrer Doktorarbeit am IOW auf den Nachweis von Glyphosat in Umweltproben spezialisiert hat. „Ausgangspunkt für unsere aktuelle Studie war daher die Frage, ob Glyphosat und AMPA tatsächlich nicht im Meer ankommen – etwa durch biologischen Abbau und Ablagerung in den Fließgewässern –, oder ob es schlichtweg methodische Schwierigkeiten sind, die bislang einen Nachweis in marinen Ökosystemen verhindert haben“, erläutert die Meereschemikerin weiter. Eine aus den Ästuar-Studien bekannte Hürde für einen zuverlässigen Nachweis im Meer ist die starke Verdünnung der beiden Zielsubstanzen, je weiter man sich von den Flussmündungen entfernt und Proben im offenen Meer nimmt. „Bevor man Glyphosat und AMPA mit instrumentellen Mitteln – Flüssigchromatographie und Massenspektrometrie – überhaupt messen kann, werden die Proben so stark aufkonzentriert, dass die Geräte die Substanzen erfassen können“, schildert Wirth einen wichtigen Arbeitsschritt in der Glyphosat-Analytik. Bei Meerwasserproben erwies sich für diesen Schritt bislang das darin enthaltene Salz als Problem: Bei der Festphasenextraktion, mit der man die Aufkonzentration erreicht und bei der die Zielsubstanzen aus einer flüssigen Probe erst an ein festes Trägermaterial gebunden und danach wieder in ein sehr viel kleineres Flüssigkeitsvolumen überführt werden, verhindern die Salzionen die Bindung der Glyphosat- und AMPA-Moleküle an die feste Phase. „Unsere Zielsubstanzen ‚rauschen‘ also quasi ungehindert durch die Festphase durch und gehen verloren, weil das Salz alles blockiert“, so Wirth. Auch bei der eigentlichen Messung können die Salze Störeffekte hervorrufen und instrumentelle Signale verschieben oder unterdrücken, so dass keine zuverlässige Analyse möglich sei, führt die Chemikerin aus. Um die Salz-Störeffekte bei der Probenaufkonzentration in den Griff zu bekommen, testete Wirth verschiedene Trägermaterialien für die Festphasenextraktion und konnte als geeignetes Material schließlich ein Polymer identifizieren, das durch sogenannte molekulare Prägung hochselektiv Glyphosat und AMPA bindet und zugleich unempfindlich gegenüber dem Salz der Meerwasserproben ist. Außerdem etablierte sie erfolgreich einen zusätzlichen Aufreinigungsschritt vor der instrumentellen Messung, der eine störungsfreie Analytik erlaubt. Nach gründlicher Validierung der neuen Methode, auch für unterschiedliche Salzgehalte zwischen 5 und 20 bzw. 35, wie sie typischerweise in der Ostsee und in den offenen Ozeanen auftreten, wurde das Verfahren an natürlichen Umweltproben von sieben verschiedenen Beprobungsstellen in der Westlichen Ostsee getestet. Beide Substanzen, sowohl Glyphosat, als auch sein Abbauprodukt AMPA konnten nachgewiesen werden – damit erstmals im Meer. Die Glyphosatkonzentrationen zwischen 0,42 und 0,49 ng/l waren, unabhängig von der Entfernung zur Küste, recht konstant mit Ausnahme einer Messung von 1,22 ng/l in der inneren Lübecker Bucht. Die AMPA-Konzentrationen (maximal 1,47 ng/l) waren in der Nähe von Flussmündungen deutlich höher als weiter draußen im Meer, wo sie zum Teil unter die Nachweisgrenze der neuen Methode fielen. „Mit der am IOW entwickelten Glyphosat- und AMPA-Analytik können wir erstmals in Konzentrationsbereichen unterhalb von 1 ng/l messen, wie sie in marinen Ökosystemen zu erwarten sind – und das störungsfrei bei allen Salzgehalten, die man in den unterschiedlichen Meeresgebieten der Welt findet“, sagt Marisa Wirth. Die jetzt in der Ostsee gemessenen Werte lägen weit unterhalb der Konzentrationen, die für Menschen oder Meeresorganismen als bedenklich diskutiert werden. Aber da bisher nur diese punktuellen Messungen vorliegen, sei noch keine Datenbasis für eine Einschätzung vorhanden, inwieweit die Ostsee durch diese Stoffe gefährdet ist, so Wirth weiter. „Wir haben jetzt aber eine hinreichend sensitive und zuverlässige Methode, mit der man ein aussagefähiges Umweltmonitoring im Meer für beide Substanzen durchführen kann. Auch sind jetzt Studien möglich, die sich mit aktuellen Forschungsfragen beschäftigen, beispielsweise mit Transport, Beständigkeit oder Abbau von Glyphosat und AMPA in der Meeresumwelt“, kommentiert die IOW-Forscherin abschließend.</p>
+<p>Diese <a href="https://www.io-warnemuende.de/mitteilung/items/erstmals-glyphosat-nachweis-im-meer-iow-entwickelt-neue-methode-und-fuehrt-erfolgreiche-messungen-in-der-ostsee-durch.html">Pressemitteilung</a> findet ihr beim <a href="https://www.io-warnemuende.de/">IOW</a>.</p>
+<p>Welche <a href="https://www.deepwave.org/vergiftete-wale/">Auswirkungen diese Umweltgifte auf große Meeressäuger wie Wale haben,</a> erfahrt ihr in unserem  <a href="https://www.deepwave.org/blogs/forschung/">Forschungsblog.</a></p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+        
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/fischsterben-in-der-nordsee-naturschuetzer-stellen-strafanzeige/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2021/01/dpa-4994__v-1280x720_c-1592996576188.jpg" alt="Fischsterben in der Nordsee: Naturschützer stellen Strafanzeige" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Fischsterben in der Nordsee: Naturschützer stellen Strafanzeige</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>An der Nordseeküste zeigt sich derzeit ein unheimliches Bild. Hunderte tote und geschwächte Fische sind in den letzten...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/im-boden-der-weltmeere-lagern-bis-zu-16-millionen-tonnen-mikroplastik/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/12/pollution-g362d9e96c_1920.jpg" alt="Im Boden der Weltmeere lagern bis zu 16 Millionen Tonnen Mikroplastik" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Im Boden der Weltmeere lagern bis zu 16 Millionen Tonnen Mikroplastik</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>An der Meeresoberfläche im Pazifik schwimmt ein <a href="https://www.deepwave.org/die-ozeane/verschmutzung/">Müllstrudel</a> mit der vierfachen Größe von Deutschland und unter Wasser...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/im-boden-der-weltmeere-lagern-bis-zu-16-millionen-tonnen-mikroplastik/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

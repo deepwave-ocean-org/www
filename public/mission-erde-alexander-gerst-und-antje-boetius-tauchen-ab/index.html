@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('');">
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Mission Erde: Alexander Gerst und Antje Boetius tauchen ab</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Aug 12, 2020</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>[et_pb_section fb_built=&ldquo;1&rdquo; _builder_version=&ldquo;3.22&rdquo;][et_pb_row _builder_version=&ldquo;4.6.6&rdquo; background_size=&ldquo;initial&rdquo; background_position=&ldquo;top_left&rdquo; background_repeat=&ldquo;repeat&rdquo; width=&ldquo;100%&rdquo; max_width=&ldquo;none&rdquo;][et_pb_column type=&ldquo;4_4&rdquo; _builder_version=&ldquo;3.25&rdquo; custom_padding=&quot;|||&quot; custom_padding__hover=&quot;|||&quot;][et_pb_text _builder_version=&ldquo;4.6.6&rdquo; background_size=&ldquo;initial&rdquo; background_position=&ldquo;top_left&rdquo; background_repeat=&ldquo;repeat&rdquo; hover_enabled=&ldquo;0&rdquo; sticky_enabled=&ldquo;0&rdquo;][caption id=&ldquo;attachment_20813150&rdquo; align=&ldquo;aligncenter&rdquo; width=&ldquo;1067&rdquo;]<img src="https://www.deepwave.org/wp-content/uploads/2020/08/MissionErdeAzoren_JoachimJakobsen.jpg" alt="Alexander Gerst und Antje Boetius im Tiefsee U-Boot"> © AWI/Joachim Jakobsen[/caption]</p>
+<p><em>Alexander Gerst begibt sich für die Fernsehserie “<a href="https://www.swr.de/unternehmen/kommunikation/pressemeldungen/daserste-mission-erde-120~_currentSlide-2_-a9e368cb37a7fe4c57193179bc4c60e782d03065.html">Mission Erde</a>” an Orte, bei denen mittels Forschung versucht wird, das fragile Ökosystem Erde besser zu verstehen. Auf seiner Expeditionsreise traf er auch die Wissenschaftlerin und Leiterin des <a href="https://www.awi.de/">Alfred-Wegener-Institutes</a> Antje Boetius, um mit ihr in die Tiefsee der Azoren abzutauchen. Anlässlich dieses <a href="https://www.awi.de/ueber-uns/service/presse-detailansicht/presse/mission-erde-aquanautin-und-astronaut-tauchen-ab.html">vom SWR beauftragten Projekts</a> haben wir mit Antje Boetius über ihre gemeinsame Reise gesprochen, ihre Begegnung mit einem Astronauten, den Schutz der Tiefsee und warum eine Tauchfahrt in die <a href="https://www.deepwave.org/die-ozeane/die-tiefsee/">Tiefen der Meere</a> zu einem ebenso entscheidenden Perspektivwechsel führen kann wie eine Reise ins All.</em></p>
+<p><strong>DEEPWAVE (DW)</strong>: Aus dem Weltall betrachtet verschwinden alle Grenzen. Schon die ersten Astronauten in den 60ern berichteten von dieser einzigartigen Erfahrung, die Erde im Ganzen zu sehen. Wie von dort oben alles mit allem verbunden ist, doch auch wie ungeschützt wir sind. Alexander Gerst selbst sagte einmal, dass er dieses Erlebnis jedem von uns wünscht, damit wir mit eigenen Augen sehen, wie wir die Welt verändern. Aus welchem Grund wünschst du uns allen einmal die Tiefsee zu erleben?</p>
+<p><strong>Antje Boetius</strong>: Es ist schon ein einzigartiges Gefühl, in die Tiefe der Meere abzutauchen. Auch wenn ich nun schon öfter in den Genuss gekommen bin, jedes Mal fasziniert es mich aufs Neue, wenn das Sonnenlicht schon nach 100 Metern schwindet, die Blaufärbung sich in Schwarz verwandelt und man so versteht, dass die Tiefsee ein riesiger Raum des Planeten Erde ist. Dieser Perspektivwechsel ist anders als bei Astronauten, anstatt die Erde als kleine blaue Murmel wahrzunehmen, die etwas schutzlos im Universum kreist, taucht man in ihren Bauch und begreift seine eigene Winzigkeit und die gigantischen Dimensionen dieses unbekannten Raumes. Ich würde sagen, das macht etwas demütiger, aber gleichzeitig auch so neugierig.</p>
+<p><strong>DW</strong>: Der Weltraum und die Tiefsee könnten in vielerlei Hinsicht nicht verschiedener sein. Die Leere des Vakuums, verglichen mit unvorstellbarem Druck. Freie Sicht bis in entfernte Galaxien oder nur soweit die Scheinwerfer reichen. Absolute Stille verglichen mit Walgesängen, die über den ganzen Erdball zu hören sind. Hast du jetzt, wo du mit Alexander Gerst unterwegs warst, noch mehr ein Gefühl für die Einzigartigkeit der Tiefsee? Oder ging es in euren Gesprächen eher um die Gemeinsamkeiten, die Schwärze, das Schweben, die Enge oder Freiheit?</p>
+<p><strong>Boetius</strong>: Wir haben über beides viel gesprochen – vor allem über die Gemeinsamkeit, dass in der bemannten oder wie Alexander sagt „bemenschten“ Raumfahrt und Tiefseeforschung ein nicht zu unterschätzender Perspektivwechsel entsteht. Dass es wichtig ist, dass die internationale Gemeinschaft dafür die notwendigen Techniken vorhält, auch wenn Roboter immer besser im Erkunden werden. Es gibt viel Gemeinsames, wie das Bewusstsein für lebenserhaltende Versorgung durch Technik und Umwelt – das vielen Menschen fehlt, weil man sich so gar keine Gedanken machen muss, woher die Luft zum Atmen kommt und die Energie zum Leben. Und wir haben festgestellt, dass die unbedingte Neugierde und Lust auf das Erkunden und Verstehen fremder Räume in der Kindheit ein ganz starkes Gefühl ist.[/et_pb_text][et_pb_image src=&ldquo;<a href="https://www.deepwave.org/wp-content/uploads/2021/01/Deep">https://www.deepwave.org/wp-content/uploads/2021/01/Deep</a>_Sea_Bioluminescence_Rebikoff_Fondation.jpg&rdquo; title_text=&ldquo;Deep_Sea_Bioluminescence_Rebikoff_Fondation&rdquo; _builder_version=&ldquo;4.6.6&rdquo; _module_preset=&ldquo;default&rdquo;][/et_pb_image][et_pb_text _builder_version=&ldquo;4.6.6&rdquo; background_size=&ldquo;initial&rdquo; background_position=&ldquo;top_left&rdquo; background_repeat=&ldquo;repeat&rdquo; hover_enabled=&ldquo;0&rdquo; sticky_enabled=&ldquo;0&rdquo;]</p>
+<p><strong>DW</strong>: Du hast einmal von der Biolumineszenz gesagt, sie sei dort unten wie eine sternenklare Nacht im Gebirge, nur dass sich alle Sterne bewegen und blinken wie in der wildesten Disco. Konntet ihr beim Tauchgang selbstleuchtendes Leben sehen?</p>
+<p><strong>Boetius</strong>: Die Azoren, wo wir getaucht sind, sind da wirklich spektakulär. Es ist im U-Boot eine Herausforderung, alles so dunkel zu machen, dass man dieses Disco-Gefühl erreicht, was bedeutet, dass man auch die kleinen treibenden Lebewesen funkeln sehen sollte. Aber Joachim Jakobsen, der Pilot, hat uns das ermöglicht. Es war ein echter Wow-Moment für uns alle. Gerade weil die Lula 1000 eine große Plexiglas-Kuppel hat, kann man völlig eintauchen in die vielen Lichtsignale der Tiefseelebewesen.</p>
+<p><strong>DW</strong>: Die Biolumineszenz in der Tiefsee dient unter anderem der Kommunikation, man geht davon aus, dass mehr Lebewesen per Lichtsignal als akustisch kommunizieren. Spürt man diese Kommunikation, wenn man da mittendrin ist?</p>
+<p><strong>Boetius</strong>: Auf jeden Fall ist da viel Licht, und wir haben noch gar nicht erforscht, für was das alles gut ist. Es ist ja so, dass man Tiefseelebewesen nicht im Labor beforschen kann, man muss hintauchen, und an sich Stunden und Tage einfach mit Zusehen verbringen. Wir glauben, dass alle Formen von Verhalten und Kommunikation – Räuber/Beute, Sex, Kooperation, Verstecken, Vortäuschen und vieles mehr – durch Licht organisiert werden kann. Aber das gilt auch für Geräusche, die noch weniger beforscht sind. Die wenigsten Tiefsee-U-Boote und Roboter und auch leider nur sehr wenige Tiefseeverankerungen haben akustische Rekorder, da stehen wir ganz am Anfang. Aber wenn man hinhört, dann gibt es auf jeden Fall viele verschiedene Geräusche, Klicklaute, Knattern, Brummen und die tollen Walgesänge.</p>
+<p><strong>DW</strong>: Apropos hören, was hört man eigentlich überhaupt während einer Tauchfahrt? Hattet ihr die Gelegenheit Walgesängen zu lauschen, oder werden sie übertönt von den Hintergrundgeräuschen des Tauchboots - so wie wir es uns für die Stille rund um die ISS vorstellen? Oder ist der Lärm von Schiffsschrauben und Zivilisation schon in die Tiefe vorgedrungen?</p>
+<p><strong>Boetius</strong>: Im U-Boot hören wir zunächst vor allem Blasen platzen beim Ab- und Auftauchen, Pings für die Orientierung und dann ab und zu die eher scharrende Kommunikation zum Schiff. Wir können das Meeresleben draußen um uns herum nicht hören ohne zusätzliche Geräte. Für solche Horchposten in der Tiefsee nutzen wir daher passive hydroakustische Rekorder auf Verankerungen, da kommt Erstaunliches bei raus. Manche Geräusche kann man gar nicht zuordnen. Auf jeden Fall gibt es auch in der Tiefsee menschlichen Lärm zu detektieren, aber eher im Nordmeer und Mittelmeer, wo nach Gas und Öl gesucht wird.</p>
+<figure><a href="https://www.deepwave.org/wp-content/uploads/2021/01/NASA_Hitzsommer_2018.jpg"><img src="https://www.deepwave.org/wp-content/uploads/2021/01/NASA_Hitzsommer_2018.jpg"
+    alt="Aufnahme aus dem all vom Ruhrgebiet im sehr trockenen Sommer 2018"></a><figcaption>
+      <p>© dpa / NASA</p>
+    </figcaption>
+</figure>
+
+<p><strong>DW</strong>: Alexander Gerst hat 2018 Bilder des extremen Hitzesommers aus dem All geschossen und geschrieben “Schockierender Anblick. Alles vertrocknet und braun, was eigentlich grün sein sollte.” Hattet ihr ein ähnliches Erlebnis unter Wasser? Einen Anblick, der zeigt, wie sich die Klimakatastrophe auf die Tiefsee auswirkt?</p>
+<p><strong>Boetius</strong>: Das war eher über Wasser zu sehen. Es gibt vermutlich durch die Zunahme der Wärme im Meer monatelang und besonders als wir da waren Massen von Portugiesischen Galeeren. Der Stadtstrand war vorübergehend deswegen geflaggt. Die Taucher und Mariner vor Ort erzählten uns, dass dies sehr ungewöhnlich sei und erst in den letzten Jahren so oft vorkommt. In der Tiefsee der Azoren ist es dagegen wunderschön, da in 1000 Metern Wassertiefe beeindruckende Tiefseekorallenriffe wachsen.</p>
+<p><strong>DW</strong>: Was empfindest du, wenn du da unten die zerstörerischen Spuren des Menschen findest? Wie hat Alexander Gerst z.B. auf den Plastikmüll reagiert, den ihr vermutlich unweigerlich selbst dort gefunden haben werdet? Wie habt ihr euch darüber ausgetauscht?</p>
+<p><strong>Boetius</strong>: Wir haben beim Strandspaziergang nach einem Sturm enorm viel Kunststoffreste am Strand gesehen, mancher kam von sehr weit her. Der Golfstrom transportiert nicht nur Meeresschildkröten, sondern eben auch viel Müll zu den Azoren. Es waren viel Reste von Fischereinetzen zu sehen, auch wenn schon lange nicht mehr mit Netzen um die Azoren gefischt wird. Und im schwarzen Vulkansand sah man leicht vor allem blaue Kunststoffpartikel in Sandkorngröße. Darüber haben wir uns unterhalten: wie auch diese neue Schicht von Kunststoff in den Stränden und Meeresböden der Welt für unsere Generation ein Marker sein wird.</p>
+<p><strong>DW</strong>: Ihr beide seid an Orten, an die so leicht fast kein Mensch kommt, ihr seid in einem Medium, das für uns Normalsterbliche zu den Mythen gehört, den Seeungeheuern, den Sternen, nach denen wir greifen. Er oben, in dem Element, in dem wir das Göttliche verorten, du unten, in unserem Kulturkreis eher das Dunkle, Böse, die Verführung, das was einen hinabzieht. Immerhin haben wir den tiefsten Bereich des Meeres - das Hadal - nach dem griechischen Gott der Unterwelt - Hades - benannt. Warum sollten wir diesen weit entfernten, unzugänglichen Ort lieben und schützen? Schützt er uns? So wie die Sterne uns in unserer Vorstellung beschützen?</p>
+<p><strong>Boetius</strong>: So habe ich da noch gar nicht drüber nachgedacht, denn für mich ist „Unten“ in der Tiefe das Himmlische – die größte Lebensvielfalt der Erde, die Schöpfung des Lebens, das dunkle Paradies. Ich mache mir da mehr Sorgen um das „Oben“, besonders solange wir die Atmosphäre als kostenlose Müllhalde nutzen für unsere Abgase. Ich glaube, viele Menschen spüren Empathie für beide fremde, dem Menschen unzugängliche Orte. Wir fühlen uns besser, wenn wir wissen, dass es eine unvergängliche, pure, saubere Natur gibt, Wildnis. Nun sagen wir Meeresforscher, aber auch die Astronauten, schon länger: Menschen, passt auf diesen blauen Planeten Erde auf, es ist der Einzige, den wir haben. Und immer mehr Menschen lernen, dass wir dem Ozean viel zu verdanken haben, den Sauerstoff, den wir atmen, die Wärme im Winter, die Kühlung im Sommer, das Speichern von CO₂, ein Teil des Eiweißes, das wir brauchen. Wenn wir also den Zustand des Ozeans verschlechtern, dann müssen wir diese Leistungen anders organisieren und das ist schwierig und teuer.</p>
+<p><strong>DW</strong>: Und wie genau können wir ihn schützen?</p>
+<p><strong>Boetius</strong>: Begreifen, dass unser Handeln an Land die Ozeane verändert, auch wenn sie weit weg scheinen. An sich ist ja der Schutz des Lebens im Meer nun auch schon ein abgestimmtes politisches Ziel – wir haben viele Schutzziele vereinbart, für unsere Meere und die Ozeane weltweit. Aber zum Schützen gehört auch Hinschauen, Messen wie es dem Ozean geht, Überwachen, ob wir richtig mit ihm umgehen, und versuchen, das wieder herzustellen, was wir verloren haben, wie die Bestände der größten Walarten, die Gefährdung der meisten Haiarten, die Gesundheit der Korallenriffe und Mangroven sowie Seegraswiesen weltweit, um nur ein paar Beispiele zu nennen. Für die Tiefsee, die größtenteils jenseits der ökonomischen Zonen der Staaten liegt, sind dabei besonders ein international organisierter Meeresschutz und klare Regeln sowie auch Kontrolle und Strafen gegen Verstöße wichtig. Leider ist da noch einiges zu tun, man könnte zum Beispiel erstmal die Tiefseefischerei auf Hoher See verbieten, um etwas mehr Ruheraum zu geben. Das könnte sogar zu besseren Fischereierträgen insgesamt führen.</p>
+<p>[/et_pb_text][et_pb_button button_url=&ldquo;<a href="https://www.patreon.com/DEEPWAVEeV%22">https://www.patreon.com/DEEPWAVEeV&quot;</a> button_text=&ldquo;Werde Patreon der Tiefsee&rdquo; button_alignment=&ldquo;center&rdquo; module_class=&ldquo;button_patreon button_patreon_red&rdquo; _builder_version=&ldquo;4.6.6&rdquo; custom_button=&ldquo;on&rdquo; button_text_color=&quot;#e85b46&rdquo; button_border_color=&quot;#e85b46&quot; button_icon_color=&quot;#e85b46&quot; custom_margin=&ldquo;20px||20px||false|false&rdquo; button_text__hover_enabled=&ldquo;off|hover&rdquo;][/et_pb_button][et_pb_text _builder_version=&ldquo;4.6.6&rdquo; background_size=&ldquo;initial&rdquo; background_position=&ldquo;top_left&rdquo; background_repeat=&ldquo;repeat&rdquo;]<strong>DW</strong>: Du hast einmal gesagt, dass für dich das Abtauchen in die Tiefsee wie nach Hause kommen ist. Warum? Für manche ist die Vorstellung, in der Tiefe, völlig abhängig von Technik, im schwärzesten Schwarz zu sein, nicht gerade heimelig.</p>
+<p><strong>Boetius</strong>: Vielen Wissenschaftler:innen geht es so, dass sie Gefühle für das entwickeln, was sie lange beforschen. Bei mir sind es nun schon über 30 Jahre, dass ich die Weltmeere beforsche mit allen möglichen Technologien. Und besonders wenn ich dann abtauchen kann im Forschungs-U-Boot, aber auch mit den inzwischen gut ausgestatteten Tiefseerobotern, habe ich zuerst das Gefühl, vor Glück zu platzen, noch bevor dann die ernste, straff organisierte wissenschaftliche Arbeit losgeht.</p>
+<p><strong>DW</strong>: Letzte Frage, glaubst du, dass im Weltall zu sein bei dir das gleiche Gefühl auslösen könnte?</p>
+<p><strong>Boetius</strong>: Das müsste ich mal ausprobieren. Aber ich glaube: ja. Als ich Alexander Gerst zuhören durfte, wie er beschrieb, wie sich das Losfliegen, das Hinschauen, dieser fantastische Perspektivwechsel und besondere Expeditions-Auftrag für ihn anfühlt, dann habe ich auch Lust bekommen. Auch wenn die Vorbereitung da noch ungleich viel intensiver ist als bei uns, ganz abgesehen von den Auswahlprozessen für Austronaut:innen. Aber wenn ich bedenke, was es alles noch da draußen zu entdecken gibt, dann stelle ich es mir auch sehr wunderbar vor, Weltraumforscherin zu sein.</p>
+<p><em>Danke für das Interview und viel Erfolg nicht nur in der Erforschung der Tiefsee, sondern auch für die restlichen Monate der <a href="https://www.deepwave.org/expeditionskrimi-mosaic-besatzungswechsel-nun-auf-dem-seeweg">MOSAiC Expedition</a>!</em>[/et_pb_text][et_pb_text _builder_version=&ldquo;4.6.6&rdquo; _module_preset=&ldquo;default&rdquo; custom_margin=&quot;||0px||false|false&quot; link_option_url=&ldquo;<a href="https://www.deepwave.org/etwas-tun/mitglied-werden/%22">https://www.deepwave.org/etwas-tun/mitglied-werden/&quot;</a>]</p>
+<h4 id="schütz-mit-uns-die-tiefsee">Schütz mit uns die Tiefsee!</h4>
+<p>[/et_pb_text][et_pb_button button_url=&ldquo;<a href="https://www.deepwave.org/etwas-tun/mitglied-werden/%22">https://www.deepwave.org/etwas-tun/mitglied-werden/&quot;</a> button_text=&ldquo;Mitglied werden&rdquo; button_alignment=&ldquo;center&rdquo; _builder_version=&ldquo;4.6.6&rdquo; _module_preset=&ldquo;default&rdquo; custom_button=&ldquo;on&rdquo; custom_margin=&quot;||25px||false|false&rdquo; button_text__hover_enabled=&ldquo;off|desktop&rdquo; button_text__hover=&ldquo;Mitglied werden&rdquo; button_text_size__hover_enabled=&ldquo;off|desktop&rdquo;][/et_pb_button][et_pb_text _builder_version=&ldquo;4.6.6&rdquo; _module_preset=&ldquo;default&rdquo; custom_margin=&quot;||0px||false|false&rdquo; link_option_url=&ldquo;<a href="https://www.deepwave.org/deep-sea/%22">https://www.deepwave.org/deep-sea/&quot;</a>]</p>
+<h4 id="erfahre-noch-mehr-über-die-tiefsee"><strong>Erfahre</strong> noch mehr über die Tiefsee:</h4>
+<p>[/et_pb_text][et_pb_button button_url=&ldquo;<a href="https://www.deepwave.org/deep-sea/%22">https://www.deepwave.org/deep-sea/&quot;</a> button_text=&ldquo;Zur DEEP SEA Kampagne&rdquo; button_alignment=&ldquo;center&rdquo; _builder_version=&ldquo;4.6.6&rdquo; _module_preset=&ldquo;default&rdquo; custom_button=&ldquo;on&rdquo; button_text_color=&quot;#052d49&rdquo; button_icon_color=&quot;#052d49&rdquo; custom_margin=&quot;||25px||false|false&quot; button_text__hover_enabled=&ldquo;off|desktop&rdquo; button_text__hover=&ldquo;Mitglied werden&rdquo; button_border_color__hover_enabled=&ldquo;on|desktop&rdquo; button_border_color__hover=&ldquo;rgba(0,0,0,0)&rdquo;][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section]</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-ressourcen-fuer-2020-sind-aufgebraucht/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/10/jason-blackeye-zAITDJYV09w-unsplash-scaled.jpg" alt="Die Ressourcen für 2020 sind aufgebraucht" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die Ressourcen für 2020 sind aufgebraucht</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Der <em>Earth Overshoot Day,</em> der Erdüberlastungstag - der Tag, an dem alle <a href="https://www.deepwave.org/ressourcen-meer-loest-ozean-rohstoffprobleme-zukunft-17796007/">Ressourcen</a> aufgebraucht sind, die im gleichen...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/greenpeace-versenkt-granitsteine-gegen-die-grundschleppnetzfischerei-vor-ruegen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2020/07/Schleppnetzfischer_Netz-scaled.jpg" alt="Steinfischerei reverse: Greenpeace versenkt Granitsteine vor Rügen" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Steinfischerei reverse: Greenpeace versenkt Granitsteine vor Rügen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p>Früher holten die Steinfischer aus der Ostsee die Steine herauf, Findlinge, die als Baumaterial genutzt wurden für...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/greenpeace-versenkt-granitsteine-gegen-die-grundschleppnetzfischerei-vor-ruegen/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

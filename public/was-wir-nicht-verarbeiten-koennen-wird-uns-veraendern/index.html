@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2023/11/Insta_Was_wir_nicht_verarbeiten_koennen_Sonne_Wolken_Meer.png');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Anna Mandel / DEEPWAVE
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Was wir nicht verarbeiten können, wird uns verändern</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Okt. 15, 2023</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <p>Wir wussten, dass es passieren wird, wir haben uns nicht vorgestellt, dass es so passiert. Wir haben uns nichts vorgestellt oder einiges, jetzt müssen wir damit umgehen, dass Unvorstellbares geschieht, wieder. Es ist nicht das erste Mal, es ist nicht das einzige Mal, es passiert die ganze Zeit auf dieser Welt. Unvorstellbares. Leid.</p>
+<p>Wir hören und lesen es oder wir versuchen es explizit nicht zu lesen und trotzdem zu verstehen, was passiert. Wie verarbeiten wir das seelisch?</p>
+<p>Niemals hätte ich geglaubt, vor über anderthalb Jahren, dass wir uns an einen Krieg in Europa gewöhnen.</p>
+<p>Obwohl ich ja schon einen anderen erlebt habe, eine Reihe von Kriegen in Europa, zwischen 1991 und 2001 im ehemaligen Jugoslawien. Ich erinnere das Erschrecken über Bestialitäten, die uns fragend zurückwarfen, wir, wir Menschen, mitten im 20 Jahrhundert? Mitten in Europa? Als ob uns die Jahrhunderte und eine bestimmte Kultur davor schützen könnten.</p>
+<p>Warum ich aber hier darüber schreibe? Weil das alles verändern wird. Alles.</p>
+<p>Wir wissen noch nicht wie, vielleicht gibt es welche, die es absehen können. Auf jeden Fall gibt es welche, die jetzt handeln werden müssen, ohne es absehen zu können.</p>
+<p>Wie gehen wir mit den Nachrichten um, wie gehen wir mit den Medien um, wie gehen wir damit um, dass das alles verändern wird. Es schon tut. Auch unseren Alltag.</p>
+<p>Die Genfer Konventionen stellen im Rahmen des humanitären Völkerrechts Regeln auf für das Verhalten im Krieg, Regeln für Menschlichkeit. In der Welt, in der wir leben, scheint Krieg demnach normal zu sein, unausweichlich, etwas, das Regeln braucht. Wenigstens das.</p>
+<p>Allein darüber zu schreiben, scheint mir völlig absurd.</p>
+<p>Regeln fungieren auch als Abgrenzung gegen das, was als Terrorismus gilt.</p>
+<p>Krieg und in die Realität umgesetzter Hass sind Ausübung von Macht auf Unbeteiligte. Das Leid, das sie verursachen, ist unabsehbar: erlitten, mitempfunden, indem darüber berichtet werden muss, selbst der politische Versuch zu schlichten und zu befrieden ist es.</p>
+<p>Wenn wir noch die Freiheit haben uns zu entscheiden, können wir eine Grenze setzen.</p>
+<p>Wir können uns entscheiden, wenigstens die Bilder der Grausamkeiten nicht in Kopf und Herz zu lassen.</p>
+<p>Ich bin den Journalist:innen, Politiker:innen, Helfer:innen unendlich dankbar, allen, die das können, die das schaffen, die das aushalten, ich weiß nicht, wo sie ihre Kräfte herhaben, aber es gibt sie und wir brauchen sie.</p>
+<p>Aber genauso gibt es die Menschen, die das nicht können.</p>
+<p>In diesem Moment kommt es mir so vor, als ob durch die Pandemie die Verbindung zu anderen Menschen stärker geworden ist: weil wir alle, wildfremde Menschen, plötzlich ganz deutlich, ganz greifbar und sichtbar durch die Masken der gleichen Bedrohung ausgesetzt waren.</p>
+<p>Ich frage mich, was die anderen jetzt empfinden mögen, die, die ich gar nicht kenne, deren Lichter ich jetzt, an einem windigen Herbstabend, in ihren Häusern sehe, wenn ich durch die Straße gehe, die, die darüber nachdenken, wie sie die Fragen ihrer Kinder beantworten sollen, wenn sie sie morgen früh zur Schule bringen, nicht nur die, die auf beiden Seiten jemanden verloren haben, verlieren werden oder darum bangen. Einfach alle, die heute Nacht und in den nächsten Wochen, Monaten, Jahren zu viele grausame Bilder in ihren Köpfen und Herzen haben werden.</p>
+<p>Und nicht wissen, wie sie die verdauen sollen, denn: Es gibt keinen Ausscheidungsmechanismus für Bilder.</p>
+<p>Aber es gibt einen Wettbewerb um die grausamsten Bilder in unserer Welt, spätestens seit dem Vietnamkrieg. Harun Farocki hat darüber 1981 einen klugen und immer und immer wieder aktuellen Film gedreht (&ldquo;Etwas wird sichtbar&rdquo;).</p>
+<p>Warum? ist die Frage. Wozu und wem dient der Hass? Wo er herkommt, das kann man nachzeichnen. Aber wie kann ich für mich und in meiner Community die Grenze ziehen zu diesem Hass? Wie können wir uns ihm entziehen?</p>
+<p>In diesen Tagen lebe ich wie in Zeitlupe, white noise stellt sich schützend ein, weil unser Alltag bestimmt wird von Gewalt und Schmerz und Leid, und weil wir alles, was wir tun, unsere Begeisterung, unser Glück, dagegen stemmen müssen wie gegen eine Wand, die droht umzukippen und uns zu erschlagen.</p>
+<p>Was wir nicht verarbeiten können, wird uns verändern.</p>
+<p><a href="https://www.instagram.com/p/Cyb3bMSMOOv/">Dieser Beitrag</a> und unsere anderen Reflexionen stammen ursprünglich von unserem Instagram Kanal <a href="https://www.instagram.com/deepwave_ocean_org/">@deepwave_ocean_org</a>.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+    
+        
+        
+    
+
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/verbot-von-mikroplastik-eu-zu-zaghaft/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/10/Glitter_close_up.jpg" alt="Verbot von Mikroplastik: EU zu zaghaft" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Verbot von Mikroplastik: EU zu zaghaft</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>BUND kritisiert die weitere Verwendung von flüssigen und halbfesten Kunststoffen.</strong></p>
+<p><em>Zum Inkrafttreten des teilweisen...</em></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/windenergie-ausbau-auf-see-ohne-perspektive-fuer-naturvertraeglichkeit/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/10/Burbo_Bank_Offshore_Wind_Farm_-_geograph.org_.uk_-_4655370.jpg" alt="Windenergie-Ausbau auf See ohne Perspektive für Naturverträglichkeit" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Windenergie-Ausbau auf See ohne Perspektive für Naturverträglichkeit</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><em>Krüger: Die Bundesregierung muss umsteuern – Nordsee wird zum Industriegebiet</em></p>
+<p>Berlin - In seiner Stellungnahme zum...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/windenergie-ausbau-auf-see-ohne-perspektive-fuer-naturvertraeglichkeit/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>

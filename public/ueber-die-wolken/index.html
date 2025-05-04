@@ -1,0 +1,1869 @@
+<!DOCTYPE html>
+<html><head>
+    
+  
+    
+    
+      
+        
+          <link rel="stylesheet" href="/css/main.489c7462e7e0f06f91494d79979c46ebd90db0e8c2ca75d76b92f94a1eb9cd91.css" integrity="sha256-SJx0Yufg8G&#43;RSU15l5xG69kNsOjCynXXa5L5Sh65zZE=" crossorigin="anonymous">
+        
+      
+    
+  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script>
+        
+        htmx.config.useTemplateFragments = true;
+
+        document.addEventListener('htmx:beforeSwap', function (evt) {
+            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
+                
+                const parser = new DOMParser();
+                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
+                const contentArea = responseDoc.querySelector('#content-area');
+
+                if (contentArea) {
+                    evt.detail.serverResponse = contentArea.innerHTML;
+                }
+            }
+        });
+    </script>
+</head><header class="font-sans">
+    <div class="menu_shadow">
+        <div class="not_full_width">
+        <div class="py-6 flex justify-end">
+            <ul class="flex space-x-4 text-sm font-sans">
+  
+    <li>
+      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/factsheets/" class="hover:text-deepwave-light-blue">Factsheets</a>
+    </li>
+  
+    <li>
+      <a href="/ozeanbuecher/" class="hover:text-deepwave-light-blue">Bücher</a>
+    </li>
+  
+    <li>
+      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+    </li>
+  
+    <li>
+      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+    </li>
+  
+</ul>
+        </div>
+        <div class="flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+  </div>
+            </a>
+        </div>
+        <div class="flex items-center justify-between">
+            <nav class="hidden md:block pt-3">
+    <ul class="flex space-x-6 py-4">
+  
+    <li class="relative group">
+      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+    </li>
+  
+</ul>
+</nav>
+
+<nav class="hidden md:block pt-3">
+    <ul class="flex space-x-4">
+    
+    <li class="relative group">
+      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+    </li>
+  
+    <li class="relative group">
+      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+    </li>
+  
+</ul>
+</nav>
+            <button class="md:hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+            </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="md:hidden hidden" id="mobile-menu">
+      
+    </div>
+    
+    
+    
+        <div class="menu_shadow py-3">
+            <div class="not_full_width">
+            <ul class="flex space-x-4 overflow-x-auto py-1">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <li>
+      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
+        Good News
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
+        Politik
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
+        Reflexionen
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
+        Klima
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
+        Tiefsee
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
+        Forschung
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
+        Kultur
+      </a>
+    </li>
+  
+  <li>
+      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
+        Was tun?
+      </a>
+    </li>
+  
+</ul>
+          </div>
+    </div>
+    
+  </header><body hx-boost="true">
+        <div id="content">
+    <div id="content-area">
+<section class="relative overflow-hidden w-full px-16">
+    
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style="background-image: url('https://www.deepwave.org/wp-content/uploads/2024/05/A_Cloud_to_Starboard_-_Penholm_-_G._Howell-Baker_-_The_Magazine_of_Art_version.jpg');">
+        
+          <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
+            © Cloud to Starboard /@ Wikimedia Commons
+          </figcaption>
+        
+    </div>
+    
+    <div class="absolute inset-0" style="background: linear-gradient(0deg, #000a16, #000a16cc 10%, transparent);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white mt-128 mb-16">
+
+      <h1 class="text-3xl md:text-3xl mb-2">Über die Wolken</h1>
+      
+      
+      <div class="text-xl">
+        <time>
+
+
+
+
+Nov 14, 2023</time>
+      </div>
+      
+      
+    </div>
+  </section>
+<article class="not_full_width min-h-screen mt-12 max-w-4xl">
+    <h4 id="wie-man-sie-macht-und-ob-man-es-lieber-lassen-sollte">Wie man sie macht und ob man es lieber lassen sollte</h4>
+<p><strong>Ein Gastbeitrag von Nico Czaja</strong></p>
+<p>Es folgt ein langer Text - wer nur sehr wenig Zeit hat, kann stattdessen dieses Filmchen sehen, das die wesentlichen Aspekte kurz und knapp auf den Punkt bringt:  <a href="https://www.youtube.com/watch?v=EKPFZPyQurA">Should we reflect sunlight to cool the planet?</a></p>
+<figure><a href="https://www.deepwave.org/wp-content/uploads/2024/05/DAILY-SEA-SURFACE-TEMPERATURE-ANOMALY.png"><img src="https://www.deepwave.org/wp-content/uploads/2024/05/DAILY-SEA-SURFACE-TEMPERATURE-ANOMALY.png"
+    alt="Grafik, die die durchschnittlichen Tagestemperaturen der Meeresoberfläche im Nordostatlantik pro Monat zeigt, farblich aufgeschlüsselt nach Jahrzehnten. Die schwarze Linie, die extrem nach oben ausschlägt, geht bis Juni 2023."></a><figcaption>
+      <p>© Tägliche Meeresoberflächentemperaturenanomalien / @Copernicus Climate Change Service/ECMWF</p>
+    </figcaption>
+</figure>
+
+<p>Ich weiß nicht, wie repräsentativ wir sind (vermutlich nicht allzu sehr), aber ich und die Leute, mit denen ich eine Blase teile, haben dieses Bild in den letzten Wochen und Monaten sehr oft in unseren Feeds und Streams und News auftauchen sehen. Das Geschrabbel sind die durchschnittlichen Tagestemperaturen der Meeresoberfläche im Nordostatlantik pro Monat, farblich aufgeschlüsselt nach Jahrzehnten. Die schwarze Linie ist jetzt. Auch der Laie erkennt schnell: Hier stimmt wohl etwas nicht.</p>
+<p>Das ist für sich genommen nichts Neues, in Sachen Klima und Temperaturen und Wetter und Weltzustand im Allgemeinen stimmt dieser Tage immer und überall so einiges nicht, und natürlich wird der Ozean ständig wärmer - wir erinnern uns, der anthropogene Klimawandel existiert. Zusätzlich war wegen El Niño tatsächlich ein stärkerer Anstieg erwartet worden – aber das Ausmaß, in dem hier etwas nicht stimmt, hat selbst diejenigen Menschen überrascht, die diese Zahlen professionell beobachten:</p>
+<p>Der Atlantik hat dieses Jahr einen Temperaturrekord aufgestellt, der, wäre er ein olympischer Läufer, augenblicklich Dopingkontrollen nach sich gezogen hätte. Einer der wesentlichen Gründe für diesen Ausreißer ist selbst ein Ausreißer: Ein großer Teil dieser Rekorderwärmung (neben unter anderem El Niño) geht allem Anschein nach darauf zurück, dass wir ausnahmsweise in Sachen Umweltschutz etwas sehr richtig gemacht haben.</p>
+<p>Bis vor kurzem sind Seeschiffe mit dem elendsten, dreckigsten Treibstoff gefahren, der auf der Welt zu haben ist: Hochgradig mit Schadstoffen, vor allem mit Schwefel belastetes Schweröl, ein Reststoff aus dem Raffinerieprozess, den niemand anderes haben wollte, rein in den Tank, ist so schön billig. Erlaubt war ein Schwefelgehalt von bis zu 3,5% - das ist <a href="https://blogs.nabu.de/dreckige_schiffe/">3500 mal so viel wie beim regulären Diesel</a>. Dieser Schwefel landet beim Verbrennen in der Luft, und damit früher oder später in deiner und meiner <a href="https://www.umweltbundesamt.de/themen/neuer-schwefelgrenzwert-fuer-seeschiffskraftstoffe">Lunge</a> (Lungenkrebs, Herzkreislauferkrankungen) und in <a href="https://utopia.de/ratgeber/bodenversauerung-ursachen-und-folgen-des-sauren-bodens/">Böden</a> und <a href="https://www.awi.de/im-fokus/ozeanversauerung/fakten-zur-ozeanversauerung.html">Gewässern</a> (Versauerung).</p>
+<p>Aber wir können aufatmen (ha!), denn seit dem 1.1.2020 gilt für alle Seeschiffe weltweit per Vorgabe der Internationalen Seeschifffahrts-Organisation (International Maritime Organization – IMO), der mehr als 170 Staaten angehören: Der Schwefelanteil des Kraftstoffs darf nur noch 0,5 Prozent betragen. Damit ist die <a href="https://www.science.org/content/article/changing-clouds-unforeseen-test-geoengineering-fueling-record-ocean-warmth">Schwefelverschmutzung durch die Schifffahrt um 80% zurückgegangen, was zu einer Verbesserung der Luftqualität in der ganzen Welt</a> geführt hat. Ein schöner Erfolg!</p>
+<p>Und dann atmen wir wieder ab.</p>
+<p>Denn Schwefel ist nicht nur ein Gift, das niemand atmen müssen sollte. Schwefel, wenn man ihn in feinen Partikeln in die Luft bläst, ist auch sowas wie Sonnencreme für den Planeten. Schwefelpartikel unterstützen die charakteristische tiefliegende Wolkenbildung, die den Schiffen übers Meer folgt (das sieht <a href="https://www.science.org/content/article/changing-clouds-unforeseen-test-geoengineering-fueling-record-ocean-warmth">so</a> aus). Und diese Wolken reflektieren Sonnenlicht und kühlen so den Planeten - bzw. kühlten. Bis vor drei Jahren.</p>
+<p>Dass diese Verringerung der Wolkenbildung durch den Wegfall von Schwefel im Schiffssprit zu einer schnelleren Erwärmung der betreffenden Regionen führen könnte, hat man wohl in der Wissenschaft schon auf dem Schirm gehabt, allerdings ist das Ausmaß wesentlich größer als erwartet, <a href="https://www.science.org/content/article/changing-clouds-unforeseen-test-geoengineering-fueling-record-ocean-warmth">wie einige neue Studien zeigen</a>: Im Atlantik, in den Schifffahrtskorridoren, wo der Seeverkehr besonders dicht ist, führt das Mehr an Sonneneinstrahlung durch den Wegfall der Wolken dazu, dass unsere CO2-Emissionen plötzlich eine um 50% stärkere Aufheizungswirkung haben. Und das holt uns jetzt ein, und zwar mit Macht. Die Folgen - <a href="https://www.cnbc.com/2023/08/16/record-ocean-temperatures-why-they-happen-how-they-hurt.html">als da wären</a>: stärkere Stürme, Fischsterben, Korallensterben, stark erhöhtes Wachstum schädlicher Algenpopulationen und Anstieg des Meeresspiegels (also eigentlich genau wie Klimawandel, nur halt schneller, schlimmer und früher als gedacht) - dieser <a href="https://www.floridamuseum.ufl.edu/earth-systems/blog/hot-tub-heat-understanding-the-high-ocean-temperatures-off-floridas-coast/#:~:text=Scientists%20say%20these%20extremely%20warm,are%20bracing%20for%20the%20impacts.">Rekord-Badewannentemperaturen</a> des Ozeans sind verheerend.</p>
+<p>In dieser Geschichte steckt viel drin, das Stück für Stück ausgepackt und eingeordnet werden will.</p>
+<p>Die erschütternde Erkenntnis, dass der tatsächliche Zustand des Ozeans eine ganze Ecke schlechter ist, als man bisher dachte, weil ein Schwefel-Schleier das Ausmaß der Erwärmung verhüllt hat, ist das eine.</p>
+<p>Die Tatsache, dass die Menschheit, einfach, indem sie dreckige Schiffe übers Meer geschickt hat, wie man es halt so macht, quasi versehentlich ein über viele Jahre andauerndes, gigantisches Geo-Engineering-Experiment durchgeführt hat, ist das andere. Ersteres ist eine wirklich, wirklich schlechte Nachricht; letzteres könnte, wenn man ordentlich guten Willen und Optimismus mitbringt, ein ganz schmales <em>silver lining</em> dieser finsteren Wolke sein. Warum? Ich bitte um Geduld, wir müssen zuerst einen großzügigen Bogen schlagen.</p>
+<h4 id="was-ist-geo-engineering"><strong>Was ist Geo-Engineering?</strong></h4>
+<p>Um einmal klarzuhaben, worüber wir hier eigentlich sprechen: Geo- (oder Climate) Engineering sind großangelegte, vorsätzliche Eingriffe in Erdsysteme (eine gute Übersichtsgrafik findet ihr bei <a href="https://www.carbonbrief.org/wp-content/uploads/2018/05/solar-geoengineering.jpg">Carbon Brief),</a> in den allermeisten Fällen mit dem Ziel der Abmilderung der menschengemachten Erderwärmung. (Wenn man das Element der Vorsätzlichkeit nur ein bisschen außer Acht lässt, drängt sich natürlich sehr schnell die Erkenntnis auf, dass wir durch das exzessive Verbrennen von Kram schon seit ungefähr 150 Jahren eine ganz besonders dämliche Form von Geo-Engineering betreiben, mit zunehmendem “Erfolg”.)</p>
+<p>Unterschieden wird dabei zwischen zwei Ansätzen, selbstverständlich mit zugehörigen kryptischen Kürzeln: <em>Carbon Dioxide Removal</em> (CDR), also die Entnahme und Einlagerung oder Wiederverwendung von CO2 aus der Atmosphäre, und <em>Solar Radiation Management</em> (SRM), also die Manipulation der Sonneneinstrahlung.</p>
+<p>CDR kann mit technologischen Mitteln betrieben werden - mit gigantischen Staubsaugern zum Beispiel, die das CO2 aus der Luft filtern – oder mit Aufbau und Schutz natürlicher CO2-Senken (zum Beispiel Moore, Wäldern, Seegraswiesen, Mangroven, Salzmarschen). Zu Chancen und Risiken beider Varianten habe ich <a href="https://www.deepwave.org/ccs-unter-die-erde-kehren/">beim letzten Mal</a> geschrieben, auch dazu, dass wir ganz ohne solche Eingriffe das 1,5°-Ziel wohl nicht mehr werden erreichen können. [Spoiler: Eine gerade mit großem Brimborium und für viel Geld in den USA eröffnete Anlage wird <a href="https://www.heirloomcarbon.com/news/heirloom-unveils-americas-first-commercial-direct-air-capture-facility">pro Jahr 1000 Tonnen CO2</a> aus der Atmosphäre filtern, das entspricht den <a href="https://curb6.com/footprint/flights/new-york-jfk/san-francisco-sfo">Emissionen</a> von ungefähr drei Flugzeugen mit 250 Passagieren von Washington nach San Francisco und zurück. Die Anlage wird also vermutlich die ersten 20 Jahre ihrer Existenz damit verbringen, allein die Emissionen der zur Eröffnung eingeflogenen Würdenträger zu kompensieren und dabei jährlich erneuerbare Energie für mehrere hundert Haushalte verbrauchen, die angesichts der Dringlichkeit der Klimakrise anderswo besser, also wirksamer für die Reduktion von Emissionen aufgehoben wäre. In Haushalten zum Beispiel. Zum Vergleich: Für eine Einsparung von 1000 Tonnen CO2 pro Jahr mit natürlichen Methoden brauchen wir lediglich 100 Hektar wiedervernässtes Moor, und die positiven Auswirkungen auf Ökosysteme und Artenschutz bekommen wir gratis mit dazu.]</p>
+<p>Kontrovers diskutiert wird hier inzwischen lediglich die Effizienz der verwendeten Technologien, nicht so sehr die Sinnhaftigkeit des Ansatzes an sich.</p>
+<p>Und auch wenn die Entfernung von CO2 aus der Atmosphäre nahtlos in die gängige Definition von Geo-Engineering passt, <a href="https://www.technologyreview.com/2019/08/09/615/what-is-geoengineering-and-why-should-you-care-climate-change-harvard/">nennt es kaum noch jemand so</a>, nicht zuletzt, um nicht mit seiner wesentlich umstrittenen Form, dem <em>Solar Radiation Management</em>, in einen Topf geworfen zu werden.</p>
+<p>Beim SRM geht es in den meisten Fällen um das Einbringen von Partikeln in die Atmosphäre, die die Reflektivität des Planeten erhöhen, so dass weniger Sonnenstrahlung und damit weniger Wärme bei uns ankommt. Dass das funktioniert (der Begriff “Funktionieren” sei hier bitte mit sehr spitzen kognitiven Fingern angefasst),  wissen wir aus der Natur. Sehr prominent und eindrucksvoll ist hier das Beispiel des Mount Pinatubo auf den Philippinen, der in seiner Eigenschaft als aktiver Vulkan im Sommer 1991 bei einem massiven <a href="https://de.wikipedia.org/wiki/Pinatubo#Globale_Auswirkungen">Ausbruch</a> um die 20 Millionen Tonnen Schwefeldioxid in den Himmel spuckte, das sich dort mit Wasser zu reflektierenden Schwefelsäure-Aerosolen verband, die sich rund um die Welt verteilten – und damit die globale Durchschnittstemperatur für zwei Jahre um ungefähr 0,5°C senkte. Zwar haben wir für weiter zurückliegende Ausbrüche lang nicht so gute Daten, aber dass sie in der Vergangenheit ähnlich weitreichende Effekte hatten, wissen wir: So führte die gewaltige <a href="https://www.washingtonpost.com/news/capital-weather-gang/wp/2015/04/24/the-epic-volcano-eruption-that-led-to-the-year-without-a-summer/">Eruption des Tambora in Indonesien 1815</a> nicht nur zum düsteren sogenannten “Jahr ohne Sommer” 1816, sondern wohl auch zur Erfindung von Frankenstein und seinem Monster, hatte also auch viel Gutes.</p>
+<p>Wenn ich im Folgenden von Geo-Engineering spreche, dann meine ich damit diese populärste und umstrittenste Form.</p>
+<h4 id="ja-aber-wieso-und-inwiefern-umstritten-klingt-doch-erstmal-vielversprechend"><strong>Ja aber wieso und inwiefern umstritten, klingt doch erstmal vielversprechend?</strong></h4>
+<p>Bitte einmal kurz den Text hier liegen lassen, zwei Romane lesen und dann wiederkommen, nämlich <a href="https://www.penguin.de/Paperback/Das-Ministerium-fuer-die-Zukunft/Kim-Stanley-Robinson/Heyne/e592883.rhd"><em>Das Ministerium für die Zukunft</em></a> von Kim Stanley Robinson, in dem in einer sehr nahen Zukunft Indien auf eigene Faust ein Solar-Geoengineering-Projekt beginnt, um apokalyptische Hitzewellen abzumildern; und <a href="https://www.penguin.de/Buch/Termination-Shock/Neal-Stephenson/Goldmann/e600692.rhd"><em>Termination Shock</em></a> von Neal Stephenson, in dem in einer sehr nahen Zukunft Indien ein auf eigene Faust unternommenes Solar-Geoengineering-Projekt in Texas sabotiert, weil es den Monsun in Südostasien durcheinanderbringt und damit die dortige Nahrungssicherheit bedroht.</p>
+<p>Vielleicht auch noch <a href="https://www.hanser-literaturverlage.de/buch/blue-skies/978-3-446-27689-5/"><em>Blue Skies</em></a> von T.C. Boyle, in dem in einer sehr naher Zukunft jemand auf den Philippinen, aber nee, das verrate ich jetzt hier nicht, weil das ist erst ganz am Ende, aber auch eine absolut fantastische Lektüre.</p>
+<p>Wieder da? Gut. Dann sind wir jetzt ungefähr auf demselben Stand. Nicht gelesen und trotzdem noch hier? Was will man machen, dann versuche ich es, um des lieben Friedens willen, einmal zusammenzufassen, auch wenn die Literatur der Sache ergreifender, mitreißender, gründlicher und eindrücklicher gerecht wird, als ich es hier liefern kann.</p>
+<h4 id="1-die-fossile-lobby-liebt-diesen-trick"><strong>1. Die fossile Lobby liebt</strong> <strong>diesen Trick</strong></h4>
+<p>Genauso wie sie die weiter oben beschriebenen CO2-Staubsauger liebt. Und andere unausgereifte Zukunftstechnologien, die man im Diskurs verwenden kann, um den Ausstieg aus der Verbrennerei zu verzögern. Wir können ja mit dieser oder jener Wundermaschine, die es noch nicht gibt, die schädlichen Auswirkungen der fortgesetzten Sachenverbrennerei einfach wieder einfangen!</p>
+<p>Die Sorge, dass eine prominentere Rolle für Geo-Engineering in den Klimaplänen der Welt dazu führen könnte, dass unter dem Einfluss der geschickten und absurd gut finanzierten Propaganda der fossilen Lobby zu viele Menschen an entscheidenden Stellen das Narrativ von der Weltrettung durch Aerosole statt durch Dekarbonisierung glauben und weitertragen könnten, ist sicher nicht unbegründet. Wir sehen den Erfolg solcher Verzögerungs- und Ablenkungskampagnen, die immer wieder aufs neue dringend nötige Aufmerksamkeit und Ressourcen von dringend nötigen transformatorischen Maßnahmen abziehen und die ungestörte Fortsetzung des Status Quo befördern,  ja leider schon jetzt täglich.</p>
+<p>Das ist ein durchaus berechtigtes Argument, das häufig gegen die Beschäftigung mit Geo-Engineering ins Feld geführt wird – aber wenn ihr diesen Punkt schon gewichtig findet, dann wartet mal ab. Denn selbstverständlich beginne ich als gewiefter Dramatiker am unteren Ende der argumentativen Leiter.</p>
+<h4 id="2-die-folgen-sind-unberechenbar"><strong>2. Die Folgen sind unberechenbar</strong></h4>
+<p>Wir sind weit davon entfernt, die Konsequenzen solcher Eingriffe für das Weltklima vorhersagen zu können, und sie könnten drastisch sein. Die Verteilung von Sonnenenergie um den Planeten herum über die Jahreszeiten hinweg bestimmt das weltweite Wettergeschehen. Die Reduktion von Sonneneinstrahlung in einer Region hätte Einfluss darauf, wie Atmosphäre und Meere Energie aus den Tropen zu den Polen bewegen. Welchen? Wissen wir nicht. Ihr kennt die Geschichte vom Schmetterling, dessen Flügelschlag usw. usf.? Es ist genau diese Empfindlichkeit und Unberechenbarkeit von Wettersystemen, zu deren Veranschaulichung der Begriff “<a href="https://de.wikipedia.org/wiki/Schmetterlingseffekt">Schmetterlingseffekt</a>” erfunden wurde.</p>
+<p>Der massive Einsatz von Aerosolen zum Aufhellen oder Herstellen von Wolken zum Beispiel mag für das Absenken der globalen Durchschnittstemperatur geeignet sein, aber Durchschnitte sind tückisch und verschleiern Unterschiede, die in diesem Fall fatal sein könnten. Dass die Konsequenzen eines solchen Eingriffs weltweit ungleich verteilt wären, ist in der Forschung unbestritten. Was, wenn es “uns” nützt, aber zu Entwaldung in Südamerika führt, oder den Monsun im Punjab ruiniert, Ernten vernichtet und Hungersnöte auslöst? Ist es akzeptabel, die Welt <em>im Durchschnitt</em> abzukühlen (lies: im klimatisch milden und wirtschaftlich besser situierten Teil der Welt, dessen Mittel ihn zum wahrscheinlichsten Kandidaten und Nutznießer für ein solches Projekt machen), wenn es in weniger einflussreichen, extremeren Wettern ausgesetzten und schlechter darauf vorbereiteten Gegenden zu Verwerfungen führt? (Denjenigen, denen das zu abstrakt klingt, seien ein weiteres Mal die oben erwähnten Lektüreanregungen ans Herz gelegt.)</p>
+<p>Wer großangelegtes Geo-Engineering betreibt, um die eigenen Interessen vor den Konsequenzen des Klimawandels zu schützen, wird mit hoher Wahrscheinlichkeit die Konsequenzen des Klimawandels für andere verschärfen.</p>
+<h4 id="3-anfangen-ist-leicht-aufhören-ist-gefährlich"><strong>3. Anfangen ist leicht, aufhören ist gefährlich</strong></h4>
+<p>Weniger Sonneneinstrahlung durch Geo-Engineering bedeutet nicht weniger Versauerung der Meere – im Gegenteil kann es je nach gewählter Methode diese Probleme noch verschärfen: Schwefel, ein populärer Kandidat für die Verwendung als Aerosol und ein Schadstoff, kann in der Atmosphäre sowohl die Ozonschicht schädigen als auch für sauren Regen sorgen.</p>
+<p>Auch ändern diese Verfahren nichts an den Umwelt- und Gesundheitsschäden, die durch den fortgesetzten Abbau und die Verbrennung fossilen Materials entstehen. Geo-Engineering ist – bestenfalls – wie ein Aspirin, das man nimmt, wenn uns ein Hai den Arm abgebissen hat (wer kennt es nicht): Eine verzweifelte Notfallmaßnahme, die uns vielleicht dabei helfen kann, es doch noch ins Krankenhaus zu schaffen.</p>
+<p>Vor allem ändert Geo-Engineering nichts an der Menge der Treibhausgase, die sich bereits in der Atmosphäre befinden. Und vor ihrer Wirkung, und das ist der Knackpunkt, schützt es uns nur, solange wir ununterbrochen damit weitermachen. Selbst der Pinatubo-Ausbruch hat es nur für ein oder zwei Jahre geschafft, den Planeten zu kühlen; wir müssten über mehrere Generationen hinweg ständig weitere Partikel in die Atmosphäre blasen, die damit verbundenen Kosten tragen und die dafür notwendige technologische Infrastruktur aufrechterhalten, um von ihren Effekten zu profitieren, bis, ja, bis wann eigentlich? Idealerweise nicht nur, bis wir aufgehört haben, mehr Klimagase pro Zeit auszustoßen, als die Ökosysteme kompensieren können, sondern auch, bis wir so viel überschüssiges CO2 aus der Atmosphäre entnommen haben, dass das Weltklima sich genug normalisieren kann, um unsere Lebensgrundlagen auf sichere Füße zu stellen. Da können schonmal ein paar hundert Jahre zusammenkommen.</p>
+<p>Und wenn wir innerhalb dieser Zeit, aus welchen Gründen auch immer (Ressourcenmangel, Unfälle, Terrorismus, politische Kursänderungen, Kriege, unvorhergesehene katastrophale Auswirkungen des Eingriffs, Doofheit…) unvermittelt aufhören sollten mit dem Aerosol-Nachschub, dann, so die <a href="https://www.carbonbrief.org/unregulated-solar-geoengineering-could-spark-droughts-and-hurricanes-study-warns">Forschung</a>, droht uns ein sogenannter <em>Termination Shock.</em> Man muss sich das wie einen Dammbruch vorstellen: Die gesamte Erderwärmung, die die Aerosole von uns ferngehalten haben, holt schlagartig auf, mit der vierfachen Geschwindigkeit (das ist die optimistische Zahl, <a href="https://www.sfgate.com/science/article/Looking-to-sky-to-fight-climate-change-4170475.php">andere</a> sprechen von einer 10-30fachen Geschwindigkeit) , mit der sie ohne Einstrahlungsminderung vorangeschritten wäre – so schnell, dass selbst Ökosysteme, die bei “normalem” Klimawandel vielleicht noch eine Chance hätten, sich langsamer fortschreitenden Veränderungen an anzupassen, in kürzester Zeit endgültig zusammenbrechen könnten.</p>
+<p>Fazit: Die Wette, dass die Menschheit in der Lage wäre, ein so gewaltiges Projekt über so lange Zeit aufrechtzuerhalten, ist gelinde gesagt eine gewagte, und der Einsatz ist gewaltig.</p>
+<h4 id="aber-sollen-wir-es-jetzt-machen-oder-nicht"><strong>Aber sollen wir es jetzt machen oder nicht?</strong></h4>
+<p>Die eine Frage ist die nach den Gefahren der Technologie, die ganz offenbar beträchtlich sind, aber ja nicht einer sicheren Welt ohne Geo-Engineering gegenüberstehen, sondern einer, in der andere, ebenfalls erdrückende Risiken täglich größer werden.</p>
+<p>Je nach Optimismus- oder Verzweiflungsgrad mögen wir heute noch nicht an dem Punkt der Geschichte angekommen sein, an dem uns die ungewissen planetaren Risiken gezielter Eingriffe in superkomplexe Erdsysteme als das geringere Übel erscheinen gegenüber den zunehmend anschaulicher werdenden Risiken des Klima-Zusammenbruchs. Es wird <a href="https://map.geoengineeringmonitor.org/">geforscht</a>, und das zunehmend. Und so gut wie niemand in der Wissenschaft findet Geo-Engineering geil. Keine der Studien, auf die ich in dieser Recherche gestoßen bin, schließt ohne die Feststellung, dass es unbedingt zuallererst um das Ende der Verbrennerei gehen muss, und dann erstmal darum, CO2 aus der Atmosphäre zu holen.</p>
+<p>Aber während die einen sich zusammenschließen, um sich – mit durchaus nachvollziehbaren Argumenten – für ein <a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.754">internationales Forschungs- und Experimentationsmoratorium</a> für alle riskanten Formen des Geo-Engineering einzusetzen, sagen <a href="https://www.science.org/content/article/could-solar-geoengineering-cool-planet-u-s-gets-serious-about-finding-out">andere</a>: Wir wollen uns das jetzt gründlich anschauen, damit wir dieses Instrument im Regal haben für den Fall, dass wir die Kurve wirklich nicht kriegen und dann keine Zeit mehr haben.</p>
+<p>Man muss kein Wahrsager sein, um sich auszumalen, dass mit jeder weiteren Flutkatastrophe, mit jedem weiteren Waldbrand, mit jedem weiteren Jahrhundertsturm (ich fürchte, wir müssen die umbenennen), mit jedem weiteren Lobbyerfolg der fossilen Industrie und jeder weiteren Verschleppung wichtiger politischer Weichenstellungen das letztere Lager wachsen wird.</p>
+<p>Eine ganz andere Frage ist jedoch: Wer ist das “Wir”, das entscheidet, ob wir diese Risiken eingehen, bekannte und unbekannte? Und für wen entscheiden “wir” das mit?</p>
+<p>Eine so riskante Technologie, die keine Staatsgrenzen kennt, wirft komplexe, vielleicht sogar unlösbare geopolitische Fragen auf. Wer redet mit? Und auf welches Ziel einigt man sich, wenn eine globale Durchschnittstemperatur von X auf unterschiedliche Nationen sehr unterschiedliche Auswirkungen haben wird? Und wenn “wir” – also ein wie immer gearteter demokratisch legitimierter internationaler Entscheidungsapparat, vielleicht irgendwas mit UNO – uns nicht einigen können: Was, wenn ein Staat oder gar ein <a href="https://www.vox.com/the-highlight/2019/5/24/18273198/climate-change-russ-george-unilateral-geoengineering">Einzelmensch</a> es im Alleingang tut? Die vermutlich planetar wirkungsvollste und zugleich umstrittenste Form von Geo-Engineering, die Injektion von Schwefelpartikeln in die Stratosphäre, ist technologisch lachhaft einfach und finanziell durchaus darstellbar: Es reicht, ein kleines bisschen superreich zu sein und die richtige Attitüde mitzubringen. Ein <a href="https://www.technologyreview.com/2022/12/24/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/">größenwahnsinniger Narzisst</a> mit einer fixen Idee, zwei Luftballons voller Schwefel und einer ordentlichen Portion libertären Can-Do-Spirits mag noch kein Problem sein; dieselbe Gestalt mit ein paar Milliarden auf der Kante hingegen…</p>
+<p>Welche Konflikte, welche <a href="https://onezero.medium.com/the-climate-change-solution-that-could-spark-global-war-bd1cc9cce1a3">Kriege</a> stünden uns dann ins Haus, wenn diejenigen, die in einer anderen Ecke der Welt unter den Konsequenzen eines solchen Eingriffs leiden müssen, sich zur Wehr setzen?</p>
+<h4 id="ja-ja-alles-sehr-schwierig-aber-sollen-wir-es-jetzt-machen-oder-nicht-beantworten-sie-die-frage"><strong>JA JA ALLES SEHR SCHWIERIG, ABER SOLLEN WIR ES JETZT MACHEN ODER NICHT? BEANTWORTEN SIE DIE FRAGE!</strong></h4>
+<p>Also eigentlich möglichst lieber nicht bitte. Ist das nicht klar geworden?</p>
+<p>Aber.</p>
+<p>Vielleicht erinnert ihr euch, es war glaub ich am letzten Mittwoch, da hab ich in dem Absatz da ganz oben von einem Bogen geschrieben, den ich schlagen wollte, und von einem <em>silver lining</em>. Denn: Wir haben bereits aus Versehen solares Geo-Engineering betrieben, über viele Jahre hinweg, und dann haben wir es plötzlich eingestellt, und dann haben wir einen Termination Shock erlebt – durch die zu Beginn beschriebene Entschwefelung der Schifffahrt. So unangenehm die Folgen sind, so wertvoll sind die Lektionen, die wir daraus noch lernen können.</p>
+<p>Für die in PNAS (Proceedings of the National Academy of Sciences of the United States of America) erschienene <a href="https://www.pnas.org/doi/full/10.1073/pnas.2206885119">Studie</a>, die die Dramatik der Hitzewelle im Nordatlantik mit der Reduktion von Wolkenbildung durch Schiffsabgase in Verbindung bringt, haben die beteiligten Autoren mit KI-gestützten Methoden die Verläufe dieser Wolken aus zwanzig Jahren Satellitenaufnahmen isoliert und analysiert. Diese Daten werden noch extrem wertvoll sein, um die Auswirkungen von Geo-Engineering durch sogenanntes <em>Marine Cloud Brightening</em> – also die künstliche, lokal begrenzte Aufhellung von tiefliegenden Wolken über den Meeren –  besser zu verstehen. Umso mehr, weil wir uns hier in einem Forschungszweig befinden, der bisher nahezu ausschließlich auf Computermodelle für die Datengewinnung zurückgreifen konnte, weil aussagekräftige Experimente über die Auswirkung von Geo-Engineering nicht möglich sind ohne das Ausprobieren von tatsächlichem Geo-Engineering.</p>
+<p><a href="https://theconversation.com/could-marine-cloud-brightening-reduce-coral-bleaching-on-the-great-barrier-reef-214308">Eine andere interdisziplinäre Forschungsgruppe</a>, die sich mit dem Erhalt des Great Barrier Reefs in Australien beschäftigt, verfolgt einen ähnlichen Ansatz wie den, den die internationale Schifffahrt versehentlich verfolgt hat – allerdings unter Verzicht auf die Verwendung des Umweltgiftes Schwefel als Aerosol: Mit Zerstäuberkanonen an Bord von Forschungsschiffen werden große Mengen Salzwasser in die Luft geschossen, dann verfolgt und analysiert. Wie bei Schwefelpartikeln auch bildet Wasser, das um die fliegenden Salzkristalle herum kondensiert, kleinere Tröpfchen als in handelsüblichen Wolken, und sorgt so für bessere Reflektionseigenschaften.</p>
+<p>Beide Ansätze haben gemeinsam, dass sie, anders als größer angelegte Unternehmungen wie Vulkanausbrüche, schwefelspuckende Hochleistungsflugzeuge und Stratosphärenballons, in niedrigeren Luftschichten wirken, also die Stratosphäre unangetastet lassen und so weitestgehend auf klar bestimmbare Regionen begrenzt sind. Damit umgeht dieses Verfahren eines der größten Risiken des solaren Geo-Engineering, nämlich das der unkalkulierbaren Klimafolgen über Staatsgrenzen hinweg.</p>
+<p>Die australischen Forschenden hoffen, bald den gesamten Bereich des Riffs, das etwa so groß ist wie Italien, in den heißesten Monaten des Jahres gezielt mit einem künstlichen Wolkenschleier vor den größten Hitzespitzen zu schützen. So wollen sie Zeit gewinnen, bis die Welt den Klimawandel besser in den Griff bekommt, damit sie eine Welt mit Great Barrier Reef bleiben kann – und das Risikoprofil des Eingriffs sieht im Vergleich zu einem globalen und dauerhaften Einsatz von Wolkenaufhellung sehr viel freundlicher aus. (Anschaulich erläutert in <a href="https://youtu.be/lylzQsZUZnk?feature=shared&amp;t=784">dieser</a> Präsentation durch Daniel Harrison, einem der Leiter des Programms. In diesem Video erläutert er auch sehr schlüssig, warum es in diesem spezifischen Fall unbedingt Sinn macht, sich nicht allein auf Emissionsreduktion zu verlassen: Damit hätten wir im Hinblick auf den Schutz der Korallen Jahre früher anfangen müssen, es sieht schon jetzt ziemlich düster aus.)</p>
+<p>Gönnen wir uns ganz zum Schluss also eine Prise Utopie.</p>
+<p>Die Internationale Seeschifffahrtsorganisation als globales Organ mit über 170 Mitgliedsstaaten hatte die Autorität und Legitimität, der Schifffahrt quasi über Nacht den Schwefelhahn zuzudrehen. Was, wenn sie ihnen im Austausch den Salzhahn aufdrehte?</p>
+<p>Dann bekämen wir fast gratis eine weltweite Flotte von Wolkenschiffen, die in den Schifffahrtskorridoren behutsam und zeitlich und lokal begrenzt einen Wolkenschirm aufspannen helfen könnten über besonders bedrohten, besonders überhitzten Seeregionen. Natürlich müsste es dafür einen koordinierende Stelle geben, die in Sachen Governance und Risikomanagement ähnlich vorbildlich ist wie das beschriebene Reef Restoration and Adaptation Program.</p>
+<p>Dass es dabei nicht darum gehen kann und darf, in großem Stil die globale Durchschnittstemperatur zu senken, sollte allen klar sein, die diesem Text bis hierher gefolgt sind. Aber wenn es uns so gelänge, zumindest den Kühlungseffekt der verschwundenen Schwefelwolken wiederherzustellen und so etlichen marinen Ökosystemen zumindest eine zweite Chance zu geben, es auf die andere Seite zu schaffen, in die dekarbonisierte, gesündere, lebenswertere Welt (ein kleiner Einblick, wie die aussehen könnte in der <a href="https://realutopien.info/visuals/">Infothek für Realutopien</a>), die ganz sicher irgendwo da draußen auf uns wartet, dann wäre schon sehr viel gewonnen.</p>
+
+</article>
+<div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
+    
+    
+        
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+    
+    
+
+    
+        
+    
+
+
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ccs-unter-die-erde-kehren/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2023/03/Ablasshandel_Holzschnitt_CCS.jpg" alt="Unter die Erde kehren" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Unter die Erde kehren</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><h2 id="ein-gastbeitrag-von-nico-czaja">Ein Gastbeitrag von Nico Czaja</h2>
+<p> </p>
+<h2 id="über-die-subterrane-unterbringung-von-co-mittels-ccs-als-mzbdkw"><strong>Über die subterrane Unterbringung von CO****₂</strong> <strong>mittels CCS¹</strong> <strong>als MZBDKW²</strong></h2>
+<p> </p>
+<p>Ich war mal...</p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        
+    
+     
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/verhandlungen-gegen-die-plastikflut-starten/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://www.deepwave.org/wp-content/uploads/2024/08/Plastikmuell_TheDigitalArtist_Pixabay.jpg" alt="Verhandlungen gegen die Plastikflut starten" class="w-full h-full object-cover" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Verhandlungen gegen die Plastikflut starten</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm"><p><strong>WWF: „Abkommen muss rechtsverbindlich sein, Verbote besonders schädlicher Kunststoffprodukte umfassen und die...</strong></p></p>
+            
+
+        </div>
+    </a>
+</div>
+        
+            <div hx-get="/verhandlungen-gegen-die-plastikflut-starten/" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        
+        
+    
+</div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div></body>
+</html>
