@@ -4691,5 +4691,12 @@
       <guid>http://localhost:1313/ueber-uns/wer-wir-sind/gruendung-des-vereins/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logoUK.jpg&#34; alt=&#34;Announcement image&#34;&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/klartext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/klartext/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
