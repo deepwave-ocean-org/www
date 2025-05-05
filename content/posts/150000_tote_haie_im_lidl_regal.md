@@ -11,6 +11,7 @@ related:
   - "/buergerinitiative-gegen-haifischflossenhandel-jede-stimme-zaehlt/"
   - "/squalen-in-covid-19-impfungen-erhoeht-druck-auf-haie/"
   - "/wwf_lidl_setzt_erneut_auf_falsche_fisch_/"
+_schema: blog_post
 ---
 
 \[caption id="attachment\_20820253" align="alignnone" width="2048"\][![in Styroporschale verpacktes Haifischsteak mit japanischer Schrift](https://www.deepwave.org/wp-content/uploads/2005/05/Shark_meat_at_Tokyo_supermarket-scaled.jpg)](https://www.deepwave.org/wp-content/uploads/2005/05/Shark_meat_at_Tokyo_supermarket-scaled.jpg) © CC0 1.0 / Wikimedia Commons\[/caption\]
