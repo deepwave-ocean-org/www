@@ -93,11 +93,12 @@ collections_config:
     add_options: []
     create:
     disable_add: false
-    disable_add_folder: false
+    disable_add_folder: true
     disable_file_actions: false
     new_preview_url:
+    schema_key: blog_template
     schemas:
-      Blogpost:
+      blog_post:
         path: .cloudcannon/schemas/post.md
         reorder_inputs: true
         hide_extra_inputs: false
