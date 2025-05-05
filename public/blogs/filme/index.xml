@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filme on My New Hugo Site</title>
-    <link>http://example.org/blogs/filme/</link>
+    <link>http://localhost:1313/blogs/filme/</link>
     <description>Recent content in Filme on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/blogs/filme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogs/filme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diskussionsvortrag zur Dokumentation &#34;Seaspiracy&#34;</title>
-      <link>http://example.org/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/</link>
+      <link>http://localhost:1313/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/</guid>
+      <guid>http://localhost:1313/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FWe&#34;&gt;https://www.youtube.com/watch?v=FWe&lt;/a&gt;_yW_kUjI&lt;/p&gt;&#xA;&lt;p&gt;Quelle: &lt;a href=&#34;https://www.asta-landau.de/&#34;&gt;AStA Landau&lt;/a&gt; auf YouTube&lt;/p&gt;&#xA;&lt;p&gt;Die Netflix Dokumentation &lt;em&gt;Seaspiracy&lt;/em&gt; geht seit ihrer Veröffentlichung viral. Ihre Bilder und Inhalte lassen viele Zuschauer:innen nicht mehr los und Themen wie &lt;a href=&#34;https://www.deepwave.org/die-ozeane/ueberfischung/&#34;&gt;Überfischung&lt;/a&gt;, &lt;a href=&#34;https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/&#34;&gt;Plastikverschmutzung&lt;/a&gt; und &lt;a href=&#34;https://www.deepwave.org/die-ozeane/klimawandel/&#34;&gt;Klimawandel&lt;/a&gt; und &lt;a href=&#34;https://www.deepwave.org/was-fische-wissen-von-jonathan-balcombe/&#34;&gt;Tierethik&lt;/a&gt; werden seitdem neu diskutiert. Auch wenn der Film die Überfischung als eine der aktuell größten Bedrohungen der Weltmeere thematisiert, zeigt er auf großartige Weise, wie alle Gefährdungen zusammenhängen, sich gegenseitig bedingen und nicht unabhängig von einander gelöst werden können. In der öffentlichen Diskussion sind Fragen aufgeworfen worden und einige Schieflagen entstanden, die von der Kernaussage des Filmes ablenken. Daher wurden wir gefragt, welche Seaspiracy-Aussagen auf Richtigkeit geprüft werden müssen, welche korrigert und welche belegt werden können.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Selfish&#34; macht auf unseren Plastikkonsum aufmerksam</title>
-      <link>http://example.org/selfish-macht-auf-unseren-plastikkonsum-aufmerksam/</link>
+      <link>http://localhost:1313/selfish-macht-auf-unseren-plastikkonsum-aufmerksam/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/selfish-macht-auf-unseren-plastikkonsum-aufmerksam/</guid>
+      <guid>http://localhost:1313/selfish-macht-auf-unseren-plastikkonsum-aufmerksam/</guid>
       <description>&lt;p&gt;Ihr sitzt in einem Sushi Restaurant und freut euch, mal wieder in ein frisches Stück Lachs beißen zu können. Der Koch fängt hinter der Theke an, das Essen zuzubereiten. Doch statt Lachs und Gemüse holt er Plastikteile, Styroporbruchstücke und Plastiktrinkhalme auf sein Schneidebrett und verarbeitet sie zu „Essen“. Das wird euch, einem Seevogel, einer Schildkröte und einem Seelöwen dann serviert.&lt;/p&gt;&#xA;&lt;p&gt;So beginnt der Kurzfilm eines Videos von &lt;a href=&#34;https://vimeo.com/user28776555&#34;&gt;Chen Po&lt;/a&gt;. Er möchte auf den Kreislauf aufmerksam machen, den unser Müll durchläuft, wenn er achtlos weggeworfen wird. Jedes Teil Müll landet früher oder später durch Flüsse und Oberflächenwasser im Meer. Ein großer Teil davon wird von diversen Meeresbewohnern mit ihrem Futter verwechselt. So verhungern die Tiere mit „vollem“ Magen oder verheddern sich in Abfällen und ersticken.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deep sea mining!? Leave my down below alone!</title>
-      <link>http://example.org/deep-sea-mining-leave-my-down-below-alone/</link>
+      <link>http://localhost:1313/deep-sea-mining-leave-my-down-below-alone/</link>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/deep-sea-mining-leave-my-down-below-alone/</guid>
+      <guid>http://localhost:1313/deep-sea-mining-leave-my-down-below-alone/</guid>
       <description>&lt;p&gt;Die Organisation &lt;a href=&#34;https://seas-at-risk.org/&#34;&gt;Seas at Risk&lt;/a&gt; zeigt mit ihrem Cartoon-Video: &amp;ldquo;Deep sea mining!? Leave my down below alone!&amp;rdquo; auf humorvoll provokante Weise die Bedrohung durch den international geplanten Tiefseebergbau.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?time&#34;&gt;https://www.youtube.com/watch?time&lt;/a&gt;_continue=213&amp;amp;v=JsA0emd2FNw&lt;/p&gt;&#xA;&lt;p&gt;Quelle: &lt;a href=&#34;https://youtu.be/JsA0emd2FNw&#34;&gt;Seas at risk&lt;/a&gt; auf YouTube&lt;/p&gt;&#xA;&lt;p&gt;Ein weiteres Video von &lt;a href=&#34;https://seas-at-risk.org&#34;&gt;Seas at Risk&lt;/a&gt; mit dem Themenpunkt &lt;a href=&#34;https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/&#34;&gt;Plastikverschmutzung&lt;/a&gt; ist in einem weiteren &lt;a href=&#34;https://www.deepwave.org/our-plastic-our-problem-a-marine-litter-info-operetta/&#34;&gt;unserer Posts&lt;/a&gt; zu finden. Mehr zum Thema Tiefsee gibt es bei unserer &lt;a href=&#34;http://deepwave.org/deep-sea&#34;&gt;DEEP SEA Kampagne&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BLUE: The Day The Sea Changed</title>
-      <link>http://example.org/blue-the-day-the-sea-changed/</link>
+      <link>http://localhost:1313/blue-the-day-the-sea-changed/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/blue-the-day-the-sea-changed/</guid>
+      <guid>http://localhost:1313/blue-the-day-the-sea-changed/</guid>
       <description>&lt;p&gt;&amp;ldquo;No matter where you live on our planet, you are connected to the sea&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bluethefilm.org/&#34;&gt;&amp;ldquo;BLUE: The Day The Sea Changed&amp;rdquo;&lt;/a&gt; nimmt uns mit auf eine Reise ins Ozeanreich in einer Zeit, in der die Meereswelt am Abgrund steht. Es wird aufgedeckt, wie sich die Geschichte des Ozeans verändert und was von dem einst vorhandenen Artenreichtum und Leben in den Meeren übrig geblieben ist. In dem Film treffen wir auf Ozeanadvokat*innen, die sich für die Meeren einsetzen, für nachhaltigere Fischerei stark machen, die Meeresverschmutzung bekämpfen und die in den Meeren lebenden Arten schützen. Ein Film, der unmissverständlich zeigt, wie es um unseren Blauen Planeten wirklich steht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unterwasserlärm – Ein unüberhörbares Problem.</title>
-      <link>http://example.org/unterwasserlaerm-ein-unueberhoerbares-problem/</link>
+      <link>http://localhost:1313/unterwasserlaerm-ein-unueberhoerbares-problem/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/unterwasserlaerm-ein-unueberhoerbares-problem/</guid>
+      <guid>http://localhost:1313/unterwasserlaerm-ein-unueberhoerbares-problem/</guid>
       <description>&lt;p&gt;Unterwasserlärm ist eine tödliche Gefahr für Wale und viele andere Meeresbewohner. Wir sind dafür verantwortlich, dass sich der Schallpegel in den Meeren in den letzten 60 Jahren etwa alle zehn Jahre verdoppelt hat. Der zunehmende Schiffsverkehr, Druckluftkanonen, Militärsonare, Sprengstoffe und Bautätigkeiten führen zu einem bedrohlichen Lärm im Ozean. Durch diese erheblichen Störungen müssen die Meeresbewohner ihre Lebensräume verlassen, erleiden gravierenden Hörschäden und stranden -  oder ertrinken unbemerkt in den Tiefen der Meere. In dem animierten Kurzfilm &amp;ldquo;Unterwasserlärm – Ein unüberhörbares Problem.&amp;rdquo; von Michael Stünzi und &lt;a href=&#34;https://www.oceancare.org/de/startseite/&#34;&gt;Ocean Care&lt;/a&gt; wird die eher unbekannte Problematik des Unterwasserlärms einem breiten Publikum anschaulich erklärt. Dieser Kurzfilm ist Teil der internationalen Kampagne &amp;ldquo;&lt;a href=&#34;https://www.oceancare.org/de/unsere-arbeit/meeresschutz/unterwasserlarm/silent-oceans/&#34;&gt;Silent Oceans&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Der Film &#34;Albatross&#34;: Das stille, quälend langsame Sterben durch Plastik</title>
-      <link>http://example.org/der-film-albatross-gaensehaut-und-plastikverschmutzung/</link>
+      <link>http://localhost:1313/der-film-albatross-gaensehaut-und-plastikverschmutzung/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/der-film-albatross-gaensehaut-und-plastikverschmutzung/</guid>
+      <guid>http://localhost:1313/der-film-albatross-gaensehaut-und-plastikverschmutzung/</guid>
       <description>&lt;p&gt;Einundfünfzig, zweiundfünfzig, dreiundfünfzig&amp;hellip; Stück für Stück entnimmt &lt;a href=&#34;https://www.deepwave.org/chris-jordan-polluting-plastics/&#34;&gt;Chris Jordan&lt;/a&gt; mit einer Pinzette einem toten Albatross Plastikteilchen aus dem Magen. Bei dieser Szene wurden mir die oft verdrängten Ausmaßen der &lt;a href=&#34;https://www.deepwave.org/die-ozeane/verschmutzung/&#34;&gt;Plastikverschmutzung&lt;/a&gt; in unseren Meeren erneut brutal vor Augen geführt. Seit 2009 kehrt der Filmemacher zu dem selben, von vielen Albatrossen bewohnten, Atoll im Nordpazifik zurück.&lt;/p&gt;&#xA;&lt;p&gt;Mit seinem Film &lt;a href=&#34;https://www.parley.tv/updates/2018/4/19/albatross-help-us-tell-the-story&#34;&gt;&amp;ldquo;Albatross&amp;rdquo;&lt;/a&gt; dokumentiert Jordan das gehäufte Sterben der Vögel und deren Jungtiere, die aufgrund von Plastik gefüllter Mägen verhungern. Der Film von Jordan ist keine gewöhnliche Dokumentation, weder Fakten über Plastikverschmutzung noch Aufforderungen, Plastik zu meiden, kommen vor, sondern durch seine Art der Darstellung ist er viel mehr ein Kunstwerk für sich. Die Kombination aus den Aufnahmen der Albatrosse und Jordans ruhiger begleitender Stimme spricht für sich.  Viele Szenen sind sehr schmerzhaft und dauern quälend lange, sodass mir das ein oder andere mal eine Träne über die Wange rollt. Den ganzen Film, begleitet von Gänsehaut auf meinen Armen und an meinem Rücken, war ich wie in Trance, völlig ruhig aber voller Traurigkeit und Angst. Hypnotisiert und sehr nachdenklich verließ ich das Kino, aber motiviert, meine Stimme und Reichweite nutzen zu wollen. Denn auch wenn Chris Jordan uns als verantwortliches Individuum nie direkt auffordert, ist der Appell trotzdem da, etwas ändern zu wollen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DEEPWAVE Filmfestival zum Schutz der Meere</title>
-      <link>http://example.org/deepwave-filmfestival-zum-schutz-der-meere/</link>
+      <link>http://localhost:1313/deepwave-filmfestival-zum-schutz-der-meere/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/deepwave-filmfestival-zum-schutz-der-meere/</guid>
+      <guid>http://localhost:1313/deepwave-filmfestival-zum-schutz-der-meere/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.deepwave.org/deepwave-filmfestival-zum-schutz-der-meere/_kirsten_und_joachim_jakobsen/&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2019/04/%C2%A9_Kirsten_und_Joachim_Jakobsen.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;© Kirsten Jakobsen/Joachim Jakobsen&lt;/p&gt;&#xA;&lt;p&gt;Wir freuen uns euch zum ersten DEEPWAVE Filmfestival am 24. Mai 2019 in Hamburg mit faszinierenden Filmen und interessanten Gästen begrüßen zu dürfen.&lt;/p&gt;&#xA;&lt;p&gt;Seit 2013 haben wir von DEEPWAVE e.V. zusammen mit Studierenden das internationale &lt;strong&gt;&lt;em&gt;Beneath the Waves&lt;/em&gt;&lt;/strong&gt; -Kurzfilmfestival nach Hamburg gebracht und mit Gästen aus Politik, Wissenschaft und Wirtschaft Diskussionsrunden geführt. Nach zwei Jahren Pause werden wir nun 2019 zum ersten Mal in eigener Regie das DEEPWAVE Filmfestival ausrichten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>His Epic Message Will Make You Want to Save the World | Short Film Showcase</title>
-      <link>http://example.org/his-epic-message-will-make-you-want-to-save-the-world-short-film-showcase/</link>
+      <link>http://localhost:1313/his-epic-message-will-make-you-want-to-save-the-world-short-film-showcase/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/his-epic-message-will-make-you-want-to-save-the-world-short-film-showcase/</guid>
+      <guid>http://localhost:1313/his-epic-message-will-make-you-want-to-save-the-world-short-film-showcase/</guid>
       <description>&lt;p&gt;Während die menschliche Population weiter wächst, wachsen auch die durch uns entstandenen Schäden an der Umwelt. Der Poet und Sprachkünstler Prince Ea überbringt in seinem einzigartigen Kurzfilm für National Graphics eine klare Botschaft, die jede Person zum Handeln für eine nachhaltige Zukunft der Erde anregt.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B-nEYsyRlYo&amp;amp;feature=youtu.be&#34;&gt;https://www.youtube.com/watch?v=B-nEYsyRlYo&amp;amp;feature=youtu.be&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Quelle: &lt;a href=&#34;https://www.youtube.com/watch?v=B-nEYsyRlYo&amp;amp;feature=youtu.be&#34;&gt;https://www.youtube.com/watch?v=B-nEYsyRlYo&amp;amp;feature=youtu.be&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>International OCEAN FILM TOUR Volume 6</title>
-      <link>http://example.org/international-ocean-film-tour-volume-6/</link>
+      <link>http://localhost:1313/international-ocean-film-tour-volume-6/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/international-ocean-film-tour-volume-6/</guid>
+      <guid>http://localhost:1313/international-ocean-film-tour-volume-6/</guid>
       <description>&lt;p&gt;&amp;ldquo;Adventure. Action. Ocean Life. Die Int. OCEAN FILM TOUR Volume 6 bringt euch zurück ans Meer&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Die &amp;ldquo;international OCEAN FILM TOUR&amp;rdquo; geht in die 6. Runde und kommt zwischen dem 17.3 und 17.5.2019 auch nach Deutschland. In vielen verschiedenen Städten werden über die nächsten zwei Monate atemberaubende, neue Meeresabenteuer- und Wassersportfilme auf der großen Leinwand gezeigt.&lt;/p&gt;&#xA;&lt;p&gt;Ein spannendes Event für alle, die das Meer lieben!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=itNAVRJdSS8&#34;&gt;https://www.youtube.com/watch?v=itNAVRJdSS8&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Quelle: &lt;a href=&#34;https://de.oceanfilmtour.com/de/trailer&#34;&gt;https://de.oceanfilmtour.com/de/trailer&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Weitere Informationen über die &amp;ldquo;international OCEAN FILM TOUR&amp;rdquo;, Programm und Tickets findet ihr &lt;a href=&#34;https://de.oceanfilmtour.com/de/&#34;&gt;hier.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tigran Hamasyan - Markos and Markos</title>
-      <link>http://example.org/tigran-hamasyan-markos-and-markos/</link>
+      <link>http://localhost:1313/tigran-hamasyan-markos-and-markos/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tigran-hamasyan-markos-and-markos/</guid>
+      <guid>http://localhost:1313/tigran-hamasyan-markos-and-markos/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jFeoInAR8Dw&amp;amp;feature=youtu.be&#34;&gt;https://www.youtube.com/watch?v=jFeoInAR8Dw&amp;amp;feature=youtu.be&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Tigran Hamasyan&amp;rsquo;s &lt;em&gt;Markos and Markos&lt;/em&gt; from his 2017 album &lt;em&gt;An Ancient Observer.&lt;/em&gt; Video by Naira Muradyan.&lt;/p&gt;&#xA;&lt;p&gt;Inspired by Zahrad’s poem Marc and Marc&lt;/p&gt;&#xA;&lt;p&gt;Marc and Marc Went to the seaside And, by the lighthouse Marc, together with Marc (since both were Marcs) Were washing their feet Look, Marc Said Marc to Marc A shooting star just fell Marc looked down Into the sea You lied, said Marc to Marc When they got Their feet dry A little star was stuck On Marc’s foot&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wie wir die Ozeane entlasten können</title>
-      <link>http://example.org/umweltbelastung-wie-wir-die-ozeane-entlasten-koennen/</link>
+      <link>http://localhost:1313/umweltbelastung-wie-wir-die-ozeane-entlasten-koennen/</link>
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/umweltbelastung-wie-wir-die-ozeane-entlasten-koennen/</guid>
+      <guid>http://localhost:1313/umweltbelastung-wie-wir-die-ozeane-entlasten-koennen/</guid>
       <description>&lt;p&gt;W&lt;/p&gt;&#xA;&lt;figure&gt;&lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2018/12/tractor-4543124_1920-1.jpg&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2018/12/tractor-4543124_1920-1.jpg&#34;&#xA;    alt=&#34;Umweltbelastung: Traktor verspritzt Gülle auf einem Feld&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;© schauhi / Pixabay&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Unsere Meere werden nicht nur durch jährlich 9 Millionen Tonnen &lt;a href=&#34;https://www.deepwave.org/die-plastifizierung-des-ozeans/&#34;&gt;Plastikmüll&lt;/a&gt; verschmutzt, sondern auch durch den erhöhten Düngemitteleintrag in der Landwirtschaft. Die Überdüngung der Felder verursacht die &lt;a href=&#34;https://www.deepwave.org/kehren-die-grossen-raeuber-in-die-nordsee-zurueck/&#34;&gt;Eutrophierung&lt;/a&gt; von Gewässern, wodurch immer mehr sogenannte Todeszonen in Küstengebieten entstehen.&lt;/p&gt;&#xA;&lt;p&gt;Wie genau Lösungen für diese Probleme aussehen können, erfahrt ihr in dem Film &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=HQTUWK7CM-Y&#34;&gt;How We Can Keep Plastics Out of Our Oceans&lt;/a&gt;&amp;rdquo; vom &lt;a href=&#34;https://www.nationalgeographic.de/&#34;&gt;National Geographic&lt;/a&gt; auf &lt;a href=&#34;https://www.youtube.com/&#34;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CineMare: 3. Internationales Meeresfilmfestival</title>
-      <link>http://example.org/cinemare-internationales-meeresfilmfestival-kiel-24-28-okt-2018/</link>
+      <link>http://localhost:1313/cinemare-internationales-meeresfilmfestival-kiel-24-28-okt-2018/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/cinemare-internationales-meeresfilmfestival-kiel-24-28-okt-2018/</guid>
+      <guid>http://localhost:1313/cinemare-internationales-meeresfilmfestival-kiel-24-28-okt-2018/</guid>
       <description>&lt;p&gt;Nachdem DEEPWAVE e.V. im Jahr 2016 beim 1. CineMare Meeresfilmfestival als Partner mit an Bord war, freuen wir uns sehr, dass das Festival in diesem Oktober nun schon in die dritte Runde geht und über 60 Filme aus 20 Ländern zeigt. Das Festival bietet neben den Filmvorführungen viele weitere Formate an - darunter Schulvorstellungen, ein Seniorenkino, Praktika für Studierende, die Fotoausstellung BLUE VISIONS und Videokunst, die vor jeder Vorstellung gezeigt wird. Nach jeder Filmvorführung gibt es zudem die Möglichkeit, mit Wissenschaftler:innen und Naturschützer:innen ins Gespräch zu kommen. All dies zeigt den Anspruch des Festivals, interdisziplinär verschiedene Bereiche zu verbinden und die Gesellschaft für die Meere zu begeistern, damit sie sich für deren Schutz einsetzen kann. Außerdem werden wieder einige Preise in verschiedenen Kategorien verliehen, wobei der Meeresschutzpreis dieses Jahr erstmals dotiert ist.&lt;/p&gt;</description>
     </item>
   </channel>

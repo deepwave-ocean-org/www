@@ -2,451 +2,451 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tiefsee on My New Hugo Site</title>
-    <link>http://example.org/blogs/tiefsee/</link>
+    <link>http://localhost:1313/blogs/tiefsee/</link>
     <description>Recent content in Tiefsee on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/blogs/tiefsee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogs/tiefsee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weder öde noch leer: Tiefseeboden wimmelt von Leben</title>
-      <link>http://example.org/weder-oede-noch-leer-tiefseeboden-wimmelt-von-leben/</link>
+      <link>http://localhost:1313/weder-oede-noch-leer-tiefseeboden-wimmelt-von-leben/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/weder-oede-noch-leer-tiefseeboden-wimmelt-von-leben/</guid>
+      <guid>http://localhost:1313/weder-oede-noch-leer-tiefseeboden-wimmelt-von-leben/</guid>
       <description>&lt;figure&gt;&lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2024/12/Tiefsee-Lebewesen_Senckenberg_Arktis.jpg&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2024/12/Tiefsee-Lebewesen_Senckenberg_Arktis.jpg&#34;&#xA;    alt=&#34;Nahaufnahme eines Bewohnsers der Tiefsee der Arktis&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;© Lydia A. Schmidt &amp;amp; Carolin Uhlir/Senckenberg&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Neue Übersichtsstudie zeigt Vielfalt von Lebensräumen und Organismen in der arktischen Tiefsee&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Die Tiefsee der Arktis birgt bedeutende Öl- und Erdgasreserven sowie wertvolle Ressourcen wie seltene Erden und Metalle. Der Klimawandel und das schmelzende Eis erleichtern den Zugang, was wirtschaftliche Chancen, aber auch große ökologische Gefahren mit sich bringt. Ein Forschungsteam zeigt in einer im Fachjournal „Elementa“ erschienenen Übersichtsstudie, dass der Arktische Ozean eine große Vielfalt an Lebensräumen und Organismen aufweist, die teilweise wenig erforscht sind. Hierfür wertete das Team 75.000 Datensätze zu 2.637 Tiefseearten aus. Die Forschenden betonen die Notwendigkeit intensiverer Forschung und internationaler Zusammenarbeit, um angesichts wachsender wirtschaftlicher Interessen den Schutz des empfindlichen Ökosystems sicherzustellen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tief durchatmen: Der geheime Stoffwechsel ethanfressender Archaeen</title>
-      <link>http://example.org/tief-durchatmen-der-geheime-stoffwechsel-ethanfressender-archaeen-anaerobe-oxidation/</link>
+      <link>http://localhost:1313/tief-durchatmen-der-geheime-stoffwechsel-ethanfressender-archaeen-anaerobe-oxidation/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tief-durchatmen-der-geheime-stoffwechsel-ethanfressender-archaeen-anaerobe-oxidation/</guid>
+      <guid>http://localhost:1313/tief-durchatmen-der-geheime-stoffwechsel-ethanfressender-archaeen-anaerobe-oxidation/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Quellen am Meeresboden setzen von Natur aus Alkane frei – Schadstoffe, die potenziell gefährlich für Lebewesen sind und zur globalen Erwärmung beitragen. Zum Glück leben in den Sedimenten rund um die Quellen Mikroben, die als biologische Filter fungieren: Sie verbrauchen den Großteil der Alkane, bevor sie in die Ozeane und unsere Atmosphäre gelangen. Diese so genannte anaerobe Oxidation von Alkanen ist ein wichtiger Prozess, den wir bisher aber kaum verstehen. Forschende des Max-Planck-Instituts für Marine Mikrobiologie und des MARUM – Zentrum für Marine Umweltwissenschaften der Universität Bremen veröffentlichen nun eine Studie über den Abbau von Ethan, dem zweithäufigsten Alkan in Meeresquellen. Sie beschreiben die Enzyme, die an dem Prozess beteiligt sind und zeigen, dass deren Reaktion mit einem gängigen Dogma auf dem Gebiet der anaeroben Biochemie bricht. Ihre Ergebnisse sind in Nature Communications erschienen.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wie ist das Wetter in der Tiefsee?</title>
-      <link>http://example.org/stroemungen-wie-ist-das-wetter-in-der-tiefsee/</link>
+      <link>http://localhost:1313/stroemungen-wie-ist-das-wetter-in-der-tiefsee/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/stroemungen-wie-ist-das-wetter-in-der-tiefsee/</guid>
+      <guid>http://localhost:1313/stroemungen-wie-ist-das-wetter-in-der-tiefsee/</guid>
       <description>&lt;p&gt;&lt;em&gt;Neue Nature Geoscience-Studie zeigt wechselhaftes Verhalten der Strömungen in der Tiefsee&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Eine neue Studie zeigt, wie selbst die tiefsten Meeresböden durch das tägliche Hin und Her der Gezeiten und den Wechsel der Jahreszeiten beeinflusst werden und dass die Strömungen am Meeresboden viel komplizierter sind als bisher angenommen. Diese Erkenntnisse tragen dazu bei, die Wege der Nährstoffe in der Tiefsee zu verstehen, die wichtige Tiefseeökosysteme versorgen, zu beurteilen, wo sich Mikroplastik und andere Schadstoffe im Ozean anreichern, und den vergangenen Klimawandel zu rekonstruieren. Die Studie des internationalen Forschungsteams, an dem auch Prof. Dr. Elda Miramontes vom MARUM – Zentrum für Marine Umweltwissenschaften und Fachbereich Geowissenschaften der Universität Bremen beteiligt ist, wurde jetzt in der Fachzeitschrift Nature Geoscience veröffentlicht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WWF: Neuausrichtung der Internationalen Meeresbodenbehörde dringend notwendig</title>
-      <link>http://example.org/wwf-neuausrichtung-der-internationalen-meeresbodenbehoerde-dringend-notwendig/</link>
+      <link>http://localhost:1313/wwf-neuausrichtung-der-internationalen-meeresbodenbehoerde-dringend-notwendig/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/wwf-neuausrichtung-der-internationalen-meeresbodenbehoerde-dringend-notwendig/</guid>
+      <guid>http://localhost:1313/wwf-neuausrichtung-der-internationalen-meeresbodenbehoerde-dringend-notwendig/</guid>
       <description>&lt;p&gt;Auf der Jahrestagung der Internationalen Meeresbodenbehörde (ISA, International Seabed Authority) in Jamaika wurde heute die Brasilianerin Leticia Carvahlo zur neuen Generalsekretärin gewählt. Kristín von Kistowski, Leiterin Meeresschutz beim WWF Deutschland, kommentiert:&lt;/p&gt;&#xA;&lt;p&gt;„Der WWF begrüßt die Wahl von Leticia Carvahlo als neue Generalsekretärin der Internationalen Meeresbodenbehörde. Sie kann die Arbeit der Institution wieder auf einen wesentlichen Zweck der Behörde ausrichten - den Schutz des Meeresbodens. Wichtig dafür sind Transparenz und der Vorsorgeansatz bei allen Entscheidungen. Nur so lässt sich eine gesunde Tiefsee für zukünftige Generationen erhalten. In der noch laufenden Generalversammlung der ISA setzte sich vor allem Deutschland stark dafür ein, die Arbeitsprozesse in Zukunft transparenter zu gestalten und angemessen zu überprüfen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quallen könnten künftig den Arktischen Ozean dominieren</title>
-      <link>http://example.org/quallen-koennten-kuenftig-den-arktischen-ozean-dominieren/</link>
+      <link>http://localhost:1313/quallen-koennten-kuenftig-den-arktischen-ozean-dominieren/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/quallen-koennten-kuenftig-den-arktischen-ozean-dominieren/</guid>
+      <guid>http://localhost:1313/quallen-koennten-kuenftig-den-arktischen-ozean-dominieren/</guid>
       <description>&lt;h4 id=&#34;awi-studie-zeigt-quallen-im-arktischen-ozean-profitieren-vom-klimawandel-und-breiten-sich-weiter-nach-norden-aus&#34;&gt;AWI-Studie zeigt: Quallen im Arktischen Ozean profitieren vom Klimawandel und breiten sich weiter nach Norden aus&lt;/h4&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Der Klimawandel setzt viele Meeresorganismen immer stärker unter Druck. Quallen jedoch könnten in allen Weltmeeren von steigenden Wassertemperaturen profitieren – auch und besonders im Arktischen Ozean, wie Forschende des Alfred-Wegner-Instituts nun zeigen konnten. Im Computermodell setzten sie acht weit verbreitete arktische Quallenarten steigenden Temperaturen aus. Das Ergebnis: Bis auf eine Ausnahme konnten alle untersuchten Spezies ihren Lebensraum bis in die zweite Hälfte des laufenden Jahrhunderts massiv polwärts ausdehnen. Die „Feuerqualle“ kann ihr Habitat sogar fast verdreifachen – mit potentiell dramatischen Folgen für das marine Nahrungsnetz und die arktischen Fischbestände. Die Studie wurde nun im Fachmagazin &lt;em&gt;Limnology and Oceanography&lt;/em&gt; veröffentlicht.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wissenschaftler:innen entdecken ein neues Ökosystem unter hydrothermalen Schloten</title>
-      <link>http://example.org/wissenschafterinnen-entdecken-ein-neues-oekosystem-unter-hydrothermalen-schloten/</link>
+      <link>http://localhost:1313/wissenschafterinnen-entdecken-ein-neues-oekosystem-unter-hydrothermalen-schloten/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/wissenschafterinnen-entdecken-ein-neues-oekosystem-unter-hydrothermalen-schloten/</guid>
+      <guid>http://localhost:1313/wissenschafterinnen-entdecken-ein-neues-oekosystem-unter-hydrothermalen-schloten/</guid>
       <description>&lt;p&gt;Die Tiefsee ist eine weithin &lt;a href=&#34;https://www.spektrum.de/news/unbekannte-welt-der-tiefsee/1407122&#34;&gt;unbekannte Welt&lt;/a&gt; für uns. Unbekannter als der Mond. Nur 5% der Tiefsee gelten als erforscht. Viele systemische Zusammenhänge sind noch nicht verstanden und etliche Arten noch nicht entdeckt. Auf ein weiteres Puzzleteil ist nun ein internationales Forschungsteam um die Meeresbiologin Monika Bright von der Universität Wien gestoßen. Sie haben ein gänzlich neues unterirdisches Ökosystem gefunden– in Hohlräumen unter &lt;a href=&#34;https://www.deepwave.org/neues-hydrothermalfeld-durch-marum-expedition-entdeckt/&#34;&gt;Hydrothermalquellen&lt;/a&gt;. Damit bilden Hydrothermalquellen nicht nur ein Ökosystem an ihrer jeweiligen Oberfläche, auch in der Erdkruste unter den Schloten wurden Schnecken, Würmer und &lt;a href=&#34;https://www.deepwave.org/leben-im-rauch-der-unterwasservulkane/&#34;&gt;chemosynthetische Bakterien&lt;/a&gt; entdeckt, die ein eigenes Ökosystem bilden. Dabei scheinen die oberirdischen und unterirdischen Lebensräume an den Quellen aufeinander abgestimmt zu sein, wobei weitere Forschungsergebnisse noch etwas mehr Zeit benötigen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interaktive Ausstellung: Le­ben am Ozeanboden</title>
-      <link>http://example.org/interaktive-ausstellung-leben-am-ozeanboden/</link>
+      <link>http://localhost:1313/interaktive-ausstellung-leben-am-ozeanboden/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/interaktive-ausstellung-leben-am-ozeanboden/</guid>
+      <guid>http://localhost:1313/interaktive-ausstellung-leben-am-ozeanboden/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Neue in­ter­ak­ti­ve Aus­stel­lung „3.688 Me­ter un­ter dem Mee­res­spie­gel“ im Haus der Wis­sen­schaft&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die viel­fäl­ti­gen Aus­wir­kun­gen der Kli­ma­kri­se stel­len glo­ba­le Her­aus­for­de­run­gen dar, die auch die Mee­res­for­schung vor neue Auf­ga­ben von gro­ßer ge­sell­schaft­li­cher Be­deu­tung stellt. Da­bei spielt der Ozeanboden eine sehr wich­ti­ge Rol­le. Er um­fasst 71 Pro­zent der fes­ten Ober­flä­che der Erde und be­fin­det sich im Schnitt 3.688 Me­ter un­ter dem Mee­res­spie­gel. Eine neue Aus­stel­lung, kon­zi­piert vom Ex­zel­lenz­clus­ter „Ozeanboden“ am MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten der Uni­ver­si­tät Bre­men, wid­met sich ganz dem Mee­res­bo­den. Sie ist ab dem 20. Juli im Bre­mer Haus der Wis­sen­schaft zu se­hen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stop Deep Sea Mining! Stoppt den Tiefseebergbau, bevor es zu spät ist</title>
-      <link>http://example.org/stop-deep-sea-mining-stoppt-den-tiefseebergbau-bevor-es-zu-spaet-ist/</link>
+      <link>http://localhost:1313/stop-deep-sea-mining-stoppt-den-tiefseebergbau-bevor-es-zu-spaet-ist/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/stop-deep-sea-mining-stoppt-den-tiefseebergbau-bevor-es-zu-spaet-ist/</guid>
+      <guid>http://localhost:1313/stop-deep-sea-mining-stoppt-den-tiefseebergbau-bevor-es-zu-spaet-ist/</guid>
       <description>&lt;p&gt;Wir brauchen in diesen entscheidenden Wochen so viele Staaten wie möglich, die sich bei der ISA (International Seabed Authority) für eine Vorsorgliche Pause (Precautionary Pause) einsetzen, &lt;a href=&#34;https://www.deepwave.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/&#34;&gt;wie Deutschland es tut&lt;/a&gt;, oder für ein Moratorium oder einen Ban. In diesem gemeinsamen Statement beziehen Sebastian Unger, Meeresbeauftragter der Bundesregierung, und Olivier Poivre d&amp;rsquo;Arvor, Frankreichs Botschafter für Pole und maritime Angelegenheiten, deutlich Position:&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-huCUYuurvg&#34;&gt;https://www.youtube.com/watch?v=-huCUYuurvg&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Das Statement findet ihr bei der &lt;a href=&#34;https://www.youtube.com/@EnvironmentalJusticeFoundation&#34;&gt;Environmental Justice Foundation&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tiefseegraben: Müllhalde am Meeresgrund</title>
-      <link>http://example.org/tiefseegraben-muellhalde-am-meeresgrund/</link>
+      <link>http://localhost:1313/tiefseegraben-muellhalde-am-meeresgrund/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tiefseegraben-muellhalde-am-meeresgrund/</guid>
+      <guid>http://localhost:1313/tiefseegraben-muellhalde-am-meeresgrund/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Plastikmüll in einer Tiefe von 9600 Metern gefunden&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ein Team von Forscher*innen des Senckenberg Forschungsinstituts und Naturmuseums Frankfurt, der Universität Basel und des Alfred-Wegener-Instituts, Helmholtz-Zentrums für Polar- und Meeresforschung, haben die aktuell umfangreichste Untersuchung von (Makro-)Plastikmüll in einer Tiefe von bis zu 9600 Metern vollendet. In ihrer im Fachjournal „Environmental Pollution“ erschienenen Studie analysierten die Forschenden die Anzahl, das Material und die Art der Plastikabfälle im pazifischen Kurilen-Kamtschatka-Tiefseegraben. Sie zeigen, dass die meisten Plastiküberreste aus dem regionalen Seeverkehr und der Fischerei stammen. Das Team warnt, dass Tiefseegräben zu „Müllhalden der Meere“ werden könnten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eine Assel namens Brandt</title>
-      <link>http://example.org/eine-assel-namens-brandt/</link>
+      <link>http://localhost:1313/eine-assel-namens-brandt/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/eine-assel-namens-brandt/</guid>
+      <guid>http://localhost:1313/eine-assel-namens-brandt/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Senckenberg-Meeresforscherin wird Namenspatin für Tiefsee-Art&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Senckenberg-Forschende haben mit Kolleg*innen aus den USA und Deutschland eine neue Tiefsee-Assel im Fachjournal „Zootaxa“ beschrieben. Das Tier wurde 2015 im Rahmen der Jungfernfahrt des Forschungsschiffes SONNE gesammelt und stammt aus dem Puerto-Rico-Tiefseegraben im nordwestlichen Atlantik. Anders als erwartet besiedelt die neu entdeckte Asselart einen enormen Tiefenbereich zwischen 4.552 und 8.338 Metern – die größte je nachgewiesene Tiefenverbreitung einer Assel. Benannt wurde die neue Art – &lt;em&gt;Austroniscus brandtae&lt;/em&gt; – nach der Senckenberg-Meeresforscherin Prof. Dr. Angelika Brandt in Anerkennung ihrer außergewöhnlichen Forschungsleistungen und ihres Engagements zum Schutz der Tiefsee.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gefährdete Artenvielfalt in zukünftigem Bergbau-Hotspot</title>
-      <link>http://example.org/gefaehrdete-artenvielfalt-in-zukuenftigem-bergbau-hotspot/</link>
+      <link>http://localhost:1313/gefaehrdete-artenvielfalt-in-zukuenftigem-bergbau-hotspot/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/gefaehrdete-artenvielfalt-in-zukuenftigem-bergbau-hotspot/</guid>
+      <guid>http://localhost:1313/gefaehrdete-artenvielfalt-in-zukuenftigem-bergbau-hotspot/</guid>
       <description>&lt;p&gt;Die Clarion-Clipperton-Zone (CCZ) erstreckt sich über sechs Millionen Quadratkilometer im Pazifischen Ozean und gilt als eine der letzten unberührten Regionen der Weltmeere. Eine neue Studie zeigt, dass über 5.000 Arten in den Tiefen der CCZ vorkommen, von denen bisher über 90 Prozent nicht wissenschaftlich beschrieben und bisher nur in dieser Region entdeckt wurden. Doch genau diese Artenvielfalt in der CCZ ist gefährdet, denn der Meeresgrund ist reich an &lt;a href=&#34;https://www.deepwave.org/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/&#34;&gt;Manganknollen&lt;/a&gt; und bereits 2021 fanden erste Abbau-Pilotversuche statt. Wenn bis zum Sommer keine Regelungen der Internationalen Meeresbodenbehörde (ISA) beschlossen werden, könnte der kommerzielle &lt;a href=&#34;https://www.deepwave.org/tiefseebergbau-fuer-einsteigerinnen/&#34;&gt;Tiefseebergbau&lt;/a&gt; bereits dieses Jahr ohne Regelungen starten. Um die künftigen Auswirkungen des Abbaus besser einschätzen zu können, hat das Forschungsteam des Natural History Museums in London eine CCZ-Checkliste erstellt, welche die Artenvielfalt am Tiefseeboden detailliert aufschlüsselt. Sobald neue Daten zur Verfügung stehen, können damit Umweltauswirkungen wie das Artenaussterberisiko erfasst werden und das &lt;a href=&#34;https://www.deepwave.org/tiefseebergbau-folgen-noch-nicht-abzusehen/&#34;&gt;Ausmaß der menschlichen Einflüsse&lt;/a&gt; verdeutlichen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AWI-Forschende weisen hohe natürliche Radioaktivität in Manganknollen nach</title>
-      <link>http://example.org/awi-forschende-weisen-hohe-natuerliche-radioaktivitaet-in-manganknollen-nach/</link>
+      <link>http://localhost:1313/awi-forschende-weisen-hohe-natuerliche-radioaktivitaet-in-manganknollen-nach/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/awi-forschende-weisen-hohe-natuerliche-radioaktivitaet-in-manganknollen-nach/</guid>
+      <guid>http://localhost:1313/awi-forschende-weisen-hohe-natuerliche-radioaktivitaet-in-manganknollen-nach/</guid>
       <description>&lt;figure&gt;&lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2023/06/2019-04-05_22-59-41_Sonne_SO268-2_099ROV14_OnlyLogo_klein_original1-scaled.jpg&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2023/06/2019-04-05_22-59-41_Sonne_SO268-2_099ROV14_OnlyLogo_klein_original1-scaled.jpg&#34;&#xA;    alt=&#34;Eine Manganknolle wird von einem Roboter aufgehoben&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;© ROV-Team/GEOMAR / Wikimedia Commons (CC BY 4.0)&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Neue Studie zeigt: Der Umgang mit Manganknollen birgt Gesundheitsrisiken&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;[17. Mai 2023]&lt;/strong&gt; &lt;strong&gt;Manganknollen am Grund der Tiefsee enthalten wertvolle Metalle, die etwa für die Elektro- und Stahlindustrie von zentraler Bedeutung sind. Um die steigende Nachfrage nach Rohstoffen wie Kobalt und Seltenen Erden zu decken, setzen Industrie und einige Staaten deshalb große Hoffnungen in den Tiefseebergbau. Dass der nicht nur ökologische Folgen hat, sondern auch zu einer Gesundheitsgefährdung bei der industriellen Gewinnung und Verarbeitung der Knollen führen kann, zeigen Forschende des Alfred-Wegener-Instituts in einer nun im Fachmagazin Scientific Reports erschienenen Studie. Demnach überschreitet etwa die Aktivität von Radium-226 in den Knollen einen in der deutschen Strahlenschutzverordnung festgelegten Grenzwert teilweise um das Hundert- bis Tausendfache.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Le­ben im Rauch der Unterwasservulkane</title>
-      <link>http://example.org/leben-im-rauch-der-unterwasservulkane/</link>
+      <link>http://localhost:1313/leben-im-rauch-der-unterwasservulkane/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/leben-im-rauch-der-unterwasservulkane/</guid>
+      <guid>http://localhost:1313/leben-im-rauch-der-unterwasservulkane/</guid>
       <description>&lt;p&gt;Die ark­ti­sche Tief­see liegt fern­ab der le­bens­spen­den­den En­er­gie der Son­ne, und nur win­zi­ge Men­gen an or­ga­ni­schem Ma­te­ri­al, wel­ches Le­ben speist, kom­men dort an. Ei­ni­ge Bak­te­ri­en nut­zen statt­des­sen die En­er­gie, die von un­ter­see­ischen Vul­ka­nen frei­ge­setzt wird. Auf Ex­pe­di­tio­nen mit dem For­schungs­schiff Po­lar­stern ha­ben For­schen­de aus Deutsch­land nun Bakterien ent­deckt, die auf ein­zig­ar­ti­ge Wei­se an die­se Geo­en­er­gie an­ge­passt sind. Sie be­schrei­ben die Rol­le die­ser Bak­te­ri­en für die bio­geo­che­mi­schen Kreis­läu­fe im Meer.&lt;/p&gt;&#xA;&lt;p&gt;Tief im Oze­an, an den Gren­zen tek­to­ni­scher Plat­ten, bil­den Un­ter­was­ser­vul­ka­ne so­ge­nann­te hydro­ther­ma­le Quel­len. An die­sen Quel­len tritt hei­ße, sau­er­stoff­freie Flüs­sig­keit aus, die gro­ße Men­gen an Me­tal­len wie Ei­sen, Man­gan oder Kup­fer ent­hält. Wenn sich das hei­ße Was­ser mit dem um­ge­ben­den kal­ten und sau­er­stoff­hal­ti­gen See­was­ser mischt, ent­ste­hen hydro­ther­ma­le Schwa­den mit rauch­ähn­li­chen Par­ti­keln aus Me­tall­sul­fid. Die­se Schwa­den stei­gen Hun­der­te von Me­tern über dem Mee­res­bo­den auf und ver­tei­len sich Tau­sen­de von Ki­lo­me­tern. Hydro­ther­ma­le Schwa­den schei­nen ein ris­kan­ter Ort zu sein, um dort hei­misch zu wer­den. Das hin­dert be­stimm­te Bakterien aber nicht dar­an, ge­nau dort zu wach­sen und zu ge­dei­hen, wie eine jetzt in &lt;em&gt;Nature Microbiology&lt;/em&gt; ver­öf­fent­lich­te Stu­die zeigt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>E-Mobilität benötigt keine Metalle aus der Tiefsee</title>
-      <link>http://example.org/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/</link>
+      <link>http://localhost:1313/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/</guid>
+      <guid>http://localhost:1313/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Neue Greenpeace Studie zum Beginn der UN-Konferenz zum Hochseeschutz&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hamburg, 20. 02. 2023 – Metalle aus der Tiefsee werden nicht für einen Wandel hin zu E-Mobilität und grünen Technologien benötigt. Das zeigt eine neue Studie, die Greenpeace heute zum Beginn der UN-Konferenz in New York zum internationalen Meeresschutzabkommen (BBNJ) veröffentlicht. Damit entkräftet die Studie das Hauptargument der Tiefseebergbau-Industrie, die auf eine Lizenz für den Beginn des Tiefseebergbaus noch in diesem Jahr drängt. Die Studie zeigt: Zentrale Batterie-Rohstoffe wie Lithium und Graphit können aus den Manganknollen in der Tiefsee nicht gewonnen werden. Relevante Mengen wären nur für Mangan, Kobalt und Nickel möglich – aber erst nach 2030.  Der Trend für Batterien entwickelt sich jedoch weg von Kobalt und Nickel. Für die Batterieherstellung ist im Bezug auf Mangan keine Knappheit zu erwarten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Umweltauswirkungen von Ressourcenabbau in der Tiefsee erforschen</title>
-      <link>http://example.org/umweltauswirkungen-von-ressourcenabbau-in-der-tiefsee-erforschen/</link>
+      <link>http://localhost:1313/umweltauswirkungen-von-ressourcenabbau-in-der-tiefsee-erforschen/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/umweltauswirkungen-von-ressourcenabbau-in-der-tiefsee-erforschen/</guid>
+      <guid>http://localhost:1313/umweltauswirkungen-von-ressourcenabbau-in-der-tiefsee-erforschen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Das Projekt MiningImpact untersucht auf der Expedition SO295 die Umweltschäden durch Manganknollenabbau am Meeresgrund&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wie stark zerstört der Manganknollenabbau den Lebensraum in der Tiefsee? Das untersucht in den nächsten zwei Monaten die MiningImpact-Expedition SO295 mit dem Forschungsschiff SONNE in den Explorationslizenzgebieten der Clarion-Clipperton Zone im Nordpazifik. Beim Einsammeln von Manganknollen wird die belebte Zone des Meeresbodens abgetragen; zusätzlich bedecken die beim Abbau aufgewirbelten Sedimente große Flächen in der Umgebung. Ziel der Fahrt ist es, das komplette Ausmaß der Umweltauswirkungen anderthalb Jahre nach einem industriellen Gerätetest zu erfassen.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schutz der Meere: Deutschland unterstützt bis auf Weiteres keinen Tiefseebergbau</title>
-      <link>http://example.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/</link>
+      <link>http://localhost:1313/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/</guid>
+      <guid>http://localhost:1313/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/</guid>
       <description>&lt;p&gt;In Jamaika laufen derzeit Verhandlungen im Rahmen des Rates der Internationalen Meeresbodenbehörde. Dort hat die Bundesregierung erstmals eine &amp;ldquo;precautionary pause&amp;rdquo;, eine vorsorgliche Pause beim Tiefseebergbau gefordert. Dabei erklärte die Bundesregierung, dass sie bis auf Weiteres keine Anträge auf kommerziellen Abbau von Rohstoffen in der Tiefsee unterstützt. Das vorhandene Wissen und der Stand der Forschung reichen nicht aus, um ernsthafte Umweltschäden durch Tiefseebergbau auszuschließen. Zudem wirbt Deutschland im Kreis der Mitgliedstaaten dafür, ebenfalls keine Anträge zu unterstützen. Eine formale Unterstützung von Abbauanträgen durch einen Mitgliedstaat des UN-Seerechtsübereinkommens ist zwingende Voraussetzung dafür, dass ein Unternehmen eine Genehmigung der Internationale Meeresbodenbehörde erhält.&lt;/p&gt;</description>
     </item>
     <item>
       <title>European Commission takes bold steps to protect vulnerable marine ecosystems</title>
-      <link>http://example.org/european-commission-takes-bold-steps-to-protect-vulnerable-marine-ecosystems/</link>
+      <link>http://localhost:1313/european-commission-takes-bold-steps-to-protect-vulnerable-marine-ecosystems/</link>
       <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/european-commission-takes-bold-steps-to-protect-vulnerable-marine-ecosystems/</guid>
+      <guid>http://localhost:1313/european-commission-takes-bold-steps-to-protect-vulnerable-marine-ecosystems/</guid>
       <description>&lt;p&gt;Today, the European Commission &lt;a href=&#34;https://ec.europa.eu/commission/presscorner/detail/en/mex_22_5542&#34;&gt;has announced&lt;/a&gt; that it will protect 87 vulnerable marine ecosystems from deep-sea bottom fishing near the Atlantic coasts of France, Ireland, Portugal and Spain.&lt;/p&gt;&#xA;&lt;p&gt;Deep-sea vulnerable marine ecosystems are scientifically recognised as &lt;a href=&#34;https://ocean-climate.org/en/awareness/the-deep-sea-a-key-player-to-be-protected-for-climate-and-ecosystems/#:~:text=The%20Deep%20Sea%20plays%20a,of%20surface%20waters%20and%20land.&#34;&gt;storing a large part of the CO2&lt;/a&gt; produced by human activities. Protecting deep-sea vulnerable ecosystems thus represents a crucial step towards preventing marine ecological breakdown and mitigating climate change.&lt;/p&gt;&#xA;&lt;p&gt;The protection of vulnerable marine ecosystems was a vital part of the 2016 Deep Sea Fisheries Regulation. In addition to prohibiting bottom-trawling below 800 metres, the Regulation required an end to bottom-fishing in cold water coral reefs, aggregations of deep-sea sponges, sea pens and other deepwater habitats by 2018. These diverse deep-sea ecosystems are highly vulnerable to degradation. The delay in implementing this obligation of the Regulation was partly the result of the lengthy and extensive consultation and evaluation undertaken by the European Commission with scientists, Member States, the fishing industry and non-governmental organisations (NGOs).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Replacing bottom trawling with less destructive fishing in the EU is feasible and would help protect marine ecosystems, says report</title>
-      <link>http://example.org/replacing-bottom-trawling-with-less-destructive-fishing-in-the-eu-is-feasible-and-would-help-protect-marine-ecosystems-says-report/</link>
+      <link>http://localhost:1313/replacing-bottom-trawling-with-less-destructive-fishing-in-the-eu-is-feasible-and-would-help-protect-marine-ecosystems-says-report/</link>
       <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/replacing-bottom-trawling-with-less-destructive-fishing-in-the-eu-is-feasible-and-would-help-protect-marine-ecosystems-says-report/</guid>
+      <guid>http://localhost:1313/replacing-bottom-trawling-with-less-destructive-fishing-in-the-eu-is-feasible-and-would-help-protect-marine-ecosystems-says-report/</guid>
       <description>&lt;p&gt;&lt;strong&gt;European Commission must seize momentous opportunity to phase out destructive fishing and set the course for ocean recovery&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://seas-at-risk.org/publications/report-exploring-alternatives-to-europes-bottom-trawl-fishing-gears/&#34;&gt;new report&lt;/a&gt; (1) published today by Seas At Risk and Oceana shows that bottom trawling – one of the most destructive fishing techniques  – can be largely replaced in the European Union (EU) by far less aggressive fishing gears. Switching to readily available alternatives to bottom trawling offers multiple benefits, such as dramatically improving fisheries resources, protecting the seabed and marine habitats and increasing resilience of the ocean to the climate breakdown.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neues Hydrothermalfeld durch MARUM-Expedition entdeckt</title>
-      <link>http://example.org/neues-hydrothermalfeld-durch-marum-expedition-entdeckt/</link>
+      <link>http://localhost:1313/neues-hydrothermalfeld-durch-marum-expedition-entdeckt/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/neues-hydrothermalfeld-durch-marum-expedition-entdeckt/</guid>
+      <guid>http://localhost:1313/neues-hydrothermalfeld-durch-marum-expedition-entdeckt/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Überraschung im Europäischen Nordmeer in 3.000 Meter Wassertiefe / Expeditionsteam tauft Neuentdeckung „Jøtul Hydrothermalfeld“&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Heiße Quellen treten weltweit an Spreizungsrücken der Erdplatten auf. Am 500 Kilometer langen Knipovich-Rücken, gelegen zwischen Grönland und Spitzbergen, waren Hydrothermalquellen bisher unbekannt. Während der 109. Expedition mit dem Forschungsschiff MARIA S. MERIAN haben Forschende aus Bremen und Norwegen nun erstmals am Knipovich-Rücken ein Feld mit zahlreichen Hydrothermalquellen entdeckt.&lt;/p&gt;&#xA;&lt;p&gt;„Nach Hinweisen in der Wassersäule auf hydrothermale Aktivität haben wir mit dem Tauchroboter MARUM-QUEST den Ozeanboden abgesucht. Die Freude war riesig, als wir einen aktiven Schwarzen Raucher entdeckten. Wie aus einem Ofenrohr schoss die über 300 Grad Celsius heiße, metallhaltige Flüssigkeit heraus und wandelte sich in eine schwarze Wolke um, deren Ausbreitung wir mit dem Tauchroboter nicht mehr überblicken konnten“, sagt Prof. Gerhard Bohrmann vom MARUM – Zentrum für Marine Umweltwissenschaften der Universität Bremen, Fahrtleiter der Expedition MSM 109.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tor zur Arktis: Expedition mit dem Forschungsschiff SONNE</title>
-      <link>http://example.org/tor-zur-arktis-expedition-mit-dem-forschungsschiff-sonne/</link>
+      <link>http://localhost:1313/tor-zur-arktis-expedition-mit-dem-forschungsschiff-sonne/</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tor-zur-arktis-expedition-mit-dem-forschungsschiff-sonne/</guid>
+      <guid>http://localhost:1313/tor-zur-arktis-expedition-mit-dem-forschungsschiff-sonne/</guid>
       <description>&lt;p&gt;Die „AleutBio“-Expedition im Nordpazifik untersucht noch bis Anfang September das Leben in der Tiefsee&lt;/p&gt;&#xA;&lt;p&gt;Unter der Fahrtleitung von Senckenbergerin Prof. Dr. Angelika Brandt befinden sich aktuell 38 internationale Forschende an Bord des Forschungsschiffs SONNE im Nordpazifik. Ziel der „AleutBio Expedition SO293“ ist es das Ökosystem der Tiefsee zu verstehen und Veränderungen der Fauna – vor dem Hintergrund des raschen Klimawandels – zu dokumentieren. Die Wissenschaftler*innen untersuchen hierfür im östlichen Beringmeer und im Aleutengraben das Leben am Meeresboden in allen Größenklassen. Ein täglicher Blog nimmt die Öffentlichkeit mit in den Alltag der Meeresforscher*innen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spektakuläre Bilder: Riesenkalmar erstmals bei der Jagd gefilmt</title>
-      <link>http://example.org/spektakulaere-bilder-riesenkalmar-erstmals-bei-der-jagd-gefilmt/</link>
+      <link>http://localhost:1313/spektakulaere-bilder-riesenkalmar-erstmals-bei-der-jagd-gefilmt/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/spektakulaere-bilder-riesenkalmar-erstmals-bei-der-jagd-gefilmt/</guid>
+      <guid>http://localhost:1313/spektakulaere-bilder-riesenkalmar-erstmals-bei-der-jagd-gefilmt/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BCC34584E4s&#34;&gt;https://www.youtube.com/watch?v=BCC34584E4s&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt; © YouTube / ScienceAlert&lt;/p&gt;&#xA;&lt;p&gt;Der Riesenkalmar (lateinischer Name: &lt;em&gt;Architeuthis dux&lt;/em&gt;), der bis zu zwölf Meter lang werden kann und damit zur Megafauna der Meere zählt, wurde bis jetzt nur äußerst selten gesichtet. Foto- und Videomaterial existierte bisher fast nur von tot oder sterbend an den Strand gespülten Tieren. Im Jahr 2019 zeigten Videoaufnahmen aus der &lt;a href=&#34;https://www.deepwave.org/blogs/tiefsee/&#34;&gt;Tiefsee&lt;/a&gt; erstmals eindeutig einen Riesenkalmar. Zwei Jahre später ist es Forschenden aus Spanien gelungen, die Beutejagt von einem Riesenkalmar auf einem Video festzuhalten. Mithilfe einer mit Kameras ausgestatteten Tiefseeplattform, leuchtenden, künstlichen &lt;a href=&#34;https://www.deepwave.org/quallen-erobern-die-ostsee/&#34;&gt;Quallen&lt;/a&gt; als Köder und einer Menge Geduld haben die Forscher:innen im Golf von Mexiko und nahe den Bahamas zwischen 550 und 950 Metern Tiefe diese einzigartigen Videos aufgezeichnet. Die Aufnahmen lassen vermuten, dass Riesenkalmare vor allem visuelle Räuber sind und nicht, wie bisher angenommen, ihre Beute aus dem Hinterhalt angreifen. Die Forscher:innen hoffen, dass ihre Tiefseeplattform künftig dabei hilft, weitere Verhaltensweisen der riesigen Tiere zu enthüllen, denn bisher ist nur sehr wenig über ihr Leben in der Tiefsee bekannt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Endstation Tiefsee: Mikroplastik belastet Meeresgrund noch stärker als angenommen</title>
-      <link>http://example.org/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/</link>
+      <link>http://localhost:1313/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/</guid>
+      <guid>http://localhost:1313/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Forschungsteam weist hohe Mikroplastik-Verschmutzung im westpazifischen Kurilen-Kamtschatka-Graben nach&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Senckenberg-Forscherinnen Serena Abel und Angelika Brandt haben mit Kolleg*innen des Alfred-Wegener-Instituts – Helmholtz-Zentrum für Polar- und Meeresforschung (AWI) und der Goethe-Universität Frankfurt die Mikroplastik-Verschmutzung des westpazifischen Kurilen-Kamtschatka-Grabens untersucht. Dabei fanden sie in jeder einzelnen von insgesamt 13 Sedimentproben aus bis zu 9450 Metern Tiefe zwischen 215 und 1596 Kleinstpartikel pro Kilogramm – mehr als zuvor nachgewiesen. Ihre nun im Journal „Science of The Total Environment“ erschienene Studie zeigt: Die Tiefsee ist der „Mülleimer der Meere“ – und bei der Ablagerung überraschend dynamisch. Die hohe Biodiversität am tiefsten Meeresgrund ist durch die Verschmutzung mit Mikroplastik stark gefährdet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>European Commission strengthens its position against deep sea mining</title>
-      <link>http://example.org/european-commission-strengthens-its-position-against-deep-sea-mining/</link>
+      <link>http://localhost:1313/european-commission-strengthens-its-position-against-deep-sea-mining/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/european-commission-strengthens-its-position-against-deep-sea-mining/</guid>
+      <guid>http://localhost:1313/european-commission-strengthens-its-position-against-deep-sea-mining/</guid>
       <description>&lt;p&gt;Today the European Commission published the EU agenda on International Ocean Governance, announcing its intention to “prohibit deep-sea mining until scientific gaps are properly filled, no harmful effects arise from mining and the marine environment is effectively protected”.&lt;/p&gt;&#xA;&lt;p&gt;Monica Verbeek, Executive Director at Seas At Risk, said: “It is very timely of the Commission to publish its objectives for international works for ocean governance just before the UN Ocean Conference, clarifying its key positions in advance of the upcoming important negotiations in this ocean super year: the high seas treaty negotiations in August, the International Seabed meeting in August and the Convention on Biological Diversity COP in November. It is encouraging to see the European Commission strengthen its position against deep-sea mining, in line with the calls for moratorium of the European Parliament, Pacific Parliamentarians and of hundreds of organisations around the world. We are now counting on many countries to voice their support for the moratorium at the UN Ocean Conference. Deep-sea mining is simply not reconcilable with the UN Sustainable Development Goal 14 – Life below water – or any other SDG for that matter. It would irreversibly damage earth’s largest and most precious ecosystem. The large-scale loss of biodiversity is not worth the profits”.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Üppige Schwammgärten auf Untersee-Bergen in der arktischen Tiefsee entdeckt</title>
-      <link>http://example.org/ueppige-schwammgaerten-auf-untersee-bergen-in-der-arktischen-tiefsee-entdeckt/</link>
+      <link>http://localhost:1313/ueppige-schwammgaerten-auf-untersee-bergen-in-der-arktischen-tiefsee-entdeckt/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/ueppige-schwammgaerten-auf-untersee-bergen-in-der-arktischen-tiefsee-entdeckt/</guid>
+      <guid>http://localhost:1313/ueppige-schwammgaerten-auf-untersee-bergen-in-der-arktischen-tiefsee-entdeckt/</guid>
       <description>&lt;p&gt;In den Tiefen der Meere ist das Leben für Organismen geprägt von vielen limitierenden Faktoren. Sowohl die Suche nach passenden Partnern, als auch die Gefahr möglicher Fressfeinde spielt eine große Rolle, aber vor allem passende Nahrungsquellen beeinflussen das Leben maßgeblich. Das Nordpolarmeer ist während des größten Teils des Jahres von Eis bedeckt, was dazu führt, dass Nahrungsquellen oft sehr spärlich zur Verfügung stehen. Eine wichtige Rolle als Nährstofflieferant spielen in diesen Regionen meist vulkanisch aktive Bereiche wie beispielsweise Unterwassergebirge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to shape a future without mining</title>
-      <link>http://example.org/how-to-shape-a-future-without-mining/</link>
+      <link>http://localhost:1313/how-to-shape-a-future-without-mining/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/how-to-shape-a-future-without-mining/</guid>
+      <guid>http://localhost:1313/how-to-shape-a-future-without-mining/</guid>
       <description>&lt;p&gt;A new paper published today by Seas At Risk warns about the disastrous environmental consequences of a new mining boom while showing how it can be prevented. Opening more mines on land and pushing mining into fragile ecosystems like the deep sea to fuel economic growth is not a realistic way forward. Concrete alternatives to this model already exist and can make mining unnecessary.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://seas-at-risk.org/?p=3756&amp;amp;preview=true&#34;&gt;‘&lt;em&gt;Breaking Free From Mining – A 2050 blueprint for a world without mining on land and in the deep sea’&lt;/em&gt;&lt;/a&gt; shows the steps needed to move away from patterns that aggravate the environment and climate crises, and shift towards a more sustainable society equipped to tackle them and break free from its dependence on finite resources.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AWI: Polarstern startet Richtung Arktis</title>
-      <link>http://example.org/awi-polarstern-startet-richtung-arktis/</link>
+      <link>http://localhost:1313/awi-polarstern-startet-richtung-arktis/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/awi-polarstern-startet-richtung-arktis/</guid>
+      <guid>http://localhost:1313/awi-polarstern-startet-richtung-arktis/</guid>
       <description>&lt;p&gt;Am Pfingstmontag, den 24. Mai 2021 startet die Polarstern Richtung Arktis. In der Framstraße zwischen Grönland und Spitzbergen werden gut 50 wissenschaftliche Fahrtteilnehmende die seit über 20 Jahren laufenden Langzeitbeobachtungen im sogenannten AWI HAUSGARTEN fortsetzen. Sie erforschen hier den Einfluss von Umweltveränderungen auf das arktische Tiefseeökosystem.&lt;/p&gt;&#xA;&lt;p&gt;Die Arktis verändert sich: Steigende Wassertemperaturen und der Rückgang des Meereises bewirken dadurch Ökosystemverschiebungen im offenen Wasser und im tiefen Ozean. „Wir wollen die Änderungen im Ökosystem ermitteln und quantifizieren sowie Rückkopplungen auf ozeanographische Prozesse untersuchen“, sagt Dr. Thomas Soltwedel, Tiefseebiologe am Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung (AWI) und Leiter der Expedition. „Unsere Untersuchungen beinhalten die Identifizierung räumlicher und zeitlicher Entwicklungen in der Funktion ausgewählter Plankton- und Benthos-Gemeinschaften“, sagt Thomas Soltwedel, der am AWI die Sektion Tiefsee-Ökologie und -Technologie leitet. Die Beobachtungsdaten sollen zukünftig in ein umfassendes Repositorium einfließen, das sich derzeit im Aufbau befindet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wohnort Plastikmüll: Neue Biodiversität in der Tiefsee</title>
-      <link>http://example.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/</link>
+      <link>http://localhost:1313/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/</guid>
+      <guid>http://localhost:1313/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/</guid>
       <description>&lt;p&gt;&lt;em&gt;Ein internationales Forscherteam findet einen neuen Hotspot der Biodiversität – und zwar ausgerechnet im Plastikmüll, der sich seit Jahrzehnten in den Tiefseegräben der Erde ansammelt. An der Bestimmung der Müllbewohner war auch der SNSB-Zoologe Bernhard Ruthensteiner beteiligt. Ihre Erkenntnisse veröffentlichten die Wissenschaftler*innen kürzlich in der zoologischen Fachzeitschrift Environmental Science &amp;amp; Technology Letters.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Plastikmüll in den Ozeanen der Erde sammelt sich auch in der Tiefsee und gefährdet die dort lebenden Organismen. Forscher berichten, dass sich Anhäufungen von größeren Plastikteilen über Jahrzehnte hinweg sogar in Tiefseegräben finden. Laut einer neuen Studie entwickelt sich in den untermeerischen Müllansammlungen allerdings ein artenreiches Ökosystem. Die Wissenschaftler*innen sprechen von einem „neuen Hotspot der Biodiversität“.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schätze am Meeresboden schützen</title>
-      <link>http://example.org/schaetze-am-meeresboden-schuetzen/</link>
+      <link>http://localhost:1313/schaetze-am-meeresboden-schuetzen/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/schaetze-am-meeresboden-schuetzen/</guid>
+      <guid>http://localhost:1313/schaetze-am-meeresboden-schuetzen/</guid>
       <description>&lt;p&gt;WWF: Tiefseebergbau ist eine vermeidbare Umweltkatastrophe / Weltweites Moratorium gefordert&lt;/p&gt;&#xA;&lt;p&gt;Der heute veröffentlichte WWF-Bericht &amp;ldquo;&lt;em&gt;In Too Deep: What We Know, And Don&amp;rsquo;t Know, About Deep Seabed Mining&lt;/em&gt;&amp;rdquo; skizziert die wichtigsten ökologischen und sozialen Risiken des Tiefseebergbaus, die mit der Zulassung dieser Industrie verbunden wären. Laut WWF hätte der kommerzielle Abbau von marinen mineralischen Rohstoffen wie Kobalt, Lithium und Nickel in Tausenden Metern Wassertiefe aller Voraussicht nach zerstörerische Auswirkungen auf die Ökosysteme und die Artenvielfalt der Tiefsee.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tiefsee hautnah - Abtauchen in unbekannte Welten</title>
-      <link>http://example.org/abtauchen-in-unbekannte-welten-die-tiefsee-hautnah/</link>
+      <link>http://localhost:1313/abtauchen-in-unbekannte-welten-die-tiefsee-hautnah/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/abtauchen-in-unbekannte-welten-die-tiefsee-hautnah/</guid>
+      <guid>http://localhost:1313/abtauchen-in-unbekannte-welten-die-tiefsee-hautnah/</guid>
       <description>&lt;p&gt;Der Mount Everest ist mit einer Höhe von fast 9.000 Metern der höchste Berg der Welt. Im Vergleich dazu liegt der tiefste Punkt im Ozean, der &lt;a href=&#34;https://www.deepwave.org/plastikverschmutzung-im-marianengraben/&#34;&gt;Mariannengraben&lt;/a&gt;, 11.000 Meter unter der Wasseroberfläche. Solch enorme Tiefen sind kaum vorstellbar – vor allem, wenn man bedenkt, dass wir schon für einen 18 Meter tiefen Tauchgang einen Tauchschein benötigen. Selbst der Weltrekord im Gerätetauchen von 332 Metern kann im Vergleich zur Tiefe der Meere nur belächelt werden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>So tarnen sich Fische in der finsteren Tiefsee</title>
-      <link>http://example.org/so-tarnen-sich-fische-in-der-finsteren-tiefsee/</link>
+      <link>http://localhost:1313/so-tarnen-sich-fische-in-der-finsteren-tiefsee/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/so-tarnen-sich-fische-in-der-finsteren-tiefsee/</guid>
+      <guid>http://localhost:1313/so-tarnen-sich-fische-in-der-finsteren-tiefsee/</guid>
       <description>&lt;p&gt;Auf den ersten Blick ähneln sich Paradiesvögel und &lt;a href=&#34;https://www.deepwave.org/fangquoten-2019-2020-fuer-tiefseefische-festgelegt-eu-umschifft-eigenen-nachhaltigkeitsstandard/&#34;&gt;Tiefseefische&lt;/a&gt; gar nicht. Doch die schwarze Färbung der Vogelfedern und der schwarze Körper der Fische haben etwas gemeinsam: bei ihrer Farbe handelt es sich um das schwärzeste Schwarz im Tierreich. Das hat ein Forscherteam bei der Untersuchung von 18 Tiefseefischen herausgefunden. Sie konnten feststellen, dass ihr Schwarz nur 0,05 Prozent des auftreffenden Lichts reflektiert - genau wie bei Federn des Paradiesvogels. Die dunkle Farbe bietet ihnen sowohl Schutz vor Prädatoren als auch Tarnung, wenn sie sich selbst ihrer Beute nähern.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mission Erde: Alexander Gerst und Antje Boetius tauchen ab</title>
-      <link>http://example.org/mission-erde-alexander-gerst-und-antje-boetius-tauchen-ab/</link>
+      <link>http://localhost:1313/mission-erde-alexander-gerst-und-antje-boetius-tauchen-ab/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/mission-erde-alexander-gerst-und-antje-boetius-tauchen-ab/</guid>
+      <guid>http://localhost:1313/mission-erde-alexander-gerst-und-antje-boetius-tauchen-ab/</guid>
       <description>&lt;p&gt;[et_pb_section fb_built=&amp;ldquo;1&amp;rdquo; _builder_version=&amp;ldquo;3.22&amp;rdquo;][et_pb_row _builder_version=&amp;ldquo;4.6.6&amp;rdquo; background_size=&amp;ldquo;initial&amp;rdquo; background_position=&amp;ldquo;top_left&amp;rdquo; background_repeat=&amp;ldquo;repeat&amp;rdquo; width=&amp;ldquo;100%&amp;rdquo; max_width=&amp;ldquo;none&amp;rdquo;][et_pb_column type=&amp;ldquo;4_4&amp;rdquo; _builder_version=&amp;ldquo;3.25&amp;rdquo; custom_padding=&amp;quot;|||&amp;quot; custom_padding__hover=&amp;quot;|||&amp;quot;][et_pb_text _builder_version=&amp;ldquo;4.6.6&amp;rdquo; background_size=&amp;ldquo;initial&amp;rdquo; background_position=&amp;ldquo;top_left&amp;rdquo; background_repeat=&amp;ldquo;repeat&amp;rdquo; hover_enabled=&amp;ldquo;0&amp;rdquo; sticky_enabled=&amp;ldquo;0&amp;rdquo;][caption id=&amp;ldquo;attachment_20813150&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1067&amp;rdquo;]&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2020/08/MissionErdeAzoren_JoachimJakobsen.jpg&#34; alt=&#34;Alexander Gerst und Antje Boetius im Tiefsee U-Boot&#34;&gt; © AWI/Joachim Jakobsen[/caption]&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Alexander Gerst begibt sich für die Fernsehserie “&lt;a href=&#34;https://www.swr.de/unternehmen/kommunikation/pressemeldungen/daserste-mission-erde-120~_currentSlide-2_-a9e368cb37a7fe4c57193179bc4c60e782d03065.html&#34;&gt;Mission Erde&lt;/a&gt;” an Orte, bei denen mittels Forschung versucht wird, das fragile Ökosystem Erde besser zu verstehen. Auf seiner Expeditionsreise traf er auch die Wissenschaftlerin und Leiterin des &lt;a href=&#34;https://www.awi.de/&#34;&gt;Alfred-Wegener-Institutes&lt;/a&gt; Antje Boetius, um mit ihr in die Tiefsee der Azoren abzutauchen. Anlässlich dieses &lt;a href=&#34;https://www.awi.de/ueber-uns/service/presse-detailansicht/presse/mission-erde-aquanautin-und-astronaut-tauchen-ab.html&#34;&gt;vom SWR beauftragten Projekts&lt;/a&gt; haben wir mit Antje Boetius über ihre gemeinsame Reise gesprochen, ihre Begegnung mit einem Astronauten, den Schutz der Tiefsee und warum eine Tauchfahrt in die &lt;a href=&#34;https://www.deepwave.org/die-ozeane/die-tiefsee/&#34;&gt;Tiefen der Meere&lt;/a&gt; zu einem ebenso entscheidenden Perspektivwechsel führen kann wie eine Reise ins All.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tiefseekrebs nach Metallica benannt</title>
-      <link>http://example.org/tiefseekrebs-nach-metallica-benannt/</link>
+      <link>http://localhost:1313/tiefseekrebs-nach-metallica-benannt/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tiefseekrebs-nach-metallica-benannt/</guid>
+      <guid>http://localhost:1313/tiefseekrebs-nach-metallica-benannt/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Senckenberger Tiefseeforscher ehrt mit der Benennung einer bislang unbekannten Art seine Jugendhelden&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Senckenberg-Wissenschaftler Torben Riehl hat gemeinsam mit seinem Kollegen Bart de Smet von der Universiät Gent eine bislang unbekannte Krebsart aus dem nördlichen Pazifik nach der Heavy Metal-Band Metallica benannt. Der Frankfurter Forscher möchte mit der Benennung seine Jugendidole ehren und gleichzeitig Umweltbewusstsein wecken. Die neue Art wurde im Abyssal des Nordpazifiks im Rahmen einer Basisuntersuchung entdeckt, die in Zusammenhang mit umfangreichen Umweltverträglichkeits-studien für zukünftigen Tiefseebergbau steht. Die Studie erscheint heute im Fachjournal „PeerJ“.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ROV KIEL 6000 entdeckt „Klare Raucher“ vor Island</title>
-      <link>http://example.org/rov-kiel-6000-entdeckt-klare-raucher-vor-island/</link>
+      <link>http://localhost:1313/rov-kiel-6000-entdeckt-klare-raucher-vor-island/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/rov-kiel-6000-entdeckt-klare-raucher-vor-island/</guid>
+      <guid>http://localhost:1313/rov-kiel-6000-entdeckt-klare-raucher-vor-island/</guid>
       <description>&lt;p&gt;IceAGE3-Expedition liefert faszinierende Bilder vom Meeresboden vor Island&lt;/p&gt;&#xA;&lt;p&gt;20.07.2020/Kiel/Hamburg/Wilhelmshaven. Weite Ebenen in 3000 bis 4000 Metern Wassertiefe, steile Gebirge, vulkanische Aktivität: Dass der Meeresboden rund um Island abwechslungsreich ist, war bekannt. Doch noch immer klaffen Lücken im Wissen über die Tiefsee der Region. Die aktuelle Expedition IceAGE3 des deutschen Forschungsschiffs SONNE unter Leitung der Senckenberg Gesellschaft für Naturforschung ist dabei, einige dieser Lücken zu schließen. Der Tiefseeroboter ROV KIEL 6000 des GEOMAR Helmholtz-Zentrums für Ozeanforschung Kiel hat jetzt im Rahmen der Expedition die ersten Bilder von bislang unbekannten heißen Quellen am Meeresboden geliefert.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mit der Sonne in den Norden: Beginn der IceAGE-Expedition</title>
-      <link>http://example.org/mit-der-sonne-in-den-norden-beginn-der-iceage-expedition/</link>
+      <link>http://localhost:1313/mit-der-sonne-in-den-norden-beginn-der-iceage-expedition/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/mit-der-sonne-in-den-norden-beginn-der-iceage-expedition/</guid>
+      <guid>http://localhost:1313/mit-der-sonne-in-den-norden-beginn-der-iceage-expedition/</guid>
       <description>&lt;p&gt;Wilhelmshaven/Hamburg, 02.07.2020. Aktuell befinden sich 34 Forschende, unter der Leitung von Senckenbergerin Dr. Saskia Brix, an Bord des Forschungsschiffs Sonne. Ihr Ziel: Die Tiefsee rund um Island. Das interdisziplinäre Wissenschaftler*innen-Team möchte während der 35-tägigen Expedition die verschiedenen marinen Lebensräume rund um den Inselstaat im äußersten Nordwesten Europas untersuchen. Die Tauchgänge des am Bord befindlichen Tauchroboters ROV KIEL 6000 des GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel können live bei Youtube unter &lt;a href=&#34;http://www.youtube.com/Senckenbergworld&#34;&gt;www.youtube.com/Senckenbergworld&lt;/a&gt; verfolgt werden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>„Hard Rock“ auf dem Meeresboden der Tiefsee</title>
-      <link>http://example.org/hard-rock-auf-dem-meeresboden-der-tiefsee/</link>
+      <link>http://localhost:1313/hard-rock-auf-dem-meeresboden-der-tiefsee/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/hard-rock-auf-dem-meeresboden-der-tiefsee/</guid>
+      <guid>http://localhost:1313/hard-rock-auf-dem-meeresboden-der-tiefsee/</guid>
       <description>&lt;figure&gt;&lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2020/07/Hard_Rock_Steine_in_der_Tiefsee.jpg&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2020/07/Hard_Rock_Steine_in_der_Tiefsee.jpg&#34;&#xA;    alt=&#34;Steine und Felsen zwischen Sand unterwasser in der Tiefsee&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;© GEOMAR ROV Kiel6000 aus einem Manganknollengebiet im Pazifik.&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h4 id=&#34;der-weg-zur-entschlüsselung-der-artenvielfalt-am-meeresgrund-ist-steiniger-als-bisher-angenommen&#34;&gt;Der Weg zur Entschlüsselung der Artenvielfalt am Meeresgrund ist steiniger, als bisher angenommen&lt;/h4&gt;&#xA;&lt;p&gt;Senckenberg- und GEOMAR- Forscher:innen haben mittels hydroakustischer Meeresbodenkartierung herausgefunden, dass der Meeresgrund im Atlantik sehr viel vielfältiger ist, als bislang angenommen. Bisher wurden von Biolog:innen in der abyssalen Tiefsee hauptsächlich monotone Sedimentebenen vermutet. Die Wissenschaftler:innen zeigen nun in ihrer heute im Fachjournal „PNAS “ veröffentlichten Studie, dass im Atlantik ein Flickenteppich von Felshabitaten und anderen Hartsubstraten zu erwarten ist, der in manchen Regionen dieser Tiefenzone 30 Prozent des Meeresbodens ausmachen kann. Es wird erwartet, dass die Vielfalt der Lebensräume direkte Auswirkungen auf die dortige Lebewelt hat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plastik in der Tiefsee</title>
-      <link>http://example.org/plastik-in-der-tiefsee-nach-einem-vierteljahrhundert-noch-wie-neu/</link>
+      <link>http://localhost:1313/plastik-in-der-tiefsee-nach-einem-vierteljahrhundert-noch-wie-neu/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/plastik-in-der-tiefsee-nach-einem-vierteljahrhundert-noch-wie-neu/</guid>
+      <guid>http://localhost:1313/plastik-in-der-tiefsee-nach-einem-vierteljahrhundert-noch-wie-neu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Plastik in der Tiefsee: Nach einem Vierteljahrhundert noch wie neu&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Erste Langzeitstudie zum Kunststoffabbau in mehr als 4000 Metern Wassertiefe&lt;/p&gt;&#xA;&lt;p&gt;11.06.2020/Kiel. Auch in den abgelegensten Regionen der Ozeane lassen sich mittlerweile Plastikteile nachweisen. Doch wie lange sie dort schon liegen, ist meist nicht feststellbar. Das macht auch Abschätzungen zum möglichen Abbau schwierig. Ein Team unter Leitung des GEOMAR Helmholtz-Zentrums für Ozeanforschung Kiel hat jetzt erstmals Kunststoffteile untersucht, die nachweislich 20 Jahre und länger in der Tiefsee verbracht haben. Wie die Forscherinnen und Forscher heute im Online-Fachjournal Scientific Reports veröffentlichen, konnten sie keine Spuren von Fragmentierung oder gar Abbau feststellen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Der Schnee im Meer</title>
-      <link>http://example.org/der-schnee-im-meer/</link>
+      <link>http://localhost:1313/der-schnee-im-meer/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/der-schnee-im-meer/</guid>
+      <guid>http://localhost:1313/der-schnee-im-meer/</guid>
       <description>&lt;p&gt;Schnee im Meer? Wie soll das denn gehen? Wir berichten hier über ein Phänomen, das wohl kaum bekannt ist. Dem Meeresschnee, auch &lt;a href=&#34;https://de.wikipedia.org/wiki/Detritus_(Hydrologie)&#34;&gt;&lt;em&gt;Detritus&lt;/em&gt;&lt;/a&gt;. Darunter verstehen Wissenschaftler:innen das Herabrieseln von toten Organismen und Kotkügelchen in den Ozeanen. Klingt nicht weiter wichtig? Ist es aber! Es ist vielleicht sogar von so hoher Relevanz für unsere Erde, dass eigentlich jede:r darüber Bescheid wissen sollte.&lt;/p&gt;&#xA;&lt;p&gt;Diese Partikel entstehen mit Hilfe der Photosynthese - dem Umwandeln von CO2 zu Biomasse - durch Kieselalgen, Grünalgen oder spezielle Planktonarten. Sinken diese &amp;ldquo;Schneeflocken&amp;rdquo; in die Tiefe und verlassen den Nahrungskreislauf, entsteht insgesamt eine negative CO2 Bilanz. Dieser Prozess - auch die biologische Pumpe genannt - ist somit ausschlaggebend für das Wohlergehen unseres Planeten, denn das Meer dient damit als größter Kohlenstoffspeicher der Erde.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tiefsee - Vielfalt in der Dunkelheit</title>
-      <link>http://example.org/tiefsee-vielfalt-in-der-dunkelheit/</link>
+      <link>http://localhost:1313/tiefsee-vielfalt-in-der-dunkelheit/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tiefsee-vielfalt-in-der-dunkelheit/</guid>
+      <guid>http://localhost:1313/tiefsee-vielfalt-in-der-dunkelheit/</guid>
       <description>&lt;p&gt;Das Begleitbuch zu den neuen Ausstellungsräumen „Tiefsee“ und „Meeresforschung“ im Senckenberg Naturmuseum Frankfurt erscheint heute – die Eröffnung der neuen Themenräume verzögert sich aufgrund der Corona-Pandemie.&lt;/p&gt;&#xA;&lt;p&gt;Begleitend zum neuen Ausstellungsbereich Tiefsee und Meeresforschung, den beiden ersten neuen Räume im Rahmen des Projekts „Neues Museum“, geben die Kuratoren Dr. Thorolf Müller und Dr. Gerd Hoffmann-Wieck das Buch „Tiefsee – Vielfalt in der Dunkelheit“ heraus. Gemeinsam mit 30 Tiefseeforscher*innen der Senckenberg Gesellschaft für Naturforschung und des &lt;a href=&#34;https://www.geomar.de/&#34;&gt;GEOMAR Helmholtz-Zentrum für Ozeanforschung&lt;/a&gt; in Kiel beleuchten sie in vier Großkapiteln den größten Lebensraum des Planeten und vermitteln fundiert Einblicke in die geologische und biologische Erforschung des dunklen Universums. Der Einfluss des Menschen und rechtliche Fragen sind weitere Themen. Das Buch zur Ausstellung erscheint heute und ermöglicht allen Tiefsee-Interessierten, bereits jetzt thematisch in die Tiefen der Ozeane abzutauchen. Ein neuer Eröffnungstermin für die Ausstellung wird in Kürze bekannt gegeben.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plastikverschmutzung im Marianengraben</title>
-      <link>http://example.org/plastikverschmutzung-im-marianengraben/</link>
+      <link>http://localhost:1313/plastikverschmutzung-im-marianengraben/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/plastikverschmutzung-im-marianengraben/</guid>
+      <guid>http://localhost:1313/plastikverschmutzung-im-marianengraben/</guid>
       <description>&lt;figure&gt;&lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2019/10/NetzMakroFinger_030.jpg&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2019/10/NetzMakroFinger_030.jpg&#34;&#xA;    alt=&#34;Auf einer Fingerspitze liegen mehrere kleine, grüne Plastikfasern&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;© Wolf Wichmann&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In dieser prekären Zeit, bezüglich der weltweite Umweltverschmutzung, ist das tatsächliche Ausmaß, das die &lt;a href=&#34;https://www.deepwave.org/die-ozeane/verschmutzung/&#34;&gt;Plastikverschmutzung&lt;/a&gt; angenommen hat, immer noch überraschend. Häufig erschrecken uns Bilder der Meeresoberfläche, welche von Plastikmüll überschwemmt ist, doch nur ein winziger Bruchteil des im Meer schwimmenden Plastik ist für uns Menschen auf den ersten Blick sichtbar. Keine einzige Felsspalte im Ozean ist sicher vor nicht abbaubaren Partikeln. Selbst in dem fast 11 Kilometer tiefen Marianengraben, dem tiefsten Punkt des Ozeans, fanden Wissenschaftler Plastikteile. Im Artikel des Guardian ist eine Planktonprobe aus dem Marianengraben zu sehen, in welcher sich deutlich sichtbare blaue Fasern eines aufgenommenes Mikroplastikteilchens befinden. Die Plastikflut gelangt somit an einen Punkt der Erde, der für uns Menschen so fern, unerreichbar und unwirklich scheint. Es ist kein Geheimnis, dass ca. 94% des im Ozean gefundenen Plastiks sich irgendwo auf dem Meeresboden befindet. Nichtsdestotrotz zeigt dieser Fund die schockierend hohe Verschmutzung durch Plastik an dem entlegensten Ort der Welt, der &lt;a href=&#34;https://www.deepwave.org/die-ozeane/die-tiefsee/&#34;&gt;Tiefsee&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sinkende Sterne: Tiefseebergbau bedroht Seesternverwandte</title>
-      <link>http://example.org/sinkende-sterne-tiefseebergbau-bedroht-seesternverwandte/</link>
+      <link>http://localhost:1313/sinkende-sterne-tiefseebergbau-bedroht-seesternverwandte/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/sinkende-sterne-tiefseebergbau-bedroht-seesternverwandte/</guid>
+      <guid>http://localhost:1313/sinkende-sterne-tiefseebergbau-bedroht-seesternverwandte/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Potentielles Abbaugebiet von Manganknollen ist der Lebensraum einer bislang unbekannten Vielfalt von Schlangensternen&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Senckenberg-Wissenschaftler:innen haben mit australischen Kollegen eine hohe Artenvielfalt von Schlangensternen in der „Clarion Clipperton Zone“ im östlichen Pazifik entdeckt – ein Tiefsee-Gebiet, das bereits von Bergbauunternehmen für kommerzielle Explorationszwecke aufgeteilt wurde. In der kürzlich im Fachjournal „Current Biology“ erschienenen Studie berichten die Forschenden von mehreren neuen Arten der Seestern-Verwandten und warnen vor einem Verlust der bislang unbekannten Biodiversität am Meeresboden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deep sea mining!? Leave my down below alone!</title>
-      <link>http://example.org/deep-sea-mining-leave-my-down-below-alone/</link>
+      <link>http://localhost:1313/deep-sea-mining-leave-my-down-below-alone/</link>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/deep-sea-mining-leave-my-down-below-alone/</guid>
+      <guid>http://localhost:1313/deep-sea-mining-leave-my-down-below-alone/</guid>
       <description>&lt;p&gt;Die Organisation &lt;a href=&#34;https://seas-at-risk.org/&#34;&gt;Seas at Risk&lt;/a&gt; zeigt mit ihrem Cartoon-Video: &amp;ldquo;Deep sea mining!? Leave my down below alone!&amp;rdquo; auf humorvoll provokante Weise die Bedrohung durch den international geplanten Tiefseebergbau.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?time&#34;&gt;https://www.youtube.com/watch?time&lt;/a&gt;_continue=213&amp;amp;v=JsA0emd2FNw&lt;/p&gt;&#xA;&lt;p&gt;Quelle: &lt;a href=&#34;https://youtu.be/JsA0emd2FNw&#34;&gt;Seas at risk&lt;/a&gt; auf YouTube&lt;/p&gt;&#xA;&lt;p&gt;Ein weiteres Video von &lt;a href=&#34;https://seas-at-risk.org&#34;&gt;Seas at Risk&lt;/a&gt; mit dem Themenpunkt &lt;a href=&#34;https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/&#34;&gt;Plastikverschmutzung&lt;/a&gt; ist in einem weiteren &lt;a href=&#34;https://www.deepwave.org/our-plastic-our-problem-a-marine-litter-info-operetta/&#34;&gt;unserer Posts&lt;/a&gt; zu finden. Mehr zum Thema Tiefsee gibt es bei unserer &lt;a href=&#34;http://deepwave.org/deep-sea&#34;&gt;DEEP SEA Kampagne&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IUCN Bericht: Die Zukunft des Tiefseebergbaus</title>
-      <link>http://example.org/iucn-bericht-die-zukunft-des-tiefseebergbaus/</link>
+      <link>http://localhost:1313/iucn-bericht-die-zukunft-des-tiefseebergbaus/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/iucn-bericht-die-zukunft-des-tiefseebergbaus/</guid>
+      <guid>http://localhost:1313/iucn-bericht-die-zukunft-des-tiefseebergbaus/</guid>
       <description>&lt;p&gt;Wenn wir an die &lt;a href=&#34;https://www.deepwave.org/die-ozeane/die-tiefsee/&#34;&gt;Tiefsee&lt;/a&gt; denken, verbinden wir diesen einzigartigen Lebensraum häufig mit Kälte und Dunkelheit. Was zunächst trist und leer zu sein scheint, beherbergt aber eine erstaunliche Vielfalt von Arten. Auch der 2018 erschienene Bericht der IUCN bezeichnet die dort auffindbaren Ökosysteme als einzigartig und wertvoll. Die Autoren des Reports betonen, dass wir viele Arten und Lebensräume der Meere durch unseren &lt;a href=&#34;https://www.deepwave.org/deep-sea-mining-leave-my-down-below-alone/&#34;&gt;rücksichtslosen Umgang&lt;/a&gt; mit unserer Umwelt an den Rand der Zerstörung geführt haben. Da das kommerzielle Interesse an den Rohstoffen der Tiefseeböden zunimmt, ist es dringend notwendig, die Ausbeutung und Zerstörung der Tiefsee zu verhindern.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Forschende warnen vor Tiefsee-Goldrausch</title>
-      <link>http://example.org/forschende-warnen-vor-tiefsee-goldrausch/</link>
+      <link>http://localhost:1313/forschende-warnen-vor-tiefsee-goldrausch/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/forschende-warnen-vor-tiefsee-goldrausch/</guid>
+      <guid>http://localhost:1313/forschende-warnen-vor-tiefsee-goldrausch/</guid>
       <description>&lt;p&gt;Angesichts der immer weiter voranschreitenden Pläne für einen baldigen Start des Tiefseebergbaus haben Wissenschaftler:innen und Politikexpert:innen der Universität Exeter und Greenpeace eine neue Studie veröffentlicht. In ihr sprechen sie Empfehlungen aus, wie die Menschheit Umweltschäden durch Tiefseebergbau verhindern kann. Im Vordergrund steht dabei der Schutz der Biodiversität der Tiefsee. EurekAlert! hat dazu folgende Pressemitteilung veröffentlicht:&lt;/p&gt;&#xA;&lt;h4 id=&#34;warning-over-deep-sea-gold-rush&#34;&gt;Warning over deep-sea &amp;ldquo;gold rush&amp;rdquo;&lt;/h4&gt;&#xA;&lt;p&gt;A &amp;ldquo;gold rush&amp;rdquo; of seabed mining could lead to unprecedented damage to fragile deep-sea ecosystems, researchers have warned. With major decisions on the future of seabed mining expected in 2019-20, scientists and policy experts from the University of Exeter and Greenpeace have recommended a range of measures to prevent environmental damage. They say deep-sea ecosystems currently need more protection, rather than new threats. They also argue that mining in the deep sea (depths below 200m) could be avoided altogether if humanity moved towards a &amp;ldquo;circular economy&amp;rdquo; that focuses on reuse and recycling of metals, reduces overconsumption and limits built-in obsolescence of technology.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nein zum Raubbau an der Tiefsee</title>
-      <link>http://example.org/nein-zum-raubbau-an-der-tiefsee/</link>
+      <link>http://localhost:1313/nein-zum-raubbau-an-der-tiefsee/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/nein-zum-raubbau-an-der-tiefsee/</guid>
+      <guid>http://localhost:1313/nein-zum-raubbau-an-der-tiefsee/</guid>
       <description>&lt;p&gt;Das erste Tiefseebergbauprojekt &amp;ldquo;Solwara 1&amp;rdquo; soll  in diesem Jahr am Boden der Bismarcksee vor Papua-Neuguinea starten. Auf der Suche nach Manganknollen, kobaltreichen Eisen- und Mangankrusten, Massivsulfiden und Erzschlämmen - ein unsicheres Investment. Das geplante Ausbeutungsgebiet beträgt etwa 140000 Quadratmeter und ist Teil eines ökologisch sehr sensiblen Lebensraums, der auch ein wichtiges Fanggebiet für viele Kleinfischer*innen ist. Der Rohstoffverbauch muss in Deutschland und in Europa auf ein nachhaltiges Maß reduziert werden, stattdessen unterstützt die Bundesregierung Industrie- und Forschungsvorhaben, die den Tiefseebergbau massiv vorantreiben, um auch die unerforschtesten Lebensräume unseres Planeten wirtschaftlich zu nutzen. Jedoch ist nicht nur der wirtschaftliche Ertrag beim Tiefseebergbau mehr als fraglich, sondern auch die Folgen für das gesamte Ökosystem und seine Bewohner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Selbst Flohkrebse in der Tiefsee nehmen Plastikmüll auf</title>
-      <link>http://example.org/selbst-flohkrebse-in-der-tiefsee-nehmen-plastikmuell-auf/</link>
+      <link>http://localhost:1313/selbst-flohkrebse-in-der-tiefsee-nehmen-plastikmuell-auf/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/selbst-flohkrebse-in-der-tiefsee-nehmen-plastikmuell-auf/</guid>
+      <guid>http://localhost:1313/selbst-flohkrebse-in-der-tiefsee-nehmen-plastikmuell-auf/</guid>
       <description>&lt;p&gt;Ein Forschungsteam der &amp;ldquo;Newcastle University&amp;rdquo; hat eine Studie über den Einfluss von Plastikmüllverschmutzung auf Amphipoden (Flohkrebse) veröffentlicht. Dafür entnahmen sie Flohkrebse in sechs verschiedenen Tiefsee-Gräben. Die Ergebnisse sind schockierend: selbst im &lt;a href=&#34;https://www.deepwave.org/plastikverschmutzung-im-marianengraben/&#34;&gt;Marianengraben&lt;/a&gt;, dem tiefsten Punkt des Ozeans, hatten alle Exemplare Mikroplastik in ihrem Körper. Die Studie zeigt, dass kein marines Ökosystem auf der Welt mehr unberührt ist. Immer mehr Hinweise deuten darauf, dass die &lt;a href=&#34;https://www.deepwave.org/mission-erde-alexander-gerst-und-antje-boetius-tauchen-ab/&#34;&gt;Tiefsee&lt;/a&gt;, als größter Lebensraum, auch das &lt;a href=&#34;https://www.deepwave.org/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/&#34;&gt;größte Reservoir für Plastikmüll&lt;/a&gt; sein könnte. Die Amphipoden stehen ganz unten in der Nahrungskette und werden von vielen anderen Meerestieren gefressen. Wenn sie &lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2016/08/DWfacts_Microplastik-_2016.pdf&#34;&gt;Mikroplastik&lt;/a&gt; essen, wirkt sich das auf das ganze Ökosystem aus und auch wir &lt;a href=&#34;https://www.deepwave.org/kinder-und-jugendliche-haben-zu-viel-pfas-im-blut/&#34;&gt;Menschen nehmen die Gifte zu sich&lt;/a&gt;, wenn wir Meerestiere essen, da die Plastikfasern sich mit Chemikalien - zum Beispiel PCB - anreichern können. Diese Studie sollte ein alarmierendes Signal sein, unseren Plastikkonsum drastisch zu reduzieren.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tauch­ro­bo­ter MARUM-QUEST erst­mals in ant­ark­ti­schen Ge­wäs­sern</title>
-      <link>http://example.org/tauchroboter-marum-quest-erstmals-in-antarktischen-gewaessern/</link>
+      <link>http://localhost:1313/tauchroboter-marum-quest-erstmals-in-antarktischen-gewaessern/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tauchroboter-marum-quest-erstmals-in-antarktischen-gewaessern/</guid>
+      <guid>http://localhost:1313/tauchroboter-marum-quest-erstmals-in-antarktischen-gewaessern/</guid>
       <description>&lt;p&gt;Wo Erd­plat­ten auf­ein­an­der­tref­fen, ist die Erde in Be­we­gung. Eine Ex­pe­di­ti­on mit dem For­schungs­schiff PO­LAR­STERN will die­se Ak­ti­vi­tä­ten im Süd­po­lar­meer nä­her un­ter­su­chen. Im Fo­kus der MARUM-Fahrt ste­hen da­bei vor al­lem kal­te und hei­ße Quel­len. Zum ers­ten Mal wird der Tauch­ro­bo­ter MARUM-QUEST im Süd­po­lar­meer ein­ge­setzt. Der Ex­pe­di­ti­ons­be­ginn ist für den 13. April 2019 ge­plant.&lt;/p&gt;&#xA;&lt;p&gt;Es ist nicht die ers­te Ex­pe­di­ti­on von Fahrt­lei­ter Ger­hard Bohr­mann und sei­nem Team ins Süd­po­lar­meer. Be­reits seit 2012 be­schäf­ti­gen sich die For­schen­den mit der Fra­ge, wie Flui­de und Gase an hei­ßen und kal­ten Quel­len ent­lang der Sand­wich Plat­te zir­ku­lie­ren. Die Sand­wich Plat­te ist mit 350 Ki­lo­me­tern West-Ost- und cir­ca 550 Ki­lo­me­tern Nord-Süd-Er­stre­ckung zwar eine re­la­ti­ve klei­ne Plat­te, aber sie ist zwi­schen der Süd­ame­ri­ka­ni­schen und der Ant­ark­ti­schen Groß­plat­te der ak­tivs­te Erd­krus­ten­be­reich. Die Sand­wich Plat­te ent­steht durch Sprei­zung und Vul­ka­nis­mus am Ost-Sco­tia Rü­cken. Sie wan­dert nach Os­ten, wo sie mit der Süd­ame­ri­ka­ni­schen Plat­te kol­li­diert. Ein Tief­see­gra­ben von acht Ki­lo­me­tern Was­ser­tie­fe und eine Ket­te von ak­ti­ven, teil­wei­se In­sel-bil­den­den Vul­ka­nen sind die Fol­ge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tag des Artenschutzes: Tiefseefisch - Orange Roughy</title>
-      <link>http://example.org/tag-des-artenschutzes-tiefseefisch-orange-roughy/</link>
+      <link>http://localhost:1313/tag-des-artenschutzes-tiefseefisch-orange-roughy/</link>
       <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tag-des-artenschutzes-tiefseefisch-orange-roughy/</guid>
+      <guid>http://localhost:1313/tag-des-artenschutzes-tiefseefisch-orange-roughy/</guid>
       <description>&lt;p&gt;Alljährlich findet am 3. März der Tag des Artenschutzes statt, der aus dem Washingtoner Artenschutzübereinkommen CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) von 1973 hervorgeht.&lt;/p&gt;&#xA;&lt;p&gt;Zum diesjährigen Tag des Artenschutzes stellen wir euch den Granatbarsch - oder auch &lt;em&gt;Orange Roughy -&lt;/em&gt; vor. Ein Sinnbild für das Leben in der Tiefsee. Die Tiefsee - tiefer, dunkler und  langsamer. Der größte Lebensraum unseres Planeten, der früher durch seine besonderen Lebensbedingungen als lebensfeindlich galt. &lt;em&gt;Orange Roughy&lt;/em&gt; hat sich jedoch, so wie viele andere Lebewesen, perfekt an die Kälte, den hohen Druck und die ewige Dunkelheit der Tiefsee angepasst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fangquoten 2019/2020 für Tiefseefische festgelegt: EU umschifft eigenen Nachhaltigkeitsstandard</title>
-      <link>http://example.org/fangquoten-2019-2020-fuer-tiefseefische-festgelegt-eu-umschifft-eigenen-nachhaltigkeitsstandard/</link>
+      <link>http://localhost:1313/fangquoten-2019-2020-fuer-tiefseefische-festgelegt-eu-umschifft-eigenen-nachhaltigkeitsstandard/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fangquoten-2019-2020-fuer-tiefseefische-festgelegt-eu-umschifft-eigenen-nachhaltigkeitsstandard/</guid>
+      <guid>http://localhost:1313/fangquoten-2019-2020-fuer-tiefseefische-festgelegt-eu-umschifft-eigenen-nachhaltigkeitsstandard/</guid>
       <description>&lt;p&gt;Die EU hat die aktuellen Fangquoten für einige Tiefseefischarten im Nordostatlantik beschlossen. Dabei geht es unter anderem um folgende Fischarten: Tiefseehai, Schwarzer Degenfisch, Kaiserbarsch, Rundnasen-Grenadier und Rote Fleckbrasse.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;20.11.2018&lt;/em&gt; &lt;em&gt;Pressemeldung von Slow Food Deutschland:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tiefsee-fanggrenzen-20192020-eu-umschifft-eigenen-nachhaltigkeitsstandard&#34;&gt;Tiefsee-Fanggrenzen 2019/2020: EU umschifft eigenen Nachhaltigkeitsstandard&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;20.11.2018 – Die Fischereiminister der EU, darunter Julia Klöckner, Bundesministerin für Ernährung und Landwirtschaft, haben über die Fanggrenzen für wirtschaftlich bedeutende Bestände von Tiefseefischarten für 2019 und 2020 entschieden - darunter die für Deutschland relevanten Arten Schwarzer Degenfisch, Rundnasengrenadier und Gabeldorsch. &amp;ldquo;Herzstück der Gemeinsamen Fischereipolitik ist das rechtlich verbriefte Ziel nachhaltiger Nutzungsgrade für alle fischereilich genutzten Populationen bis 2020. Dieser sogar global geltende Nachhaltigkeitsstandard wurde nun umschifft, indem zahlreiche Fanggrenzen einfach aufgehoben wurden&amp;rdquo;, so Nina Wolff, Fischerei-Expertin von Slow Food Deutschland.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Antje Boetius erhält den Deutschen Umweltpreis 2018</title>
-      <link>http://example.org/antje-boetius-erhaelt-den-deutschen-umweltpreis/</link>
+      <link>http://localhost:1313/antje-boetius-erhaelt-den-deutschen-umweltpreis/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/antje-boetius-erhaelt-den-deutschen-umweltpreis/</guid>
+      <guid>http://localhost:1313/antje-boetius-erhaelt-den-deutschen-umweltpreis/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2019/01/meeresbiologin-antje-boetius-1.jpg&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2019/01/meeresbiologin-antje-boetius-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;© Alfred-Wegener-Institut / Kerstin Rolfes (CC-BY 4.0)&lt;/p&gt;&#xA;&lt;p&gt;Bereits zum 26. Mal wurde der Deutsche Umweltpreis der Deutschen Bundesstiftung Umwelt (DBU) vergeben, die Meeresbiologin Prof. Dr. Antje Boetius ist eine der Gewinnerinnen. Der mit 500.000 Euro dotierte Preis ist der größte unabhängige Umweltpreis Europas. Durch die Vergabe betont die DBU die große Bedeutung der Weltmeere für Klima, Lebensvielfalt und Nahrungsversorgung und warnt gleichzeitig vor dem Klimawandel, der Umweltverschmutzung und Überfischung.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ein Leben für die Ozeane&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die Tiefsee: Rästelhafte Unterwasserwelt</title>
-      <link>http://example.org/die-tiefsee-raetselhafte-unterwasserwelt/</link>
+      <link>http://localhost:1313/die-tiefsee-raetselhafte-unterwasserwelt/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/die-tiefsee-raetselhafte-unterwasserwelt/</guid>
+      <guid>http://localhost:1313/die-tiefsee-raetselhafte-unterwasserwelt/</guid>
       <description>&lt;figure&gt;&lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2018/10/jellyfish_qualle_tiefsee_republica_pixabay.jpg&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2018/10/jellyfish_qualle_tiefsee_republica_pixabay.jpg&#34;&#xA;    alt=&#34;Unterwasserwelt: Eine orangene Qualle schwimmt durch die Tiefsee&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;© Republica / Pixabay&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Die &lt;a href=&#34;https://www.deepwave.org/die-ozeane/die-tiefsee/&#34;&gt;Tiefsee&lt;/a&gt; ist bisher weniger erforscht als der Mond. Bis Mitte des 19. Jahrhunderts war die Wissenschaft noch überzeugt, dass durch die dort besonderen Umweltbedingungen keinerlei Leben möglich sei. Durch die Bergung eines Tiefseekabels, welches von verschiedensten Tierarten besiedelt war, wurden die Forscher:innen 1858 eines Besseren belehrt. Neben dem bekannten Riesentintenfisch gibt es viele weitere Lebewesen, die sich optimal an diese Bedingungen - die für uns extrem erscheinen - der Unterwasserwelt angepasst haben: durch ein bestimmtes Molekül, das ihre Proteine stabilisiert, können Tiefseefische dem Druck in der Tiefe standhalten. Durch die Fähigkeit zur Biolumineszenz, können sich die Lebewesen verständigen und Beute oder Partner anlocken.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NGOs fordern von der ISA eine Kehrtwende</title>
-      <link>http://example.org/ngos-fordern-von-der-isa-eine-kehrtwende/</link>
+      <link>http://localhost:1313/ngos-fordern-von-der-isa-eine-kehrtwende/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/ngos-fordern-von-der-isa-eine-kehrtwende/</guid>
+      <guid>http://localhost:1313/ngos-fordern-von-der-isa-eine-kehrtwende/</guid>
       <description>&lt;p&gt;Anlässlich des Treffens der &lt;a href=&#34;https://www.isa.org.jm/&#34;&gt;International Seabed Authority (ISA)&lt;/a&gt; in Jamaika haben 45 Naturschutzorganisationen die Nationalregierungen aller Länder zum Umdenken in Bezug auf den Tiefseebergbau aufgerufen. Im Rahmen der Bemühungen für eine nachhaltige Wirtschaft ergibt es keinen Sinn, neue Projekte anzugehen, die die Umwelt zerstören, denn die wirtschaftliche Erschließung der Tiefsee zerstört einen Großteil der &lt;a href=&#34;https://www.deepwave.org/sinkende-sterne-tiefseebergbau-bedroht-seesternverwandte/&#34;&gt;Biodiversität&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h4 id=&#34;environmental-groups-call-for-a-u-turn-on-deep-sea-mining&#34;&gt;Environmental groups call for a U-turn on deep sea mining&lt;/h4&gt;&#xA;&lt;p&gt;As the International Seabed Authority (ISA) gathers in Jamaica, environmental organisations are calling on governments to wake up to the irreversible harm that deep sea mining will inflict, not only to marine ecosystems but also to global efforts to transition to a sustainable economy. In &lt;a href=&#34;https://seas-at-risk.org/images/pdf/publications/2018_04_27_NGO_submission_to_ISA_9_07.pdf&#34;&gt;a joint statement to the ISA&lt;/a&gt;, 45 organisations, including Greenpeace and Seas At Risk, warn of significant loss of biodiversity if the world’s seabeds are opened up to mining.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Positionspapier: Nein zum Raubbau an der Tiefsee!</title>
-      <link>http://example.org/positionspapier-nein-zum-raubbau-an-der-tiefsee/</link>
+      <link>http://localhost:1313/positionspapier-nein-zum-raubbau-an-der-tiefsee/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/positionspapier-nein-zum-raubbau-an-der-tiefsee/</guid>
+      <guid>http://localhost:1313/positionspapier-nein-zum-raubbau-an-der-tiefsee/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Positionspapier zivilgesellschaftlicher Akteure zum Tiefseebergbau veröffentlicht&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Über 90 Millionen Tonnen Metalle werden laut der Bundesanstalt für Geowissenschaften und Rohstoffe jährlich zur Produktion von Maschinen, elektrischer Ausrüstung oder Automobilen importiert. Hinzu kommen die vielen Rohstoffe aus verarbeiteten und aus Vorprodukten. Dabei übersteigen diese Konsum- und Produktionsmuster die planetaren Grenzen und laufen konträr zu globaler Ressourcengerechtigkeit. Denn der Abbau von Rohstoffen ist global mit großen sozialen und ökologischen Kosten verbunden, die sich nicht in den Rohstoff- und Produktpreisen wiederfinden und vor allem in Ländern des globalen Südens anfallen. Auch geht er häufig mit Menschenrechteverletzungen einher.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Einblicke in die Arbeit von Tiefseeforscherin Antje Boetius</title>
-      <link>http://example.org/antje-boetius-tiefseeforscherin-alfred-wegener-institut-fuer-polar-und-meeresforschung/</link>
+      <link>http://localhost:1313/antje-boetius-tiefseeforscherin-alfred-wegener-institut-fuer-polar-und-meeresforschung/</link>
       <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>http://example.org/antje-boetius-tiefseeforscherin-alfred-wegener-institut-fuer-polar-und-meeresforschung/</guid>
+      <guid>http://localhost:1313/antje-boetius-tiefseeforscherin-alfred-wegener-institut-fuer-polar-und-meeresforschung/</guid>
       <description>&lt;p&gt;Meeresbiologin &lt;a href=&#34;https://www.deepwave.org/mission-erde-alexander-gerst-und-antje-boetius-tauchen-ab/&#34;&gt;Antje Boetius&lt;/a&gt; gibt in dem Interview mit ARD-Alpha einen spannenden Einblick in ihre Arbeit als Tiefseeforscherin. Sie spricht über ihre Faszination zur Tiefsee und den heutigen Problemen, mit dem dieser einzigartige Lebensraum zu kämpfen hat.&lt;/p&gt;&#xA;&lt;p&gt;Das &lt;a href=&#34;https://www.br.de/mediathek/video/alpha-forum-antje-boetius-tiefseeforscherin-alfred-wegener-institut-fuer-polar-und-meeresforschung-av:59a848b64c6a3200121c52e1&#34;&gt;komplette Videointerview&lt;/a&gt; vom 25.02.2015 könnt ihr euch in der &lt;a href=&#34;https://www.br.de/mediathek&#34;&gt;BR Mediathek&lt;/a&gt; anschauen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Street-Art gegen Grundschleppnetzfischerei</title>
-      <link>http://example.org/street-art-gegen-grundschleppnetzfischerei/</link>
+      <link>http://localhost:1313/street-art-gegen-grundschleppnetzfischerei/</link>
       <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>http://example.org/street-art-gegen-grundschleppnetzfischerei/</guid>
+      <guid>http://localhost:1313/street-art-gegen-grundschleppnetzfischerei/</guid>
       <description>&lt;p&gt;Während sich heute die Fischereiminister:innen der EU-Mitgliedsstaaten treffen, nehmen sieben bekannte Street-Art-Künstler:innen dies zum Anlass, zeitgleich in verschiedenen europäischen Hauptstädten gegen die Grundschleppnetzfischerei zu protestieren. Dadurch erhoffen sie sich, die Meinung der Menschen zu diesem Thema an die versammelten Politiker:innen heranzutragen, denn mehr als 860.000 Europäer:innen haben die von &lt;a href=&#34;http://www.bloomassociation.org/&#34;&gt;BLOOM&lt;/a&gt; initiierte &lt;a href=&#34;http://www.bloomassociation.org/en/european-street-art-stands-up-against-deep-sea-bottom-trawling/&#34;&gt;Petition&lt;/a&gt; unterschrieben, deren Ziel es ist, dass die Grundschleppnetzfischerei möglichst schnell verboten wird.&lt;/p&gt;&#xA;&lt;p&gt;Ihre Sorge ist berechtigt: Schon seit längerem ist bekannt, dass die Tiefsee womöglich noch &lt;a href=&#34;https://www.deepwave.org/sinkende-sterne-tiefseebergbau-bedroht-seesternverwandte/&#34;&gt;artenreicher als der Amazonas-Regenwald&lt;/a&gt; ist. Demnach ist die Grundschleppnetzfischerei das Unterwasser-Äquivalent zur Rodung des Amazonas-Regenwaldes. In unserem &lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts_Grundschleppnetzfischerei_2016.pdf&#34;&gt;Factsheet&lt;/a&gt; haben wir die negativen Folgen der Grundschleppnetzfischerei sehr anschaulich dargelegt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Forscher:innen finden Leben in der ozeanischen Kruste</title>
-      <link>http://example.org/forscherinnen-finden-leben-in-der-ozeanischen-kruste/</link>
+      <link>http://localhost:1313/forscherinnen-finden-leben-in-der-ozeanischen-kruste/</link>
       <pubDate>Fri, 15 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://example.org/forscherinnen-finden-leben-in-der-ozeanischen-kruste/</guid>
+      <guid>http://localhost:1313/forscherinnen-finden-leben-in-der-ozeanischen-kruste/</guid>
       <description>&lt;p&gt;Forscher:innen haben tief in der ozeanischen Kruste Mikroorganismen nachgewiesen, nachdem sie in Proben, die eine Expedition 2004 vor der Küste des Bundesstaates Oregon genommen hatte, Gene identifizierten, die zur Verarbeitung von Methan und Sulfaten notwendig sind. Um dann auszuschließen, dass diese Gene von schon gestorbenen Mikroorganismen stammen, haben die Forscher:innen daraufhin versucht, diese Mikroorganismen zu kultivieren, da dafür lebende Mikroorganismen notwendig sind. Nach sieben Jahren konnte schließlich Methan - ein Stoffwechselprodukt der Mikroorganismen - nachgewiesen werden, sodass klar war, dass sich in den Proben lebende Mikroorganismen befinden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hüpft wie ein Frosch: Neuer Tiefseefisch entdeckt</title>
-      <link>http://example.org/huepft-wie-ein-frosch-ungewoehnlicher-tiefseefisch-entdeckt/</link>
+      <link>http://localhost:1313/huepft-wie-ein-frosch-ungewoehnlicher-tiefseefisch-entdeckt/</link>
       <pubDate>Fri, 13 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>http://example.org/huepft-wie-ein-frosch-ungewoehnlicher-tiefseefisch-entdeckt/</guid>
+      <guid>http://localhost:1313/huepft-wie-ein-frosch-ungewoehnlicher-tiefseefisch-entdeckt/</guid>
       <description>&lt;p&gt;Bei dem jetzt entdeckten Tiefseefisch &lt;em&gt;Histiophryne psychedelica&lt;/em&gt; handelt es sich um eine neue Art, die der Art der Anglerfische und der Gattung der &lt;em&gt;Histiophryne&lt;/em&gt; angehört. &lt;em&gt;Psychedelica&lt;/em&gt; unterscheidet sich jedoch in vielen Merkmalen von anderen Anglerfischen, da er sich hüpfend fortbewegt: Er stößt sich mit den beinartig ausgeprägten Flossen vom Meeresboden ab und sinkt wieder zu Boden. Zudem besitzt er keine Angel oder einen anderen Köder, mit dem er seine Beute anlockt. Vielmehr ist er sehr scheu und tarnt sich mit seinem wild gemusterten Köper im Sediment. Allerdings ist &lt;em&gt;Psychedelica&lt;/em&gt; - anders als andere Anglerfische - nicht in der Lage, seine Musterung an die Umgebung anzupassen. Auch sein weiteres Aussehen unterscheidet sich von anderen Arten: Seine gebogene Schwanzflosse und die Hautfalten lassen ihn wie einen Ball erscheinen und seine Augen sind - ähnlich wie unsere Augen - nach vorne gerichtet, sodass sich seine Sehbereiche überlappen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kalte Quellen: Forscher:innen gehen auf Tauchstation</title>
-      <link>http://example.org/kalte-quellen-forscher-gehen-tauchstation/</link>
+      <link>http://localhost:1313/kalte-quellen-forscher-gehen-tauchstation/</link>
       <pubDate>Fri, 13 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>http://example.org/kalte-quellen-forscher-gehen-tauchstation/</guid>
+      <guid>http://localhost:1313/kalte-quellen-forscher-gehen-tauchstation/</guid>
       <description>&lt;p&gt;Forscher:innen haben die Biodiversität an Methanquellen in der afrikanischen Tiefsee untersucht. An sogenannten kalten Quellen existieren nur sehr angepasste Lebewesen, die ohne Licht, mit enorm hohem Druck und giftigen Verbindungen, die aus den kalten Quellen austreten, auskommen müssen. Trotzdem enthält der Meeresboden in der Nähe von kalten Quellen ein Drittel der weltweiten Biomasse: In einem Gramm Meeressediment können sich mehrere Milliarden Zellen von Bakterien und Archaeen befinden, da kalte Quellen - abgesehen von den genannten lebensfeindlichen Bedingungen - Methan und andere Kohlenwasserstoffe liefern, die lebenswichtig für anaerobe Bakterien sind. Indem die Bakterien durch ihre Aktivität eine gleichbleibende Konzentration der Kohlenwasserstoffe im Sediment sicherstellen, haben sie ebenfalls eine wichtige Rolle im Kohlenstoffgleichgewicht inne.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kaltwasserkorallenriffe in Europa</title>
-      <link>http://example.org/korallenriffe_in_europa/</link>
+      <link>http://localhost:1313/korallenriffe_in_europa/</link>
       <pubDate>Tue, 14 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>http://example.org/korallenriffe_in_europa/</guid>
+      <guid>http://localhost:1313/korallenriffe_in_europa/</guid>
       <description>&lt;p&gt;Nicht nur in tropischen Gewässern existieren Korallenriffe. Auch im Atlantik sorgt ein Kaltwasserkorallenriffsystem, das von Spanien bis ins Nordmeer reicht, für den Artenreichtum im Ozean. Es wird zudem immer deutlicher, dass Kaltwasserkorallen keine Seltenheit sind: Nachdem Fischer:innen, die Überreste von Korallen in ihren Netzen fanden, lange Zeit kein Glauben geschenkt wurde, ging man den Berichten Mitte der 90er-Jahre nach und fand nahezu überall, wo man suchte, Kaltwasserkorallenriffe.&lt;/p&gt;&#xA;&lt;p&gt;Kaltwasserkorallen scheinen einen festen Bestandteil im Ozean einzunehmen, da Proben nachwiesen, dass einige Korallen über 200.000 Jahre alt sind. Einige Fossilienfunde weisen sogar darauf hin, dass die Riffe bereits seit über 30 Millionen Jahren bestehen. Forscher:innen sehen zudem immer mehr Hinweise, dass die Kaltwasserkorallenriffe die Kinderstuben vieler Fischarten sind. Hier haben die Fische ihre Eigelege und hier wachsen die Jungfische im Schutz der Korallen heran.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Greenpeace: Schutz der Tiefsee durch eine Handvoll von Fischerei-Nationen vereitelt</title>
-      <link>http://example.org/greenpeace-schutz-der-tiefsee-durch-eine-handvoll-von-fischerei-nationen-vereitelt/</link>
+      <link>http://localhost:1313/greenpeace-schutz-der-tiefsee-durch-eine-handvoll-von-fischerei-nationen-vereitelt/</link>
       <pubDate>Thu, 23 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>http://example.org/greenpeace-schutz-der-tiefsee-durch-eine-handvoll-von-fischerei-nationen-vereitelt/</guid>
+      <guid>http://localhost:1313/greenpeace-schutz-der-tiefsee-durch-eine-handvoll-von-fischerei-nationen-vereitelt/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Nationale Interessen verhindern UN Moratorium auf Verbot der Tiefsee-Grundschleppnetze&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Wien (OTS)&lt;/em&gt; - New York - Das Zustandekommen des dringend notwendigen globalen Moratoriums zum Schutz der Tiefsee mit einem zeitweiligen Verbot von Tiefsee-Grundschleppnetzen auf Hoher See wurde heute Nacht von einer kleinen Gruppe von Fischerei-Nationen zunichte gemacht. Während die Mehrheit der internationalen Staatengemeinschaft, zusammen mit Meeresbiologen und Umweltschutzorganisationen, sich für dringend benötigte Maßnahmen zum globalen Schutz der Meere stark machte, stellte vor allem Island seine eigenen nationalen Fischerei-Interessen in den Vordergrund.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ein See flüssigen Kohlendioxids in 1300 Meter Tiefe</title>
-      <link>http://example.org/ein_see_flussigen_kohlendioxids_in_1300_tiefe/</link>
+      <link>http://localhost:1313/ein_see_flussigen_kohlendioxids_in_1300_tiefe/</link>
       <pubDate>Sat, 02 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>http://example.org/ein_see_flussigen_kohlendioxids_in_1300_tiefe/</guid>
+      <guid>http://localhost:1313/ein_see_flussigen_kohlendioxids_in_1300_tiefe/</guid>
       <description>&lt;p&gt;&lt;em&gt;Japanisch-deutsches Meeresforscherteam entdeckt ungewöhnliches Ökosystem vor der Ostküste Taiwans:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kohlendioxid ist ein Treibhausgas, dessen Konzentration in der Atmosphäre sich in den letzten Jahrzehnten signifikant erhöht hat und das für das weltweite Ansteigen der Temperaturen verantwortlich zu sein scheint. Unter Atmosphärendruck und Temperaturen um die 20° Celsius ist Kohlendioxid gasförmig. Erhöht man den Druck und senkt die Temperatur, verflüssigt sich das Gas bis es schließlich fest als Eis (CO2-Hydrat) vorliegt. Hoher Druck und niedrige Temperaturen sorgen dann dafür, dass das Kohlendioxid nicht mehr als freies Gas in die Atmosphäre aufsteigen kann. Diese Eigenschaft erscheint in den Augen mancher Politiker und Wirtschaftsvertreter als die Lösung, um mit den steigenden Kohlendioxidkonzentrationen in der Atmosphäre fertig zu werden. Es gibt daher Pläne, dieses Gas in den Tiefen der Ozeane zu versenken.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Langsam, alt und außergewöhnlich: methanfressende Einzeller tief im Meeresboden</title>
-      <link>http://example.org/langsam_alt_und_ausergewohnlich_methanfressende_einzeller_tief_im_meeresboden/</link>
+      <link>http://localhost:1313/langsam_alt_und_ausergewohnlich_methanfressende_einzeller_tief_im_meeresboden/</link>
       <pubDate>Thu, 23 Feb 2006 00:00:00 +0000</pubDate>
-      <guid>http://example.org/langsam_alt_und_ausergewohnlich_methanfressende_einzeller_tief_im_meeresboden/</guid>
+      <guid>http://localhost:1313/langsam_alt_und_ausergewohnlich_methanfressende_einzeller_tief_im_meeresboden/</guid>
       <description>&lt;p&gt;Urtümliche Einzeller tief im Meeresboden werden möglicherweise bis zu 2.000 Jahre alt. Geringe Nährstoffkonzentrationen, extrem niedriger Stoffwechsel und ungewöhnliche Stoffwechselwege machen es möglich. Ein deutsch-amerikanisches Team von Geochemikern und Mikrobiologen kam im Rahmen des Ozean Bohr Programms (ODP) jetzt mit Hilfe neuer Analysemethoden bislang nicht erforschten Archaeen auf die Spur und gewann Erkenntnisse über ihre Lebensweise und Rolle in der tiefen Biosphäre. Das Team unter Leitung des Geochemikers Prof. Kai-Uwe Hinrichs vom DFG-Forschungszentrum Ozeanränder (RCOM) in Bremen veröffentlichte seine Ergebnisse in der angesehenen Zeitschrift der Nationalen Akademie der Wissenschaften der USA (Proceedings of the National Academy of Sciences, U.S.A.).&lt;/p&gt;</description>
     </item>
     <item>
       <title>„Nahrungsrätsel“ der Tiefsee geknackt</title>
-      <link>http://example.org/nahrungsraetsel-der-tiefsee-geknackt/</link>
+      <link>http://localhost:1313/nahrungsraetsel-der-tiefsee-geknackt/</link>
       <pubDate>Thu, 30 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>http://example.org/nahrungsraetsel-der-tiefsee-geknackt/</guid>
+      <guid>http://localhost:1313/nahrungsraetsel-der-tiefsee-geknackt/</guid>
       <description>&lt;p&gt;Wie ernähren sich die Bewohner der Tiefsee? Amerikanische Wissenschaftler scheinen das Nahrungsrätsel gelöst zu haben, wie Lebewesen in diesem scheinbar lebensfeindlichen Umfeld ohne Licht und mit großem Druck überleben können.&lt;/p&gt;&#xA;&lt;p&gt;Den zugehörigen Artikel &lt;a href=&#34;https://www.scinexx.de/news/biowissen/nahrungsraetsel-der-tiefsee-geknackt/&#34;&gt;„Nahrungsrätsel“ der Tiefsee geknackt&amp;quot;&lt;/a&gt;  vom 13.06.2005 könnt ihr bei &lt;a href=&#34;https://www.scinexx.de/&#34;&gt;scinexx&lt;/a&gt; nachlesen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Methan-Oasen der Tiefsee ergründet</title>
-      <link>http://example.org/methan_oasen_der_tiefsee_ergrundet/</link>
+      <link>http://localhost:1313/methan_oasen_der_tiefsee_ergrundet/</link>
       <pubDate>Mon, 27 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>http://example.org/methan_oasen_der_tiefsee_ergrundet/</guid>
+      <guid>http://localhost:1313/methan_oasen_der_tiefsee_ergrundet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kieler und Bremer Meereswissenschaftler erforschen Lebenszusammenhänge&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ein deutsch-amerikanisches Forscherteam hat eine reiche Tierwelt in der Tiefsee vor Costa Rica entdeckt. Dort, am pazifischen Kontinentalrand vor Zentralamerika, tritt Methan aus dem Erdinneren an submarinen Kuppen und Hangrutschungen aus. Anders als auf dem Land und in der lichtdurchfluteten Zone des Meeres, wo das Leben von der Sonne abhängig ist, bildet hier Methan die Lebensgrundlage für einen dichten, weißen Bakterienrasen, Röhrenwürmer und Muscheln, die den Ozeanboden in großen Feldern bedecken.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcasts on My New Hugo Site</title>
-    <link>http://example.org/podcast/</link>
+    <link>http://localhost:1313/podcast/</link>
     <description>Recent content in Podcasts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/podcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DEEPWAVE bei ZWEIvorZWÖLF</title>
-      <link>http://example.org/podcast/deepwave-bei-zweivorzw%C3%B6lf/</link>
+      <link>http://localhost:1313/podcast/deepwave-bei-zweivorzw%C3%B6lf/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/podcast/deepwave-bei-zweivorzw%C3%B6lf/</guid>
+      <guid>http://localhost:1313/podcast/deepwave-bei-zweivorzw%C3%B6lf/</guid>
       <description>&lt;p&gt;DEEPWAVE war Gast beim &lt;a href=&#34;https://www.zweivorzwoelf.info/episoden&#34;&gt;Nachhaltigkeitspodcast ZWEIvorZWÖLF&lt;/a&gt; von Andrea Gerhard und David Wehle. In der Folge #89 deepwave e.V. &amp;ndash; Meeresschutz spricht unsere CEO Anna Groß mit Andrea (die übrigens auch unsere Filmfestivals moderiert) über die zahlreichen Gefährdungen unserer Meere und was wir dagegen tun können, jede:r Einzelne und vor allem gemeinsam. Mit ansteckender Begeisterung trotz der nicht gerade leichten Themen stellen sie das breit gefächerte Engagement von DEEPWAVE vor.&lt;/p&gt;&#xA;&lt;p&gt;Hier eine kleine Übersicht der Themen, über die die beiden gesprochen haben:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plastic-Pollution on My New Hugo Site</title>
-    <link>http://example.org/blogs/plastic-pollution/</link>
+    <link>http://localhost:1313/blogs/plastic-pollution/</link>
     <description>Recent content in Plastic-Pollution on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/blogs/plastic-pollution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogs/plastic-pollution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plastic pollution in the Mariana Trench</title>
-      <link>http://example.org/plastic-pollution-in-the-mariana-trench/</link>
+      <link>http://localhost:1313/plastic-pollution-in-the-mariana-trench/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/plastic-pollution-in-the-mariana-trench/</guid>
+      <guid>http://localhost:1313/plastic-pollution-in-the-mariana-trench/</guid>
       <description>&lt;p&gt;In this precarious time concerning worldwide pollution, the actual dimensions &lt;a href=&#34;https://www.deepwave.org/the-oceans/pollution/?lang=en&#34;&gt;plastic pollution&lt;/a&gt; has actually taken is still surprising. Not a single crevice in the ocean is safe from non-degradable particles. Even at almost 11 km below the surface, at the deepest point of the ocean known as the Mariana Trench, scientists found plastic. It is no secret that approximately 94% of the plastic found in the ocean is located somewhere on the seafloor. Nonetheless, this finding reveals the shockingly high contamination of plastic within the most remote place, the &lt;a href=&#34;https://www.deepwave.org/the-oceans/the-deep-sea/?lang=en&#34;&gt;deep sea&lt;/a&gt;. This outlines the absolutely dire state the planet really is in, as it allows for the biomagnification and -accumulation in the deep sea food web, a highly complex and sensitive system in a very fragile ecosystem.&lt;/p&gt;</description>
     </item>
   </channel>

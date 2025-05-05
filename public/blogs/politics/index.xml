@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politics on My New Hugo Site</title>
-    <link>http://example.org/blogs/politics/</link>
+    <link>http://localhost:1313/blogs/politics/</link>
     <description>Recent content in Politics on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/blogs/politics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogs/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IUCN report: the future of deep sea mining</title>
-      <link>http://example.org/iucn-report-the-future-of-deep-sea-mining/</link>
+      <link>http://localhost:1313/iucn-report-the-future-of-deep-sea-mining/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/iucn-report-the-future-of-deep-sea-mining/</guid>
+      <guid>http://localhost:1313/iucn-report-the-future-of-deep-sea-mining/</guid>
       <description>&lt;p&gt;When we think of the &lt;a href=&#34;https://www.deepwave.org/the-oceans/the-deep-sea/?lang=en&#34;&gt;deep sea&lt;/a&gt;, we often associate this unique habitat with cold and darkness. What at first seems dull and empty is home to an amazing variety of species. IUCN&amp;rsquo;s 2018 report also described ecosystems as unique and valuable. The report&amp;rsquo;s authors stress that we have brought many marine species and habitats to the brink of destruction through our ruthless treatment of our environment. As commercial interest in the raw materials of deep sea soils increases, there is an urgent need to prevent deep-sea exploitation and destruction.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The future of deep seabed mining</title>
-      <link>http://example.org/the-future-of-deep-seabed-mining/</link>
+      <link>http://localhost:1313/the-future-of-deep-seabed-mining/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/the-future-of-deep-seabed-mining/</guid>
+      <guid>http://localhost:1313/the-future-of-deep-seabed-mining/</guid>
       <description>&lt;p&gt;“Our current knowledge of the deep sea is not sufficient to protect the unique species that live there from mining operations. It is alarming to see contracts being granted for these still largely unexplored and vulnerable areas. We need a 10-year moratorium on seabed mining exploitation.” - Carl Gustaf Lundin, director of &lt;a href=&#34;https://www.iucn.org/theme/marine-and-polar&#34;&gt;International Union for Conservation of Nature’s (IUCN) of Global Marine and Polar Programme&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This week the International Seabed Authority (ISA) is meeting in order to develop guidelines for the future of deep sea mining together with the industry. A 2019 publication by Jessica Aldred of the Chinadialogue ocean dealt with the complex nature of the deep sea floor, being a mineral rich resources holding the potential to future wealth, but at what cost? The jurisdictional issue that the ocean floor lies outside of any one countries boundary has led to grievances, as countries such as Japan hold deep sea beds within their continental waters, and are free to exploit these, whilst other countries do not have this “opportunity”. This, and other issues, were bound to be discussed in the recent meeting of the International Seabed Authority (ISA) with the aim to draw up a code of conduct for responsible use of deep seabed resources in an environmentally acceptable manner.&lt;/p&gt;</description>
     </item>
   </channel>
