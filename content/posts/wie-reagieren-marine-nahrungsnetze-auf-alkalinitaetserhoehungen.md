@@ -12,6 +12,7 @@ related:
   - "/ozeanversauerung-die-grenzen-der-anpassung/"
   - "/eurosea-luecken-in-der-ozeanbeobachtung-schliessen/"
   - "/co2-speicherung-darf-ausstieg-aus-fossilen-energien-nicht-behindern/"
+schema: Blogpost
 ---
 
 [![Alkalinitätserhöhung - Mikroskopaufnahme einer gemischten Zooplanktonprobe](https://www.deepwave.org/wp-content/uploads/2025/01/Marine_microplankton_zooplankton_nahrungsnetze.jpg)](https://www.deepwave.org/wp-content/uploads/2025/01/Marine_microplankton_zooplankton_nahrungsnetze.jpg)© Epipelagic / Wikimedia Commons (CC BY-SA 4.0)
