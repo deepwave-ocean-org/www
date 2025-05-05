@@ -96,7 +96,7 @@ collections_config:
     disable_add_folder: true
     disable_file_actions: false
     new_preview_url:
-    schema_key: blog_template
+    schema_key: _blog_schema
     schemas:
       blog_post:
         path: .cloudcannon/schemas/post.md
