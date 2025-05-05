@@ -2,8 +2,8 @@
     "routes": [
         {
         "from": "/(.*)",
-        "to": "https://legacy.deepwave.org/$1",
-        "status": 301,
+        "to": "https://dev.deepwave.org/$1",
+        "status": 302,
         "forced": false
         }
     ]
