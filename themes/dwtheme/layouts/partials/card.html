@@ -2,7 +2,7 @@
     <a href="{{ .RelPermalink }}" class="block">
         {{ with .Params.image }}
         <div class="relative h-48 bg-gray-200">
-            <img src="{{ . }}" alt="{{ $.LinkTitle }}" class="w-full h-full object-cover" />
+            <img src="{{ . }}" alt="{{ $.LinkTitle }}" class="w-full h-full object-cover" loading="lazy" />
         </div>
         {{ else }}
         <div class="relative h-48 bg-gray-700 flex items-center justify-center">
