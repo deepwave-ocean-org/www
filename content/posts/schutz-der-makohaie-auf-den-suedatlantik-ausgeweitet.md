@@ -4,7 +4,7 @@ date: 2022-11-23
 blogs: 
   - "good-news"
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2022/12/elaine-brewer-6xKDnfyks_k-unsplash-scaled.jpg"
 image_caption: "© Elaine Brewer / Unsplash"
 source: "Pressemitteilung, 22.11.22, Pro Wildlife"

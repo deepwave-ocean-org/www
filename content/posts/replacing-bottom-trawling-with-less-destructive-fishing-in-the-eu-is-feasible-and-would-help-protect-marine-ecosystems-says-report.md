@@ -4,7 +4,7 @@ date: 2022-09-09
 blogs: 
   - "politik"
   - "tiefsee"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/02/002_2014_03_17_Netze.jpg"
 image_caption: "© Friedrich Haag / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 08.09.2022, Seas At Risk"

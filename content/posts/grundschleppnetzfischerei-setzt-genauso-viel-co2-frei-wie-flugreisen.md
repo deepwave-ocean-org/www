@@ -3,7 +3,7 @@ title: "Grundschleppnetzfischerei setzt genauso viel CO2 frei wie Flugreisen"
 date: 2021-04-04
 blogs: 
   - "klima"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2021/11/Unbenannt.png"
 image_caption: "© David Stanley / Wikimedia Commons (CC-BY-2.0)"
 author: "DEEPWAVE"

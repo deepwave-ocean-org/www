@@ -3,7 +3,7 @@ title: "EU-Parlament schwenkt beim Meeresschutz um"
 date: 2024-01-19
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2024/08/EU_Parlament_Flagge_Sara_Kurfess_Unsplash-scaled.jpg"
 image_caption: "© Sara Kurfeß / Unsplash"
 source: "Pressemitteilung, WWF, 18.01.2024"

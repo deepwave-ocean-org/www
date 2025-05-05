@@ -3,7 +3,7 @@ title: "Geisternetze, tödliche Fallen im Meer"
 date: 2022-09-25
 blogs: 
   - "pplastic-pollution"
-  - "ueberfischung"
+  - "überfischung"
   - "was-tun"
 image: "https://www.deepwave.org/wp-content/uploads/2022/10/Geisternetz_Cormoran_Wolf_Wichmann.png"
 image_caption: "© Wolf Wichmann"

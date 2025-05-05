@@ -4,7 +4,7 @@ date: 2006-11-23
 blogs: 
   - "politik"
   - "tiefsee"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2020/09/david_clode_trawler_schleppnetz_grundschleppnetz_boot.jpg"
 image_caption: "© David Clode / Unsplash"
 source: "Pressemitteilung, 23.11.2006, Greenpeace"

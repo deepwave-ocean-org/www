@@ -25,13 +25,13 @@ init_masonry = function () {
                 dot.style.right = 'calc(-2.5 * 4px - 2%)';
                 dot.style.left = 'auto';
                 dot.style.top = '24px';
-                dot.style.opacity = '1';
+                dot.style.opacity = '0'; // TODO disable for now
             } else {
                 // Item is on right, dot goes on left
                 dot.style.left = 'calc(-2.5 * 4px - 2%)';
                 dot.style.right = 'auto';
                 dot.style.top = '24px';
-                dot.style.opacity = '1';
+                dot.style.opacity = '0'; // TODO disable for now
             }
         });
     }

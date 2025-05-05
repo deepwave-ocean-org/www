@@ -3,7 +3,7 @@ title: "Fischereiforschung hat Fischbestände zu optimistisch eingeschätzt"
 date: 2024-08-23
 blogs: 
   - "forschung"
-  - "ueberfischung"
+  - "überfischung"
 source: "Pressemitteilung, GEOMAR, 22.08.2024"
 author: "Amalia Klein"
 related: 

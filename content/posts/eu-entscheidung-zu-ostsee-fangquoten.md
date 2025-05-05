@@ -3,7 +3,7 @@ title: "EU-Entscheidung zu Ostsee-Fangquoten: Deutsche Umwelthilfe kritisiert Be
 date: 2024-10-23
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2024/11/netz_fischer_ostsee_fangquote_haende_conor-o-nolan-unsplash-scaled.jpg"
 image_caption: "© Conor O'Nolan / Unsplash"
 source: "Pressemitteilung, Deutsche Umwelthilfe, 22.10.2024"

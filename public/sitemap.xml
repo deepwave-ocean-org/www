@@ -35,7 +35,7 @@
     <loc>http://localhost:1313/blogs/pplastic-pollution/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/ueberfischung/</loc>
+    <loc>http://localhost:1313/blogs/%C3%BCberfischung/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nordsee-fangquoten-deutsche-umwelthilfe-kritisiert-beschluesse-als-unzureichend/</loc>
@@ -2112,8 +2112,6 @@
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/video/klartext/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blogs/%C3%BCberfischung/</loc>
   </url><url>
     <loc>http://localhost:1313/video/</loc>
   </url>

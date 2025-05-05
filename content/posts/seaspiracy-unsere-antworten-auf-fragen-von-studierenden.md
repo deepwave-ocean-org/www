@@ -6,7 +6,7 @@ blogs:
   - "filme"
   - "kultur"
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
   - "veranstaltungen"
   - "was-tun"
 author: "DEEPWAVE"
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=FWe\_yW\_kUjI
 
 Quelle: [AStA Landau](https://www.asta-landau.de/) auf YouTube
 
-Die Netflix Dokumentation _Seaspiracy_ geht seit ihrer Veröffentlichung viral. Ihre Bilder und Inhalte lassen viele Zuschauer:innen nicht mehr los und Themen wie [Überfischung](https://www.deepwave.org/die-ozeane/ueberfischung/), [Plastikverschmutzung](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) und [Klimawandel](https://www.deepwave.org/die-ozeane/klimawandel/) und [Tierethik](https://www.deepwave.org/was-fische-wissen-von-jonathan-balcombe/) werden seitdem neu diskutiert. Auch wenn der Film die Überfischung als eine der aktuell größten Bedrohungen der Weltmeere thematisiert, zeigt er auf großartige Weise, wie alle Gefährdungen zusammenhängen, sich gegenseitig bedingen und nicht unabhängig von einander gelöst werden können. In der öffentlichen Diskussion sind Fragen aufgeworfen worden und einige Schieflagen entstanden, die von der Kernaussage des Filmes ablenken. Daher wurden wir gefragt, welche Seaspiracy-Aussagen auf Richtigkeit geprüft werden müssen, welche korrigert und welche belegt werden können.
+Die Netflix Dokumentation _Seaspiracy_ geht seit ihrer Veröffentlichung viral. Ihre Bilder und Inhalte lassen viele Zuschauer:innen nicht mehr los und Themen wie [Überfischung](https://www.deepwave.org/die-ozeane/überfischung/), [Plastikverschmutzung](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) und [Klimawandel](https://www.deepwave.org/die-ozeane/klimawandel/) und [Tierethik](https://www.deepwave.org/was-fische-wissen-von-jonathan-balcombe/) werden seitdem neu diskutiert. Auch wenn der Film die Überfischung als eine der aktuell größten Bedrohungen der Weltmeere thematisiert, zeigt er auf großartige Weise, wie alle Gefährdungen zusammenhängen, sich gegenseitig bedingen und nicht unabhängig von einander gelöst werden können. In der öffentlichen Diskussion sind Fragen aufgeworfen worden und einige Schieflagen entstanden, die von der Kernaussage des Filmes ablenken. Daher wurden wir gefragt, welche Seaspiracy-Aussagen auf Richtigkeit geprüft werden müssen, welche korrigert und welche belegt werden können.
 
 Und vor allem: Was können wir selber gegen die verdeckten, grausamen Ungerechtigkeiten tun? Wie kann jede:r Einzelne dazu beitragen, die katastrophalen Zustände auf und in den Weltmeeren zum Positiven zu wenden?
 

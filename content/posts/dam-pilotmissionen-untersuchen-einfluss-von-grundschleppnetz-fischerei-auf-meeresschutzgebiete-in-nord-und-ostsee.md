@@ -4,7 +4,7 @@ date: 2020-12-01
 blogs: 
   - "forschung"
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2021/07/joshua-j-cotten-b5RSev8qwU-unsplash-scaled.jpg"
 image_caption: "© Joshua J. Cotten / Unsplash"
 source: "Pressemitteilung, 30.11.2020, Deutsche Allianz für Meeresforschung"

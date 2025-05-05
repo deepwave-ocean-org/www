@@ -4,7 +4,7 @@ date: 2018-11-30
 blogs: 
   - "politik"
   - "tiefsee"
-  - "ueberfischung"
+  - "überfischung"
 author: "DEEPWAVE"
 ---
 

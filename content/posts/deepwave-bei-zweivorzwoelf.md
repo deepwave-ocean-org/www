@@ -8,7 +8,7 @@ blogs:
 author: "Amalia Klein"
 related: 
   - "/filmfestival-2023/"
-  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/"
+  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/"
   - "/nabu-entscheidung-zu-windpark-butendiek-enttaeuscht-auf-ganzer-linie/"
   - "/bluestraw-kampagne/"
   - "/ozeanbuecher/"
@@ -24,7 +24,7 @@ Hier eine kleine Übersicht der Themen, über die die beiden gesprochen haben:
 
 **Aufklärungsarbeit** Das [DEEPWAVE-Filmfestiva](https://www.deepwave.org/filmfestival-2023/)l
 
-**Politische Arbeit** Fischereigesetze und die [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/) Die Meeresoffensive im Koalitionsvertrag Die aktuelle politische Situation [Offshore-Windparks](https://www.deepwave.org/nabu-entscheidung-zu-windpark-butendiek-enttaeuscht-auf-ganzer-linie/) DEEPWAVE's [Klartext zur Meeresoffensive](https://meeresoffensive.deepwave.org/)
+**Politische Arbeit** Fischereigesetze und die [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/) Die Meeresoffensive im Koalitionsvertrag Die aktuelle politische Situation [Offshore-Windparks](https://www.deepwave.org/nabu-entscheidung-zu-windpark-butendiek-enttaeuscht-auf-ganzer-linie/) DEEPWAVE's [Klartext zur Meeresoffensive](https://meeresoffensive.deepwave.org/)
 
 **Plastikverschmutzung** Zusammenarbeit mit [Montemero](https://www.montemero.eu/) Geisternetze Greenwashing - Ocean Plastic
 

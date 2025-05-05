@@ -5,7 +5,7 @@ blogs:
   - "kultur"
   - "kunst"
   - "tiefsee"
-  - "ueberfischung"
+  - "überfischung"
 tags: 
   - "fishery"
   - "street-art"

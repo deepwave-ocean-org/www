@@ -2,7 +2,7 @@
 title: "Goldene Regeln zur Rettung der Fischbestände"
 date: 2024-09-24
 blogs: 
-  - "ueberfischung"
+  - "überfischung"
   - "was-tun"
 source: "Pressemitteilung, 23.09.2024, Geomar"
 author: "Amalia Klein"

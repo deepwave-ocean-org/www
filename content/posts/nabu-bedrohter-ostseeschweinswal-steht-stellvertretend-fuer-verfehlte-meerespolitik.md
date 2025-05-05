@@ -3,7 +3,7 @@ title: "NABU: Bedrohter Ostseeschweinswal steht stellvertretend für verfehlte M
 date: 2020-05-16
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2020/05/Schweinswal.jpg"
 image_caption: "© NOAA / Wikimedia Commons"
 source: "Pressemitteilung, 15.05.2020, NABU"

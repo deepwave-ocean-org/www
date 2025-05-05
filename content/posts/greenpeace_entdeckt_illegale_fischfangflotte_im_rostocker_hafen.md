@@ -3,7 +3,7 @@ title: "Greenpeace entdeckt illegale Fischfangflotte im Rostocker Hafen"
 date: 2005-12-20
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
   - "was-tun"
 image: "https://www.deepwave.org/wp-content/uploads/2005/12/boat-g270bd74c6_1920.jpg"
 image_caption: "© kkortmulder / Pixabay"

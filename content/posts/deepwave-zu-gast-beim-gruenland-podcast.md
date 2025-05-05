@@ -11,9 +11,9 @@ author: "Amalia Klein"
 related: 
   - "/nabu-meeresschutz-ist-klimaschutz/"
   - "/marine-senke-fuer-menschgemachtes-co2-bestimmt/"
-  - "/ueberfischung-der-weltmeere-nimmt-weiter-zu-und-beschleunigt-sich-laut-welternaehrungsorganisation/"
+  - "/überfischung-der-weltmeere-nimmt-weiter-zu-und-beschleunigt-sich-laut-welternaehrungsorganisation/"
   - "/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/"
-  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/"
+  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/"
   - "/bluestraw-kampagne/"
 ---
 
@@ -27,7 +27,7 @@ Blue Marble [Bedeutung der Meere für die Bewältigung der Klimakrise](https://w
 
 [Tiefseebergbau](https://www.deepwave.org/wp-content/uploads/2015/03/Tiefsee-Bergbau.pdf) Protestbewegungen dagegen Lizenzen
 
-[Überfischung](https://www.deepwave.org/ueberfischung-der-weltmeere-nimmt-weiter-zu-und-beschleunigt-sich-laut-welternaehrungsorganisation/) [Seaspiracy](https://www.deepwave.org/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/) [Faktencheck vom BUND](https://www.bund.net/fileadmin/user_upload_bund/publikationen/meere/Meeresschutz_Seaspiracy_Faktencheck.pdf) Saiko Fischerei "Esst keinen Fisch!" Geisternetze - Hauptteil des Plastiks im Meer Das Unwort "Beifang": Was ist das? Dorsch, Lachs & Co [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/)
+[Überfischung](https://www.deepwave.org/überfischung-der-weltmeere-nimmt-weiter-zu-und-beschleunigt-sich-laut-welternaehrungsorganisation/) [Seaspiracy](https://www.deepwave.org/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/) [Faktencheck vom BUND](https://www.bund.net/fileadmin/user_upload_bund/publikationen/meere/Meeresschutz_Seaspiracy_Faktencheck.pdf) Saiko Fischerei "Esst keinen Fisch!" Geisternetze - Hauptteil des Plastiks im Meer Das Unwort "Beifang": Was ist das? Dorsch, Lachs & Co [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/)
 
 Was kann ich tun?
 

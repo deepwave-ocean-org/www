@@ -3,11 +3,11 @@ title: "Kaffeesatz statt Wissenschaft: WWF kritisiert „staatlich legitimierte 
 date: 2018-12-20
 blogs: 
   - "forschung"
-  - "ueberfischung"
+  - "überfischung"
 source: "Pressemitteilung, 19.12.2018, WWF"
 author: "DEEPWAVE"
 related: 
-  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/"
+  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/"
 ---
 
 EU einigt sich auf Fischfangmengen für 2019 / WWF kritisiert „staatlich legitimierte Überfischung“
@@ -22,6 +22,6 @@ Die Europäische Union hat sich mit ihrer aktuellen Gemeinsamen Fischereipolitik
 
 [Diese Pressemitteilung](https://www.wwf.de/2018/dezember/kaffeesatz-statt-wissenschaft/) findet ihr beim [WWF](https://www.wwf.de/).
 
-Weiter Informationen zur Überfischung unsere Ozeane findet ihr [hier.](https://www.deepwave.org/die-ozeane/ueberfischung/)
+Weiter Informationen zur Überfischung unsere Ozeane findet ihr [hier.](https://www.deepwave.org/die-ozeane/überfischung/)
 
-Die [Forderung von einer Beendung der Überfischung zum Welttag der Meere, von der Deutsche Umwelthilfe, Our Fish und Deepwave](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/), könnt ihr in unserem [Politikblog](https://www.deepwave.org/blogs/politik/) nachlesen.
+Die [Forderung von einer Beendung der Überfischung zum Welttag der Meere, von der Deutsche Umwelthilfe, Our Fish und Deepwave](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/), könnt ihr in unserem [Politikblog](https://www.deepwave.org/blogs/politik/) nachlesen.

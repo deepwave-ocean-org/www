@@ -3,7 +3,7 @@ title: "NABU zur Agrarministerkonferenz: Fischerei braucht keine Reform, sondern
 date: 2023-09-23
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/10/Krabbenkutter_Ivonne_Pellworm_P5242390jm.jpg"
 image_caption: "© Joachim Müllerchen / Wikimedia Commons (CC BY-SA 2.0)"
 source: "Pressemitteilung, 22.09.2023, NABU"

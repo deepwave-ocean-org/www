@@ -3,7 +3,7 @@ title: "Zukunft der Ostseefischerei: Leitbildkommission beendet Arbeit"
 date: 2023-12-18
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2024/01/2023-12-18_michael-held-h-Mh4TjH6zE-unsplash.jpg"
 image_caption: "© Michael Held / Unsplash"
 source: "Pressemitteilung, 18.12.2023, gemeinsame Pressemitteilung von BUND, DUH, NABU und WWF"

@@ -3,7 +3,7 @@ title: "HELCOM-Bericht zeigt, wie schlecht es der Ostsee geht"
 date: 2023-11-01
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2024/08/Moewen_Ostsee_MandrillArt_Pixabay.jpg"
 image_caption: "© MandrillArt / Pixabay"
 source: "Pressemitteilung, NABU, 31.10.2023"

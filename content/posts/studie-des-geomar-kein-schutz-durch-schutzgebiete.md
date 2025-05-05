@@ -9,7 +9,7 @@ tags:
   - "geomar"
   - "grundschleppnetzfischerei"
   - "meereschutzgebiet"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2019/04/shrimp-205275_1920.jpg"
 image_caption: "© Lekies / Pixabay"
 author: "DEEPWAVE"
@@ -29,6 +29,6 @@ Die Studie "[Meeresschutzgebiete nicht sicher](https://www.geomar.de/news/articl
 
 Kurz nach der Veröffentlichung der Studie führe Deutschlandfunk ein Interview mit Dr. Rainer Froese, einem der Autoren der Studie. Das Interview "[Fischerei mit Grundschleppnetzen -](https://www.deutschlandfunk.de/fischerei-mit-grundschleppnetzen-damit-verfehlen-100.html) Damit verfehlen Meeresschutzgebiete komplett ihren Sinn" findet ihr beim [Deutschlandfunk](https://www.deutschlandfunk.de/).
 
-Die Konsequenzen der Überfischung sind sehr ausführlich in unserem Factsheet [Überfischung](https://www.deepwave.org/die-ozeane/ueberfischung/) dargestellt.
+Die Konsequenzen der Überfischung sind sehr ausführlich in unserem Factsheet [Überfischung](https://www.deepwave.org/die-ozeane/überfischung/) dargestellt.
 
 UPDATE: 2021 hat die Bundesregierung die Chance versäumt, die Ost- und Nordsee zu entlasten: Die [Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee](https://www.deepwave.org/nabu-raumordnungsplan-ohne-plan-meeresnatur-ist-grosser-verlierer/) versäumt es wieder, Schutzgebiete zu wirtschaftlich nicht nutzbaren Bereichen zu erklären.

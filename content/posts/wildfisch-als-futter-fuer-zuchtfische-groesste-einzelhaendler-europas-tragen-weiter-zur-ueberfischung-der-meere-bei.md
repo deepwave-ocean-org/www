@@ -4,7 +4,7 @@ date: 2021-11-19
 blogs: 
   - "forschung"
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2022/03/fish-farming-g692746cf6_1920.jpg"
 image_caption: "© LTapsaH / Pixabay"
 source: "Pressemitteilung, 18.11.2021, Deutsche Umwelthilfe (DUH)"
@@ -25,6 +25,6 @@ _„Europas Lebensmittelhändler machen es Verbraucherinnen und Verbrauchern fas
 
 Die Ergebnisse basieren auf einer vergleichenden Untersuchung von 33 führenden europäischen Lebensmitteleinzelhändlern, die Changing Markets und Partnerorganisationen zwischen März 2020 und Mai 2021 durchgeführt haben. Der gemeinsame Bericht bietet einen Überblick, wie die größten europäischen Supermarktketten mit der Beschaffung von Zuchtfisch umgehen.
 
-[Diese Pressemitteilung](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/wildfisch-als-futter-fuer-zuchtfische-groesste-einzelhaendler-europas-tragen-weiter-zur-ueberfischung-de/) findet ihr bei der [DUH](https://www.duh.de/).
+[Diese Pressemitteilung](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/wildfisch-als-futter-fuer-zuchtfische-groesste-einzelhaendler-europas-tragen-weiter-zur-überfischung-de/) findet ihr bei der [DUH](https://www.duh.de/).
 
 Wer noch gerne ab und zu Fisch isst, kann sich mit dem [WWF Fischratgeber](https://www.deepwave.org/wwf-fischratgeber-fuer-einen-nachhaltigen-fischkonsum/) einfach und schnell über einzelne Arten informieren. Durch ein Ampelsystem wird sofort deutlich, welcher Fisch eine gute - oder weniger gute Wahl ist.

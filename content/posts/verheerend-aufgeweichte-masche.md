@@ -2,7 +2,7 @@
 title: "Verheerend aufgeweichte Masche"
 date: 2023-05-18
 blogs: 
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/06/riddhiman-bhowmik-9oMbHpq0FdI-unsplash-scaled.jpg"
 image_caption: "© Riddhiman Bhowmik / Unsplash"
 source: "Pressemitteilung, 17.05.2023, WWF"

@@ -3,7 +3,7 @@ title: "EU-Entscheidung zu Ostsee-Fangquoten: Deutsche Umwelthilfe kritisiert Be
 date: 2023-10-25
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/11/HvitSandBeachLitter_070.jpg"
 image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 24.10.2023, DUH"

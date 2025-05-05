@@ -2,7 +2,7 @@
 title: "Aktionstag: Internationaler Tag des Ostsee-Schweinswals"
 date: 2019-04-29
 blogs: 
-  - "ueberfischung"
+  - "überfischung"
   - "was-tun"
 tags: 
   - "meeresmuseum"

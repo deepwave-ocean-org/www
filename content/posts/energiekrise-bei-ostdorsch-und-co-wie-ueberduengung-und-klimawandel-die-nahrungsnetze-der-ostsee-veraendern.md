@@ -4,7 +4,7 @@ date: 2024-03-28
 blogs: 
   - "forschung"
   - "klima"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2024/11/cod_dorsch_kabeljau_ostsee_fangquote_viviane_m_pixabay.jpg"
 image_caption: "© Viviane M. / pixabay"
 source: "Pressemitteilung, 27.03.2024, Thünen"

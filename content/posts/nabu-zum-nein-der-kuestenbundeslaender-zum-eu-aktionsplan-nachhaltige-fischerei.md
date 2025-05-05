@@ -3,7 +3,7 @@ title: "NABU zum Nein der Küstenbundesländer zum EU-Aktionsplan Nachhaltige Fi
 date: 2023-03-22
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/03/net-g84b226228_1920.jpg"
 image_caption: "© SylvaineA / Pixabay"
 source: "Pressemitteilung, 21.03.2023, NABU"

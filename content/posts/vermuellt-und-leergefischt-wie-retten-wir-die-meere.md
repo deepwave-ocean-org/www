@@ -3,7 +3,7 @@ title: "Vermüllt und leergefischt - Wie retten wir die Meere?"
 date: 2019-05-27
 blogs: 
   - "favoriten"
-  - "ueberfischung"
+  - "überfischung"
   - "videos-und-audio"
   - "was-tun"
 tags: 
@@ -11,7 +11,7 @@ tags:
   - "fischerei"
   - "fischereipolitik"
   - "klimawandel"
-  - "ueberfischung"
+  - "überfischung"
 author: "DEEPWAVE"
 ---
 

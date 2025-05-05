@@ -3,7 +3,7 @@ title: "\"Wir dachten, der Stint wäre unerschöpflich\""
 date: 2019-04-23
 blogs: 
   - "forschung"
-  - "ueberfischung"
+  - "überfischung"
 author: "DEEPWAVE"
 ---
 

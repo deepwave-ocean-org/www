@@ -3,7 +3,7 @@ title: "Überfischter Ostsee-Hering in zertifiziertem Tierfutter"
 date: 2022-10-07
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/02/Catch_of_Atlantic_herring.jpg"
 image_caption: "© NOAA FishWatch / Wikimedia Commons"
 source: "Pressemitteilung, 06.10.2022, WWF"

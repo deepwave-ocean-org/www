@@ -19,4 +19,4 @@ Mit seinem letzten Song ["EARTH"](https://welovetheearth.org/video/) präsentier
 
 Mehr zu Lil Dickys neuem Song und den daran teilhabenden Sänger:innen bei [EARTH](https://welovetheearth.org/video/).
 
-Mehr zu den Themen [Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/), [Klimawandel](https://www.deepwave.org/die-ozeane/klimawandel/) oder [Überfischung](https://www.deepwave.org/die-ozeane/ueberfischung/) findet ihr bei uns auf der Website.
+Mehr zu den Themen [Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/), [Klimawandel](https://www.deepwave.org/die-ozeane/klimawandel/) oder [Überfischung](https://www.deepwave.org/die-ozeane/überfischung/) findet ihr bei uns auf der Website.

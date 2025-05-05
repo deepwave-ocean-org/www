@@ -3,7 +3,7 @@ title: "Nordsee-Fangquoten: Deutsche Umwelthilfe kritisiert Beschlüsse als unzu
 date: 2024-12-12
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2024/12/burkhard-kaufhold-unsplash_netz_fangquote_nordsee_grau-scaled.jpg"
 image_caption: "© Burkhard Kaufhold / Unsplash"
 source: "Pressemitteilung, 11.12.2024, Deutsche Umwelthilfe"

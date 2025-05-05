@@ -3,12 +3,12 @@ title: "Fangquoten 2020 für die Ostsee – nicht ausreichend, aber besser als e
 date: 2019-11-01
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2019/11/Trawlers_overfishing_cod.jpg"
 image_caption: "© Asc1733 - Own work / Wikimedia Commons (CC-BY-SA 4.0)"
 author: "DEEPWAVE"
 related: 
-  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/"
+  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/"
 ---
 
 „Same procedure as every year“: Der Internationale Rat der Meeresforschung (ICES) legte der EU auch in diesem Jahr die Empfehlungen für die Fangquoten 2020 in Europäischen Meeren vor. Diese Empfehlungen basieren auf wissenschaftlich fundierten Berechnungen, die eine nachhaltige Fischerei der Bestände möglich machen. Eine empfohlene Fangquote ist so festgelegt, dass, wenn sie eingehalten wird, sichergestellt wird, dass ein Bestand nachhaltig befischt wird. Das heißt, dass nur maximal so viel Fisch gefangen wird, wie auch durch Fortpflanzung „nachwachsen“ kann und so der Bestand nicht weiter schrumpft. So die Theorie. Meist werden in den langen Verhandlungen der Fischereiminister die empfohlenen Fangquoten dann doch ein bisschen oder auch in großem Maße überschritten.  Diese Praxis wird auch seit 2013 fortgesetzt, wo mit der Gemeinsamen Fischereipolitik (Common fisheries policy) der EU ein Ende der Überfischung bis 2020 (also de facto in zwei Monaten) beschlossen wurde. Dennoch gelten in der EU 41% der Fischbestände als überfischt. In der Ostsee hat sich die Situation in den letzten Jahren noch dramatisch verschlechtert. Während 2013 vier von acht kommerziell genutzten Arten als überfischt galten, waren es 2017 schon sieben. Und dennoch werden höhere Fangquoten festgelegt als von den Experten des ICES empfohlen.
@@ -26,4 +26,4 @@ So bleibt zu hoffen, dass sich in den nächsten Jahren das Umdenken fortsetzt un
 
 Franziska Bils für DEEPWAVE
 
-Quellen und weitere Information zu diesem Thema findet ihr beim [WWF](https://www.wwf.de/themen-projekte/meere-kuesten/fischerei/fischereipolitik-in-europa/), bei der [Coalition Clean Baltic](https://ccb.se/2019/10/ccbs-comment-to-ministers-decision-on-tacs-for-the-baltic-sea/), beim [BMEL,](https://www.bmel.de/SharedDocs/Pressemitteilungen/2019/207-FangquotenOstsee.html) bei der [Europäischen Kommission](https://ec.europa.eu/commission/commissioners/2014-2019/vella/announcements/press-statement-commissioner-vella-following-agrifish-council-luxembourg_en) und auf unserer [DEEPWAVE website](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/).
+Quellen und weitere Information zu diesem Thema findet ihr beim [WWF](https://www.wwf.de/themen-projekte/meere-kuesten/fischerei/fischereipolitik-in-europa/), bei der [Coalition Clean Baltic](https://ccb.se/2019/10/ccbs-comment-to-ministers-decision-on-tacs-for-the-baltic-sea/), beim [BMEL,](https://www.bmel.de/SharedDocs/Pressemitteilungen/2019/207-FangquotenOstsee.html) bei der [Europäischen Kommission](https://ec.europa.eu/commission/commissioners/2014-2019/vella/announcements/press-statement-commissioner-vella-following-agrifish-council-luxembourg_en) und auf unserer [DEEPWAVE website](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/).

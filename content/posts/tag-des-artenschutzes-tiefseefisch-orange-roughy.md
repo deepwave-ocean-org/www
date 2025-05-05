@@ -4,7 +4,7 @@ date: 2019-03-03
 blogs: 
   - "favoriten"
   - "tiefsee"
-  - "ueberfischung"
+  - "überfischung"
 tags: 
   - "fischerei"
   - "grundschleppnetzfischerei"

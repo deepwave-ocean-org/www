@@ -4,7 +4,7 @@ date: 2022-05-14
 blogs: 
   - "forschung"
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/02/Ostseeschweinswal_Beifang_Stellnetzverbot.jpg"
 image_caption: "© Erik Christensen / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 13.05.22, NABU"

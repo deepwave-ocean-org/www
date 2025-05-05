@@ -3,7 +3,7 @@ title: "Dorschbestand in der östlichen Ostsee kollabiert – Umweltverbände fo
 date: 2019-05-01
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2019/05/fishing-425342_1920.jpg"
 image_caption: "© Susanna Winqvist / Pixabay"
 source: "Pressemitteilung, 11.04.2019 von der Deutschen Umwelthilfe (DUH)"

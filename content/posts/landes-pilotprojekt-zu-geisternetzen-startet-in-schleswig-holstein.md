@@ -4,7 +4,7 @@ date: 2023-10-03
 blogs: 
   - "good-news"
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/11/Sass2NetzRestDiv_030.jpg"
 image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 02.10.2023, WWF"

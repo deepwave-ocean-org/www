@@ -4,11 +4,11 @@ date: 2019-06-04
 blogs: 
   - "politik"
   - "presse"
-  - "ueberfischung"
+  - "überfischung"
 author: "DEEPWAVE"
 ---
 
-[![](https://www.deepwave.org/wp-content/uploads/2019/06/Fischmarkt-abgesagt.jpg)](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/fischmarkt-abgesagt/) © Finke / DUH
+[![](https://www.deepwave.org/wp-content/uploads/2019/06/Fischmarkt-abgesagt.jpg)](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/fischmarkt-abgesagt/) © Finke / DUH
 
 Deutsche Umwelthilfe, Our Fish und DEEPWAVE kritisieren Versäumnis der Politik, Überfischung zu stoppen – DUH fordert Ende der Überfischung und illegaler Fischrückwürfe auf See – Aktion der DUH, Our Fish und DEEPWAVE zum Welttag der Meere vor den Toren der Bundesregierung veranschaulicht verheerende Auswirkungen der Überfischung – Marktschreier prangert zu hohe Fangmengen für Dorsch, Hering & Co. an
 

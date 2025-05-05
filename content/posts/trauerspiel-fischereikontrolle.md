@@ -3,7 +3,7 @@ title: "Trauerspiel Fischereikontrolle"
 date: 2021-06-29
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2022/03/boats-g6042c35c7_1920.jpg"
 image_caption: "© moritz320 / Pixabay"
 source: "Pressemitteilung, 28.06.21, WWF"

@@ -3,7 +3,7 @@ title: "NABU: Nachhaltigkeitssiegel MSC schützt Wale und Seevögel nicht ausrei
 date: 2019-02-22
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2019/02/GillNetLostCormorant_007.jpg"
 image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 22.02.2019 vom NABU"

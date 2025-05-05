@@ -20,4 +20,4 @@ If "Under" can provide the desired mind-changing experience for guests has to be
 
 More information concerning the restaurant can be found at [Under](https://under.no/) and [Snøhetta.](https://snohetta.com/project/428-under-europes-first-underwater-restaurant)
 
-If you want to know more about overfishing, by-catch, ghost nets, shark conservation and aquaculture you can find collected information on [our overfishing site](https://www.deepwave.org/die-ozeane/ueberfischung/).
+If you want to know more about overfishing, by-catch, ghost nets, shark conservation and aquaculture you can find collected information on [our overfishing site](https://www.deepwave.org/die-ozeane/überfischung/).

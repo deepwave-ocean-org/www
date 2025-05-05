@@ -6,7 +6,7 @@ blogs:
 tags: 
   - "fischerei"
   - "newsletter"
-  - "ueberfischung"
+  - "überfischung"
 author: "DEEPWAVE"
 ---
 

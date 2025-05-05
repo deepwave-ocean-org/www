@@ -3,7 +3,7 @@ title: "Unsere Meere brauchen Schutzgebiete, die schützen"
 date: 2023-06-08
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/07/Trischen_mittelplate_schiff_22.08.2011_16-10-34.2011_16-10-34-scaled.jpg"
 image_caption: "© Dirk Ingo Franke / Wikimedia Commons (CC BY-SA 3.0))"
 source: "Pressemitteilung, 07.06.2023, NABU"

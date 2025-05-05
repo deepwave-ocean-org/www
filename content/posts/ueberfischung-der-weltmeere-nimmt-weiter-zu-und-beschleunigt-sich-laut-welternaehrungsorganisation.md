@@ -3,7 +3,7 @@ title: "Überfischung der Weltmeere nimmt weiter zu und beschleunigt sich laut W
 date: 2018-07-11
 blogs: 
   - "forschung"
-  - "ueberfischung"
+  - "überfischung"
 tags: 
   - "aquakultur"
   - "ernaehrungssicherheit"
@@ -12,7 +12,7 @@ tags:
   - "fischerei"
   - "fishery"
   - "klimawandel"
-  - "ueberfischung"
+  - "überfischung"
   - "welternaehrungsorganisation"
 source: "Pressemitteilung [Fair Oceans](http://www.fair-oceans.info/) Rom, 11.07.2018"
 author: "DEEPWAVE"

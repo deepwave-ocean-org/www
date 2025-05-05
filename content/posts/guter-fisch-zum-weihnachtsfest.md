@@ -2,7 +2,7 @@
 title: „Guter Fisch“ zum Weihnachtsfest
 date: 2024-12-18T00:00:00Z
 blogs:
-  - ueberfischung
+  - überfischung
 source: Pressemitteilung, 17.12.2024, GEOMAR
 author: Amalia Klein
 image: >-

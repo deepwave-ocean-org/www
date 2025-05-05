@@ -3,7 +3,7 @@ title: "DUH kritisiert beschlossene Nordsee-Fangquoten der EU"
 date: 2023-12-13
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2024/01/2023-12-12_fengyou-wan-L2E584RsxPY-unsplash.jpg"
 image_caption: "© Fengyou Wan / Unsplash"
 source: "Pressemitteilung, 12.12.2023, Pressemitteilung DUH"

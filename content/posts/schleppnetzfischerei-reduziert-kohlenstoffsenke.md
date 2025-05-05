@@ -4,7 +4,7 @@ date: 2024-10-29
 blogs: 
   - "forschung"
   - "klima"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2024/12/krabbenkutter_trawl_nordsee_kohlenstoffsenke_pixabay_wolf_blur.jpg"
 image_caption: "© Pixabay / Wolf Blur"
 source: "Pressemitteilung, 28.10.2024, Hereon"

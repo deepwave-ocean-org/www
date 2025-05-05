@@ -18,7 +18,7 @@ Aufklärungsarbeit\
 Das [DEEPWAVE-Filmfestiva](https://www.deepwave.org/filmfestival-2023/)l
 
 Politische Arbeit\
-Fischereigesetze und die [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/)\
+Fischereigesetze und die [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/)\
 Die Meeresoffensive im Koalitionsvertrag\
 Die aktuelle politische Situation\
 [Offshore-Windparks](https://www.deepwave.org/nabu-entscheidung-zu-windpark-butendiek-enttaeuscht-auf-ganzer-linie/)\

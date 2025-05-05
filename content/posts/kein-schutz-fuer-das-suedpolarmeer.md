@@ -3,7 +3,7 @@ title: "Kein Schutz für das Südpolarmeer"
 date: 2022-11-05
 blogs: 
   - "politik"
-  - "ueberfischung"
+  - "überfischung"
 image: "https://www.deepwave.org/wp-content/uploads/2023/01/derek-oyen-Pp-zoKs3pXQ-unsplash-scaled.jpg"
 image_caption: "© Derek Oyen / Unsplash"
 source: "Pressemitteilung, 04.11.2022, WWF"
