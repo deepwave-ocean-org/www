@@ -1,0 +1,10 @@
+{
+    "routes": [
+        {
+        "from": "/(.*)",
+        "to": "https://legacy.deepwave.org/$1",
+        "status": 301,
+        "forced": false
+        }
+    ]
+}
