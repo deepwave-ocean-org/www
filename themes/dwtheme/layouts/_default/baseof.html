@@ -2,7 +2,9 @@
 <html>
     {{- partial "head.html" . -}}
     {{- partial "headers/navigation.html" . -}}
-    <body hx-boost="true" hx-on:htmx:responseError="window.location.href = this.getAttribute('href')">
+    <!-- hx-boost="true" hx-on:htmx:responseError="window.location.href = this.getAttribute('href')" -->
+    
+    <body>
         <div id="content">
         {{- block "main" . }}{{- end }}
         <div class="not_full_width">
