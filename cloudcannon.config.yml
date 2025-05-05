@@ -98,29 +98,12 @@ collections_config:
     new_preview_url:
     schemas:
       Blogpost:
-        path: posts
+        path: .cloudcannon/schemas/post.md
         reorder_inputs: true
         hide_extra_inputs: false
         remove_empty_inputs: false
         remove_extra_inputs: false
-        name:
         icon: post_add
-        preview:
-          text:
-          subtext:
-          icon:
-          icon_color:
-          image:
-          metadata:
-          gallery:
-        _editables:
-        _enabled_editors:
-        _inputs:
-        _select_data:
-        _structures:
-        create:
-        new_preview_url:
-    schema_key:
   timeline:
     path: /content/ueber uns/wer wir sind
     glob:
