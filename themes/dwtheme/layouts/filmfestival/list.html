@@ -1,9 +1,41 @@
 {{ define "main" }}
-{{ if .Title }}
-{{ partial "headers/default_parallax" . }}
-{{ end }}
+<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<section class="relative overflow-hidden w-full">
+
+    <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
+        style="background-image: url('{{ .Params.image }}');">
+    </div>
+
+    <div class="absolute inset-0" style="background-color: {{ .Params.overlay | default " var(--color-parallax-overlay)"
+        | safeCSS }};"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-row text-white my-36">
+        {{ with .Params.saveTheDate }}
+        <div class="w-full lg:w-2/3 flex flex-col justify-center lg:pr-12">
+            <h1 class="text-3xl md:text-3xl mb-4">{{ $.Title }}</h1>
+            <div class="text-2xl mb-6 lg:mb-0">{{ .datum }}</div>
+        </div>
+        <div class="w-full lg:w-2/3 h-24 flex flex-row justify-center">
+            <div class="w-auto flex flex-col justify-center">
+                <div title="Save the Date" class="addeventatc">
+                    Add to Calendar
+                    <span class="start">{{ .start }}</span>
+                    <span class="end">{{ .end }}</span>
+                    <span class="timezone">Europe/Berlin</span>
+                    <span class="title">{{ $.Title }}</span>
+                    <span class="description">{{ .description }}</span>
+                    <span class="location">{{ .location }}</span>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    </section>
+
 <div class="not_full_width min-h-screen my-12">
-    {{ .Content }}
+    <div class="text-2xl">
+        {{ .Content }}</div>
+    {{ partial "divider" . }}
     <div class="">
         {{ range .Pages.ByDate.Reverse }}
         <div class="flex flex-wrap lg:flex-row">
