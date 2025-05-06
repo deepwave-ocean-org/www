@@ -1,0 +1,69 @@
+{{ define "main" }}
+{{ if .Title }}
+{{ partial "headers/default_parallax" . }}
+{{ end }}
+
+<div class="not_full_width my-12">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-12 mb-8">
+        <div class="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden shadow-lg">
+            <video controls class="w-full h-full object-cover">
+                <source src="https://res.cloudinary.com/deepwave-org/video/upload/v1746393128/20240502_Deepwave_NGO_Master_hqbaec.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+        <div class="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden shadow-lg">
+            <iframe class="w-full h-full" src="https://www.youtube.com/embed/P6fnHKU8xUc" title="Was machen wir konkret - Meeresschutz bei DEEPWAVE e.V." allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="my-8 border-t border-gray-200"></div>
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
+        <article class="flex flex-col justify-center">
+            <h2 class="text-2xl font-bold mb-4">Unsere Longreads: für alle, die es wirklich wissen wollen.</h2>
+            <p class="mb-4">Unser Gastautor Nico Czaja zeigt unsere Position zu Themen auf, die hochaktuell und komplex sind, kontrovers diskutiert werden und einer umfassenden Darstellung bedürfen.</p>
+            <p>
+                <a href="https://www.deepwave.org/ueber-die-wolken/" class="text-blue-600 hover:text-blue-800 hover:underline">Über die Wolken – Wie man sie macht und ob man es lieber lassen sollte</a></p>
+                <p><a href="https://www.deepwave.org/ccs-unter-die-erde-kehren/" class="text-blue-600 hover:text-blue-800 hover:underline">Unter die Erde kehren – Über die subterrane Unterbringung von CO₂ mittels CCS als MZBDKW</a></p>
+        </article>
+        <div class="flex justify-center items-center">
+            <a href="https://www.deepwave.org/ccs-unter-die-erde-kehren/" target="_blank" class="block shadow-lg hover:shadow-xl transition-shadow">
+                <img src="https://www.deepwave.org/wp-content/uploads/2025/04/Screenshot-2025-04-17-at-21-36-29-CCS-Unter-die-Erde-kehren-DEEPWAVE-e.V.jpg" alt="CCS - Unter die Erde kehren" class="w-full rounded-lg">
+            </a>
+        </div>
+    </div>
+
+    <div class="my-8 border-t border-gray-200"></div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
+        <div class="lg:col-span-1">
+                <img src="https://www.deepwave.org/wp-content/uploads/2025/04/Screenshot-2025-04-17-at-21-31-27-Mangroven_9x_Layout-1-Mangroven_2016_deepwave.pdf.jpg" alt="Mangroven Factsheet" class="w-full rounded-lg shadow-lg">
+        </div>
+        <div class="lg:col-span-2 flex flex-col justify-center">
+            <h2 class="text-2xl font-bold mb-4">Unsere Factsheets.</h2>
+            <p>Das harte Brot des Wissens. Unsere Sammlung zum Nachschlagen. Fakten, Quellen, Studien. Handlungsrelevantes Wissen.</p>
+        </div>
+    </div>
+
+    <div class="my-8 border-t border-gray-200"></div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <div class="lg:col-span-2 flex flex-col justify-center">
+            <h2 class="text-2xl font-bold mb-4">Unsere Reflexionen.</h2>
+            <p>Auszüge aus unserem Instagram Account, jenseits von Social Media. Über Politik und das Verzweifeln daran und die Wege heraus aus dem Labyrinth, über den Regen und unsere Verbindung zu Städen am und im Meer, über das freie Tauchen und einen anderen Blick auf die Meere.</p>
+        </div>
+        <div class="lg:col-span-1">
+            <a href="https://www.deepwave.org/blogs/veranstaltungen/" target="_blank" class="block">
+                <img src="https://www.deepwave.org/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-07.10.00.jpeg" alt="Der Kreidesee von oben" class="w-full rounded-lg shadow-lg">
+            </a>
+        </div>
+    </div>
+
+    <div class="my-12 border-t border-gray-200"></div>
+
+    <div class="mb-8">
+        <h2 class="text-3xl font-bold mb-8 text-center">Favoriten aus unseren Blogs</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {{ partial "related_posts" (dict "context" . "autoload" false) }}
+        </div>
+    </div>
+</div>
+{{ end }}

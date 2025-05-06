@@ -10,11 +10,12 @@ blogs:
   - "veranstaltungen"
   - "was-tun"
 author: "DEEPWAVE"
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1746526952/deepwave.org/kristin-snippe-3-3X50TIm-M-unsplash_a6zaz7.jpg
+image_caption: © Kristin Snippe / Unsplash
 related: 
   - "/was-fische-wissen-von-jonathan-balcombe/"
 ---
-
-https://www.youtube.com/watch?v=FWe\_yW\_kUjI
+{{< youtube FWe_yW_kUjI >}}
 
 Quelle: [AStA Landau](https://www.asta-landau.de/) auf YouTube
 

@@ -6,6 +6,7 @@
 :root {
   --color-deepwave-blue: #1d436f;
   --color-deepwave-light-blue: #7295af;
+  --color-deepwave-dark-blue: #326784;
   --color-deepwave-link: #2298a5;
   --color-parallax-overlay: rgba(52, 67, 84, 0.38);
 }
@@ -117,10 +118,4 @@ blockquote {
 
 .logo img {
   max-height: 60px;
-}
-
-/* Footer styles */
-footer {
-  background-color: var(--color-deepwave-dark-blue);
-  color: white;
 }

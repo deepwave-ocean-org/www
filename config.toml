@@ -25,3 +25,13 @@ theme = "dwtheme"
     disableWatch = true
     source = 'hugo_stats.json'
     target = 'assets/notwatching/hugo_stats.json'
+
+[params]
+  footericon = "/images/onno-gross.jpg"
+  footertext = "Jeden Tag, mit jedem Quadratmeter Schutzgebiet, jedem Verzicht auf Fisch und jeder Vermeidung von Plastikmüll können wir die Ozeane und unseren Planeten bewahren."
+  footerlogo = "/images/deepwave-logo.png"
+  footerimg = "/images/ocean-footer.jpg"
+  newstitle = "Interessiert an Neuigkeiten zum Meeresschutz?"
+  newsundertitle = "Dann halten wir dich mit unserem Newsletter auf dem Laufenden."
+  footernewsone = "/images/newsletter-preview-1.jpg"
+  footernewstwo = "/images/newsletter-preview-2.jpg"

@@ -56,7 +56,7 @@ home:
   - title: Reflexionen
     subtitle: Gedanken, Sichtungen, Hintergründe
     url: https://www.instagram.com/deepwave_ocean_org/
-    image: https://www.deepwave.org/wp-content/uploads/2023/03/überfischung_Quadrat.png
+    image: https://www.deepwave.org/wp-content/uploads/2023/03/Ueberfischung_Quadrat.png
   - title: Die Ozeane
     subtitle: Unsere Texte über Tiefsee, Klimakrise, Überfischung, Lärm u.v.m.
     url: /die-ozeane/
@@ -71,5 +71,38 @@ home:
     image: https://www.deepwave.org/wp-content/uploads/2018/12/blog_2.png
 footer:
   ueber-uns:
-    - title: "Über uns"
-      url: "/ueber-uns/"
+    - name: "Woher wir kommen"
+      url: "/ueber-uns/woher-wir-kommen/"
+    - name: "Wer wir sind"
+      url: "/ueber-uns/wer-wir-sind/"
+    - name: "Wohin wir gehen"
+      url: "/projekte/"
+    - name: "Onno Groß"
+      url: "/ueber-uns/onno-gross/"
+  projekte:
+    - name: "BLUE STRAW"
+      url: "/deep-sea/bluestraw-kampagne/"
+    - name: "DEEP SEA"
+      url: "/"
+    - name: "MANGREEN"
+      url: "/projekte/mangrovenprojekt/"
+    - name: "UNSER BLAUER PLANET"
+      url: "/projekte/schulkampagne-meeresfibel/"
+  lesen:
+    - name: "Die Ozeane"
+      url: "/die-ozeane/"
+    - name: "Factsheets"
+      url: "/die-ozeane/factsheets/"
+    - name: "News Blog"
+      url: "/blogs/"
+    - name: "Bücher"
+      url: "/ozeanbuecher/"
+  kontakt:
+    - name: "Mitarbeit"
+      url: "/etwas-tun/mitarbeit/"
+    - name: "Mitglied werden"
+      url: "/etwas-tun/mitglied-werden/"
+    - name: "Kontaktformular"
+      url: "/impressum/kontakt/"
+    - name: "Presse"
+      url: "/impressum/presse/"

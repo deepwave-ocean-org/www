@@ -32,7 +32,7 @@
             {{ with .Params.blurb }}
             <p class="text-gray-600 text-sm">{{ . }}</p>
             {{ else }}
-            <p class="text-gray-600 text-sm">{{ .Summary | truncate 120 "..." }}</p>
+            <p class="text-gray-600 text-sm">{{ .Summary | plainify | truncate 120 "..." }}</p>
             {{ end }}
 
         </div>

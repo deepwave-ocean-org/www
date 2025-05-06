@@ -5,37 +5,7 @@
     {{ .Content }}
 </article>
 <div class="not_full_width my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-5xl">
-    {{ $relatedPages := slice}}
-    {{ with .Params.related }}
-        {{ range . }}
-            {{ $pagelink := . }}
-            {{ range $.Site.Pages }}
-                {{ if eq .RelPermalink $pagelink }}
-                    {{ $relatedPages = $relatedPages | append . }}
-                {{ end }}
-            {{ end }}
-        {{ end }}
-    {{ end }}
-    {{ if eq (len $relatedPages) 0 }}
-        {{ $relatedPages = $relatedPages | append .NextInSection }}
-        {{ $relatedPages = $relatedPages | append .PrevInSection }}
-    {{ end }}
-
-    {{ if eq (len $relatedPages) 1 }}
-        {{ $relatedPages = $relatedPages | append .PrevInSection }}
-    {{ end }}
-
-
-    {{ range $index, $page := $relatedPages }}
-     {{ with $page}}
-        {{ partial "card" . }}
-        {{ if eq $index (sub (len $relatedPages) 1) }}
-            <div hx-get="{{ .RelPermalink }}" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
-                hx-select="#content-area" hx-push-url="true">
-            </div>
-        {{ end }}
-        {{end}}
-    {{ end }}
+    {{ partial "related_posts" (dict "context" . "autoload" true) }}
 </div>
 </div>
 {{ end }}

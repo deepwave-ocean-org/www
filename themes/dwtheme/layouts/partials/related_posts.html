@@ -1,0 +1,36 @@
+{{ $context := .context }}
+{{ $autoload := .autoload | default false }}
+
+{{ $relatedPages := slice }}
+    {{ with $context.Params.related }}
+        {{ range . }}
+            {{ $pagelink := . }}
+            {{ range $context.Site.Pages }}
+                {{ if eq .RelPermalink $pagelink }}
+                    {{ $relatedPages = $relatedPages | append . }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    {{ if eq (len $relatedPages) 0 }}
+        {{ $relatedPages = $relatedPages | append $context.NextInSection }}
+        {{ $relatedPages = $relatedPages | append $context.PrevInSection }}
+    {{ end }}
+
+    {{ if eq (len $relatedPages) 1 }}
+        {{ $relatedPages = $relatedPages | append $context.PrevInSection }}
+    {{ end }}
+
+
+    {{ range $index, $page := $relatedPages }}
+     {{ with $page}}
+        {{ partial "card" . }}
+        {{ if eq $autoload true }}
+        {{ if eq $index (sub (len $relatedPages) 1) }}
+            <div hx-get="{{ .RelPermalink }}" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
+                hx-select="#content-area" hx-push-url="true">
+            </div>
+        {{ end }}
+        {{ end }}
+        {{end}}
+    {{ end }}
