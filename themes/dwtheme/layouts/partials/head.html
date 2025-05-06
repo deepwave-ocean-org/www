@@ -1,26 +1,12 @@
 <head>
     {{ partialCached "css.html" . }}
-<link rel="preconnect" href="https://fonts.googleapis.com">
+    <!-- <link rel="icon" href="https://www.deepwave.org/wp-content/uploads/2018/08/cropped-deepwave_logo_4c_Krake-2-32x32.jpg?x95826" sizes="32x32">
+        <link rel="icon" href="https://www.deepwave.org/wp-content/uploads/2018/08/cropped-deepwave_logo_4c_Krake-2-192x192.jpg?x95826" sizes="192x192">
+        <link rel="apple-touch-icon" href="https://www.deepwave.org/wp-content/uploads/2018/08/cropped-deepwave_logo_4c_Krake-2-180x180.jpg?x95826"> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link
     href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
     rel="stylesheet">
     <script src="https://unpkg.com/htmx.org@1.9.6"></script>
-    <script>
-        // Process HTMX responses to extract just the content area
-        htmx.config.useTemplateFragments = true;
-
-        document.addEventListener('htmx:beforeSwap', function (evt) {
-            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
-                // Extract just the #content-area from the response
-                const parser = new DOMParser();
-                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
-                const contentArea = responseDoc.querySelector('#content-area');
-
-                if (contentArea) {
-                    evt.detail.serverResponse = contentArea.innerHTML;
-                }
-            }
-        });
-    </script>
 </head>
