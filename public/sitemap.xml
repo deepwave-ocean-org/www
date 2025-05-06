@@ -206,6 +206,12 @@
     <loc>http://localhost:1313/blogs/reflexionen/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/filmfestival/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/filmfestival/2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/zukunft-der-ostseefischerei-leitbildkommission-beendet-arbeit/</loc>
     <lastmod>2023-12-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -572,6 +578,9 @@
     <loc>http://localhost:1313/wie-man-einen-wal-rettet/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/filmfestival/2023/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/bund-gegen-kohlendioxid-deponien-im-meer-oder-an-land-ampel-darf-auch-klimaschaedlichen-plaenen-der-industrie-fuer-landesweite-co2-pipelines-und-exportinfrastruktur-nicht-nachgeben/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -802,6 +811,12 @@
   </url><url>
     <loc>http://localhost:1313/weltweit-groesstes-fischbrutgebiet-in-der-antarktis-entdeckt/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/filmfestival/saving-corals-icrs-2022/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/filmfestival/2022/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gemeinsame-pressemitteilung-bundeswehr-torpediert-schweinswalschutz/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>

@@ -5,7 +5,7 @@ module.exports = {
           'deepwave-blue': 'var(--color-deepwave-blue)',
           'deepwave-light-blue': 'var(--color-deepwave-light-blue)',
           'deepwave-dark-blue': 'var(--color-deepwave-dark-blue)',
-          'deepwave-ocean': 'var(--color-deepwave-ocean)',     
+          'deepwave-link': 'var(--color-deepwave-link)',     
         },
         fontFamily: {
           'serif': ['Merriweather', 'Georgia', 'serif'],

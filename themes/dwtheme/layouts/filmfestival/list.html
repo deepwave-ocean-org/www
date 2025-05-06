@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{ if .Title }}
+{{ partial "headers/default_parallax" . }}
+{{ end }}
+<div class="not_full_width min-h-screen my-12">
+    {{ .Content }}
+    <div class="">
+        {{ range .Pages.ByDate.Reverse }}
+        <div class="flex flex-wrap lg:flex-row">
+            <div class="w-full lg:w-1/2 flex flex-col justify-center lg:pr-12 mb-16">
+                <h1 class="text-3xl pb-3">{{ .Title }}</h1>
+                {{ .Content }}
+                {{ with .Params.link }}
+                <div class="flex flex-row justify-center mt-4">
+                <button class="text-2xl w-auto border-deepwave-link text-deepwave-link px-4 py-3 border-2 rounded hover:scale-105 hover:bg-gray-100 hover-border-0">
+                    <a href="{{ . }}" >
+                        Zum Programm
+                    </a>
+                </button>
+                </div>
+                {{ end }}
+            </div>
+            <div class="w-full lg:w-1/2 relative">
+                <a href="{{ .Params.link }}" class="block">
+                    <img src="{{ .Params.image }}" alt="{{ .LinkTitle }}" class="w-full h-auto">
+                </a>
+            </div>
+        </div>
+        {{ partial "divider" . }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}
