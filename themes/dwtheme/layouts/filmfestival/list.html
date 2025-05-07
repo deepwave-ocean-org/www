@@ -9,13 +9,13 @@
     <div class="absolute inset-0" style="background-color: {{ .Params.overlay | default " var(--color-parallax-overlay)"
         | safeCSS }};"></div>
 
-    <div class="relative z-10 not_full_width h-full flex flex-row text-white my-36">
-        {{ with .Params.saveTheDate }}
-        <div class="w-full lg:w-2/3 flex flex-col justify-center">
-            <h1 class="text-3xl md:text-3xl mb-4">{{ $.Title }}</h1>
-            <div class="text-2xl mb-6 lg:mb-0">{{ .datum }}</div>
+    <div class="relative z-10 not_full_width h-full flex flex-row flex-wrap text-white my-36">
+        <div class="w-full md:w-2/3 flex flex-col justify-center">
+            <h1 class="text-3xl md:text-3xl mb-4">{{ .Title }}</h1>
+            <div class="text-2xl mb-6 md:mb-0">{{ .Params.datum }}</div>
         </div>
-        <div class="w-full lg:w-1/3 h-24 flex flex-row justify-center">
+        {{ with .Params.saveTheDate }}
+        <div class="w-full md:w-1/3 h-24 flex flex-row justify-center">
             <div class="w-auto flex flex-col justify-center">
                 <div title="Save the Date" class="addeventatc">
                     Add to Calendar
@@ -38,8 +38,8 @@
     {{ partial "divider" . }}
     <div class="">
         {{ range .Pages.ByDate.Reverse }}
-        <div class="flex flex-wrap lg:flex-row">
-            <div class="w-full lg:w-1/2 flex flex-col justify-center lg:pr-12 mb-16">
+        <div class="flex flex-wrap md:flex-row">
+            <div class="w-full md:w-1/2 flex flex-col justify-center md:pr-12 mb-16">
                 <h1 class="text-3xl pb-3">{{ .Title }}</h1>
                 {{ .Content }}
                 {{ with .Params.link }}
@@ -52,7 +52,7 @@
                 </div>
                 {{ end }}
             </div>
-            <div class="w-full lg:w-1/2 relative">
+            <div class="w-full md:w-1/2 relative">
                 <a href="{{ .Params.link }}" class="block">
                     <img src="{{ .Params.image }}" alt="{{ .LinkTitle }}" class="w-full h-auto">
                 </a>

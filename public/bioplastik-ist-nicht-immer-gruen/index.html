@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta http-equiv="delegate-ch"
+    Hello
+<meta http-equiv="delegate-ch"
         content="sec-ch-width https://res.cloudinary.com; sec-ch-dpr https://res.cloudinary.com; sec-ch-viewport-width https://res.cloudinary.com;">
+<meta name="viewport" content="width=device-width, initial-scale=1">
     
   
     
@@ -1825,7 +1827,11 @@ Okt. 25, 2010</time>
         <div class="not_full_width">
         </div>
         </div>
-        
+        <script type="text/javascript">
+            console.log("Cloudinary JS loaded");
+            var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
+            cl.responsive();
+        </script>
     </body>
     
 </html>
