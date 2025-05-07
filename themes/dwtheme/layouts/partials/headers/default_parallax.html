@@ -1,7 +1,7 @@
 <section class="relative overflow-hidden w-full">
     
     <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
-        style="background-image: url('{{ .Params.image }}');">
+        style="background-image: url('{{ partial "img/src" .Params.image }}');">
     </div>
     
     <div class="absolute inset-0" style="background-color: {{ .Params.overlay | default "var(--color-parallax-overlay)" | safeCSS }};"></div>

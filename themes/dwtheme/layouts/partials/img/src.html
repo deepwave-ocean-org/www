@@ -1,0 +1,12 @@
+{{ $cldUrl := site.Params.cld.url }}
+{{ $cldTransform := site.Params.cld.transform }}
+
+{{ $src := . }}
+
+{{ if hasPrefix $src $cldUrl  }}
+    {{ $assetId := replace $src $cldUrl "" }}
+    {{ $assetId := replace $assetId "image/upload/" "" }}
+    {{ $src = print $cldUrl $cldTransform "/" $assetId }}
+{{ end }}
+
+{{ return $src }}

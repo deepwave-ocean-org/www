@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta http-equiv="delegate-ch"
+        content="sec-ch-width https://res.cloudinary.com; sec-ch-dpr https://res.cloudinary.com; sec-ch-viewport-width https://res.cloudinary.com;">
     
   
     
@@ -10,29 +12,15 @@
     
   
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link
-    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
-    rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
     <script src="https://unpkg.com/htmx.org@1.9.6"></script>
-    <script>
-        
-        htmx.config.useTemplateFragments = true;
-
-        document.addEventListener('htmx:beforeSwap', function (evt) {
-            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
-                
-                const parser = new DOMParser();
-                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
-                const contentArea = responseDoc.querySelector('#content-area');
-
-                if (contentArea) {
-                    evt.detail.serverResponse = contentArea.innerHTML;
-                }
-            }
-        });
-    </script>
+    
+    <script src="/js/cloudinary-core-shrinkwrap.js"></script>
 </head><header class="font-sans">
     <div class="menu_shadow">
         <div class="not_full_width">
@@ -140,7 +128,9 @@
     
     
       <div class="flex flex-row justify-end h-full">
-        <img class="h-3/4 absolute bottom-16 right-16" src="https://static.wixstatic.com/media/7fcd6e_6e1993367dee420ca4456d3df285ff09~mv2.jpg/v1/fill/w_624,h_624,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/89%20Deepwave%20website.jpg" alt="DEEPWAVE bei ZWEIvorZWÖLF" />
+        
+<span class="w-[30vw] absolute bottom-16 right-16">
+<img data-src='https://res.cloudinary.com/deepwave-org/c_fill,w_auto,g_auto,q_auto,dpr_auto/f_auto/deepwave.org/89_Deepwave_website_mqlcnw.avif' alt="DEEPWAVE bei ZWEIvorZWÖLF" class="cld-responsive " loading="lazy" width="100%" /></span>
         
         <figcaption class="text-md absolute bottom-0 right-0 p-4 text-white rotate-270 origin-bottom-right -translate-y-144 w-128">
           © ZWEIvorZWÖLF
@@ -212,6 +202,7 @@ Unser <a href="https://www.deepwave.org/newsletter/">Newsletter</a></p>
         <div class="not_full_width">
         </div>
         </div>
+        
     </body>
     
 </html>

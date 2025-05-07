@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta http-equiv="delegate-ch"
+        content="sec-ch-width https://res.cloudinary.com; sec-ch-dpr https://res.cloudinary.com; sec-ch-viewport-width https://res.cloudinary.com;">
     
   
     
@@ -10,29 +12,15 @@
     
   
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link
-    href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
-    rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
     <script src="https://unpkg.com/htmx.org@1.9.6"></script>
-    <script>
-        
-        htmx.config.useTemplateFragments = true;
-
-        document.addEventListener('htmx:beforeSwap', function (evt) {
-            if (evt.detail.xhr.responseURL && !evt.detail.requestConfig.headers['HX-Request']) {
-                
-                const parser = new DOMParser();
-                const responseDoc = parser.parseFromString(evt.detail.serverResponse, 'text/html');
-                const contentArea = responseDoc.querySelector('#content-area');
-
-                if (contentArea) {
-                    evt.detail.serverResponse = contentArea.innerHTML;
-                }
-            }
-        });
-    </script>
+    
+    <script src="/js/cloudinary-core-shrinkwrap.js"></script>
 </head><header class="font-sans">
     <div class="menu_shadow">
         <div class="not_full_width">
@@ -3258,6 +3246,7 @@ Jan 17, 2024</time>
         <div class="not_full_width">
         </div>
         </div>
+        
     </body>
     
 </html>

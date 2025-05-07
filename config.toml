@@ -35,3 +35,8 @@ theme = "dwtheme"
   newsundertitle = "Dann halten wir dich mit unserem Newsletter auf dem Laufenden."
   footernewsone = "/images/newsletter-preview-1.jpg"
   footernewstwo = "/images/newsletter-preview-2.jpg"
+
+[params.cld]
+
+url = "https://res.cloudinary.com/deepwave-org/"
+transform = "c_fill,w_auto,g_auto,q_auto,dpr_auto/f_auto"
