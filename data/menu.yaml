@@ -1,12 +1,26 @@
 main:
   - title: "Über uns"
     url: "/ueber-uns/"
+    sublinks:
+    - title: "Was wir tun"
+      url: "/ueber-uns/was-wir-tun/"
   - title: "Highlights"
     url: "/highlights/"
   - title: "Reflexionen"
     url: "/blogs/reflexionen/"
   - title: "Projekte"
     url: "/projekte/"
+    sublinks:
+    - titel: "KLARTEXT Meerespolitik"
+      url: "https://klartext.deepwave.org"
+    - title: "NO DEEP SEA MINING - NEVER"
+      url: "https://tiefsee.deepwave.org"
+    - title: "Filmfestival"
+      url: "projekte/filmfestival/"
+    - title: "Die Meeresfibel"
+      url: "projekte/meeresfibel/"
+    - title: "MANGREEN"
+      url: "projekte/mangrovenprojekt/"
   - title: "Die Ozeane"
     url: "/die-ozeane/"
   - title: "Blogs"
@@ -30,20 +44,6 @@ service:
     url: "/die-ozeane/bilder/"
   - title: "Podcasts"
     url: "/podcast/"
-ueber-uns:
-  - title: "Was wir tun"
-    url: "/ueber-uns/was-wir-tun/"
-projekte:
-  - titel: "KLARTEXT Meerespolitik"
-    url: "https://klartext.deepwave.org"
-  - title: "NO DEEP SEA MINING - NEVER"
-    url: "https://tiefsee.deepwave.org"
-  - title: "Filmfestival"
-    url: "projekte/filmfestival/"
-  - title: "Die Meeresfibel"
-    url: "projekte/meeresfibel/"
-  - title: "MANGREEN"
-    url: "projekte/mangrovenprojekt/"
 home:
   - title: Über uns
     subtitle: Unsere NGO, unser Gründer Onno Groß und unsere Zukunft

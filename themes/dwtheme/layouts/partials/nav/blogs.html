@@ -1,4 +1,4 @@
-<ul class="flex space-x-4 overflow-x-auto py-1">
+<ul class="flex flex-wrap space-x-4 py-1 text-sm md:text-xl">
   {{ $filteredPages := slice }}
   {{ range .Site.Taxonomies.blogs }}
     {{ if .Page.Params.order }}
