@@ -1,0 +1,68 @@
+{{ define "main" }}
+{{ if .Title }}
+{{ partial "headers/default_parallax" . }}
+{{ end }}
+<div class="not_full_width min-h-screen my-12 mx-16 md:mx-auto">
+    {{ .Content }}
+      <!-- Vorstand Section -->
+  <section class="py-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16">
+        <div class="h-full flex flex-col justify-center mb-8">
+          <h1 class="text-3xl text-center">Unser Vorstand</h1>
+        </div>
+      {{ range .Params.vorstand }}
+      {{ partial "portrait" . }}
+      {{ end }}
+    </div>
+  </section>
+    {{ partial "divider" . }}
+  <!-- Botschafter Section -->
+  <section class="py-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16">
+        <div class="h-full flex flex-col justify-center mb-8">
+          <h2 class="text-3xl text-center">Unsere Botschafter:innen</h2>
+        </div>
+      {{ range .Params.botschafter }}
+      {{ partial "portrait" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ partial "divider" . }}
+  <!-- Team Section -->
+  <section class="py-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16">
+        <div class="h-full flex flex-col justify-center mb-8">
+            <h2 class="text-3xl text-center">Unser Team</h2>
+          </div>
+      {{ range .Params.team }}
+      {{ partial "portrait" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ partial "divider" . }}
+  <!-- Praktikanten Section -->
+  <section class="py-12">
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16">
+        <div class="h-full flex flex-col justify-center mb-8">
+          <h2 class="text-3xl text-center">Unsere Praktikant:innen</h2>
+        </div>
+      {{ range .Params.praktikanten }}
+      {{ partial "portrait" . }}
+      {{ end }}
+    </div>
+  </section>
+    {{ partial "divider" . }}
+  <!-- Support Section -->
+  <section class="py-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16">
+        <div class="h-full flex flex-col justify-center mb-8">
+          <h2 class="text-3xl text-center">Unser Support</h2>
+        </div>
+      {{ range .Params.support }}
+      {{ partial "portrait" . }}
+      {{ end }}
+    </div>
+  </section>
+</div>
+{{ end }}

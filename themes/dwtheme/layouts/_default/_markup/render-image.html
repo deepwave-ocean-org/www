@@ -1,2 +1,2 @@
-<img src="{{ .Destination | safeURL }}" loading="lazy" {{- with .PlainText }} alt="{{ . }}" {{ end -}} {{- with .Title
-    }} title="{{ . }}" {{ end -}}>
+{{ $src := .Destination | safeURL }}
+{{ partial "img/img" (dict "src" $src "alt" .Title "class" "") }}

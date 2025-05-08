@@ -3,7 +3,10 @@
 {{ partial "headers/default_parallax" . }}
 {{ end }}
 <div class="not_full_width min-h-screen my-12">
-    {{ .Content }}
+    {{ with .Content }}
+    {{ . }}
+    {{ partial "divider" . }}
+    {{ end }}
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {{ range .Pages }}
         {{ partial "card" .}}

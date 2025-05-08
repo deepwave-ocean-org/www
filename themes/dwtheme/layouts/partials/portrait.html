@@ -1,0 +1,17 @@
+<div class="">
+    <div class="">
+      <img src="{{ .image }}" alt="{{ .name }}" class="w-full h-auto object-cover object-center rounded-full aspect-square" loading="lazy" />
+    </div>
+    <div class="p-4 text-center">
+      <h3 class="text-xl font-semibold mb-1">{{ .name }}</h3>
+      <p class="text-gray-500 text-lg font-medium !mb-1">{{ .role }}</p>
+      {{ if .subtitle }}
+      <p class="text-gray-600 text-lg">{{ .subtitle }}</p>
+      {{ end }}
+      {{ if .link }}
+      <article>
+        <a href="{{ .link }}" target="_blank">{{ .link | replaceRE "^https?://" "" | replaceRE "/$" "" }}</a></article>
+        {{ end }}
+    
+    </div>
+  </div>

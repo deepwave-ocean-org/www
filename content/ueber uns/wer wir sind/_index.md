@@ -1,7 +1,7 @@
 ---
-title: Was wir tun
-subtitle: Unsere Aktionen und Veranstaltungen seit mehr als 20 Jahren
-image: https://www.deepwave.org/wp-content/uploads/2016/03/Deepwave_Tauchen.jpg
-overlay: rgba(43,96,92,0.31)
-type: timeline
+title: Wir geben dem Meer eine Stimme.
+image: https://www.deepwave.org/wp-content/uploads/2016/01/IMG_3470.jpg
+overlay: rgba(31,86,84,0.23)
 ---
+
+{{< youtube "P6fnHKU8xUc" >}}
