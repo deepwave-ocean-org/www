@@ -1,0 +1,56 @@
+{{ $flipbookID := default (printf "flipbook-%d" .Ordinal) (.Get "id") }}
+{{ $pdfPath := .Get "pdf" }}
+{{ $height := default "600px" (.Get "height") }}
+
+<!-- Flipbook container -->
+<div class="flip-book-container solid-container" id="{{ $flipbookID }}" style="height: {{ $height }}"></div>
+
+<!-- Insert script loader only once per page -->
+{{ if not (.Page.Scratch.Get "flipbookScriptsLoaded") }}
+    {{ .Page.Scratch.Set "flipbookScriptsLoaded" true }}
+    
+    <!-- Process and load JS files using Hugo asset pipeline -->
+    {{ $jquery := resources.Get "js/jquery.min.js" }}
+    {{ $html2canvas := resources.Get "js/html2canvas.min.js" }}
+    {{ $three := resources.Get "js/three.min.js" }}
+    {{ $pdf := resources.Get "js/pdf.min.js"}}
+    {{ $flipbook := resources.Get "js/3dflipbook.min.js" }}
+    <script src="{{ $jquery.RelPermalink }}"></script>
+    <script src="{{ $html2canvas.RelPermalink }}"></script>
+    <script src="{{ $three.RelPermalink }}"></script>
+    <script src="{{ $pdf.RelPermalink }}"></script>
+    <script src="{{ $flipbook.RelPermalink }}"></script>
+    {{ $cloudinaryJS := resources.Get "js/cloudinary-core-shrinkwrap.js" | resources.Minify }}
+    <script src="{{ $cloudinaryJS.RelPermalink }}"></script>
+{{ end }}
+
+<!-- Register this specific flipbook's configuration -->
+<script type="text/javascript">
+    
+    window.flipbookConfigs = window.flipbookConfigs || [];
+    window.flipbookConfigs.push({
+        selector: '#{{ $flipbookID }}',
+        options: {
+        pdf: '{{ $pdfPath }}'
+        // Add other configuration options here
+        }
+    });
+
+    function initializeFlipbooks() {
+        console.log("Initializing flipbooks");
+        if (window.flipbookConfigs) {
+            window.flipbookConfigs.forEach(function(config) {
+            if (window.$ && window.$.fn.FlipBook) {
+                $(config.selector).FlipBook(config.options);
+            } else {
+                console.error('3D FlipBook plugin not properly loaded');
+            }
+            });
+        }
+        }
+    if (document.readyState === 'complete') {
+        initializeFlipbooks();
+        } else {
+        window.addEventListener('load', initializeFlipbooks);
+        }
+</script>

@@ -141,6 +141,65 @@
 
 <div class="not_full_width min-h-screen my-12">
     
+    
+
+
+
+
+<div class="flip-book-container solid-container" id="flipbook-0" style="height: 100vh"></div>
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/html2canvas.min.js"></script>
+    <script src="/js/three.min.js"></script>
+    <script src="/js/pdf.min.js"></script>
+    <script src="/js/3dflipbook.min.js"></script>
+    
+    <script src="/js/cloudinary-core-shrinkwrap.min.js"></script>
+
+
+
+<script type="text/javascript">
+    
+    window.flipbookConfigs = window.flipbookConfigs || [];
+    window.flipbookConfigs.push({
+        selector: '#flipbook-0',
+        options: {
+        pdf: 'https:\/\/res.cloudinary.com\/deepwave-org\/image\/upload\/v1746720108\/deepwave.org\/Virtuelles_Kondolenzbuch_Fassung_Website_eyhbax.pdf'
+        
+        }
+    });
+
+    function initializeFlipbooks() {
+        console.log("Initializing flipbooks");
+        if (window.flipbookConfigs) {
+            window.flipbookConfigs.forEach(function(config) {
+            if (window.$ && window.$.fn.FlipBook) {
+                $(config.selector).FlipBook(config.options);
+            } else {
+                console.error('3D FlipBook plugin not properly loaded');
+            }
+            });
+        }
+        }
+    if (document.readyState === 'complete') {
+        initializeFlipbooks();
+        } else {
+        window.addEventListener('load', initializeFlipbooks);
+        }
+</script>
+
+    <div class="my-12 border-t border-gray-200"></div>
+    
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         
     </div>
