@@ -4734,11 +4734,81 @@
       <description>&lt;p&gt;&#xA;&lt;span class=&#34;&#34;&gt;&#xA;&lt;img data-src=&#39;https://www.deepwave.org/wp-content/uploads/2016/01/deepwave_logo_en_4c.jpg&#39; alt=&#34;&#34; class=&#34;cld-responsive &#34; loading=&#34;lazy&#34; width=&#34;100%&#34; /&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kraken sind achtarmige Kopffüßler &lt;em&gt;(Cephalopoda)&lt;/em&gt; und gehören zu den Weichtieren &lt;em&gt;(Mollusca)&lt;/em&gt;, das heißt sie haben keine eigentlichen Skelette. Während die zehnarmigen Kalmaren („Calamari“) sich meist frei im Wasser bewegen, leben die meisten Octopusse eher auf dem Meeresboden.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;span class=&#34;&#34;&gt;&#xA;&lt;img data-src=&#39;https://www.deepwave.org/wp-content/uploads/2016/02/tremoctopus.jpg&#39; alt=&#34;&#34; class=&#34;cld-responsive &#34; loading=&#34;lazy&#34; width=&#34;100%&#34; /&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Tremoctopus violaceus, 2m long. © Peter Wirtz&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Doch eine Ausnahme gibt es: Der Löcher-Krake &lt;em&gt;Tremoctopus violaceus.&lt;/em&gt; Sieht man sich seine Hautfarben genauer an, erkennt man vage die Umrisse der Erdkugel, der „Blauen Murmel“. Und somit hatten wir unser Wappentier. Die Illustratorin &lt;a href=&#34;https://www.io-home.org/portfolios/m/bilder?k_User=1690&#34;&gt;Anna Mandel&lt;/a&gt; hat dann über die Jahre die Idee für verschiedene Medien umgesetzt.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Die Meeresfibel</title>
+      <link>http://localhost:1313/projekte/meeresfibel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projekte/meeresfibel/</guid>
+      <description>&lt;div class=&#34;flip-book-container solid-container mb-8&#34; id=&#34;flipbook-0&#34; style=&#34;height: 100vh&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;script src=&#34;http://localhost:1313/js/jquery.min.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;http://localhost:1313/js/html2canvas.min.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;http://localhost:1313/js/three.min.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;http://localhost:1313/js/pdf.min.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;http://localhost:1313/js/3dflipbook.min.js&#34;&gt;&lt;/script&gt;&#xA;    &#xA;    &lt;script src=&#34;http://localhost:1313/js/cloudinary-core-shrinkwrap.min.js&#34;&gt;&lt;/script&gt;&#xA;&#xA;&#xA;&#xA;&lt;script type=&#34;text/javascript&#34;&gt;&#xA;    &#xA;    window.flipbookConfigs = window.flipbookConfigs || [];&#xA;    window.flipbookConfigs.push({&#xA;        selector: &#39;#flipbook-0&#39;,&#xA;        options: {&#xA;        pdf: &#39;https:\/\/res.cloudinary.com\/deepwave-org\/image\/upload\/v1747066430\/deepwave.org\/meeresfibel_vorschau_qktytr.pdf&#39;&#xA;        &#xA;        }&#xA;    });&#xA;&#xA;    function initializeFlipbooks() {&#xA;        console.log(&#34;Initializing flipbooks&#34;);&#xA;        if (window.flipbookConfigs) {&#xA;            window.flipbookConfigs.forEach(function(config) {&#xA;            if (window.$ &amp;&amp; window.$.fn.FlipBook) {&#xA;                $(config.selector).FlipBook(config.options);&#xA;            } else {&#xA;                console.error(&#39;3D FlipBook plugin not properly loaded&#39;);&#xA;            }&#xA;            });&#xA;        }&#xA;        }&#xA;    if (document.readyState === &#39;complete&#39;) {&#xA;        initializeFlipbooks();&#xA;        } else {&#xA;        window.addEventListener(&#39;load&#39;, initializeFlipbooks);&#xA;        }&#xA;&lt;/script&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2019/01/mare_fibel_besprechung.pdf?x95826&#34;&gt;&#xA;&lt;span class=&#34;&#34;&gt;&#xA;&lt;img data-src=&#39;https://www.deepwave.org/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-26-at-18.46.57.jpeg?x95826&#39; alt=&#34;Meeresfibel Spiel&#34; class=&#34;cld-responsive &#34; loading=&#34;lazy&#34; width=&#34;100%&#34; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;die-meeresfibel-gibt-es-jetzt-als-app&#34;&gt;Die Meeresfibel gibt es jetzt als App!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel&#34;&gt;Hier geht es zum Download&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Die Ozeane</title>
+      <link>http://localhost:1313/die-ozeane/die-ozeane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/die-ozeane/</guid>
+      <description>&lt;h2 id=&#34;bedrohung&#34;&gt;Bedrohung&lt;/h2&gt;&#xA;&lt;p&gt;Unsere Meere sind ernsthaft bedroht. Ihre Kapazität, Kohlendioxid aufzunehmen, schwindet ebenso wie die Artenvielfalt von den Polen bis zu den Korallenriffen. Da wissenschaftliche Warnungen nicht auszureichen scheinen, bleibt als letzte Hoffnung ein globaler Aufruf zu mehr politischer Aktion.&lt;/p&gt;&#xA;&lt;p&gt;Das Weltmeer ist Kennzeichen unseres blauen Planeten, der zu 70 Prozent mit Meerwasser bedeckt ist. Nimmt man die Tiefe hinzu, sind die Ozeane der größte Lebensraum auf Erden. Vom Bakterium bis zum Wal sind alle Regionen besiedelt, etwa 250.000 Arten konnten Forscher(innen) bisher beschreiben. Die letzte „Volkszählung&amp;quot; im Meer hat weitere Abertausende neue Spezies entdeckt, vom Gestelzten Korallenhai bis hin zu bizarren Tiefseewesen. Das „Census of Life&amp;quot; genannte Mammutprojekt, an dem Tausende Biolog(inn)en zehn Jahre lang beteiligt waren, gleicht jedoch der Suche nach der Nadel im Heuhaufen. Schätzungen gehen heute davon aus, dass bis zu einer Million Arten den Lebensraum Ozean bewohnen. Es gibt also noch viel zu entdecken in dieser gewaltigen Welt, einem Lebensraum mit einer Fläche von 361 Millionen Quadratkilometern und Tiefseegräben, die bis zu 11.000 Meter hinabfallen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Die Tiefsee</title>
+      <link>http://localhost:1313/die-ozeane/die-tiefsee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/die-tiefsee/</guid>
+      <description>&lt;p&gt;Ewige Nacht, hoher Druck und gleichbleibende Kälte sind die wenig einladenden Bedingungen der Tiefsee. Die Tiefsee galt daher früher als lebensfeindlich. Doch diese Bedingungen haben einen Vorteil: Sie bleiben stets gleich. Die Dunkelheit ist so vollständig, der Druck so gewaltig, dass die Geschöpfe, die sich dem Leben in der Tiefe angepasst haben, in einer Weise spezialisiert sind, die sich im Flachwasser kaum findet. Und die Tiefsee hat eine ungeheure Flächenausdehnung: Mehr als die Hälfte der Erdoberfläche (53,6 Prozent) besitzt Tiefen zwischen 3.000 und 6.000 Meter, und 1 % enthällt auf Tiefen über 6.000 Meter. Der Rest von 0 bis 3000 Metern nimmt 16,2 % ein, daran ist der Schelf allein mit 5,5 % beteiligt. Die mittlere Tiefe des Weltmeeres beträgt 3.790 Meter. Die Tiefsee ist der größte Lebensraum unseres Planeten &amp;ndash; ein riesiges Reich faszinierender Spezialisten.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Klima</title>
+      <link>http://localhost:1313/die-ozeane/klima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/klima/</guid>
+      <description>&lt;p&gt;Die Auswirkungen des Klimawandels auf die Meere sind vielfältig und beginnen erst, ihre volle Wucht zu entfalten. Jedoch zeigen historische Daten und aktuelle Prognosen ein düsteres Bild: Temperaturstress, Meeresspiegelanstieg, Küstenerosion und Versauerung verändern die marinen Ökosysteme in vielen Regionen drastisch. Die Folgen für Meer und Mensch sind gravierend.&lt;/p&gt;&#xA;&lt;p&gt;Das Lebenssicherungssystem der Erde ist in Gefahr. Die Meere und Küsten verändern sich im Zeitalter des Anthropozäns rasanter als je zuvor in ihrer langen Geschichte. Die Ursache dafür ist der Klimawandel, der Verursacher ist der Mensch. Dies bestätigte der Weltklimarat (IPCC) jüngst in seinem fünften Bericht. Das internationale Gremium aus 800 WissenschaftlerInnen bündelt darin den aktuellen Sachstand bei der globalen Erwärmung der Erde und kommt zu neuen unangenehmen Prognosen zum Klimawandel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Korallen</title>
+      <link>http://localhost:1313/die-ozeane/korallen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/korallen/</guid>
+      <description>&lt;p&gt;Die Auswirkungen des Klimawandels auf die Meere sind vielfältig und beginnen erst, ihre volle Wucht zu entfalten. Jedoch zeigen historische Daten und aktuelle Prognosen ein düsteres Bild: Temperaturstress, Meeresspiegelanstieg, Küstenerosion und Versauerung verändern die marinen Ökosysteme in vielen Regionen drastisch. Die Folgen für Meer und Mensch sind gravierend.&lt;/p&gt;&#xA;&lt;p&gt;Das Lebenssicherungssystem der Erde ist in Gefahr. Die Meere und Küsten verändern sich im Zeitalter des Anthropozäns rasanter als je zuvor in ihrer langen Geschichte. Die Ursache dafür ist der Klimawandel, der Verursacher ist der Mensch. Dies bestätigte der Weltklimarat (IPCC) jüngst in seinem fünften Bericht. Das internationale Gremium aus 800 WissenschaftlerInnen bündelt darin den aktuellen Sachstand bei der globalen Erwärmung der Erde und kommt zu neuen unangenehmen Prognosen zum Klimawandel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Küstenschutz</title>
+      <link>http://localhost:1313/die-ozeane/k%C3%BCstenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/k%C3%BCstenschutz/</guid>
+      <description>&lt;h2 id=&#34;world-ocean-review&#34;&gt;World Ocean Review&lt;/h2&gt;&#xA;&lt;p&gt;Aktuelles zum Küstenschutz findet sich im World Ocean Review 5, den man &lt;a href=&#34;https://worldoceanreview.com/bestellen/&#34;&gt;hier&lt;/a&gt; bestellen kann:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;a href=&#34;https://worldoceanreview.com/bestellen/&#34;&gt;&lt;img src=&#34;https://www.deepwave.org/wp-content/uploads/2018/12/Cover_WOR_V.jpg?x95826&#34;&#xA;    alt=&#34;WOR 5&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;unser-mangrovenprojekt-mangreen&#34;&gt;Unser Mangrovenprojekt MANGREEN&lt;/h2&gt;&#xA;&lt;p&gt;Seit dem Jahr 2005 haben wir in Zusammenarbeit mit unserem indischen Partner OMCAR erfolgreich den Küstenschutz in Tamil Nadu bei der Bevölkerung verankern können. Durch Schulprojekte, Frauenprojekte, Seminare für Fischer und viele andere Aktionen ist das Bewusstsein für intakte Küsten und Meere dort stetig gewachsen.&lt;/p&gt;&#xA;&lt;p&gt;Nach 10 Jahren ist das Projekt nun verstärkt mit internationalen Mitteln ausgestattet und beschäftigt sich erfolgreich mit vielen Meeresschutzthemen in unserem vor Ort gebauten Palk Bay Information Center.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lärm</title>
+      <link>http://localhost:1313/die-ozeane/l%C3%A4rm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/l%C3%A4rm/</guid>
+      <description>&lt;h2 id=&#34;die-stille-welt&#34;&gt;„Die Stille Welt&amp;quot;&lt;/h2&gt;&#xA;&lt;p&gt;Jacques Cousteau nannte die Meere einst „Die stille Welt&amp;quot;. Dass er sich damit geirrt hat, wissen wir heute: die meisten Meereslebewesen sind alles andere als stumm.&lt;/p&gt;&#xA;&lt;p&gt;Überall wird unter Wasser mithilfe von Schall kommuniziert, gejagt, gesucht und gefunden. Cousteaus Welt allerdings waren im Vergleich zu unserer still, denn in den Meeren ist es erheblich lauter geworden &amp;ndash; und zwar durch uns Menschen.&lt;/p&gt;&#xA;&lt;p&gt;Ob Schiffsverkehr, seismische Untersuchungen der Öl- und Gas-Industrie, der Bau von Windparks oder die Sprengung von Munitionsaltlasten, unter Wasser herrscht inzwischen vielerorts ein Heidenlärm, der den Meeresbewohnern zunehmend das Leben schwer oder unmöglich macht. Schaut man sich eine Nutzungs-Karte der Nordsee an, so gleicht das flache Meer vor unserer Haustür eher einem Industriegebiet als der beschaulichen, unberührten Weite, für die wir die Meere immer noch halten. Der Ausbauplan der Offshore- Windkraftbranche sieht beispielsweise vor, große Flächen mit Windrädern zu bebauen. Für die Energiewende und den Kampf gegen den Klimawandel mag das gut gemeint sein, dass beim Bau dieser Anlagen jedoch Lärm entsteht, der so laut ist, dass er töten kann, wissen die wenigsten. Hauptleidtragende sind dabei diejenigen Tiere, die ein besonders empfindliches Gehör haben, allen voran der bei uns heimische Schweinswal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meerespolitik</title>
+      <link>http://localhost:1313/die-ozeane/meerespolitik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/meerespolitik/</guid>
+      <description>&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; controls width=&#34;100%&#34; height=&#34;100%&#34;&gt;&#xA;    &lt;source src=&#34;https://res.cloudinary.com/deepwave-org/video/upload/v1746393128/20240502_Deepwave_NGO_Master_hqbaec.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    There should have been a video here but your browser does not seem to support it.&#xA;  &lt;/video&gt;&#xA;&lt;p&gt;&lt;br&gt;&#xA;Unser &lt;a href=&#34;https://klartext.deepwave.org/&#34;&gt;Klartext&lt;/a&gt; erklärt die Meerespolitik.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Überfischung</title>
+      <link>http://localhost:1313/die-ozeane/%C3%BCberfischung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/%C3%BCberfischung/</guid>
+      <description>&lt;p&gt;Einst lebendige und reiche Meeresökosysteme sehen sich heute den zerstörerischen Effekten der Überfischung ausgesetzt. Mehrere Fischarten sind heute schon ökologisch ausgestorben, das heißt am Rand ihrer biologisch notwendigen Bestandgröße. Ein ordentliches Management mancher überfischter Arten kann jedoch wieder zu einer nachhaltigen Nutzung der Fischerträge führen.&lt;/p&gt;&#xA;&lt;p&gt;Überfischung entsteht, wenn Fische schneller gefangen werden, als sie Nachkommen erzeugen können. Ein Fischbestand kann nur dann erhalten werden, wenn genügend adulte, also fortpflanzungsfähige, Fische im Bestand sind, um durch ausreichende Nachkommen die auf natürliche Weise oder durch Fischerei gestorbenen Tiere zu ersetzen. Nach offiziellen Schätzungen sind mindestens 33 % der weltweiten Bestände überfischt. Kleinfischerei wird in diesen Berechnungen nur kaum berücksichtigt, illegale Fischerei und Beifang gar nicht. (FAO, 2018)&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Unser Team</title>
       <link>http://localhost:1313/ueber-uns/wer-wir-sind/unser-team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ueber-uns/wer-wir-sind/unser-team/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Verschmutzung</title>
+      <link>http://localhost:1313/die-ozeane/verschmutzung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/die-ozeane/verschmutzung/</guid>
+      <description>&lt;p&gt;Die Meeresumweltverschmutzung zeigt viele Gesichter und nicht alle sind so eindringlich wie die Bilder einer Ölkatastrophe. Viele kleinere Quellen &amp;ndash; wie der Eintrag über die Flüsse und der Meeresmüll &amp;ndash; haben ebenfalls erhebliche Auswirkungen auf die Meere. Setzt die Landwirtschaft im Hinterland Düngemittel und Pestizide ein, gelangen auch diese Schadstoffe über die Flüsse ins Meer. Die Folgen der schleichenden Verschmutzung sind z. B. gesperrte Strände an den Küsten aufgrund der Massenentwicklung von Bakterien und Algen in den nährstoffreichen Küstenzonen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

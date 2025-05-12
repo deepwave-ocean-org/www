@@ -3,7 +3,7 @@
 {{ $height := default "600px" (.Get "height") }}
 
 <!-- Flipbook container -->
-<div class="flip-book-container solid-container" id="{{ $flipbookID }}" style="height: {{ $height }}"></div>
+<div class="flip-book-container solid-container mb-8" id="{{ $flipbookID }}" style="height: {{ $height }}"></div>
 
 <!-- Insert script loader only once per page -->
 {{ if not (.Page.Scratch.Get "flipbookScriptsLoaded") }}

@@ -1179,6 +1179,22 @@ html {
 p, article h1, article h2, article h3, article h4, article h5, article h6, article ul {
   margin-bottom: 0.8rem;
 }
+article h1 {
+  font-size: var(--text-3xl);
+  line-height: var(--tw-leading, var(--text-3xl--line-height));
+}
+article h2 {
+  font-size: var(--text-2xl);
+  line-height: var(--tw-leading, var(--text-2xl--line-height));
+}
+article h3 {
+  font-size: var(--text-xl);
+  line-height: var(--tw-leading, var(--text-xl--line-height));
+}
+article h4 {
+  font-size: var(--text-lg);
+  line-height: var(--tw-leading, var(--text-lg--line-height));
+}
 article li {
   margin-bottom: 0.4rem;
   list-style: disc;
