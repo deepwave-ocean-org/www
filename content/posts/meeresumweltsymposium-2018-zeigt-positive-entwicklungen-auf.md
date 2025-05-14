@@ -6,6 +6,7 @@ blogs:
   - "good-news"
   - "veranstaltungen"
   - "was-tun"
+  - "no-image"
 source: "Pressemitteilung [Bundesamt für Seeschifffahrt und Hydrographie](https://www.bsh.de/DE/Home/home_node.html) (BSH)"
 author: "DEEPWAVE"
 ---

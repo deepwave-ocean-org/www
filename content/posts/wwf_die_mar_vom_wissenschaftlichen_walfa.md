@@ -6,7 +6,7 @@ blogs:
   - "politik"
 tags: 
   - "wale"
-image: "https://www.deepwave.org/wp-content/uploads/2005/06/KujiraWhaleMeat-Takashimaya-20101013.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245148/deepwave.org/KujiraWhaleMeat-Takashimaya-20101013.jpg"
 image_caption: "© CC BY 3.0 / Wikimedia Commons"
 source: "Pressemitteilung, 13. Juni 2005, WWF"
 author: "deepwave-blog"

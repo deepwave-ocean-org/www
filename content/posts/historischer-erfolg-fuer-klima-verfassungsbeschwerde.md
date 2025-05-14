@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/06/demonstration-4891290_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245141/deepwave.org/demonstration-4891290_1920.jpg"
 image_caption: "© Dominic Wunderlich / Pixabay"
 source: "Pressemitteilung, 29.04.2021, Germanwatch Kompakt"
 author: "DEEPWAVE"

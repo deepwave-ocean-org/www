@@ -4,7 +4,7 @@ date: 2021-06-29
 blogs: 
   - "politik"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2022/03/boats-g6042c35c7_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243854/deepwave.org/boats-g6042c35c7_1920.jpg"
 image_caption: "© moritz320 / Pixabay"
 source: "Pressemitteilung, 28.06.21, WWF"
 author: "DEEPWAVE"

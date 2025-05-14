@@ -1,6 +1,7 @@
 ---
 title: "EU-Parlament stimmt für Verbot von Wegwerf-Plastikprodukten"
 date: 2018-10-25
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245380/deepwave.org/PlastikSaunaBaender-3-1-1200x675.jpg
 blogs: 
   - "bluestraw-news"
   - "good-news"
@@ -22,8 +23,6 @@ author: "DEEPWAVE"
 related: 
   - "/bluestraw-kampagne/"
 ---
-
-[![](https://www.deepwave.org/wp-content/uploads/2018/11/PlastikSaunaBaender-3-1-1200x675.jpg)](https://www.deepwave.org/wp-content/uploads/2018/11/PlastikSaunaBaender-3-1-1200x675.jpg)
 
 Die neuste Pressemitteilung der EU zum Thema Verbot von Einwegplastikverpackungen ist gerade veröffentlich worden. Darin ist zu lesen, dass das EU Parlament nun den von der Kommission eingereichten Vorschlag zur Reduzierung von Einwegplastik angenommen hat. Dies ist tatsächlich ein weiterer Schritt in die richtige Richtung, um weitere Verschmutzung der Meere zu verhindern. Aber ein Grund in Jubelschreie auszubrechen, ist es mit Sicherheit nicht. Zum einen beinhaltet die Entscheidung des EU Parlaments noch keine praktischen Konsequenzen. Erst müssen sich noch die EU-Staaten im Ministerrat auf eine gemeinsame Linie zu dem Gesetzesvorschlag einigen. Laut Pressemitteilung würden die neuen Regeln zwei Jahre nach Verabschiedung durch Rat und Parlament in Kraft treten, also voraussichtlich frühestens 2021. Es ist also noch ein langer Weg bis dorthin.
 

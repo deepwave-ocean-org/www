@@ -1,6 +1,9 @@
 ---
 title: "Goldene Regeln zur Rettung der Fischbestände"
 date: 2024-09-24
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245387/deepwave.org/angel_koeder_goldene_regeln_nachhaltige_fischerei_BjoKib_pixabay.jpg
+image_caption: © BjoKib / Pixabay
+image_alt: Ein silberner Angelköder an einer Angelrute
 blogs: 
   - "überfischung"
   - "was-tun"
@@ -10,12 +13,6 @@ related:
   - "/schleppnetzfischerei-reduziert-kohlenstoffsenke/"
   - "/guter-fisch-zum-weihnachtsfest/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2025/01/angel_koeder_goldene_regeln_nachhaltige_fischerei_BjoKib_pixabay.jpg" link="https://www.deepwave.org/wp-content/uploads/2025/01/angel_koeder_goldene_regeln_nachhaltige_fischerei_BjoKib_pixabay.jpg" alt="Ein silberner Angelköder an einer Angelrute" caption="© BjoKib / Pixabay" >}}
-
-
-
- 
 
 #### 30 internationale Fachleute fordern Neudefinition nachhaltiger Fischerei
 

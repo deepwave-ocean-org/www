@@ -4,7 +4,7 @@ date: 2023-09-30
 blogs: 
   - "good-news"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/10/Demonstration_against_LNG_vom_Goehren_to_Sellin_on_Ruegen_2023-05-28_168-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245032/deepwave.org/Demonstration_against_LNG_vom_Goehren_to_Sellin_on_Ruegen_2023-05-28_168-scaled.jpg"
 image_caption: "© Leonhard Lenz / Wikimedia Commons (CC0 1.0)"
 source: "Pressemitteilung, 29.09.2023, Deutsche Umwelthilfe (DUH)"
 author: "DEEPWAVE"

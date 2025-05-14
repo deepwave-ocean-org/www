@@ -1,6 +1,9 @@
 ---
 title: "Vier fürs Klima von Petra Pinzler und Günther Wessler"
 date: 2019-06-27
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244270/deepwave.org/Vier_f%C3%BCrs_Klima-300x300.jpg
+image_caption: © DEEPWAVE e.V.
+image_alt: Das Buch Vier fürs Klima vor einem Fahrrad mit einem Bioapfel und einem konventionellen Apfel
 blogs: 
   - "klima"
   - "kultur"
@@ -8,7 +11,7 @@ blogs:
 author: "DEEPWAVE"
 ---
 
-[![Das Buch Vier fürs Klima vor einem Fahrrad mit einem Bioapfel und einem konventionellen Apfel](https://www.deepwave.org/wp-content/uploads/2019/06/Vier_fürs_Klima-300x300.jpeg)](https://www.deepwave.org/wp-content/uploads/2019/06/Vier_fürs_Klima.jpeg)Dass wir zu viel CO2 und andere Treibhausgase in die Luft pusten, ist wohl allen inzwischen klar. Dass wir als durchschnittlicher Deutscher fast das 6-fache der vernünftigen 2 Tonnen jährlich produzieren, ist nur noch wenigen klar. Und dass wir als Bürger der Bundesrepublik erstmal 800 kg auf unserem Konto haben, nur durch Bürokratie und Straßenbau, macht diese Lage nicht besser. Was kann man dagegen tun, ohne bei einer solchen Tatsachenlage gleich zu verzweifeln?
+Dass wir zu viel CO2 und andere Treibhausgase in die Luft pusten, ist wohl allen inzwischen klar. Dass wir als durchschnittlicher Deutscher fast das 6-fache der vernünftigen 2 Tonnen jährlich produzieren, ist nur noch wenigen klar. Und dass wir als Bürger der Bundesrepublik erstmal 800 kg auf unserem Konto haben, nur durch Bürokratie und Straßenbau, macht diese Lage nicht besser. Was kann man dagegen tun, ohne bei einer solchen Tatsachenlage gleich zu verzweifeln?
 
 Die vierköpfige Familie der Autoren ist sich dieser Frage zwar bewusst, aber ihre Handlungen gehen nicht über den Bio-Einkauf und eventuelles Fahrradfahren hinaus. Bis eine Hausaufgabe die Familie dazu bringt, ihrem ökologischen Fußabdruck in die Augen zu schauen.
 

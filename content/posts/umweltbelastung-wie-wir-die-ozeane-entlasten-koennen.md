@@ -1,6 +1,9 @@
 ---
 title: "Wie wir die Ozeane entlasten können"
 date: 2018-12-07
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244514/deepwave.org/tractor-4543124_1920-1.jpg
+image_caption: © schauhi / Pixabay
+image_alt: Umweltbelastung, Traktor verspritzt Gülle auf einem Feld
 blogs: 
   - "filme"
   - "kultur"
@@ -12,10 +15,6 @@ related:
   - "/die-plastifizierung-des-ozeans/"
   - "/kehren-die-grossen-raeuber-in-die-nordsee-zurueck/"
 ---
-
-W
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2018/12/tractor-4543124_1920-1.jpg" link="https://www.deepwave.org/wp-content/uploads/2018/12/tractor-4543124_1920-1.jpg" alt="Umweltbelastung: Traktor verspritzt Gülle auf einem Feld" caption="© schauhi / Pixabay" >}}
 
 Unsere Meere werden nicht nur durch jährlich 9 Millionen Tonnen [Plastikmüll](https://www.deepwave.org/die-plastifizierung-des-ozeans/) verschmutzt, sondern auch durch den erhöhten Düngemitteleintrag in der Landwirtschaft. Die Überdüngung der Felder verursacht die [Eutrophierung](https://www.deepwave.org/kehren-die-grossen-raeuber-in-die-nordsee-zurueck/) von Gewässern, wodurch immer mehr sogenannte Todeszonen in Küstengebieten entstehen.
 

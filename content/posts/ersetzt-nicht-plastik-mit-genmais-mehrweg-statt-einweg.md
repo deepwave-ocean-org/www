@@ -4,6 +4,7 @@ date: 2018-07-20
 blogs: 
   - "alternativen-zu-einwegplastik"
   - "pplastic-pollution"
+  - "no-image"
 tags: 
   - "alternativen"
   - "biokunststoff"

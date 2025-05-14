@@ -4,6 +4,7 @@ date: 2023-07-13
 blogs: 
   - "politik"
   - "tiefsee"
+  - "no-image"
 author: "DEEPWAVE"
 related: 
   - "/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/"

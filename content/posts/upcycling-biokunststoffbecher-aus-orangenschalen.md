@@ -5,7 +5,7 @@ blogs:
   - "alternativen-zu-einwegplastik"
   - "good-news"
   - "videos-und-audio"
-image: "https://www.deepwave.org/wp-content/uploads/2019/09/markus-winkler-zv4JaHkmr6M-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244823/deepwave.org/markus-winkler-zv4JaHkmr6M-unsplash-scaled.jpg"
 image_caption: "© Markus Winkler / Unsplash"
 author: "Amalia Klein"
 related: 

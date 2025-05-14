@@ -4,7 +4,7 @@ date: 2022-02-10
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2022/03/Grosser-Schwamm-und-andere-Organismen.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244934/deepwave.org/Grosser-Schwamm-und-andere-Organismen.jpg"
 image_caption: "© Alfred-Wegener-Institut / PS101 AWI OFOS system (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 

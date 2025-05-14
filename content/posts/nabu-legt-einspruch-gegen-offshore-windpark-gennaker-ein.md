@@ -4,7 +4,7 @@ date: 2020-02-15
 blogs: 
   - "ehemals-news"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2020/02/nicholas-doherty-pONBhDyOFoM-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244578/deepwave.org/nicholas-doherty-pONBhDyOFoM-unsplash-scaled.jpg"
 image_caption: "© Nicholas Doherty / Unsplash"
 source: "Pressemitteilung, NABU, 14.02.2020"
 author: "DEEPWAVE"

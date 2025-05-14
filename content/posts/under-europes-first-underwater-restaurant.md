@@ -3,7 +3,7 @@ title: "\"Under\" - Europes first underwater restaurant"
 date: 2020-03-02
 blogs: 
   - "kultur"
-image: "https://www.deepwave.org/wp-content/uploads/2020/07/Restaurant_Under_in_Norwegen_von_innen.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244198/deepwave.org/Restaurant_Under_in_Norwegen_von_innen.jpg"
 image_caption: "© Under"
 author: "Lea Teichmann"
 ---
@@ -12,7 +12,7 @@ In the south of Norway, close to a town called Lindesnes, and five meters below 
 
 "Under" also operates as a location for marine science where marine biologists - with the help of cameras and other measurement tools - observe the ecosystem. Furthermore, the concrete walls can function as an artificial reef after a certain amount of time which allows kelp forests and limpets to grow.
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2020/07/Restaurant_Under_in_Norwegen_von_außen.jpg" link="https://www.deepwave.org/wp-content/uploads/2020/07/Restaurant_Under_in_Norwegen_von_außen.jpg" alt="Außenansicht eines Unterwasserrestaurants, bei dem ein Ende in die Luft und das andere Ende ins Wasser ragt." caption="© Under" >}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244200/deepwave.org/Restaurant_Under_in_Norwegen_von_au%C3%9Fen.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244200/deepwave.org/Restaurant_Under_in_Norwegen_von_au%C3%9Fen.jpg" alt="Außenansicht eines Unterwasserrestaurants, bei dem ein Ende in die Luft und das andere Ende ins Wasser ragt." caption="© Under" >}}
 
 A seasonal menu from locally sourced ingredients and locally caught fish and seafood is served for up to 40 guests at a time. 
 

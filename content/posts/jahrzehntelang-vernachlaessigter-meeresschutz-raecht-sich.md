@@ -4,7 +4,7 @@ date: 2024-05-29
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/05/nicholas-doherty-unsplash_offshore_windpark_nordsee_uebernutzung-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244171/deepwave.org/nicholas-doherty-unsplash_offshore_windpark_nordsee_uebernutzung-scaled.jpg"
 image_caption: "© Nicholas Doherty | Unsplash"
 source: "Pressemitteilung, 29.05.2024, Pressemitteilung NABU"
 author: "Amalia Klein"

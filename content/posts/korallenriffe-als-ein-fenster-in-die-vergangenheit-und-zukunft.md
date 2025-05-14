@@ -4,7 +4,7 @@ date: 2023-09-01
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2023/09/Acropora_coral_ffs.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244310/deepwave.org/Acropora_coral_ffs.jpg"
 image_caption: "© Andy Collins, NOAA / Wikimedia Commons (PD)"
 source: "Pressemitteilung, 31.08.2023, MARUM"
 author: "DEEPWAVE"

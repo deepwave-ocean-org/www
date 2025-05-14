@@ -3,7 +3,7 @@ title: "Squalen in Covid-19 Impfungen erhöht Druck auf Haie"
 date: 2020-09-29
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2020/09/david-clode-o3r7oVPZnZI-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244544/deepwave.org/david-clode-o3r7oVPZnZI-unsplash-scaled.jpg"
 image_caption: "© David Clode / Unsplash"
 author: "DEEPWAVE"
 related: 

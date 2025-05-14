@@ -4,7 +4,7 @@ date: 2019-10-28
 blogs: 
   - "deep-sea"
   - "plastic-pollution"
-image: "https://www.deepwave.org/wp-content/uploads/2019/10/NetzMakroFinger_030.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244236/deepwave.org/NetzMakroFinger_030.jpg"
 image_caption: "© Wolf Wichmann"
 author: "DEEPWAVE"
 ---

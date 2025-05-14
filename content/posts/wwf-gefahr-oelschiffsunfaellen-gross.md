@@ -10,7 +10,7 @@ tags:
   - "schifffahrt"
   - "umwelt"
   - "umweltkatastrophe"
-image: "https://www.deepwave.org/wp-content/uploads/2009/03/ship-5562741_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244576/deepwave.org/ship-5562741_1920.jpg"
 image_caption: "© Freiheitsjunkie / Pixabay"
 source: "Pressemitteilung, 19. März 2009, WWF"
 author: "deepwave-blog"

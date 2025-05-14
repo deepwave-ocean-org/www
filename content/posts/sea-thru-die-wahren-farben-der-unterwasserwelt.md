@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "kultur"
   - "videos-und-audio"
-image: "https://www.deepwave.org/wp-content/uploads/2019/11/sea_thru_Korallen_Farben_Algorithmus.gif"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245200/deepwave.org/sea_thru_Korallen_Farben_Algorithmus.gif"
 image_caption: "© SCIENTIFIC AMERICAN"
 author: "Amalia Klein"
 related: 

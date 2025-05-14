@@ -1,6 +1,9 @@
 ---
 title: "Müllsammelaktion auf Hamburgs Kanälen"
 date: 2019-10-05
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244013/deepwave.org/Muellsammlung_Header.jpg
+image_caption: © DEEPWAVE
+image_alt: Im Kanu auf Müllsuche.
 blogs: 
   - "favoriten"
   - "pplastic-pollution"
@@ -12,8 +15,6 @@ related:
   - "/recycling/"
   - "/recycling/"
 ---
-
-\[caption id="attachment\_20805294" align="alignnone" width="1279"\]![Im Kanu auf Müllsuche.](https://www.deepwave.org/wp-content/uploads/2019/09/Muellsammlung_Header.jpeg) © DEEPWAVE\[/caption\]
 
 Müll.
 
@@ -29,7 +30,7 @@ Bei unserem kleineren Botschafter Felix aus Bayern, der vorne bei mir im Boot sa
 
 Man kann nun anbringen, dass so eine Sichtweise naiv und vor allem unpraktisch ist. Wenn ich mir über jeden Zigarettenstummel Gedanken machen muss, dann kann man sich ja in der Modernen Welt gar nicht mehr fortbewegen. Und das stimmt wohl. Auch Felix wird eines Tages genug Erfahrungen gemacht haben und sich viele Rätsel nicht mehr stellen. Aber wer findet dann Antworten auf all die Fragen? Wenn diese geistige Mülltrennung auf unseren Erfahrungen beruht und unsere Erfahrungen hauptsächlich aus denen unserer Eltern, deren Eltern, kurz unserer Kultur bestehen, was passiert, wenn die Grundannahme falsch ist? Wer findet das heraus?
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2019/10/lindsay-cotter-9J7sHieVFi0-unsplash.jpg" link="https://www.deepwave.org/wp-content/uploads/2019/10/lindsay-cotter-9J7sHieVFi0-unsplash.jpg" alt="Eine Hand siebt Kakao aus einem kleinen Küchensieb" caption="© lindsay Cotter / Unsplash" >}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244016/deepwave.org/lindsay-cotter-9J7sHieVFi0-unsplash.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244016/deepwave.org/lindsay-cotter-9J7sHieVFi0-unsplash.jpg" alt="Eine Hand siebt Kakao aus einem kleinen Küchensieb" caption="© lindsay Cotter / Unsplash" >}}
 
 Das Wort _Müll_ stammt von dem unbrauchbaren Gemisch, das beim Sieben von frisch gemahlenem Mehl entsteht. Wenn der _Müll_er siebt, geschieht anschaulich der gleiche Prozess, mit dem wir die Welt wahrnehmen. Wir sieben, was wir hören, sehen, schmecken, riechen und fühlen. Und so finden wir die wertvollen Dinge und trennen uns von dem Mischmasch aus Wertlosem. Aber kann unser Sieb vielleicht alt und staubig sein? Denn wie kann es in einer Welt mit begrenzten Ressourcen etwas Wertloses geben? Wie kann ein Gegenstand für _niemanden_ unserer sieben  Milliarden Mitmenschen wertvoll sein? Denn falls auch nur eine:r davon Gebrauch machen könnte, sollten wir ihm/ihr den nicht zukommen lassen? Und außerdem, sind unnütze Dinge auch gleichbedeutend mit ungefährlich?
 
@@ -41,22 +42,15 @@ Die Veranstaltung war unser Beitrag zum [International Coastal Cleanup Day](http
 
 Auch wir fanden eine Menge dreckiger, kaputter, stinkender, verfaulter Gegenstände. Tüten und Flaschen, Dosen und Tetra-Paks. Schon in unseren Sinnen wird unsere Weltsicht gefiltert und wir wissen: das ist Müll. Aber unser Sieb täuscht. Denn was achtlos weggeworfen und im Wasser treibend aus den Sinnen verschwindet, das ist wertvoll und/oder gefährlich. 
 
-\[one\_half\]
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747244021/deepwave.org/Plastikm%C3%BCll_aus_Hamburg.jpg)
 
-![](https://www.deepwave.org/wp-content/uploads/2019/09/Plastikmüll_aus_Hamburg.jpeg)
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244024/deepwave.org/Strandm%C3%BCllsammlung-2.jpg" caption="© DEEPWAVE" >}}
 
-\[/one\_half\]
-
-\[one\_half\_last\]
-
-\[caption id="attachment\_20805360" align="alignnone" width="768"\]![](https://www.deepwave.org/wp-content/uploads/2019/09/Strandmüllsammlung-2.jpeg) © DEEPWAVE\[/caption\]
-
-\[/one\_half\_last\]
 
 Felix und ich gewannen den Preis übrigens nicht: die Dose war leer. Außerdem machten uns ein verrosteter Bauzaun mit Batterien und unser größerer Botschafter [Frederik Götz](https://www.instagram.com/explore/tags/frederikg%C3%B6tz/?hl=de) mit seinem Fund Konkurrenz: Kopfhörern inkl. Ladestation.
 
 Ich hätte früher aus der leeren Dose gelernt, wie wertlos alles ist. Aber vielleicht lernen wir jetzt die Welt mit den Augen von Felix zu sehen. Wo ein Zigarettenstummel eine Zeitbombe ist und eine Plastikdose ein Goldnugget sein könnte.
 
-\[caption id="attachment\_20805310" align="alignnone" width="1376"\]![DEEPWAVE Team und Helfer mit der erbeuten Müllsammlung im Vordergrund](https://www.deepwave.org/wp-content/uploads/2019/09/Müllsammelteam_DEEPWAVE.jpeg) © DEEPWAVE\[/caption\]
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244026/deepwave.org/M%C3%BCllsammelteam_DEEPWAVE.jpg" caption="© DEEPWAVE" alt="DEEPWAVE Team und Helfer mit der erbeuten Müllsammlung im Vordergrund" >}}
 
 Heye Groß für DEEPWAVE

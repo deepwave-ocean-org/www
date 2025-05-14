@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/09/pollution-8252583_1280.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244146/deepwave.org/pollution-8252583_1280.jpg"
 image_caption: "© Pete Linforth / Pixabay"
 source: "Pressemitteilung, 05.09.2023, WWF"
 author: "DEEPWAVE"

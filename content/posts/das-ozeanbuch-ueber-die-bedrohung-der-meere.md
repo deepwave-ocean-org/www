@@ -1,13 +1,16 @@
 ---
 title: "\"Das Ozeanbuch - Über die Bedrohung der Meere\" von Esther Gonstalla"
 date: 2019-07-03
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245040/deepwave.org/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla-300x300.jpg
+image_caption: © DEEPWAVE e.V.
+image_alt: Das Ozeanbuch - Über die Bedrohung der Meere liiegt aufgesclagen, als auch mit dem Cover vor einem Globus
 blogs: 
   - "kultur"
   - "literatur"
 author: "DEEPWAVE"
 ---
 
-> [![Das Ozeanbuch - Über die Bedrohung der Meere liiegt aufgesclagen, als auch mit dem Cover vor einem Globus](https://www.deepwave.org/wp-content/uploads/2019/07/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla-300x300.jpeg)](https://www.deepwave.org/wp-content/uploads/2019/07/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla.jpeg)"Es ist ein interessanter biologischer Umstand, dass wir alle in unseren Adern die exakt gleiche Menge an Salzgehalt haben wie das Meerwasser und damit auch Salz in unserem Blut, unserem Schweiß, unseren Tränen." - John F. Kennedy
+> [![]()](http://res.cloudinary.com/deepwave-org/image/upload/v1747245042/deepwave.org/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla.jpg)"Es ist ein interessanter biologischer Umstand, dass wir alle in unseren Adern die exakt gleiche Menge an Salzgehalt haben wie das Meerwasser und damit auch Salz in unserem Blut, unserem Schweiß, unseren Tränen." - John F. Kennedy
 
 Immer dann, wenn ich einen kurzen Moment an meinem Schreibtisch in Zürich vom Lernen abschweife und mich in meinem Zimmer umschaue, dann bleibt mein Blick an einem sehr intensiven Blau hängen. Es ist die Farbe des Ozeanbuches, das äußerlich so schön ist und innen von der Bedrohung der Ozeane berichtet. Sofort tauche ich ab in meine Gedankenwelt nach Hamburg, wo ich ein halbes Jahr bei DEEPWAVE mitwirken und mitleben durfte. Von ihnen habe ich das Buch geschenkt bekommen.
 

@@ -4,7 +4,7 @@ date: 2019-10-02
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/10/trash-2385232_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245276/deepwave.org/trash-2385232_1920.jpg"
 image_caption: "© Rafael_Neddermeyer / Pixabay"
 author: "Amalia Klein"
 related: 

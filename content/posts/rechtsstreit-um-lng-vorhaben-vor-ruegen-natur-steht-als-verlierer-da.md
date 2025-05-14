@@ -4,7 +4,7 @@ date: 2023-09-20
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/09/Kormorane_Greifswalder_Bodden.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244997/deepwave.org/Kormorane_Greifswalder_Bodden.jpg"
 image_caption: "© Archiv Frank Liebig / Wikimedia Commons (CC BY-SA 3.0 DE)"
 source: "Pressemitteilung, 19.09.2023, NABU"
 author: "DEEPWAVE"

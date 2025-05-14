@@ -4,6 +4,7 @@ date: 2018-12-20
 blogs: 
   - "forschung"
   - "überfischung"
+  - "no-image"
 source: "Pressemitteilung, 19.12.2018, WWF"
 author: "DEEPWAVE"
 related: 

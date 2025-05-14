@@ -4,7 +4,7 @@ date: 2019-12-19
 blogs: 
   - "kultur"
   - "literatur"
-image: "https://www.deepwave.org/wp-content/uploads/2019/12/Die_Insel_der_Delfine_Cover.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245175/deepwave.org/Die_Insel_der_Delfine_Cover.jpg"
 image_caption: "© ClarityVerlag | Fabian Ritter MEER e.V."
 author: "Amalia Klein"
 ---
@@ -15,7 +15,7 @@ Das neueste Projekt von M.E.E.R. e.V. ist besagte Feldstation auf dem Felsen üb
 
 Große Tümmler, Zügeldelfine, Indische Grindwale, auch Pilotwale genannt,  und Rauzahndelfine leben ganzjährig vor der Küste Gomeras, Gewöhnliche Delfine, Blau-weiße Delfine, Schnabelwale und Großwale wie Pottwale, Finn- und Brydewale kommen regelmäßig vorbeigezogen, sogar der 30 Meter lange Blauwal, größtes Lebewesen der Erde, wird zwei bis drei Mal pro Jahr gesichtet. M.E.E.R. e.V. kooperiert mit den Whale Watching Booten, von der Feldstation aus werden die Kapitäne angefunkt, wenn mit dem Fernglas Tiere gesichtet werden. Aber auch als Kontrollinstanz sieht sich der Verein, der sicherstellen möchte, dass das Whale Watching naturverträglich abläuft.
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2019/12/Die_Insel_der_Delfine_Fabian_Ritter_Foto_Ausblick.jpg" link="https://www.deepwave.org/wp-content/uploads/2019/12/Die_Insel_der_Delfine_Fabian_Ritter_Foto_Ausblick.jpg" alt="Der Autor Fabian Ritter sitzt auf der Aussichtsplattform auf La Gomera. Er blickt durch ein großes Teleskop. Im Hintergrund sieht man das endlose Meer, auf das das Teleskop gerichtet ist" caption="© Laura Nieto" >}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245178/deepwave.org/Die_Insel_der_Delfine_Fabian_Ritter_Foto_Ausblick.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747245178/deepwave.org/Die_Insel_der_Delfine_Fabian_Ritter_Foto_Ausblick.jpg" alt="Der Autor Fabian Ritter sitzt auf der Aussichtsplattform auf La Gomera. Er blickt durch ein großes Teleskop. Im Hintergrund sieht man das endlose Meer, auf das das Teleskop gerichtet ist" caption="© Laura Nieto" >}}
 
 Mit seinen großartigen Fotografien aus 25 Jahren Feldforschung auf dem Meer lässt uns Fabian Ritter hautnah an seiner Faszination für Delfine und Wale teilhaben. Er beschreibt die am häufigsten gesichteten Arten - jeweils ergänzt durch einen „Magischen Moment“ während der Beobachtung - sowie die Seevögel und Schildkröten, die oft vor der Insel gesichtet werden. Das Glück, diese Tiere erleben zu können, ist in jedem Bild zu spüren. Doch auch hier im Reich der „Insel der Delfine“ ist die Bedrohung des Lebensraumes Meer präsent. Seevögel und Schildkröten verfangen sich immer wieder in alten Fischernetzen oder Tüten. Mit Glück können die Whale Watching Boote die Tiere aus ihrer Not befreien, aber die vielfältigen Gefahren auch für Delfine und Wale durch Unterwasserlärm, Schiffkollisionen, Ozeanversauerung, Erderhitzung und Vermüllung bleiben bestehen und verstärken sich zunehmend. Daher widmet Fabian Ritter ein eigenes Kapitel diesen Bedrohungen und dem Schutz des Meeres.
 
@@ -27,6 +27,6 @@ Barbara Focke, Dezember 2019 für DEEPWAVE
 
 Fabian Ritter **Die Insel der Delfine** Clarity Verlag, Sylt 1.Auflage 2018 ISBN 978-3-947274-06-2
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2019/12/Die_Insel_der_Delfine_Fabian_Ritter_Barbara-scaled.jpg" link="https://www.deepwave.org/wp-content/uploads/2019/12/Die_Insel_der_Delfine_Fabian_Ritter_Barbara-scaled.jpg" alt="Barbara Focke steht an der Ecke der kleinen Aussichtsplattform. In ihren Händen hält sie das Buch &quot;Die Insel der Delfine&quot;. Im Hintergrund sieht man wieder das Meer und die Berge von La Gomera" caption="© Barbara Focke" >}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245183/deepwave.org/Die_Insel_der_Delfine_Fabian_Ritter_Barbara-scaled.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747245183/deepwave.org/Die_Insel_der_Delfine_Fabian_Ritter_Barbara-scaled.jpg" alt="Barbara Focke steht an der Ecke der kleinen Aussichtsplattform. In ihren Händen hält sie das Buch &quot;Die Insel der Delfine&quot;. Im Hintergrund sieht man wieder das Meer und die Berge von La Gomera" caption="© Barbara Focke" >}}
 
 Unsere Zweite Vorsitzende auf La Gomera auf der Feldstation von M.E.E.R. e.V.

@@ -7,7 +7,7 @@ tags:
   - "bergbau"
   - "rohstoffe"
   - "umweltschutz"
-image: "https://www.deepwave.org/wp-content/uploads/2019/02/shane-mclendon-EN1tF2EG-50-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243983/deepwave.org/shane-mclendon-EN1tF2EG-50-unsplash-scaled.jpg"
 image_caption: "© Shane McLendon / Unsplash"
 source: "Pressemitteilung, 19.02.2019 vom Umwelt Bundesamt (UBA)"
 author: "DEEPWAVE"

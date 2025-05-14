@@ -3,7 +3,7 @@ title: "Sonnencreme: Schutz für die Haut, Gift für etliche Ökosysteme"
 date: 2022-09-05
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/03/suncream-gd27dd170b_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244290/deepwave.org/suncream-gd27dd170b_1920.jpg"
 image_caption: "© Dimitris Vetsikas / Pixabay"
 author: "DEEPWAVE"
 related: 

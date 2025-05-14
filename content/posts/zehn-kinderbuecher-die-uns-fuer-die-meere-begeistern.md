@@ -5,15 +5,13 @@ blogs:
   - "bildung"
   - "kultur"
   - "literatur"
+  - "no-image"
 author: "DEEPWAVE"
 related: 
   - "/ozeanbuecher/"
   - "/fische-fische-ueberall-von-britta-teckentrup/"
-  - "/fische-fische-ueberall-von-britta-teckentrup/"
   - "/der-schwarm/"
 ---
-
-\[et\_pb\_section fb\_built="1" \_builder\_version="4.16" custom\_padding="0px||||false|false" global\_colors\_info="{}"\]\[et\_pb\_row \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="4\_4" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.2" global\_colors\_info="{}"\]
 
 _Edit (14.03.2023): Wenn euch die Bücher ausgegangen sind, haben wir einige Empfehlungen für euch. Bestellt diese aber nicht bei den großen Unternehmen, sondern nutzt die Gelegenheit, um eine lokale Buchhandlung ausfindig zu machen - [buchhandlung-finden.de](https://www.buchhandlung-finden.de/) und [genialokal.de](https://www.genialokal.de/) helfen euch dabei. Dort könnt ihr oft auch online bestellen, E-Books erwerben oder telefonisch eine Abholung vereinbaren und so denjenigen Buchhändler:innen helfen, die es eh schon schwer genug haben. Und wer weiß, vielleicht entwickeln sich ja durch Gespräche über gute Bücher Freundschaften, die wir jetzt in dieser Krise brauchen - und danach. Unter_ hier bestellen _haben wir unsere lokale Buchhändlerin verlinkt - stellvertretend für diesen Gedanken._
 
@@ -29,7 +27,8 @@ Auf der Suche nach Empfehlungen sind uns erstaunlich viele Bücher für Kinder e
 
 Daher empfehlen wir auch den Erwachsenen diese Kinderbücher. Denn sie zeigen uns den Schritt, der nach dem Wissen kommt. Das Verinnerlichen, Begreifen, Verstehen. Den Auslöser zum Handeln.
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Fische Fische" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Fische\_Fische\_überall\_Britta\_Teckentrup\_Empfehlung.jpg" url="https://www.deepwave.org/fische-fische-ueberall-von-britta-teckentrup/" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+[![Fische Fische überall Britta Teckentrup Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Fische_Fische_überall_Britta_Teckentrup_Empfehlung.jpg)](/fische-fische-ueberall-von-britta-teckentrup/)
+
 
 ### [Fische, Fische überall](https://www.deepwave.org/fische-fische-ueberall-von-britta-teckentrup/)
 
@@ -41,7 +40,7 @@ Franziska Bils
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/fische-fische-ueberall-von-britta-teckentrup/)
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Ozeane" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Ozeane\_Hélène\_Druvert\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+![](https://www.deepwave.org/wp-content/uploads/2019/10/Ozeane_Hélène_Druvert_Empfehlung.jpg)
 
 ### Ozeane
 
@@ -52,7 +51,7 @@ Gerstenberg Verlag
 
 Anna Mandel, Illustratorin der [Meeresfibel](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/)
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="herr seepferdchen" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Herr-Seepferdchen-PopUp\_Eric\_Carle\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+![](https://www.deepwave.org/wp-content/uploads/2019/10/Herr-Seepferdchen-PopUp_Eric_Carle_Empfehlung.jpg)
 
 ### Herr Seepferdchen Pop-Up Buch
 
@@ -62,7 +61,7 @@ Anna Mandel, Illustratorin der [Meeresfibel](https://www.deepwave.org/projekte/s
 
 Luisa Münch
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="nick und der wal" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Nick-und-der-Wal\_Benji\_Daves\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+![](https://www.deepwave.org/wp-content/uploads/2019/10/Nick-und-der-Wal_Benji_Daves_Empfehlung.jpg)
 
 ### Nick und der Wal
 
@@ -72,7 +71,7 @@ Luisa Münch
 
 Anna Mandel
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Regenbogenfisch" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Der\_Regenbogenfisch\_entdeckt\_die\_Tiefsee\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+![](https://www.deepwave.org/wp-content/uploads/2019/10/Der_Regenbogenfisch_entdeckt_die_Tiefsee_Empfehlung.jpg)
 
 ### Der Regenbogenfisch entdeckt die Tiefsee
 
@@ -82,7 +81,8 @@ Anna Mandel
 
 Anna Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Das Meer" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Das\_Meer\_Ricardo\_Henriques\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+![Das Meer Ricardo Henriques Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das_Meer_Ricardo_Henriques_Empfehlung.jpg)
+
 
 ### Das Meer - eintauchen, abtauchen, entdecken
 
@@ -92,7 +92,7 @@ Anna Groß
 
 Anna Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="meereskunde wiw" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Meereskunde\_Rainer\_Crummenerl\_Was-ist-Was\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+![Meereskunde Rainer Crummenerl Was-ist-Was Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Meereskunde_Rainer_Crummenerl_Was-ist-Was_Empfehlung.jpg)
 
 ### Was ist Was - Meereskunde
 
@@ -102,7 +102,8 @@ Anna Groß
 
 Anna Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="geheimnis tiefsee wiw" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Geheimnis-Tiefsee.-Leben-in-ewiger-Finsternis\_Manfred\_Baur\_Was-ist-Was\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+
+![Geheimnis Tiefsee. Leben in ewiger Finsternis Manfred Baur Was-ist-Was Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Geheimnis-Tiefsee.-Leben-in-ewiger-Finsternis_Manfred_Baur_Was-ist-Was_Empfehlung.jpg)
 
 ### Was ist Was - Geheimnis Tiefsee
 
@@ -114,7 +115,7 @@ Anna Groß
 
 Anna Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Bingo" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Ocean\_Bingo\_Spiel\_Laurence\_King\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+![Ocean Bingo Spiel Laurence King Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Ocean_Bingo_Spiel_Laurence_King_Empfehlung.jpg)
 
 ### Ocean Bingo
 
@@ -125,11 +126,9 @@ Gesellschaftsspiel für 1-6 Spieler, Laurence King Verlag
 
 Anna Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="4\_4" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.16" global\_colors\_info="{}"\]
-
 Und natürlich unser eigenes Buch für Kinder und Jugendliche:
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Meeresfibel" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2018/11/meeresfibel\_titel.jpg" url="https://www.deepwave.org/projekte/schulkampagne-meeresfibel/" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.16" global\_colors\_info="{}"\]
+[![Meeresfibel Titel](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/meeresfibel_titel.jpg)](/projekte/schulkampagne-meeresfibel/)
 
 ### [Die Meeresfibel](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/)
 
@@ -144,4 +143,3 @@ Autor des internationalen Bestsellers ["Der Schwarm"](https://www.deepwave.org/d
 
 ##### [Hier könnt ihr einen Blick in unsere Fibel werfen...](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/) 
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[/et\_pb\_section\]

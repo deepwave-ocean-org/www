@@ -4,7 +4,7 @@ date: 2019-12-30
 blogs: 
   - "forschung"
   - "good-news"
-image: "https://www.deepwave.org/wp-content/uploads/2020/04/Kegelrobbe_a_different_perspective_pixabay.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244504/deepwave.org/Kegelrobbe_a_different_perspective_pixabay.jpg"
 image_caption: "© A different Perspective / Pixabay"
 author: "DEEPWAVE"
 related: 

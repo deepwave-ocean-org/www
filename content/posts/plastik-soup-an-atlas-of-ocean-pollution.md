@@ -8,7 +8,7 @@ tags:
   - "literatur"
   - "meeresmuell"
   - "plastikmuell"
-image: "https://www.deepwave.org/wp-content/uploads/2019/04/Buecher_Ruecken_tom-hermans-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244441/deepwave.org/Buecher_Ruecken_tom-hermans-unsplash-scaled.jpg"
 image_caption: "© Tom Hermans / Unsplash"
 author: "DEEPWAVE"
 related: 

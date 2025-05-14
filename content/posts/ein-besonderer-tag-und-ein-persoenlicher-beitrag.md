@@ -3,7 +3,7 @@ title: "Ein besonderer Tag und ein persönlicher Beitrag"
 date: 2022-08-14
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-30-164121.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244682/deepwave.org/Screenshot-2023-11-30-164121.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 ---

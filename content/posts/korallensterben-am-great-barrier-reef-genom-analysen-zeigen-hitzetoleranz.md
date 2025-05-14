@@ -4,7 +4,7 @@ date: 2020-07-20
 blogs: 
   - "klima"
   - "videos-und-audio"
-image: "https://www.deepwave.org/wp-content/uploads/2020/08/white_corals_ahmed_areef-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244231/deepwave.org/white_corals_ahmed_areef-scaled.jpg"
 image_caption: "© Ahmed Areef / Unsplash"
 author: "DEEPWAVE"
 ---
@@ -13,4 +13,4 @@ Die Bauteile des Menschen werden durch drei Millionen Basenpaare beschrieben. Da
 
 Die Methodik und Lösung des Genomrätsels, die daraus resultierenden Konsequenzen für den Schutz von Korallenriffen im Detail und weitere Faktoren, die ebenfalls Einfluss auf die Gesundheit der Nesseltiere haben, könnt ihr in der Podcastfolge ["Genom-Analysen zeigen Hitzetoleranz"](https://www.deutschlandfunk.de/korallensterben-am-great-barrier-reef-genom-analysen-zeigen.676.de.html?dram:article_id=480771) herausgegeben vom [Deutschlandfunk](https://www.deutschlandfunk.de/) am 17.07.2020, nachhören.
 
-Auf unserer Seite [Die Ozeane - Korallen](https://www.deepwave.org/die-ozeane/korallen/) findet ihr Informationen zu Korallenriffen und weiterführende Links, wie zum Beispiel zum [Factsheet Korallen](https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts_Korallen_2016.pdf) oder zu [künstlichen Riffen](https://www.deepwave.org/die-ozeane/kuestenschutz/#Kuenstliche_Riffe).
+Auf unserer Seite [Die Ozeane - Korallen](https://www.deepwave.org/die-ozeane/korallen/) findet ihr Informationen zu Korallenriffen und weiterführende Links, wie zum Beispiel zum [Factsheet Korallen](http://res.cloudinary.com/deepwave-org/image/upload/v1747244234/deepwave.org/DWfacts_Korallen_2016.pdf) oder zu [künstlichen Riffen](https://www.deepwave.org/die-ozeane/kuestenschutz/#Kuenstliche_Riffe).

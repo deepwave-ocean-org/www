@@ -6,7 +6,7 @@ blogs:
   - "klima"
   - "veranstaltungen"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2019/11/Neustart_Klima_Demo_29.11_Fridays_For_Future.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244303/deepwave.org/Neustart_Klima_Demo_29.11_Fridays_For_Future.jpg"
 image_caption: "© Fridays for Future"
 author: "Amalia Klein"
 related: 

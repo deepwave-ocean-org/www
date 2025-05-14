@@ -3,7 +3,7 @@ title: "Gemeinsame Pressemitteilung: Bundeswehr torpediert Schweinswalschutz"
 date: 2021-12-17
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/12/Lebender-Schweinswal_C_CharliePhillips-WDC-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243996/deepwave.org/Lebender-Schweinswal_C_CharliePhillips-WDC-scaled.jpg"
 image_caption: "© Charlie Phillips / WDC"
 author: "DEEPWAVE"
 related: 

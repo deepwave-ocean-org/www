@@ -3,7 +3,7 @@ title: "Zeit für saubere Meeresluft"
 date: 2024-10-19
 blogs: 
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2024/12/schiff_abgas_schornstein_joe-green-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244596/deepwave.org/schiff_abgas_schornstein_joe-green-unsplash-scaled.jpg"
 image_caption: "© Unsplash / Joe Green"
 source: "Pressemitteilung, 18.10.2024, NABU"
 author: "Amalia Klein"

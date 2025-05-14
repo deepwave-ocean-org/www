@@ -9,7 +9,7 @@ tags:
   - "demonstration"
   - "klimaschutz"
   - "klimawandel"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/Fridays_For_Future_Hamburg_Greta_Thunberg_2019-03-01-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244263/deepwave.org/Fridays_For_Future_Hamburg_Greta_Thunberg_2019-03-01-scaled.jpg"
 image_caption: "© Malte Hübner (Diskussion) / Wikimedia Commons (CC-BY-SA 3.0)"
 author: "DEEPWAVE"
 ---

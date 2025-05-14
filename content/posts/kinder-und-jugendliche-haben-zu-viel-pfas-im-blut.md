@@ -3,6 +3,7 @@ title: "Kinder und Jugendliche haben zu viel PFAS im Blut"
 date: 2020-07-07
 blogs: 
   - "forschung"
+  - "no-image"
 source: "Pressemitteilung, Umweltbundesamt, 06.07.2020"
 author: "DEEPWAVE"
 related: 

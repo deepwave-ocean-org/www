@@ -10,7 +10,7 @@ tags:
   - "moratorium"
   - "tiefsee"
   - "tiefseebergbau"
-image: "https://www.deepwave.org/wp-content/uploads/2018/07/ISA_Headquaters-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245187/deepwave.org/ISA_Headquaters-scaled.jpg"
 image_caption: "© CC BY-SA 3.0 / Wikimedia Commons"
 source: "Pressemitteilung, 03.07.2018, Seas at Risk"
 author: "DEEPWAVE"

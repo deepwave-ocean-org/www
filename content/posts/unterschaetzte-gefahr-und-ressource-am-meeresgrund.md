@@ -4,7 +4,7 @@ date: 2023-09-25
 blogs: 
   - "forschung"
   - "literatur"
-image: "https://www.deepwave.org/wp-content/uploads/2023/09/PM_Dinoflagellaten_Buch.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244211/deepwave.org/PM_Dinoflagellaten_Buch.jpg"
 image_caption: "© Senckenberg Gesellschaft für Naturforschung"
 source: "Pressemitteilung, 05.09.2023, Senckenberg Gesellschaft für Naturforschung"
 author: "DEEPWAVE"

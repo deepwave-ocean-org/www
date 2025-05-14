@@ -4,7 +4,7 @@ date: 2018-04-04
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2018/04/KoralleParamuricea-010.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245077/deepwave.org/KoralleParamuricea-010.jpg"
 image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 04.03.2018, MARUM"
 author: "DEEPWAVE"

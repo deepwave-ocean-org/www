@@ -1,6 +1,9 @@
 ---
 title: "\"21 Lektionen für das 21. Jahrhundert\" von Yuval Noah Harari"
 date: 2019-07-09
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244475/deepwave.org/Harari_21_Lektionen_fuer_das_21te_Jahrhundert-300x300.jpg
+image_caption:
+image_alt: Das Buch "21 Lektionen für das 21. Jahrhundert" von Yuval Noah Harari ist zu sehen. Im Hintergrund sind weitere Bücher mit Augen auf dem Cover zu sehen.
 blogs: 
   - "favoriten"
   - "kultur"
@@ -8,7 +11,7 @@ blogs:
 author: "DEEPWAVE"
 ---
 
-[![Das Buch "21 Lektionen für das 21. Jahrhundert" von Yuval Noah Harari ist zu sehen. Im Hintergrund sind weitere Bücher mit Augen auf dem Cover zu sehen.](https://www.deepwave.org/wp-content/uploads/2019/07/Harari_21_Lektionen_fuer_das_21te_Jahrhundert-300x300.jpeg)](https://www.deepwave.org/wp-content/uploads/2019/07/Harari_21_Lektionen_fuer_das_21te_Jahrhundert.jpeg)Mir war nie klar, wie relevant Geschichte ist. Bis ich auf Empfehlung meines Bruders „Eine kurze Geschichte der Menschheit“ von Harari gelesen habe. Danach kam dann „Homo Deus“ und zuletzt „21 Lektionen für das 21. Jahrhundert“.
+Mir war nie klar, wie relevant Geschichte ist. Bis ich auf Empfehlung meines Bruders „Eine kurze Geschichte der Menschheit“ von Harari gelesen habe. Danach kam dann „Homo Deus“ und zuletzt „21 Lektionen für das 21. Jahrhundert“.
 
 > In einer Welt, die überflutet wird von bedeutungslosen Informationen, ist Klarheit Macht.
 > 

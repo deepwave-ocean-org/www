@@ -3,7 +3,7 @@ title: "Deutsche Umwelthilfe zu Grundschleppnetzfischerei in der Ostsee: „Neue
 date: 2024-11-30
 blogs: 
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2024/12/viviane_m_pixabay_ostsee_dorsch_kabeljau_2.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244965/deepwave.org/viviane_m_pixabay_ostsee_dorsch_kabeljau_2.jpg"
 image_caption: "© Viviane M. / pixabay"
 source: "Pressemitteilung, 29.11.2024, Deutsche Umwelthilfe"
 author: "Amalia Klein"

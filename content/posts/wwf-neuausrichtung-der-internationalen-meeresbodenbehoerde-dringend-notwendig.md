@@ -4,7 +4,7 @@ date: 2024-08-03
 blogs: 
   - "good-news"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2024/11/NOAA_exploration_tiefsee.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244043/deepwave.org/NOAA_exploration_tiefsee.jpg"
 image_caption: "© <a href='https://oceanexplorer.noaa.gov/okeanos/explorations/ex1605/logs/may2/welcome.html'>NOAA Office of Ocean Exploration and Research, 2016 Deepwater Exploration of the Marianas</a>"
 source: "Pressemitteilung, WWF, 02.08.2024"
 author: "Amalia Klein"

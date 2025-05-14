@@ -3,7 +3,7 @@ title: "NABU: Klimaschutz braucht gesunde Meere"
 date: 2022-04-30
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2022/05/mary_ray_unsplash_offshore_windpark-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245070/deepwave.org/mary_ray_unsplash_offshore_windpark-scaled.jpg"
 image_caption: "© Mary Ray / Unsplash"
 source: "Pressemitteilung, 28.04.2022, Naturschutzbund Deutschland e.V."
 author: "Amalia Klein"

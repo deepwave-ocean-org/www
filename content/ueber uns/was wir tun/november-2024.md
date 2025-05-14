@@ -5,7 +5,7 @@ date: 2024-11-30
 
 #### **27\. November**
 
-Launch der aktualisierten Fassung unserer gemeinsam mit 12 NGOs verfassten Kernforderungen aus 2020/2023 **[Meerespolitik 2025 - Eine Zukunft für Meer und Mensch](https://www.deepwave.org/wp-content/uploads/2024/11/MEERESPOLITIK_2025_Eine_Zukunft_fuer_Mensch_und_Meer_colour_Druckboegen.pdf)**
+Launch der aktualisierten Fassung unserer gemeinsam mit 12 NGOs verfassten Kernforderungen aus 2020/2023 **[Meerespolitik 2025 - Eine Zukunft für Meer und Mensch](http://res.cloudinary.com/deepwave-org/image/upload/v1747245663/deepwave.org/MEERESPOLITIK_2025_Eine_Zukunft_fuer_Mensch_und_Meer_colour_Druckboegen.pdf)**
 
 #### **21\. November**
 

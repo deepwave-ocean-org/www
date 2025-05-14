@@ -4,7 +4,7 @@ date: 2023-07-13
 blogs: 
   - "good-news"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/08/FFH-Gebiet_NSG_Schwansener_See_11_von_82-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244558/deepwave.org/FFH-Gebiet_NSG_Schwansener_See_11_von_82-scaled.jpg"
 image_caption: "© Kommentator1989 / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 12.07.2023, NABU"
 author: "DEEPWAVE"

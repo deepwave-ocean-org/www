@@ -5,6 +5,7 @@ blogs:
   - "pplastic-pollution"
   - "videos-und-audio"
   - "was-tun"
+  - "no-image"
 tags: 
   - "hawaii"
   - "marine-litter"

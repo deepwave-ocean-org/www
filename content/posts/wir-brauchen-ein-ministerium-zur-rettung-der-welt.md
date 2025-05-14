@@ -12,7 +12,7 @@ tags:
   - "politik"
   - "scientists-4-future"
   - "wissenschaft"
-image: "https://www.deepwave.org/wp-content/uploads/2019/06/1440px-Scientists_for_Future_protest_Berlin_2019-11-15_04.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244533/deepwave.org/1440px-Scientists_for_Future_protest_Berlin_2019-11-15_04.jpg"
 image_caption: "© Leonhard Lenz / Wikimedia Common (CC0)"
 author: "DEEPWAVE"
 ---

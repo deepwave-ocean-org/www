@@ -1,6 +1,9 @@
 ---
 title: "Meeresschutz ist Klimaschutz – Über 50 NGOs unterzeichnen offenen Brief an die EU"
 date: 2019-10-01
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244733/deepwave.org/Climateocean_logo_fundingfish_worried_about_climate_breakdown.png
+image_caption: © climateocean
+image_alt: Nahaufnahme der Meeresoberfläche mit Lichtreflektionen. Darüber die Sätze, Worried about climate breakdown? There is an ocean of solutions
 blogs: 
   - "klima"
   - "politik"
@@ -9,8 +12,6 @@ author: "DEEPWAVE"
 related: 
   - "/ipcc-sonderbericht-folgen-des-klimawandels-auf-ozeane-und-eisgebiete/"
 ---
-
-\[caption id="attachment\_20805940" align="alignnone" width="788"\]![Nahaufnahme der Meeresoberfläche mit Lichtreflektionen. Darüber die Sätze: Worried about climate breakdown? There is an ocean of solutions](https://www.deepwave.org/wp-content/uploads/2019/11/Climateocean_logo_fundingfish_worried_about_climate_breakdown.png) © climateocean\[/caption\]
 
 Der [IPCC-Sonderbericht](https://www.deepwave.org/ipcc-sonderbericht-folgen-des-klimawandels-auf-ozeane-und-eisgebiete/)  über den Ozean und die Kryosphäre in einem sich wandelnden Klima hat sehr deutlich gemacht, wie bedroht die Meere durch den Klimawandel sind. Die Ozeane haben eine tragende Rolle im Klimaschutz durch ihre Fähigkeit, CO2 und Wärme aufzunehmen (bisher haben sie schon 90% der anthropogenen Erwärmung absorbiert). Doch der Klimawandel geht nicht spurlos an den Ozeanen vorbei. Die Meeresökosysteme leiden unter anderem an Versauerung, Temperaturerhöhung, Sauerstoffarmut und Änderungen in den Meeresströmungen. Dies hat auch große Auswirkungen auf die Fische und andere Meeresbewohnen in unseren Meeren. Weitere, durch den Menschen verursachte Stressoren, tragen dazu bei, die Meeresumwelt unter Druck zu setzen. So haben sich zwar schon 2014 alle EU-Länder mit der Gemeinsamen Fischereipolitik, dazu verpflichtet, die europäischen Fischbestände bis spätestens 2020 nachhaltig zu bewirtschaften. Dennoch sind noch immer über 40% der Fischbestände in EU-Gewässern überfischt. Doch nur mit intakten Ökosystemen können die Ozeane ihre Fähigkeit beibehalten, die Folgen des Klimawandels abzupuffern.
 

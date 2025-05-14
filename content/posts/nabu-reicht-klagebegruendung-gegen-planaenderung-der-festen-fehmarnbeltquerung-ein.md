@@ -3,7 +3,7 @@ title: "NABU reicht Klagebegründung gegen Planänderung der Festen Fehmarnbeltq
 date: 2021-12-15
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2022/02/baltic-sea-g88fd77476_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245065/deepwave.org/baltic-sea-g88fd77476_1920.jpg"
 image_caption: "© Marabu / Pixabay"
 source: "Pressemitteilung, NABU, 14.12.2021"
 author: "DEEPWAVE"

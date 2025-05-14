@@ -7,6 +7,7 @@ blogs:
   - "klima"
   - "videos-und-audio"
   - "was-tun"
+  - "no-image"
 tags: 
   - "klimaschutz"
   - "klimawandel"

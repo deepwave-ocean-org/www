@@ -4,7 +4,7 @@ date: 2019-08-20
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/08/jasmin-sessler-5Wfttm2CjeI-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245127/deepwave.org/jasmin-sessler-5Wfttm2CjeI-unsplash-scaled.jpg"
 image_caption: "© Jasmin Sessler / Unsplash"
 author: "Amalia Klein"
 related: 

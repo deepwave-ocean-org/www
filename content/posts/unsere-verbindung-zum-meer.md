@@ -3,7 +3,7 @@ title: "Unsere Verbindung zum Meer"
 date: 2022-09-08
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-30-163250.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245366/deepwave.org/Screenshot-2023-11-30-163250.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 ---

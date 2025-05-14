@@ -1,6 +1,9 @@
 ---
 title: "Das Heroin unter den Klima-Technologien"
 date: 2023-06-18
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244945/deepwave.org/diana-polekhina-ZBstHWt9vLc-unsplash-scaled.jpg
+image_caption: © Diana Polekhina / Unsplash
+image_alt: Eine Spritze mit gelbem Inhalt wird aufgezogen
 blogs: 
   - "forschung"
   - "klima"
@@ -10,8 +13,6 @@ related:
   - "/warum-oel-und-gaskonzerne-trotz-energieumbruch-weiterbohren/"
   - "/ccs-unter-die-erde-kehren/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2023/06/diana-polekhina-ZBstHWt9vLc-unsplash-scaled.jpg" link="https://www.deepwave.org/wp-content/uploads/2023/06/diana-polekhina-ZBstHWt9vLc-unsplash-scaled.jpg" alt="Eine Spritze mit gelbem Inhalt wird aufgezogen" caption="© Diana Polekhina / Unsplash" >}}
 
 _Disturbing content warning_
 

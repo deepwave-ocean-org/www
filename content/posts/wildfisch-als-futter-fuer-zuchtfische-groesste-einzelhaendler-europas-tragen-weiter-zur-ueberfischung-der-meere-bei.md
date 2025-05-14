@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "politik"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2022/03/fish-farming-g692746cf6_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245281/deepwave.org/fish-farming-g692746cf6_1920.jpg"
 image_caption: "© LTapsaH / Pixabay"
 source: "Pressemitteilung, 18.11.2021, Deutsche Umwelthilfe (DUH)"
 author: "DEEPWAVE"

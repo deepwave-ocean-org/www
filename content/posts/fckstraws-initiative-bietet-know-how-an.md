@@ -5,6 +5,7 @@ blogs:
   - "bluestraw-news"
   - "bluestraw"
   - "was-tun"
+  - "no-image"
 tags: 
   - "blue-straw"
   - "kampagne"

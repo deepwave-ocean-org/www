@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "politik"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2023/02/Alaska_Commercial_Fishing_Boats_248.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243786/deepwave.org/Alaska_Commercial_Fishing_Boats_248.jpg"
 image_caption: "© Gillfoto / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 15.09.2022, Seas At Risk"
 author: "DEEPWAVE"

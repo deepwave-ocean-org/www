@@ -6,6 +6,7 @@ blogs:
   - "kultur"
   - "tiefsee"
   - "videos-und-audio"
+  - "no-image"
 author: "Amalia Klein"
 related: 
   - "/our-plastic-our-problem-a-marine-litter-info-operetta/"

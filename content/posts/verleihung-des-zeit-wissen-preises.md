@@ -4,6 +4,7 @@ date: 2018-03-21
 blogs: 
   - "veranstaltungen"
   - "was-tun"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 

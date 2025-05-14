@@ -8,7 +8,7 @@ tags:
   - "co2"
   - "klimaforschung"
   - "klimawandel"
-image: "https://www.deepwave.org/wp-content/uploads/2019/06/protest-4499802_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245364/deepwave.org/protest-4499802_1920.jpg"
 image_caption: "© PlanetMallika / Pixabay"
 author: "DEEPWAVE"
 related: 

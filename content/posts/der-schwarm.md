@@ -1,13 +1,16 @@
 ---
 title: "\"Der Schwarm\" von Frank Schätzing"
 date: 2019-06-24
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244538/deepwave.org/Der_scharm_mit-elphi-300x300.jpg
+image_caption:
+image_alt: Das Buch "Der Schwarm" an einer Hafenkante mit Kran und Elbphilarmonie im Hintergrund
 blogs: 
   - "kultur"
   - "literatur"
 author: "DEEPWAVE"
 ---
 
-[![Das Buch "Der Schwarm" an einer Hafenkante mit Kran und Elbphilarmonie im Hintergrund](https://www.deepwave.org/wp-content/uploads/2019/06/Der_scharm_mit-elphi-300x300.jpeg)](https://www.deepwave.org/wp-content/uploads/2019/06/Der_scharm_mit-elphi.jpeg)„Hier, lies das mal!“ sagte Onno Groß bei unserem ersten Treffen im Jahr 2005. Das Buch „Der Schwarm“ von Frank Schätzing war im Vorjahr erschienen und auf den Bestsellerlisten ganz oben. Was für ein Wälzer! So etwas rühre ich, die leider viel zu selten zum Lesen kommt und abends regelmäßig nach 5 Seiten einschläft, normalerweise erst gar nicht an. Aber schon nach den ersten Seiten fesselte mich die Geschichte um das Meer, das zurückschlägt für alles, was die Menschheit ihm angetan hat – heute, knapp 15 Jahre später, angesichts der Verschmutzung, der Plastikvermüllung und Überfischung der Meere aktueller denn je.
+„Hier, lies das mal!“ sagte Onno Groß bei unserem ersten Treffen im Jahr 2005. Das Buch „Der Schwarm“ von Frank Schätzing war im Vorjahr erschienen und auf den Bestsellerlisten ganz oben. Was für ein Wälzer! So etwas rühre ich, die leider viel zu selten zum Lesen kommt und abends regelmäßig nach 5 Seiten einschläft, normalerweise erst gar nicht an. Aber schon nach den ersten Seiten fesselte mich die Geschichte um das Meer, das zurückschlägt für alles, was die Menschheit ihm angetan hat – heute, knapp 15 Jahre später, angesichts der Verschmutzung, der Plastikvermüllung und Überfischung der Meere aktueller denn je.
 
 Ich lag abends im Bett und verschlang das Buch innerhalb kürzester Zeit, wurde ehrenamtliche Mitarbeiterin von DEEPWAVE e.V. und bin dem Verein bis heute eng verbunden. So war ich dann auch dabei, als Frank Schätzing, den Onno als Beirat gewinnen konnte, im Jahr 2005 für eine Benefizlesung für die Meere nach Hamburg kam. Und auch, als DEEPWAVE im selben Jahr nach dem großen Tsunami im Indischen Ozean vom Dezember 2004 ein Mangrovenanpflanzungsprojekt in Indien startete, weil Mangroven natürliche Schutzschilder gegen Tsunamis darstellen.
 

@@ -5,7 +5,7 @@ blogs:
   - "pplastic-pollution"
   - "veranstaltungen"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2019/09/filip-mroz-zK049OFP4uI-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243969/deepwave.org/filip-mroz-zK049OFP4uI-unsplash-scaled.jpg"
 image_caption: "© Filip Mroz / Unsplash"
 author: "DEEPWAVE"
 related: 

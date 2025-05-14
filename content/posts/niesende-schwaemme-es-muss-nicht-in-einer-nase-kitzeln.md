@@ -3,7 +3,7 @@ title: "Niesende Schwämme: Es muss nicht in einer Nase kitzeln"
 date: 2022-08-12
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/03/Sponge-LeuconiaNivea-004.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245197/deepwave.org/Sponge-LeuconiaNivea-004.jpg"
 image_caption: "© Wolf Wichmann"
 author: "DEEPWAVE"
 related: 

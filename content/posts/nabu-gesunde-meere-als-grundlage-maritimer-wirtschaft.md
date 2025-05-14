@@ -3,7 +3,7 @@ title: "NABU: Gesunde Meere als Grundlage maritimer Wirtschaft"
 date: 2020-11-06
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2020/11/jj.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244229/deepwave.org/jj.png"
 image_caption: "© Kubikfoto / NABU"
 source: "Pressemitteilung, NABU, 05.11.2020"
 author: "DEEPWAVE"

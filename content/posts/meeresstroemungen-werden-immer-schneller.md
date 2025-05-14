@@ -4,7 +4,7 @@ date: 2020-10-02
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2020/10/xavier-mouton-photographie-1LUIwkQ6we0-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244528/deepwave.org/xavier-mouton-photographie-1LUIwkQ6we0-unsplash-scaled.jpg"
 image_caption: "© Xavier Mounton Photographie / Unsplash"
 author: "DEEPWAVE"
 related: 

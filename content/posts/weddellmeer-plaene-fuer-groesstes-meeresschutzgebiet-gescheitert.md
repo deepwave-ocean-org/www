@@ -9,7 +9,7 @@ tags:
   - "meeresforschung"
   - "polarmeere"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2018/11/antarctica-4500429_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244040/deepwave.org/antarctica-4500429_1920.jpg"
 image_caption: "© Sarah N / Pixabay"
 author: "DEEPWAVE"
 related: 

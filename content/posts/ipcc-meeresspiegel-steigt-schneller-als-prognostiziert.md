@@ -10,7 +10,7 @@ tags:
   - "klimaforschung"
   - "meeresspiegel"
   - "ozeanversauerung"
-image: "https://www.deepwave.org/wp-content/uploads/2019/02/river-5738150_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243920/deepwave.org/river-5738150_1920.jpg"
 image_caption: "© Peggychoucair / Pixabay"
 author: "DEEPWAVE"
 related: 

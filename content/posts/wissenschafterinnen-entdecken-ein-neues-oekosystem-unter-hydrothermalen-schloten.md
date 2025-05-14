@@ -4,7 +4,7 @@ date: 2023-08-10
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2023/09/Riftia_tube_worm_colony_Galapagos_2011.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245231/deepwave.org/Riftia_tube_worm_colony_Galapagos_2011.jpg"
 image_caption: "© NOAA Okeanos Explorer Program, Galapagos Rift Expedition 2011 / Wikimedia Commons (PD)"
 author: "DEEPWAVE"
 related: 

@@ -3,7 +3,7 @@ title: "NABU: Umweltstandards nicht per EU-Notverordnung aushebeln"
 date: 2022-11-09
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2022/11/gritte-mq99XbkN_d4-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244950/deepwave.org/gritte-mq99XbkN_d4-unsplash-scaled.jpg"
 image_caption: "© Gritte / Unsplash"
 source: "Pressemitteilung, 08.11.2022, Naturschutzbund Deutschland e.V."
 author: "DEEPWAVE"

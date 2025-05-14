@@ -8,7 +8,7 @@ blogs:
 tags: 
   - "meeresforschung"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2018/08/Antje_Boetius_Polarstern_Arktis_007_Martin_Schiller_awi-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245168/deepwave.org/Antje_Boetius_Polarstern_Arktis_007_Martin_Schiller_awi-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Martin Schiller (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 

@@ -5,7 +5,7 @@ blogs:
   - "favoriten"
   - "kultur"
   - "kunst"
-image: "https://www.deepwave.org/wp-content/uploads/2020/08/Apnoetauchen.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244275/deepwave.org/Apnoetauchen.jpg"
 image_caption: "© Lea Teichmann, DEEPWAVE"
 author: "Lea Teichmann"
 ---

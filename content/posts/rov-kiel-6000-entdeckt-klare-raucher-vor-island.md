@@ -4,6 +4,7 @@ date: 2020-07-21
 blogs: 
   - "forschung"
   - "tiefsee"
+  - "no-image"
 source: "Pressemitteilung, Senckenberg Gesellschaft für Naturforschung und GEOMAR, 20.07.2020"
 author: "DEEPWAVE"
 related: 

@@ -1,16 +1,15 @@
 ---
 title: "„Hard Rock“ auf dem Meeresboden der Tiefsee"
 date: 2020-07-01
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245122/deepwave.org/Hard_Rock_Steine_in_der_Tiefsee.jpg
+image_caption: © GEOMAR ROV Kiel
+image_alt: Steine und Felsen zwischen Sand unterwasser in der Tiefsee
 blogs: 
   - "forschung"
   - "tiefsee"
 source: "Pressemitteilung, Senckenberg Gesellschaft für Naturforschung, 19. Juni 2020"
 author: "DEEPWAVE"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2020/07/Hard_Rock_Steine_in_der_Tiefsee.jpg" link="https://www.deepwave.org/wp-content/uploads/2020/07/Hard_Rock_Steine_in_der_Tiefsee.jpg" alt="Steine und Felsen zwischen Sand unterwasser in der Tiefsee" caption="© GEOMAR ROV Kiel6000 aus einem Manganknollengebiet im Pazifik." >}}
-
-
 
 #### Der Weg zur Entschlüsselung der Artenvielfalt am Meeresgrund ist steiniger, als bisher angenommen
 

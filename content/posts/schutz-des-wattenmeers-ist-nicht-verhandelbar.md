@@ -3,7 +3,7 @@ title: "Schutz des Wattenmeers ist nicht verhandelbar"
 date: 2023-04-28
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/05/13-09-29-nordfriesisches-wattenmeer-RalfR-15-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244426/deepwave.org/13-09-29-nordfriesisches-wattenmeer-RalfR-15-scaled.jpg"
 image_caption: "© Ralf Roletschek / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 27.04.2023, NABU"
 author: "DEEPWAVE"

@@ -4,7 +4,7 @@ date: 2022-12-19
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/02/eu-nordverordnung_erneuerbare_energien_solaranlage_offingen_andreas-gucklhorn-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244661/deepwave.org/eu-nordverordnung_erneuerbare_energien_solaranlage_offingen_andreas-gucklhorn-unsplash-scaled.jpg"
 image_caption: "© Andreas Gücklhorn / Unsplash"
 source: "Pressemitteilung, 19.12.2022, NABU"
 author: "Amalia Klein"

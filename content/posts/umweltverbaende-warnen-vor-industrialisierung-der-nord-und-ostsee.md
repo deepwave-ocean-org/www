@@ -3,7 +3,7 @@ title: "Umweltverbände warnen vor Industrialisierung der Nord- und Ostsee"
 date: 2021-06-25
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/06/port-5349834_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245119/deepwave.org/port-5349834_1920.jpg"
 image_caption: "© Thanasis Papazacharias / Pixabay"
 author: "DEEPWAVE"
 related: 

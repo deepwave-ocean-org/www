@@ -4,7 +4,7 @@ date: 2022-11-26
 blogs: 
   - "good-news"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2022/12/gerald-schombs-n30Y9Y63IVw-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244502/deepwave.org/gerald-schombs-n30Y9Y63IVw-unsplash-scaled.jpg"
 image_caption: "© Gerald Schömbs / Unsplash"
 source: "Pressemitteilung, 25.11.22, WWF"
 author: "DEEPWAVE"

@@ -6,6 +6,7 @@ blogs:
   - "kultur"
   - "pplastic-pollution"
   - "videos-und-audio"
+  - "no-image"
 author: "DEEPWAVE"
 related: 
   - "/vermeidung-des-mikroplastikeintrags-in-die-marine-umwelt-workshop/"

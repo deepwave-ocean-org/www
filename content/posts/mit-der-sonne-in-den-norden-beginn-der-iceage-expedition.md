@@ -4,6 +4,7 @@ date: 2020-07-03
 blogs: 
   - "forschung"
   - "tiefsee"
+  - "no-image"
 source: "Pressemitteilung, Senckenberg Gesellschaft für Naturforschung, 02.07.2020"
 author: "DEEPWAVE"
 related: 

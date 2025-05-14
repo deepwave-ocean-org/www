@@ -4,6 +4,7 @@ date: 2018-06-07
 blogs: 
   - "bluestraw-news"
   - "good-news"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 

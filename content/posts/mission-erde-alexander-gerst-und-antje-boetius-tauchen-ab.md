@@ -1,14 +1,15 @@
 ---
 title: "Mission Erde: Alexander Gerst und Antje Boetius tauchen ab"
 date: 2020-08-12
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244339/deepwave.org/MissionErdeAzoren_JoachimJakobsen.jpg
+image_caption: © AWI/Joachim Jakobsen
+image_alt: Alexander Gerst und Antje Boetius im Tiefsee U-Boot
 blogs: 
   - "favoriten"
   - "forschung"
   - "tiefsee"
 author: "DEEPWAVE"
 ---
-
-\[et\_pb\_section fb\_built="1" \_builder\_version="3.22"\]\[et\_pb\_row \_builder\_version="4.6.6" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" width="100%" max\_width="none"\]\[et\_pb\_column type="4\_4" \_builder\_version="3.25" custom\_padding="|||" custom\_padding\_\_hover="|||"\]\[et\_pb\_text \_builder\_version="4.6.6" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" hover\_enabled="0" sticky\_enabled="0"\]\[caption id="attachment\_20813150" align="aligncenter" width="1067"\]![Alexander Gerst und Antje Boetius im Tiefsee U-Boot](https://www.deepwave.org/wp-content/uploads/2020/08/MissionErdeAzoren_JoachimJakobsen.jpg) © AWI/Joachim Jakobsen\[/caption\]
 
 _Alexander Gerst begibt sich für die Fernsehserie “[Mission Erde](https://www.swr.de/unternehmen/kommunikation/pressemeldungen/daserste-mission-erde-120~_currentSlide-2_-a9e368cb37a7fe4c57193179bc4c60e782d03065.html)” an Orte, bei denen mittels Forschung versucht wird, das fragile Ökosystem Erde besser zu verstehen. Auf seiner Expeditionsreise traf er auch die Wissenschaftlerin und Leiterin des [Alfred-Wegener-Institutes](https://www.awi.de/) Antje Boetius, um mit ihr in die Tiefsee der Azoren abzutauchen. Anlässlich dieses [vom SWR beauftragten Projekts](https://www.awi.de/ueber-uns/service/presse-detailansicht/presse/mission-erde-aquanautin-und-astronaut-tauchen-ab.html) haben wir mit Antje Boetius über ihre gemeinsame Reise gesprochen, ihre Begegnung mit einem Astronauten, den Schutz der Tiefsee und warum eine Tauchfahrt in die [Tiefen der Meere](https://www.deepwave.org/die-ozeane/die-tiefsee/) zu einem ebenso entscheidenden Perspektivwechsel führen kann wie eine Reise ins All._
 
@@ -32,7 +33,7 @@ _Alexander Gerst begibt sich für die Fernsehserie “[Mission Erde](https://www
 
 **Boetius**: Im U-Boot hören wir zunächst vor allem Blasen platzen beim Ab- und Auftauchen, Pings für die Orientierung und dann ab und zu die eher scharrende Kommunikation zum Schiff. Wir können das Meeresleben draußen um uns herum nicht hören ohne zusätzliche Geräte. Für solche Horchposten in der Tiefsee nutzen wir daher passive hydroakustische Rekorder auf Verankerungen, da kommt Erstaunliches bei raus. Manche Geräusche kann man gar nicht zuordnen. Auf jeden Fall gibt es auch in der Tiefsee menschlichen Lärm zu detektieren, aber eher im Nordmeer und Mittelmeer, wo nach Gas und Öl gesucht wird.
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2021/01/NASA_Hitzsommer_2018.jpg" link="https://www.deepwave.org/wp-content/uploads/2021/01/NASA_Hitzsommer_2018.jpg" alt="Aufnahme aus dem all vom Ruhrgebiet im sehr trockenen Sommer 2018" caption="© dpa / NASA" >}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244346/deepwave.org/NASA_Hitzsommer_2018.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244346/deepwave.org/NASA_Hitzsommer_2018.jpg" alt="Aufnahme aus dem all vom Ruhrgebiet im sehr trockenen Sommer 2018" caption="© dpa / NASA" >}}
 
 **DW**: Alexander Gerst hat 2018 Bilder des extremen Hitzesommers aus dem All geschossen und geschrieben “Schockierender Anblick. Alles vertrocknet und braun, was eigentlich grün sein sollte.” Hattet ihr ein ähnliches Erlebnis unter Wasser? Einen Anblick, der zeigt, wie sich die Klimakatastrophe auf die Tiefsee auswirkt?
 

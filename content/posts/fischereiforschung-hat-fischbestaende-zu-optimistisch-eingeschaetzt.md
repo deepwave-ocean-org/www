@@ -5,16 +5,14 @@ blogs:
   - "forschung"
   - "überfischung"
 source: "Pressemitteilung, GEOMAR, 22.08.2024"
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245404/deepwave.org/Heringe_Sardinen_Fischereiforschung_kogia_nessim_stevenson-scaled.jpg
+image_caption: © Kogia / Nessim Stevenson
 author: "Amalia Klein"
 related: 
   - "/eu-parlament-schwenkt-beim-meeresschutz-um/"
   - "/duh-kritisiert-beschlossene-nordsee-fangquoten-der-eu/"
   - "/eu-entscheidung-zu-ostsee-fangquoten-deutsche-umwelthilfe-kritisiert-beschluesse-als-unzureichend/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2024/11/Heringe_Sardinen_Fischereiforschung_kogia_nessim_stevenson-scaled.jpg" link="https://www.deepwave.org/wp-content/uploads/2024/11/Heringe_Sardinen_Fischereiforschung_kogia_nessim_stevenson-scaled.jpg" alt="Viele kleine Fische, darunter Heringe und Sardinen liegen wild durcheinander auf einem Haufen" caption="© Kogia / Nessim Stevenson" >}}
-
-
 
 **GEOMAR-Experte fordert realistischere Bestandsbewertungen**
 

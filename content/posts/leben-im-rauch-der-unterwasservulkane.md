@@ -4,7 +4,7 @@ date: 2023-03-10
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2023/04/Inactive_hydrothermal_vents_Galapagos_Rift_Expl6488_9667229132.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244848/deepwave.org/Inactive_hydrothermal_vents_Galapagos_Rift_Expl6488_9667229132.jpg"
 image_caption: "© NOAA Okeanos Explorer Program, Galapagos Rift Expedition 2011 / Wikimedia Commons (CC BY 2.0)"
 source: "Pressemitteilung, 09.03.2023, MARUM"
 author: "DEEPWAVE"

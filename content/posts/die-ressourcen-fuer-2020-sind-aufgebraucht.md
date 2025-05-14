@@ -3,7 +3,7 @@ title: "Die Ressourcen für 2020 sind aufgebraucht"
 date: 2020-08-22
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2020/10/jason-blackeye-zAITDJYV09w-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245067/deepwave.org/jason-blackeye-zAITDJYV09w-unsplash-scaled.jpg"
 image_caption: "© Jason Blackeye / Unsplash"
 author: "DEEPWAVE"
 related: 

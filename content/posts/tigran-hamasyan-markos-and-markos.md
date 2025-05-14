@@ -5,6 +5,7 @@ blogs:
   - "filme"
   - "kultur"
   - "musik"
+  - "no-image"
 tags: 
   - "musik"
 author: "DEEPWAVE"

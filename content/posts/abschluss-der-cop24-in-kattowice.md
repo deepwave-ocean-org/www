@@ -4,6 +4,7 @@ date: 2018-12-16
 blogs: 
   - "klima"
   - "politik"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 

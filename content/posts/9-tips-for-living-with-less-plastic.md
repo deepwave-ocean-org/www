@@ -3,6 +3,8 @@ title: "9 tips for living with less plastic"
 date: 2018-11-28
 blogs: 
   - "alternativen-zu-einwegplastik"
+  - Good News
+  - "no-image"
 tags: 
   - "alternativen"
   - "plastic"

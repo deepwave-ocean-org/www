@@ -6,7 +6,7 @@ blogs:
   - "klima"
   - "politik"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2019/11/cdc-EpMIv296POE-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244673/deepwave.org/cdc-EpMIv296POE-unsplash-scaled.jpg"
 image_caption: "© CDC / Unsplash"
 author: "Amalia Klein"
 related: 

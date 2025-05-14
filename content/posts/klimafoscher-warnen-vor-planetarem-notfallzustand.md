@@ -4,7 +4,7 @@ date: 2020-01-27
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2020/01/eisschmelze-eis-polkappen-antarktis-arktis-106_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244323/deepwave.org/eisschmelze-eis-polkappen-antarktis-arktis-106_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg"
 image_caption: "© Alfred-Wegener-Institut / Sebastian Menze (CC-BY 4.0)"
 author: "Noemi Merz"
 ---

@@ -7,6 +7,7 @@ blogs:
   - "pplastic-pollution"
   - "videos-und-audio"
   - "was-tun"
+  - "no-image"
 tags: 
   - "plastic-pollution"
   - "plastikmuell"

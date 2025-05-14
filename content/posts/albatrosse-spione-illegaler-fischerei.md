@@ -4,7 +4,7 @@ date: 2020-02-17
 blogs: 
   - "forschung"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2020/02/fer-nando-UMC5sfWci78-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244792/deepwave.org/fer-nando-UMC5sfWci78-unsplash-scaled.jpg"
 image_caption: "© © Fer Nando / Unsplash"
 author: "Noemi Merz"
 ---

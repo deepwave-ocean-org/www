@@ -7,7 +7,7 @@ blogs:
 tags: 
   - "arktis"
   - "klimawandel"
-image: "https://www.deepwave.org/wp-content/uploads/2010/07/1024px-Axel_Heiberg_Island_01.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244530/deepwave.org/1024px-Axel_Heiberg_Island_01.jpg"
 image_caption: "© Matti&amp;Keti / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 29.07.2010, Helmholtz-Zentrums für Umweltforschung"
 author: "deepwave-blog"

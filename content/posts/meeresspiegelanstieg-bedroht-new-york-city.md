@@ -8,7 +8,7 @@ tags:
   - "klimawandel"
   - "meeresspiegelanstieg"
   - "new-york"
-image: "https://www.deepwave.org/wp-content/uploads/2009/03/new-york-5008758_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244392/deepwave.org/new-york-5008758_1920.jpg"
 image_caption: "© radex118 / Pixabay"
 author: "deepwave-blog"
 related: 

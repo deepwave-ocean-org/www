@@ -3,7 +3,7 @@ title: "Startschuss für Nature Restoration Law: Bedrohte Natur retten, Lebensqu
 date: 2024-08-15
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/10/ostsee_unsplash_gleb_lucky_steg-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245153/deepwave.org/ostsee_unsplash_gleb_lucky_steg-scaled.jpg"
 image_caption: "© Unsplash / Gleb Lucky"
 source: "Pressemitteilung, NABU, 14. August 2024"
 author: "Amalia Klein"

@@ -6,6 +6,7 @@ blogs:
   - "musik"
   - "pplastic-pollution"
   - "videos-und-audio"
+  - "no-image"
 author: "Amalia Klein"
 related: 
   - "/bundesregierung-will-internationales-exportverbot-fuer-unsortierten-plastikmuell/"

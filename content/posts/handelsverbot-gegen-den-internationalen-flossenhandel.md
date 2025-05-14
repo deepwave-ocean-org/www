@@ -3,7 +3,7 @@ title: "Handelsverbot für den internationalen Flossenhandel"
 date: 2023-03-23
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/03/Shark_fins_Hong_Kong.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244855/deepwave.org/Shark_fins_Hong_Kong.jpg"
 image_caption: "© Cloneofsnake / Wikimedia Commons (CC BY-SA 2.0)"
 source: "Pressemitteilung, 23.03.2023, SHARKPROJECT Germany e.V."
 author: "DEEPWAVE"

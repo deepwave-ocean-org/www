@@ -4,7 +4,7 @@ date: 2021-02-19
 blogs: 
   - "pplastic-pollution"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2021/02/PlasticWaste-003.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245243/deepwave.org/PlasticWaste-003.jpg"
 image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 18.02.2021, Staatliche Naturwissenschaftliche Sammlungen Bayerns"
 author: "DEEPWAVE"

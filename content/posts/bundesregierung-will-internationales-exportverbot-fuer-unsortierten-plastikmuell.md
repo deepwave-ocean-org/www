@@ -11,7 +11,7 @@ tags:
   - "plastikmuell"
   - "plastikmuellexport"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/06/hermes-rivera-R1_ibA4oXiI-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244045/deepwave.org/hermes-rivera-R1_ibA4oXiI-unsplash-scaled.jpg"
 image_caption: "© Hermes Rivera / Unsplash"
 author: "DEEPWAVE"
 related: 

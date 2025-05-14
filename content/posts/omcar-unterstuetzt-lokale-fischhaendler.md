@@ -4,6 +4,7 @@ date: 2019-04-15
 blogs: 
   - "good-news"
   - "was-tun"
+  - "no-image"
 tags: 
   - "fischerei"
   - "indien"

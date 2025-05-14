@@ -1,6 +1,9 @@
 ---
 title: "\"Move Like Water: Story of the Sea and Its Creatures\" von Hannah Stowe"
 date: 2023-09-16
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244435/deepwave.org/Move_Like_Water-300x284.jpg
+image_caption:
+image_alt: Buchcover Move Like Water, ein gezeichneter Wal der aus dem Meer springt
 blogs: 
   - "kultur"
   - "literatur"
@@ -8,8 +11,6 @@ author: "DEEPWAVE"
 related: 
   - "/ozeanbuecher/"
 ---
-
-[![Buchcover Move Like Water, ein gezeichneter Wal der aus dem Meer springt](https://www.deepwave.org/wp-content/uploads/2023/09/Move_Like_Water-300x284.jpg)](https://www.deepwave.org/wp-content/uploads/2023/09/Move_Like_Water.jpg)
 
 „There was never a time where I did not know the sea.“ Mit diesem Satz startet die 29-jährige Britin Hannah Stowe in ihr Buchdebüt „Move like Water“, eine wissenschaftlich fundierte Liebeserklärung an die Meere sowie ihre persönliche, mit dem Wasser verwobene Lebensgeschichte.
 

@@ -3,7 +3,7 @@ title: "NABU: Der Schweinswal ist Opfer einer verfehlten Meerespolitik"
 date: 2021-11-20
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/11/1024px-Harbor.Porpoisel.1.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245454/deepwave.org/1024px-Harbor.Porpoisel.1.jpg"
 image_caption: "© Erik Christensen / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 19.11.2021, NABU"
 author: "DEEPWAVE"

@@ -3,7 +3,7 @@ title: "Antarktischer Hotspot: Finnwale lieben die Gewässer um Elephant Island"
 date: 2021-05-28
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2021/05/1024px-Finn_Whales_Long_Beach_-_panoramio.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244139/deepwave.org/1024px-Finn_Whales_Long_Beach_-_panoramio.jpg"
 image_caption: "© Erwin Kreijne / Wikipedia Commons (CC BY 3.0)"
 source: "Pressemitteilung, 27.05.2021, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

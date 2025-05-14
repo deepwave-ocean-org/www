@@ -9,7 +9,7 @@ tags:
   - "kohlenstoffspeicher"
   - "magroven"
   - "mangreen"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/mangroves-5205415_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243918/deepwave.org/mangroves-5205415_1920.jpg"
 image_caption: "© kmarius / Pixabay"
 source: "Pressemitteilung, 26.03.2019 vom idw- Informationsdienst Wissenschaft"
 author: "DEEPWAVE"

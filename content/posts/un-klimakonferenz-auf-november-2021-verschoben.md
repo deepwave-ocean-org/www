@@ -4,7 +4,7 @@ date: 2020-05-28
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2020/10/vladislav-klapin-YeO44yVTl20-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245045/deepwave.org/vladislav-klapin-YeO44yVTl20-unsplash-scaled.jpg"
 image_caption: "© Vladislav Klapin / Unsplash"
 author: "DEEPWAVE"
 ---

@@ -4,6 +4,7 @@ date: 2019-11-12
 blogs: 
   - "klima"
   - "politik"
+  - "no-image"
 source: "Pressemitteilung, NABU, 11.11.2019"
 author: "DEEPWAVE"
 related: 

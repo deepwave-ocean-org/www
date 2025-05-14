@@ -4,7 +4,7 @@ date: 2021-11-24
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/08/sheet-2559543_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245436/deepwave.org/sheet-2559543_1920.jpg"
 image_caption: "© Erich Röthlisberger / Pixabay"
 author: "DEEPWAVE"
 related: 

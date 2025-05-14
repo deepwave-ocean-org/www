@@ -4,7 +4,7 @@ date: 2023-11-04
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/01/2023-11-03_1024px-Gasum_LNG_Carrier_To_Pori_LNG_terminal.jpeg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244417/deepwave.org/2023-11-03_1024px-Gasum_LNG_Carrier_To_Pori_LNG_terminal.jpg"
 image_caption: "© CarletonLiisa / Wikimedia Commons"
 source: "Pressemitteilung, 3.11.2023, DUH"
 author: "Anja"

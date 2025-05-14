@@ -4,7 +4,7 @@ date: 2019-08-07
 blogs: 
   - "forschung"
   - "pplastic-pollution"
-image: "https://www.deepwave.org/wp-content/uploads/2019/08/nareeta-martin-FoG7PKNYjpM-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244268/deepwave.org/nareeta-martin-FoG7PKNYjpM-unsplash-scaled.jpg"
 image_caption: "© Nareeta Martin / Unsplash"
 author: "Noemi Merz"
 related: 

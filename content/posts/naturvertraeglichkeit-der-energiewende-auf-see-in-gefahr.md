@@ -3,7 +3,7 @@ title: "Naturverträglichkeit der Energiewende auf See in Gefahr"
 date: 2020-06-02
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2020/06/Gwynt_y_Mor_offshore_wind_farm_located_off_the_coast_of_Wales_from_Rhiwledyn_Little_Orm_Wales_20.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245138/deepwave.org/Gwynt_y_Mor_offshore_wind_farm_located_off_the_coast_of_Wales_from_Rhiwledyn_Little_Orm_Wales_20.jpg"
 image_caption: "© Llywelyn2000 / Wikimedia Commons (CC BY-SA 4.0)"
 author: "DEEPWAVE"
 related: 

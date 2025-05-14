@@ -1,6 +1,9 @@
 ---
 title: "Der Südozean, wie man ihn noch nie gesehen hat"
 date: 2022-06-10
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244925/deepwave.org/Suedozean_Antarktis_Unsplash_66north-scaled.jpg
+image_caption: © 66north / Unsplash
+image_alt: Zirkumpolarstrom, Ein gewaltiger Eisberg ragt aus dem Meer
 blogs: 
   - "forschung"
   - "klima"
@@ -11,10 +14,6 @@ related:
   - "/ozeanwirbel-koennten-antarktisches-meereis-paradoxon-erklaeren/"
   - "/awi-jaehrliches-meereisminimum-in-der-arktis/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2022/09/Suedozean_Antarktis_Unsplash_66north-scaled.jpg" link="https://www.deepwave.org/wp-content/uploads/2022/09/Suedozean_Antarktis_Unsplash_66north-scaled.jpg" alt="Zirkumpolarstrom: Ein gewaltiger Eisberg ragt aus dem Meer" caption="© 66north / Unsplash" >}}
-
-
 
 **Eine neue Karte zeigt den Meeresboden des Südlichen Ozeans in nie dagewesenem Detail**
 

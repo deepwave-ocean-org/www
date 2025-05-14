@@ -6,7 +6,7 @@ blogs:
   - "bluestraw"
   - "favoriten"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2023/03/AnnaMandel_LostInPlastic_1.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245166/deepwave.org/AnnaMandel_LostInPlastic_1.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 

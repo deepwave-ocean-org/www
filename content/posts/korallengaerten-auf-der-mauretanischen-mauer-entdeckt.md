@@ -4,7 +4,7 @@ date: 2022-06-25
 blogs: 
   - "forschung"
   - "good-news"
-image: "https://www.deepwave.org/wp-content/uploads/2022/06/Oktokoralle_Swiftia_phaenton_Senckenberg.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244711/deepwave.org/Oktokoralle_Swiftia_phaenton_Senckenberg.jpg"
 image_caption: "© Senckenberg Gesellschaft für Naturforschung"
 source: "Pressemitteilung, 21. Juni 2022, Senckenberg Gesellschaft für Naturforschung"
 author: "Amalia Klein"
@@ -27,4 +27,4 @@ Freiwald resümiert: „In zukünftigen Forschungsprojekten möchten wir diese M
 
 [Diese Pressemitteilung](https://www.senckenberg.de/de/pressemeldungen/korallengaerten-auf-der-mauretanischen-mauer-entdeckt/) findet ihr bei der [Senckenberg Gesellschaft für Naturforschung](https://www.senckenberg.de/de/).
 
-Noch mehr zum Thema Korallengärten findet ihr in unserem [Factsheet](https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts_Korallen_2016.pdf). Leider steht katastrophal um unsere Riffe. [Erderwärmung](https://www.deepwave.org/kaum-noch-neue-korallen-im-great-barrier-reef/), [Ozeanversauerung](https://www.deepwave.org/wp-content/uploads/2016/08/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf) und [Extremwetter](https://www.deepwave.org/extremwetter-stoert-oekosysteme-zyklone-und-hitzewellen-setzen-korallen-zu/) setzen diesen besonderen und unverzichtbaren Ökosystemen stark zu.
+Noch mehr zum Thema Korallengärten findet ihr in unserem [Factsheet](http://res.cloudinary.com/deepwave-org/image/upload/v1747244234/deepwave.org/DWfacts_Korallen_2016.pdf). Leider steht katastrophal um unsere Riffe. [Erderwärmung](https://www.deepwave.org/kaum-noch-neue-korallen-im-great-barrier-reef/), [Ozeanversauerung](http://res.cloudinary.com/deepwave-org/image/upload/v1747242932/deepwave.org/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf) und [Extremwetter](https://www.deepwave.org/extremwetter-stoert-oekosysteme-zyklone-und-hitzewellen-setzen-korallen-zu/) setzen diesen besonderen und unverzichtbaren Ökosystemen stark zu.

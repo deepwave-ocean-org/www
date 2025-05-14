@@ -3,7 +3,7 @@ title: "Tiefseekrebs nach Metallica benannt"
 date: 2020-07-23
 blogs: 
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2021/03/Pm-Metallica-27.02.2020-Logo.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244492/deepwave.org/Pm-Metallica-27.02.2020-Logo.jpg"
 image_caption: "© Anna Frenkel / Senckenberg Gesellschaft für Naturforschung"
 source: "Pressemitteilung, Senckenberg Gesellschaft für Naturforschung, 27.02.2020"
 author: "DEEPWAVE"

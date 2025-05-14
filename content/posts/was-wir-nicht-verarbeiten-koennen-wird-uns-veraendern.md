@@ -3,7 +3,7 @@ title: "Was wir nicht verarbeiten können, wird uns verändern"
 date: 2023-10-15
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2023/11/Insta_Was_wir_nicht_verarbeiten_koennen_Sonne_Wolken_Meer.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244943/deepwave.org/Insta_Was_wir_nicht_verarbeiten_koennen_Sonne_Wolken_Meer.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "Amalia Klein"
 ---

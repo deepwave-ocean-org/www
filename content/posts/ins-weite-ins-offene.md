@@ -1,6 +1,8 @@
 ---
 title: "Ins Weite, ins Offene"
 date: 2019-06-16
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243799/deepwave.org/VEKTORFELD_DINA_1_klein.png
+image_caption:
 blogs: 
   - "kultur"
   - "musik"
@@ -8,25 +10,13 @@ blogs:
 author: "DEEPWAVE"
 ---
 
-[![](https://www.deepwave.org/wp-content/uploads/2019/06/VEKTORFELD_DINA_1_klein.png)](https://www.deepwave.org/ins-weite-ins-offene/vektorfeld_dina_1_klein/)
-
 ### Benefizkonzert für DEEPWAVE e.V. mit VEKTORFELD
-
- 
-
-\[one\_half\]
 
 #### Samstag, 29. Juni 2019, 20 Uhr
 
 #### Maria-Magdalenen-Kirche Stübeheide 175, 22337 Hamburg Klein Borstel
 
-\[/one\_half\]
-
-\[one\_half\_last\]
-
 Im Kalender speichern 06/29/2019 20:00 06/29/2019 22:00 Europe/Berlin Benefizkonzert - Ins Weite, ins Offene VEKTORFELD für DEEPWAVE e.V. Stübeheide 175, 22337 Hamburg
-
-\[/one\_half\_last\]
 
 Aus dem spezifischen Zusammenklang von Streichinstrumenten und  Saxophonen entspringt die eigene Poetik des Quartetts **VEKTORFELD.**
 
@@ -40,28 +30,26 @@ Konzerte als Solistin sowie in diversen Ensembles, wie [Ensemble Modern](https:/
 
 [http://ulrikestortz.de/](http://ulrikestortz.de/)
 
-\[/author\_info\] \[/author\]
+![](https://www.deepwave.org/wp-content/uploads/2019/06/Ulrike-Brand-by-Ari-Persian-16.png)
 
-\[author\] \[author\_image timthumb='on'\]https://www.deepwave.org/wp-content/uploads/2019/06/Ulrike-Brand-by-Ari-Persian-16.png\[/author\_image\] \[author\_info\]**Ulrike Brand (Berlin), Cello**
+**Ulrike Brand (Berlin), Cello**
 
 konzertiert als Solistin auf wichtigen internationalen Festivals für zeitgenössische Musik wie MaerzMusik (Berlin), Epidaurus Festival (Athen), Nuova Consonanza (Rom), Sonopolis (Venedig),Wort&Klang (Gothe -Institut Turin), Melos Etos (Bratislava), Colloqui Internazionali di Nuova Musica (Palermo), Santa Fe Music (USA), Nucleo Musica Nueva (Montevideo), Kohourian Award (Teheran), Skanu Mesz (Riga, Lettland) und vielen mehr. Ulrike Brand spielte zahlreiche Uraufführungen zeitgenössischer Kompositionen, die in ihrem Auftrag entstanden und ihr gewidmet sind. Ihr besonderes Interesse gilt grenzüberschreitenden Projekten in den Bereichen Bildende Kunst , Performance und Videokunst. Darüberhinaus hat sie Auftritte mit frei improvisierter Musik auch auf internationalen Festivals mit Musikern wie Olaf Rupp, Tomomi Adachi, Tony Buck, Giancarlo Schiffani, Edwin Prévost, John Tilbury, Biliana Voutchkova u.a.
 
 [http://www.ulrikebrand-cello.com/](http://www.ulrikebrand-cello.com/)
 
-\[/author\_info\] \[/author\]
+![](https://www.deepwave.org/wp-content/uploads/2019/06/frank-paul-schubert-1024x683.jpg)
 
-\[author\] \[author\_image timthumb='on'\]https://www.deepwave.org/wp-content/uploads/2019/06/frank-paul-schubert-1024x683.jpg\[/author\_image\] \[author\_info\]**Frank Paul Schubert (Berlin), Sopran- und Altsaxophon**
+**Frank Paul Schubert (Berlin), Sopran- und Altsaxophon**
 
 Der Saxophonist Frank Paul Schubert lebt seit 1999 in Berlin. Seit Beginn der 90er Jahre war er auf diversen Festivals zu hören. Seine musikalische Orientierung reicht von zeitgenössischem Jazz über kammermusikalische Improvisierte Musik, z.B. im Duo mit dem Pianisten Antonis Anissegos bis zu den abstrakten Klanglandschaften der Band GRID MESH (u.a. mit Andreas Willers; USA/Kanada-Tournee´09). Seit 2006 arbeitet er mit dem Schlagzeuger Günter Baby Sommer zusammen. (CD: “HIC SUNT LEONES“ 2007; „Hic Sunt Leones’s power and finesse make it album of the year material.“, The Wire) Des Weiteren gab es Konzerte/ Tourneen/Produktionen mit Johannes Bauer, Tony Buck, Chris Dahlgren, Tobias Delius, Willi Kellers, Jan Klare, Olaf Rupp, Helmut „Joe“ Sachse, Alexander von Schlippenbach, Harri Sjöström, Clayton Thomas etc.. Konzertreisen führten ihn in die USA, nach Kanada, England, Frankreich, Italien, Österreich, Rumänien, Polen etc.
 
 [www.frankpaulschubert.de](http://www.frankpaulschubert.de/)
 
-\[/author\_info\] \[/author\]
+![](https://www.deepwave.org/wp-content/uploads/2019/06/andreas-krennerich-by-jochen-quast-e1560718663167.jpg)
 
-\[author\] \[author\_image timthumb='on'\]https://www.deepwave.org/wp-content/uploads/2019/06/andreas-krennerich-by-jochen-quast-e1560718663167.jpg\[/author\_image\] \[author\_info\]**Andreas Krennerich (Stuttgart), Sopranino-, Sopran- und Baritonsaxophon**
+**Andreas Krennerich (Stuttgart), Sopranino-, Sopran- und Baritonsaxophon**
 
 Saxophonstudium an der Musikhochschule Stuttgart ; Konzerttätigkeit  als Saxophonist mit improvisierter und komponierter Musik; Aufnahmen mit dem SWR und zahlreiche CD-Produktionen; Zusammenarbeit mit KünstlerInnen aus anderen Kunstbereichen wie Literatur/Sprache, Tanz, Performance und bildender Kunst, Mitinitiator von nu ART; aktuelle Ensembles unter
 
 [www.nuart.org](http://www.nuart.org/)
-
-\[/author\_info\] \[/author\]

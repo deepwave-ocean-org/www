@@ -3,6 +3,7 @@ title: "Erstmals Glyphosat-Nachweis im Meer"
 date: 2020-12-19
 blogs: 
   - "forschung"
+  - "no-image"
 source: "Pressemitteilung, 14.12.2020, IOW Leibnitz-Institut für Ostseeforschung Warnemünde"
 author: "DEEPWAVE"
 related: 

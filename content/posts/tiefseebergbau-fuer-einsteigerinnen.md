@@ -4,7 +4,7 @@ date: 2022-11-12
 blogs: 
   - "favoriten"
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2022/12/Tiefseebergbau_fuer_EinsteigerInnen_Ausschnitt_Fibel_Instagram.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244643/deepwave.org/Tiefseebergbau_fuer_EinsteigerInnen_Ausschnitt_Fibel_Instagram.jpg"
 image_caption: "© Anna Mandel / Die Meeresfibel"
 author: "Amalia Klein"
 related: 

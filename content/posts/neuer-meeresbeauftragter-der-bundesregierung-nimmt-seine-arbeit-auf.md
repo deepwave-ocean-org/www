@@ -3,7 +3,7 @@ title: "Neuer Meeresbeauftragter der Bundesregierung nimmt seine Arbeit auf"
 date: 2022-09-15
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/02/220921_lemke_unger_1855665-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244499/deepwave.org/220921_lemke_unger_1855665-scaled.jpg"
 image_caption: "© BMUV / Sascha Hilgers"
 source: "Pressemitteilung, 14.09.2022, BMUV"
 author: "DEEPWAVE"

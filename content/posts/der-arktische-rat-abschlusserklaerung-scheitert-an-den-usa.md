@@ -9,7 +9,7 @@ tags:
   - "eisschmleze"
   - "politik"
   - "usa"
-image: "https://www.deepwave.org/wp-content/uploads/2019/05/iceland-4058262_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244549/deepwave.org/iceland-4058262_1920.jpg"
 image_caption: "© Jplenio / Pixabay"
 author: "DEEPWAVE"
 related: 

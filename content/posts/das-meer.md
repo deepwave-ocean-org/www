@@ -1,13 +1,16 @@
 ---
 title: "\"Das Meer\" von Jules Michelet"
 date: 2019-06-20
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243932/deepwave.org/WhatsApp-Image-2019-06-25-at-10.14.20-300x300.jpg
+image_caption:
+image_alt: Das sehr alte Buch "Das Meer" vor einer alten Zeichnung mir Tiefseelebewesen
 blogs: 
   - "kultur"
   - "literatur"
 author: "DEEPWAVE"
 ---
 
-> [![Das sehr alte Buch "Das Meer" vor einer alten Zeichnung mir Tiefseelebewesen](https://www.deepwave.org/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-25-at-10.14.20-300x300.jpeg)](https://www.deepwave.org/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-25-at-10.14.20.jpeg)“Ist dieses wie Blut so salzige Meer, das einen Kreislauf besitzt, einen Puls und ein Herz (wie Maury den Äquator beschreibt) in dem ein Austausch seiner beiden Blutarten stattfindet - ist ein Wesen, dem nichts von all dem fehlt, ein unorganisches Etwas?” - Das Meer
+“Ist dieses wie Blut so salzige Meer, das einen Kreislauf besitzt, einen Puls und ein Herz (wie Maury den Äquator beschreibt) in dem ein Austausch seiner beiden Blutarten stattfindet - ist ein Wesen, dem nichts von all dem fehlt, ein unorganisches Etwas?” - Das Meer
 
 Die poetische, bildgewaltige und faszinierende Beschreibung des französischen Historikers aus dem Jahr 1861 ist eines der eindrucksvollsten Texte über das Meer. Mehr als 150 Jahre nach der Ersterscheinung wirken die detaillierten Erklärungen, die immer mit einer persönlichen, direkten Erzählung verbunden sind, seltsam fremd, aber gleichzeitig zeitlos und beständig wie das Meer selbst.
 

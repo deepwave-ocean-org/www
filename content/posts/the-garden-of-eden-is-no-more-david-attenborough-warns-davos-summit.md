@@ -4,6 +4,7 @@ date: 2019-12-28
 blogs: 
   - "ehemals-news"
   - "klima"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 

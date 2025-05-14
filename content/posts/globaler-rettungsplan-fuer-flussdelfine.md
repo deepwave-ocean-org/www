@@ -4,7 +4,7 @@ date: 2023-10-25
 blogs: 
   - "good-news"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2024/08/Flussdelfine_Auch_Wikimedia_.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243893/deepwave.org/Flussdelfine_Auch_Wikimedia_.jpg"
 image_caption: "© Jason Auch / Wikimedia Commons (CC-BY-2.0)"
 source: "Pressemitteilung, 24.10.2023, WWF"
 author: "Lukas"

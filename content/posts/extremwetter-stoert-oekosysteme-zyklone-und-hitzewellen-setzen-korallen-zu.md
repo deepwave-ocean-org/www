@@ -4,7 +4,7 @@ date: 2019-09-06
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2019/09/nico-smit-pD8F9ATnQD0-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244159/deepwave.org/nico-smit-pD8F9ATnQD0-unsplash-scaled.jpg"
 image_caption: "© Nico Smit / Unsplash"
 author: "DEEPWAVE"
 related: 

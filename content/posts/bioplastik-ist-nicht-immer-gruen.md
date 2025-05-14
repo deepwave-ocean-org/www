@@ -9,7 +9,7 @@ tags:
   - "meeresmuell"
   - "meeresplastik"
   - "plastik"
-image: "https://www.deepwave.org/wp-content/uploads/2010/10/john-cameron-KENd4EBdqow-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244241/deepwave.org/john-cameron-KENd4EBdqow-unsplash-scaled.jpg"
 image_caption: "© John Cameron / Unsplash"
 source: "Pressemitteilung, 22.10.2010, pressetext"
 author: "deepwave-blog"

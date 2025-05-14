@@ -4,6 +4,7 @@ date: 2020-11-21
 blogs: 
   - "pplastic-pollution"
   - "was-tun"
+  - "no-image"
 source: "Pressemitteilung, 20.11.2020, Umweltbundesamt"
 author: "DEEPWAVE"
 related: 

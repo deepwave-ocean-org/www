@@ -4,7 +4,7 @@ date: 2019-08-18
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/09/Klimakrise_Handlungsprogramm_Logos_der_Verbände.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244429/deepwave.org/Klimakrise_Handlungsprogramm_Logos_der_Verb%C3%A4nde.png"
 image_caption: "© Deutscher Naturschutzring"
 author: "DEEPWAVE"
 ---

@@ -5,7 +5,7 @@ date: 2024-10-31
 
 #### **15\. Oktober**
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2024/11/DeepSeaNight_Stuttgart.jpeg" link="https://www.deepwave.org/wp-content/uploads/2024/11/DeepSeaNight_Stuttgart.jpeg" alt="zwei Frauen und ein Mann auf Stühlen bei einer Podiumsdiskussion in einem Kino, lachend" caption="©Luna Kloess" >}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245564/deepwave.org/DeepSeaNight_Stuttgart.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747245564/deepwave.org/DeepSeaNight_Stuttgart.jpg" alt="zwei Frauen und ein Mann auf Stühlen bei einer Podiumsdiskussion in einem Kino, lachend" caption="©Luna Kloess" >}}
 
 Anna Groß, DW, Martin Webeler, Environmental Justice Foundation, Julia Ochs, Ocean Gallery
 

@@ -8,7 +8,7 @@ tags:
   - "klimawandel"
   - "seestern"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2013/11/beach-170525_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244677/deepwave.org/beach-170525_1920.jpg"
 image_caption: "© VFClark / Pixabay"
 author: "deepwave-blog"
 related: 
@@ -23,4 +23,4 @@ Gelangt immer mehr CO2 in die Atmosphäre, nehmen die Ozeane ihre Pufferwirkung 
 
 Den Artikel [Ozeanversauerung: Schwer zu verdauen](https://www.geomar.de/news/article/ozeanversauerung-schwer-zu-verdauen) vom 15.11.2013 findet ihr auf der Seite des [GEOMARs](https://www.geomar.de/).
 
-Mehr Informationen zur Ozeanversauerung findet ihr in unserem [Factsheet](https://www.deepwave.org/wp-content/uploads/2016/08/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf).
+Mehr Informationen zur Ozeanversauerung findet ihr in unserem [Factsheet](http://res.cloudinary.com/deepwave-org/image/upload/v1747242932/deepwave.org/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf).

@@ -4,7 +4,7 @@ date: 2021-04-04
 blogs: 
   - "klima"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2021/11/Unbenannt.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245062/deepwave.org/Unbenannt.png"
 image_caption: "© David Stanley / Wikimedia Commons (CC-BY-2.0)"
 author: "DEEPWAVE"
 related: 

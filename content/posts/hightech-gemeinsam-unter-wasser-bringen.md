@@ -3,7 +3,7 @@ title: "Hightech gemeinsam unter Wasser bringen"
 date: 2023-05-24
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/05/20120229_ROV_CRichter-scaled.jpeg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244627/deepwave.org/20120229_ROV_CRichter-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut/UACh/Mathias Hüne (CC-BY 4.0)"
 source: "Pressemitteilung, 23.05.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

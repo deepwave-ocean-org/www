@@ -4,7 +4,7 @@ date: 2022-11-03
 blogs: 
   - "forschung"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2022/11/knut-troim-gwbjoBpUIy8-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244424/deepwave.org/knut-troim-gwbjoBpUIy8-unsplash-scaled.jpg"
 image_caption: "© Knut Troim / Unsplash"
 author: "DEEPWAVE"
 related: 

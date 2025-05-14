@@ -3,7 +3,7 @@ title: "Der Meeresschutz kommt unter die Räder"
 date: 2024-01-11
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2024/01/2024-01-11_Reflexionen.jpeg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244754/deepwave.org/2024-01-11_Reflexionen.jpg"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "Anja"
 ---

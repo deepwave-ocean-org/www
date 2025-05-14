@@ -4,7 +4,7 @@ date: 2023-03-06
 blogs: 
   - "good-news"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/03/ant-rozetsky-q-DJ9XhKkhA-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244510/deepwave.org/ant-rozetsky-q-DJ9XhKkhA-unsplash-scaled.jpg"
 image_caption: "© Ant Rozetsky / Unsplash"
 source: "Pressemitteilung, 05.03.23, BMUV"
 author: "DEEPWAVE"

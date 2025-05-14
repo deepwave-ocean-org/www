@@ -9,7 +9,7 @@ tags:
   - "klimawandel"
   - "ozean"
   - "ozeanerwaermung"
-image: "https://www.deepwave.org/wp-content/uploads/2019/01/anastasia-taioglou-CTivHyiTbFw-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245171/deepwave.org/anastasia-taioglou-CTivHyiTbFw-unsplash-scaled.jpg"
 image_caption: "© Anastasia Taioglou / Unsplash"
 author: "DEEPWAVE"
 ---

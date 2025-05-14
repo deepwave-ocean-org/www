@@ -6,7 +6,7 @@ blogs:
   - "pplastic-pollution"
   - "videos-und-audio"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2018/04/plastic-waste-3962409_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244497/deepwave.org/plastic-waste-3962409_1920.jpg"
 image_caption: "© stux / Pixabay"
 author: "Amalia Klein"
 related: 

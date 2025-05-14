@@ -3,7 +3,7 @@ title: "NABU: Vogelgrippe trifft auf Patient Meer"
 date: 2022-08-10
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2022/08/vogel_moewe_unsplash_trac_vu_vogelgrippe-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244325/deepwave.org/vogel_moewe_unsplash_trac_vu_vogelgrippe-scaled.jpg"
 image_caption: "© Trac Vu / Unsplash"
 source: "Pressemitteilung, 09. August 2022, NABU"
 author: "Amalia Klein"

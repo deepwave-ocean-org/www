@@ -1,6 +1,9 @@
 ---
 title: "Das erste Kippelement ist das schnellste"
 date: 2020-04-02
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244266/deepwave.org/Thwaites_Gletscher_Vogelperspektive-1-scaled.jpg
+image_caption: © NASA / ​Wikimedia Commons
+image_alt: Gletscheransicht mit Meerblick aus der Vogelperspektive
 blogs: 
   - "forschung"
   - "klima"
@@ -10,8 +13,6 @@ related:
   - "/riesiger-eisberg-loest-pine-island-gletscher-antarktis-16226140/"
   - "/meeresspiegel-steigt-schneller-als-prognostiziert/"
 ---
-
-\[caption id="attachment\_20812966" align="alignnone" width="2048"\]![Gletscheransicht mit Meerblick aus der Vogelperspektive](https://www.deepwave.org/wp-content/uploads/2020/04/Thwaites_Gletscher_Vogelperspektive-1-scaled.jpg "Kippelement Gletscherschmelzen") © NASA / ​Wikimedia Commons\[/caption\]
 
 Der Name kündigt bereits eine gewisse Ernsthaftigkeit des Themas an: [Kippelemente](https://www.pik-potsdam.de/de/produkte/infothek/kippelemente) setzen bei bereits kleinen externen Störungen eine Kette in Gang, die - einmal angestoßen - nicht mehr zu kontrollieren ist. So auch beim Gletscherschmelzen in der Antarktis: die Gletscher, die jetzt schon kleiner werden, könnten zukünftig diejenigen sein, die dadurch noch schneller schrumpfen.
 

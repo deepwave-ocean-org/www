@@ -5,6 +5,7 @@ blogs:
   - "good-news"
   - "veranstaltungen"
   - "was-tun"
+  - "no-image"
 author: "DEEPWAVE"
 related: 
   - "/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/"

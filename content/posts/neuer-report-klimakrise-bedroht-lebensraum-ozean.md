@@ -4,6 +4,7 @@ date: 2019-12-05
 blogs: 
   - "forschung"
   - "klima"
+  - "no-image"
 source: "Pressemitteilung, Greenpeace, 04.12.2019"
 author: "DEEPWAVE"
 related: 

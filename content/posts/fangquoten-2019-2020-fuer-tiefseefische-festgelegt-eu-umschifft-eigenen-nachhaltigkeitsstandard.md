@@ -5,6 +5,7 @@ blogs:
   - "politik"
   - "tiefsee"
   - "überfischung"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 

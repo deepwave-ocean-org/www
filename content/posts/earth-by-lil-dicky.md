@@ -6,10 +6,9 @@ blogs:
   - "kultur"
   - "musik"
   - "videos-und-audio"
+  - "no-image"
 author: "Noemi Merz"
 ---
-
- 
 
 https://www.youtube.com/watch?time\_continue=431&v=pvuN\_WvF1to&feature=emb\_title
 

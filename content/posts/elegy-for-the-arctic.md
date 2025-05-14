@@ -6,6 +6,7 @@ blogs:
   - "kultur"
   - "musik"
   - "videos-und-audio"
+  - "no-image"
 tags: 
   - "arktis"
   - "einaudi"

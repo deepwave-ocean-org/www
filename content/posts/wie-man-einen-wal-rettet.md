@@ -3,7 +3,7 @@ title: "Wie man einen Wal rettet"
 date: 2023-01-02
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/02/Breaching_Southern_Right_whale_with_tanker_11341899566.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244258/deepwave.org/Breaching_Southern_Right_whale_with_tanker_11341899566.jpg"
 image_caption: "© Bob Adams / Wikimedia Commons (CC BY-SA 2.0)"
 author: "DEEPWAVE"
 related: 

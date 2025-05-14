@@ -4,6 +4,7 @@ date: 2020-01-29
 blogs: 
   - "forschung"
   - "politik"
+  - "no-image"
 source: "Pressemitteilung, NABU, 28.01.2020"
 author: "DEEPWAVE"
 related: 

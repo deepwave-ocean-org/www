@@ -10,7 +10,7 @@ tags:
   - "klimawandel"
   - "korallen"
   - "korallenriffe"
-image: "https://www.deepwave.org/wp-content/uploads/2019/04/fish-288988_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244473/deepwave.org/fish-288988_1920.jpg"
 image_caption: "© visa vietnam / Pixabay"
 author: "DEEPWAVE"
 ---

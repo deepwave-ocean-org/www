@@ -3,6 +3,7 @@ title: "Positionspapier: Nein zum Raubbau an der Tiefsee!"
 date: 2018-05-14
 blogs: 
   - "tiefsee"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 

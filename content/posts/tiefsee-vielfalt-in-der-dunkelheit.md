@@ -5,7 +5,7 @@ blogs:
   - "kultur"
   - "literatur"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2020/07/Tauchroboter_ROV_KIEL_6000_GEOMAR-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244132/deepwave.org/Tauchroboter_ROV_KIEL_6000_GEOMAR-scaled.jpg"
 image_caption: "© Bildkomposition von Christoph Kersten, GEOMAR, unter Verwendung von Bildmaterial des MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten, Uni­ver­si­tät Bre­men (CC-BY 4.0)"
 source: "Pressemitteilung, 15.05.2020, Senckenberg Gesellschaft für Naturforschung"
 author: "DEEPWAVE"

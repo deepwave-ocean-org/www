@@ -3,7 +3,7 @@ title: "Die Sichtungs-App \"OstSeeTiere\""
 date: 2020-06-19
 blogs: 
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2020/04/Ostseestrand_mit_Robben_Susanne_Jutzeler_suju-foto_pixabay.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244166/deepwave.org/Ostseestrand_mit_Robben_Susanne_Jutzeler_suju-foto_pixabay.jpg"
 image_caption: "© Susanne Jutzeler, suju-foto / Pixabay"
 author: "DEEPWAVE"
 related: 

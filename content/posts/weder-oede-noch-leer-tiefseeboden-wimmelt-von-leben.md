@@ -1,6 +1,9 @@
 ---
 title: "Weder öde noch leer: Tiefseeboden wimmelt von Leben"
 date: 2024-11-21
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244335/deepwave.org/Tiefsee-Lebewesen_Senckenberg_Arktis.jpg
+image_caption: Nahaufnahme eines Bewohnsers der Tiefsee der Arktis
+image_alt: © Lydia A. Schmidt &amp; Carolin Uhlir/Senckenberg
 blogs: 
   - "forschung"
   - "tiefsee"
@@ -12,10 +15,6 @@ related:
   - "/wwf-neuausrichtung-der-internationalen-meeresbodenbehoerde-dringend-notwendig/"
   - "/ueppige-schwammgaerten-auf-untersee-bergen-in-der-arktischen-tiefsee-entdeckt/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2024/12/Tiefsee-Lebewesen_Senckenberg_Arktis.jpg" link="https://www.deepwave.org/wp-content/uploads/2024/12/Tiefsee-Lebewesen_Senckenberg_Arktis.jpg" alt="Nahaufnahme eines Bewohnsers der Tiefsee der Arktis" caption="© Lydia A. Schmidt &amp; Carolin Uhlir/Senckenberg" >}}
-
-
 
 **Neue Übersichtsstudie zeigt Vielfalt von Lebensräumen und Organismen in der arktischen Tiefsee**
 

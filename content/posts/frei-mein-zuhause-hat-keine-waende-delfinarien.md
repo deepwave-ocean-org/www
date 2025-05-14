@@ -4,7 +4,7 @@ date: 2019-10-30
 blogs: 
   - "videos-und-audio"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2019/10/dolphins-1170342_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244789/deepwave.org/dolphins-1170342_1920.jpg"
 image_caption: "© Federicoghedini / Pixabay"
 author: "Amalia Klein"
 related: 

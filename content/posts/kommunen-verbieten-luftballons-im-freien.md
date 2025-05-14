@@ -10,7 +10,7 @@ tags:
   - "eu"
   - "meeresmuell"
   - "plastikmuell"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/gaelle-marcel-vrkSVpOwchk-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244164/deepwave.org/gaelle-marcel-vrkSVpOwchk-unsplash-scaled.jpg"
 image_caption: "© Gaelle Marcel / Unsplash"
 author: "DEEPWAVE"
 related: 

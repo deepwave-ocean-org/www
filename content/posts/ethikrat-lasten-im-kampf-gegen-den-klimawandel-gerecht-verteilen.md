@@ -4,7 +4,7 @@ date: 2024-03-14
 blogs: 
   - "klima"
   - "kultur"
-image: "https://www.deepwave.org/wp-content/uploads/2024/03/hudson-hintze-unsplash_ethikrat_zusammen_gerecht_verteilen-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245136/deepwave.org/hudson-hintze-unsplash_ethikrat_zusammen_gerecht_verteilen-scaled.jpg"
 image_caption: "© Hudson Hintze / Unsplash"
 source: "Pressemitteilung, Deutscher Ethikrat, 13.03.2024"
 author: "DEEPWAVE"

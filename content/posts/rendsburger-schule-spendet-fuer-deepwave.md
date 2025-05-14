@@ -1,6 +1,9 @@
 ---
 title: "Rendsburger Schule spendet für DEEPWAVE"
 date: 2019-01-22
+image: https://www.shz.de/img/landeszeitung/crop22359232/0698016748-cv16_9-w798-o/23-104955298-23-104955950-1548180044.jpg
+image_caption: © shz.de vom 22.01.2019 – Horst Becker
+image_alt: Die Schülersprecher Jorik Gander und Theresa Siebmann, Anna Groß (DEEPWAVE e.V.), Martina Jürgensen (Förderverein krebskranke Kinder und Jugendliche) sowie die Schülersprecher Martha Gersteuer und Marius Dick (von links)
 blogs: 
   - "good-news"
 tags: 
@@ -8,8 +11,6 @@ tags:
   - "spenden"
 author: "DEEPWAVE"
 ---
-
-![](https://www.shz.de/img/landeszeitung/crop22359232/0698016748-cv16_9-w798-o/23-104955298-23-104955950-1548180044.jpg) Die Schülersprecher Jorik Gander und Theresa Siebmann, Anna Groß (DEEPWAVE e.V.), Martina Jürgensen (Förderverein krebskranke Kinder und Jugendliche) sowie die Schülersprecher Martha Gersteuer und Marius Dick (von links)  © shz.de vom 22.01.2019 – Fotograf: Horst Becker
 
 Am 22.11.2018 hat uns die Herderschule in Rendsburg eingeladen, um einen Vortrag über die Meere und unsere Arbeit als Meeresschutzorganisation zu halten. Im Rahmen eines Weihnachtsbasars haben die Schüler und Schülerinnen der Herderschule ganze 5700 Euro gesammelt und sich entschieden, die Hälfte des Geldes DEEPWAVE e.V. zu spenden. Die andere Hälfte kommt dem Förderverein für krebskranke Kinder und Jugendliche zugute.
 

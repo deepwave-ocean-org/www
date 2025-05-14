@@ -4,7 +4,7 @@ date: 2020-06-12
 blogs: 
   - "good-news"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2020/10/no-one-cares-l_5MJnbrmrs-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243974/deepwave.org/no-one-cares-l_5MJnbrmrs-unsplash-scaled.jpg"
 image_caption: "© no one cares / Unsplash"
 author: "DEEPWAVE"
 related: 

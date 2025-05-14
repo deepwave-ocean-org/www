@@ -4,7 +4,7 @@ date: 2021-03-24
 blogs: 
   - "good-news"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/03/baltic-sea-816303_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244512/deepwave.org/baltic-sea-816303_1920.jpg"
 image_caption: "© Marabu / Pixabay"
 source: "Pressemitteilung, 23.03.2021, NABU"
 author: "DEEPWAVE"

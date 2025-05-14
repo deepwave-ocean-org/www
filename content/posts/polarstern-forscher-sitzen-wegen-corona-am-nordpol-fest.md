@@ -3,7 +3,7 @@ title: "„Polarstern“-Forscher:innen sitzen wegen Corona am Nordpol fest"
 date: 2020-03-27
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2020/03/20200329_MOSAiCLeg3_MichaelGutsche_1879-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243840/deepwave.org/20200329_MOSAiCLeg3_MichaelGutsche_1879-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Michael Gutsche (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 

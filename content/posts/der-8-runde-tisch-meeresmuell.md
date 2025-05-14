@@ -4,7 +4,7 @@ date: 2019-12-18
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/12/Plastik_Muell_Strand_achter_Runde_Tisch_Meeresmuell.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243966/deepwave.org/Plastik_Muell_Strand_achter_Runde_Tisch_Meeresmuell.jpg"
 image_caption: "© pixabay"
 author: "Amalia Klein"
 related: 

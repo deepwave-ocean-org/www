@@ -4,7 +4,7 @@ date: 2024-04-27
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/07/bundestag_klimaschutzgesetz_hoch3media_unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244382/deepwave.org/bundestag_klimaschutzgesetz_hoch3media_unsplash-scaled.jpg"
 image_caption: "© hoch3media / Unsplash"
 source: "Pressemitteilung, NABU, 26.04.2024"
 author: "Amalia Klein"

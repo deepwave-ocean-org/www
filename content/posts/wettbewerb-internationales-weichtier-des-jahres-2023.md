@@ -3,7 +3,7 @@ title: "Wettbewerb \"Internationales Weichtier des Jahres\" 2023"
 date: 2023-03-12
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/03/Hermissenda_crassicornis.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244738/deepwave.org/Hermissenda_crassicornis.jpg"
 image_caption: "© Matt Knoth / Wikimedia Commons (CC BY 2.0)"
 author: "DEEPWAVE"
 ---

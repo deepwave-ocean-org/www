@@ -3,6 +3,7 @@ title: "Zu geringe Recyclingkapazitäten für Rückbau von Windenergieanlagen"
 date: 2019-11-02
 blogs: 
   - "forschung"
+  - "no-image"
 author: "DEEPWAVE"
 related: 
   - "/nabu-studie-beim-recycling-durchgefallen/"

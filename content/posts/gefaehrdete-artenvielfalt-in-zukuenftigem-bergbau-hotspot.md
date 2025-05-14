@@ -3,7 +3,7 @@ title: "Gefährdete Artenvielfalt in zukünftigem Bergbau-Hotspot"
 date: 2023-05-26
 blogs: 
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2023/05/2019-04-10_17-28-09_Sonne_SO268-2_118ROV17_OnlyLogo_klein_original1-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243848/deepwave.org/2019-04-10_17-28-09_Sonne_SO268-2_118ROV17_OnlyLogo_klein_original1-scaled.jpg"
 image_caption: "© ROV KIEL 6000, GEOMAR / Wikimedia Commons (CC BY 4.0)"
 author: "DEEPWAVE"
 related: 

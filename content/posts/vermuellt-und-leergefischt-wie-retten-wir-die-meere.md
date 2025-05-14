@@ -6,6 +6,7 @@ blogs:
   - "überfischung"
   - "videos-und-audio"
   - "was-tun"
+  - "no-image"
 tags: 
   - "fangquoten"
   - "fischerei"

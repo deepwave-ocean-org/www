@@ -3,6 +3,7 @@ title: "NABU reicht EU-Beschwerde gegen Offshore-Windpark Butendiek ein"
 date: 2019-03-20
 blogs: 
   - "politik"
+  - "no-image"
 tags: 
   - "nabu"
   - "offshore-windkraft"

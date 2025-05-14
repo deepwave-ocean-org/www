@@ -3,7 +3,7 @@ title: "Fotoreihe zeigt Gasförderung in russischer Tundra"
 date: 2019-04-23
 blogs: 
   - "kunst"
-image: "https://www.deepwave.org/wp-content/uploads/2019/04/frantzou-fleurine-RzZF9skE6yQ-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244566/deepwave.org/frantzou-fleurine-RzZF9skE6yQ-unsplash-scaled.jpg"
 image_caption: "© Frantzou Fleurine / Unsplash"
 author: "DEEPWAVE"
 ---
@@ -14,4 +14,4 @@ Eine Auswahl von Xelots Serie „[There Is Gas Under the Tundra](https://www.len
 
 In der Tundra müssen sich die Unternehmen an nahezu keine Richtlinien halten, da keine Zivilisation in der Nähe sei. Deshalb verbrennen sie das Gas direkt über der Erde und nicht in vielen Metern Höhe. Die Problematik von Öl und Gas stellt unser Artikel [Öl- und Gasplattformen](https://www.deepwave.org/die-ozeane/erdoel-und-erdgas/) übersichtlich dar.
 
-Auch die Tiefsee bleibt nicht vor der Begierde nach immer mehr Erdöl verschont. Dabei ist das System dort besonders sensibel und unerforscht. Die Risiken haben wir in dem [Factsheet Erdöl aus der Tiefsee](https://www.deepwave.org/wp-content/uploads/2015/03/Tiefsee-Oel.pdf) zusammengefasst.
+Auch die Tiefsee bleibt nicht vor der Begierde nach immer mehr Erdöl verschont. Dabei ist das System dort besonders sensibel und unerforscht. Die Risiken haben wir in dem [Factsheet Erdöl aus der Tiefsee](http://res.cloudinary.com/deepwave-org/image/upload/v1747243595/deepwave.org/Tiefsee-Oel.pdf) zusammengefasst.

@@ -9,7 +9,7 @@ tags:
   - "umwelt"
   - "wale"
   - "walfang"
-image: "https://www.deepwave.org/wp-content/uploads/2009/02/robert-bahn-KbGmILustFE-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244939/deepwave.org/robert-bahn-KbGmILustFE-unsplash-scaled.jpg"
 image_caption: "© Robert Bahn / Unsplash"
 source: "Pressemitteilung, 13. Februar 2009, Informationsdienst Wissenschaft"
 author: "deepwave-blog"

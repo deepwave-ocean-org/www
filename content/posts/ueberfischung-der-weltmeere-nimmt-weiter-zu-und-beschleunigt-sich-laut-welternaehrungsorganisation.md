@@ -4,6 +4,7 @@ date: 2018-07-11
 blogs: 
   - "forschung"
   - "überfischung"
+  - "no-image"
 tags: 
   - "aquakultur"
   - "ernaehrungssicherheit"

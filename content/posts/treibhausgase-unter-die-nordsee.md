@@ -9,7 +9,7 @@ tags:
   - "co2"
   - "geomar"
   - "klimaschutz"
-image: "https://www.deepwave.org/wp-content/uploads/2019/06/k-mitch-hodge-spHGjF80AQE-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244367/deepwave.org/k-mitch-hodge-spHGjF80AQE-unsplash-scaled.jpg"
 image_caption: "© K. Mitch Hodge / Unsplash"
 author: "DEEPWAVE"
 related: 

@@ -1,16 +1,14 @@
 ---
 title: "Europas größte Klimawoche feiert zehnten Geburtstag vom 23. bis 30. September in Hamburg"
 date: 2018-09-19
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245429/deepwave.org/Klimawoche_2018-300x225.jpg
+image_caption: © Hamburger Klimawoche
 blogs: 
   - "klima"
   - "veranstaltungen"
   - "was-tun"
 author: "DEEPWAVE"
 ---
-
-[![](https://www.deepwave.org/wp-content/uploads/2018/11/Klimawoche_2018-300x225.jpg)](https://www.deepwave.org/wp-content/uploads/2018/11/Klimawoche_2018.jpg)
-
-Foto: Hamburger Klimawoche
 
 Und die BLUE STRAW Kampagne von DEEPWAVE ist auch mit dabei. Im Rahmen der 10. Klimawoche wird die Hamburger FCKSTRAWS Initiative der _clubkinder_ und _greenmusic initiative_ vorgestellt ([http://fckplastic.org/#](http://fckplastic.org/#)). DEEPWAVE ist als Meeresschutzorganisation Kooperationspartner für den Wissenstransfer.
 

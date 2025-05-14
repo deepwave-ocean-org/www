@@ -3,7 +3,7 @@ title: "NABU: Entscheidung zu Windpark Butendiek enttäuscht auf ganzer Linie"
 date: 2021-03-12
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/03/windrader-4657667_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244655/deepwave.org/windrader-4657667_1920.jpg"
 image_caption: "© Julia Schwab / Pixabay"
 source: "Pressemitteilung, 12.03.2021, NABU"
 author: "DEEPWAVE"

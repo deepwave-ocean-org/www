@@ -4,7 +4,7 @@ date: 2020-07-30
 blogs: 
   - "politik"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2020/06/Alarmstufe_Rot_Demonstration_Schild-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244736/deepwave.org/Alarmstufe_Rot_Demonstration_Schild-scaled.jpg"
 image_caption: "© Markus Spiske on Unsplash"
 author: "Lea Teichmann"
 ---

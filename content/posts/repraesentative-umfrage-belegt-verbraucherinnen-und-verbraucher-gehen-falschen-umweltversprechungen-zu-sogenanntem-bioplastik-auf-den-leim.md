@@ -4,7 +4,7 @@ date: 2021-12-03
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2022/02/john-cameron-KENd4EBdqow-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244808/deepwave.org/john-cameron-KENd4EBdqow-unsplash-scaled.jpg"
 image_caption: "© John Cameron / Unsplash"
 source: "Pressemitteilung, 02.12.2021, Deutsche Umwelthilfe (DUH)"
 author: "DEEPWAVE"

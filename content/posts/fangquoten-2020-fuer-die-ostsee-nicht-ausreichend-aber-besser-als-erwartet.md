@@ -4,7 +4,7 @@ date: 2019-11-01
 blogs: 
   - "politik"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2019/11/Trawlers_overfishing_cod.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245279/deepwave.org/Trawlers_overfishing_cod.jpg"
 image_caption: "© Asc1733 - Own work / Wikimedia Commons (CC-BY-SA 4.0)"
 author: "DEEPWAVE"
 related: 

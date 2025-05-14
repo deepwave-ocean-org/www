@@ -5,6 +5,7 @@ blogs:
   - "pplastic-pollution"
   - "videos-und-audio"
   - "was-tun"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 
@@ -16,8 +17,4 @@ Die Kinder haben das ganze Halbjahr über an Themen gearbeitet, die sie besonder
 
 Vier Mädchen wandten sich an DEEPWAVE und luden Anna Groß zum Interview ein.
 
-[
-
-<iframe style="width: 100%; height: 220px;" src="https://www.audiyou.de/player/mll-in-den-meeren-9906/" frameborder="0" scrolling="no"></iframe>
-
-](http://iframe%20src=https://www.audiyou.de/player/mll-in-den-meeren-9906/%20frameborder=0%20scrolling=no%20style=width:100%;height:220px/iframe)
+{{< iframe src="https://www.audiyou.de/player/mll-in-den-meeren-9906/">}}

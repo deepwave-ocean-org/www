@@ -3,7 +3,7 @@ title: "Über die Wolken"
 date: 2023-11-14
 blogs: 
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2024/05/A_Cloud_to_Starboard_-_Penholm_-_G._Howell-Baker_-_The_Magazine_of_Art_version.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244794/deepwave.org/A_Cloud_to_Starboard_-_Penholm_-_G._Howell-Baker_-_The_Magazine_of_Art_version.jpg"
 image_caption: "© Cloud to Starboard /@ Wikimedia Commons"
 author: "DEEPWAVE"
 related: 
@@ -16,7 +16,7 @@ related:
 
 Es folgt ein langer Text - wer nur sehr wenig Zeit hat, kann stattdessen dieses Filmchen sehen, das die wesentlichen Aspekte kurz und knapp auf den Punkt bringt:  [Should we reflect sunlight to cool the planet?](https://www.youtube.com/watch?v=EKPFZPyQurA)
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2024/05/DAILY-SEA-SURFACE-TEMPERATURE-ANOMALY.png" link="https://www.deepwave.org/wp-content/uploads/2024/05/DAILY-SEA-SURFACE-TEMPERATURE-ANOMALY.png" alt="Grafik, die die durchschnittlichen Tagestemperaturen der Meeresoberfläche im Nordostatlantik pro Monat zeigt, farblich aufgeschlüsselt nach Jahrzehnten. Die schwarze Linie, die extrem nach oben ausschlägt, geht bis Juni 2023." caption="© Tägliche Meeresoberflächentemperaturenanomalien / @Copernicus Climate Change Service/ECMWF" >}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244797/deepwave.org/DAILY-SEA-SURFACE-TEMPERATURE-ANOMALY.png" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244797/deepwave.org/DAILY-SEA-SURFACE-TEMPERATURE-ANOMALY.png" alt="Grafik, die die durchschnittlichen Tagestemperaturen der Meeresoberfläche im Nordostatlantik pro Monat zeigt, farblich aufgeschlüsselt nach Jahrzehnten. Die schwarze Linie, die extrem nach oben ausschlägt, geht bis Juni 2023." caption="© Tägliche Meeresoberflächentemperaturenanomalien / @Copernicus Climate Change Service/ECMWF" >}}
 
 Ich weiß nicht, wie repräsentativ wir sind (vermutlich nicht allzu sehr), aber ich und die Leute, mit denen ich eine Blase teile, haben dieses Bild in den letzten Wochen und Monaten sehr oft in unseren Feeds und Streams und News auftauchen sehen. Das Geschrabbel sind die durchschnittlichen Tagestemperaturen der Meeresoberfläche im Nordostatlantik pro Monat, farblich aufgeschlüsselt nach Jahrzehnten. Die schwarze Linie ist jetzt. Auch der Laie erkennt schnell: Hier stimmt wohl etwas nicht.
 

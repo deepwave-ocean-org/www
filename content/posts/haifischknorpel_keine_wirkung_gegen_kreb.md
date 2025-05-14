@@ -5,7 +5,7 @@ blogs:
   - "forschung"
 tags: 
   - "haie"
-image: "https://www.deepwave.org/wp-content/uploads/2020/09/Gerald_Schoembs_Hai_Haifischknorpel_Keine_Wirkung_gegen_Krebs.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244028/deepwave.org/Gerald_Schoembs_Hai_Haifischknorpel_Keine_Wirkung_gegen_Krebs.jpg"
 image_caption: "© Gerald Schömbs / unsplash"
 author: "deepwave-blog"
 related: 

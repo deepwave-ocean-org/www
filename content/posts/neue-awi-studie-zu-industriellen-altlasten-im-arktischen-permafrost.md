@@ -1,6 +1,9 @@
 ---
 title: "Neue AWI-Studie zu industriellen Altlasten im arktischen Permafrost"
 date: 2023-04-05
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244599/deepwave.org/20140824_Permafrost_Lena2014_001_TOpel-scaled.jpg
+image_caption: © Alfred-Wegener-Institut / Thomas Opel (CC-BY 4.0)
+image_alt: Ein mit Gras bewachsener arktischer Permafrostboden
 blogs: 
   - "forschung"
   - "klima"
@@ -9,10 +12,6 @@ author: "DEEPWAVE"
 related: 
   - "/soziale-kipppunkte-im-klimawandel-grosse-veraenderungen-mit-zuversicht-bewirken/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2023/05/20140824_Permafrost_Lena2014_001_TOpel-scaled.jpg" link="https://www.deepwave.org/wp-content/uploads/2023/05/20140824_Permafrost_Lena2014_001_TOpel-scaled.jpg" alt="Ein mit Gras bewachsener arktischer Permafrostboden" caption="© Alfred-Wegener-Institut / Thomas Opel (CC-BY 4.0)" >}}
-
-
 
 **Wenn die Dauerfrost-Böden auftauen, droht der Arktis eine massive Belastung mit Industrie-Altlasten und Schadstoffen**
 

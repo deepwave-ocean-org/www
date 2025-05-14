@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "good-news"
   - "videos-und-audio"
-image: "https://www.deepwave.org/wp-content/uploads/2020/05/20200404_MOSAiCLeg3_TorstenSachs__005-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244741/deepwave.org/20200404_MOSAiCLeg3_TorstenSachs__005-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Torsten Sachs (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 

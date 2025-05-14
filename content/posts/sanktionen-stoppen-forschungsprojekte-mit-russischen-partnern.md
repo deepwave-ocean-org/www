@@ -4,7 +4,7 @@ date: 2022-03-23
 blogs: 
   - "forschung"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2022/04/20200329_MOSAiCLeg3_MichaelGutsche_1899-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245261/deepwave.org/20200329_MOSAiCLeg3_MichaelGutsche_1899-scaled.jpg"
 image_caption: "© <br />Alfred-Wegener-Institut / Michael Gutsche (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 

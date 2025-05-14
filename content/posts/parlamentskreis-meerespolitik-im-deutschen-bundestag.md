@@ -3,7 +3,7 @@ title: "Parlamentskreis Meerespolitik im Deutschen Bundestag"
 date: 2024-09-29
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/09/Parlamentskreis_Meerespolitikc-Inga-Kjer-5.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244607/deepwave.org/Parlamentskreis_Meerespolitikc-Inga-Kjer-5.jpg"
 image_caption: "© Inga Kjer"
 source: "Pressemitteilung vom 27. September 2024, Daniel Schneider, MdB"
 author: "Amalia Klein"

@@ -3,6 +3,7 @@ title: "NABU: Bundesverwaltungsgericht weist Klagen zum Bau des Ostseetunnels ab
 date: 2020-11-03
 blogs: 
   - "politik"
+  - "no-image"
 source: "Pressemitteilung, NABU, 03.11.2020"
 author: "DEEPWAVE"
 related: 

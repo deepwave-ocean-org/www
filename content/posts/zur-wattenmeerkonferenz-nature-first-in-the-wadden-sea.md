@@ -3,7 +3,7 @@ title: "Zur Wattenmeerkonferenz: \"Nature first in the Wadden Sea\""
 date: 2022-11-30
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/02/footprints-gbd888e564_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245425/deepwave.org/footprints-gbd888e564_1920.jpg"
 image_caption: "© Friedhelm Brandenburg / Pixabay"
 source: "Pressemitteilung, 29.11.2022, WWF"
 author: "DEEPWAVE"

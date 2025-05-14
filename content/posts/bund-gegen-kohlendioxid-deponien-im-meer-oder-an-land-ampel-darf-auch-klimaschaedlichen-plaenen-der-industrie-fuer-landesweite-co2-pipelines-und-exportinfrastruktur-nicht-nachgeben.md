@@ -4,7 +4,7 @@ date: 2022-12-23
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/02/CCS_Coal_Carbon_Capture_Technology_In_Use_Wikimedia_Commons.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244787/deepwave.org/CCS_Coal_Carbon_Capture_Technology_In_Use_Wikimedia_Commons.png"
 image_caption: "© Peabody Energy, Inc. / Wikimedia Commons (CC BY 3.0)"
 source: "Pressemitteilung, 21.12.2022, BUND"
 author: "Amalia Klein"

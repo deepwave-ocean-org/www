@@ -6,7 +6,7 @@ blogs:
   - "klima"
 tags: 
   - "meeresforschung"
-image: "https://www.deepwave.org/wp-content/uploads/2005/05/Ny-Alesund_port_3-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243793/deepwave.org/Ny-Alesund_port_3-scaled.jpg"
 image_caption: "© CC BY-SA 3.0 / Wikimedia Commons"
 source: "Pressemitteilung, 31. Mai 2005, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "deepwave-blog"

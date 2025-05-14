@@ -3,7 +3,7 @@ title: "Mutilated dolphins wash up on French coast in record numbers"
 date: 2019-04-04
 blogs: 
   - "forschung-en"
-image: "https://www.deepwave.org/wp-content/uploads/2019/04/tammi-baliszewski-FLOF4xCXXW8-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244047/deepwave.org/tammi-baliszewski-FLOF4xCXXW8-unsplash-scaled.jpg"
 image_caption: "© Tammi Baliszewski / Unsplash"
 author: "DEEPWAVE"
 ---

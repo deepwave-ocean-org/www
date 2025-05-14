@@ -13,7 +13,7 @@ tags:
   - "naturschutzgebiete"
   - "plastik"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2018/11/c__pixabay.com__csm_fische_schwarm_kp_1200_cfaa6bf1ba_8611f6956d.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245009/deepwave.org/c__pixabay.com__csm_fische_schwarm_kp_1200_cfaa6bf1ba_8611f6956d.png"
 image_caption: "© pixabay"
 author: "DEEPWAVE"
 ---

@@ -15,4 +15,4 @@ Vorstellung unseres Projektes "KLARTETX Meeresoffensive"  bei der [Okeanos – 
 
 Teilnahme an der internationalen Gruppenausstellung in Hamburg EVERYONE BUT CASPAR mit einer Arbeit von Anna Mandel zum Thema Tiefseebergbau
 
-[![](https://www.deepwave.org/wp-content/uploads/2024/03/CASPAR.jpeg)](https://www.deepwave.org/wp-content/uploads/2024/03/CASPAR.jpeg)
+[![](http://res.cloudinary.com/deepwave-org/image/upload/v1747245638/deepwave.org/CASPAR.jpg)](http://res.cloudinary.com/deepwave-org/image/upload/v1747245638/deepwave.org/CASPAR.jpg)

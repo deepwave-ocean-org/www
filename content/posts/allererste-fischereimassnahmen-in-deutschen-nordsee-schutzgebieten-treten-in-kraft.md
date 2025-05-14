@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "politik"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/04/net-g04067fc87_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244256/deepwave.org/net-g04067fc87_1920.jpg"
 image_caption: "© Nadine Doerlé / Pixabay"
 source: "Pressemitteilung, 16.02.2023, BUND"
 author: "DEEPWAVE"

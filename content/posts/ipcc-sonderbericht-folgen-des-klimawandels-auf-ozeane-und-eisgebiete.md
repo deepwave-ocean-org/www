@@ -5,7 +5,7 @@ blogs:
   - "favoriten"
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2019/09/andy-wang-RxzyCRCmlRA-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245361/deepwave.org/andy-wang-RxzyCRCmlRA-unsplash-scaled.jpg"
 image_caption: "© Andy Wang / Unsplash"
 author: "DEEPWAVE"
 related: 

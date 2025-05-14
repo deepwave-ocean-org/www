@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "klima"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2024/11/cod_dorsch_kabeljau_ostsee_fangquote_viviane_m_pixabay.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245246/deepwave.org/cod_dorsch_kabeljau_ostsee_fangquote_viviane_m_pixabay.jpg"
 image_caption: "© Viviane M. / pixabay"
 source: "Pressemitteilung, 27.03.2024, Thünen"
 author: "Amalia Klein"

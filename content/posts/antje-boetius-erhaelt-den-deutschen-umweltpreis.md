@@ -1,6 +1,8 @@
 ---
 title: "Prof. Antje Boetius erhält den Deutschen Umweltpreis 2018"
 date: 2018-11-03
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244065/deepwave.org/meeresbiologin-antje-boetius-1.jpg
+image_caption: © Alfred-Wegener-Institut / Kerstin Rolfes (CC-BY 4.0)
 blogs: 
   - "forschung"
   - "tiefsee"
@@ -11,8 +13,6 @@ tags:
   - "tiefsee"
 author: "DEEPWAVE"
 ---
-
-[![](https://www.deepwave.org/wp-content/uploads/2019/01/meeresbiologin-antje-boetius-1.jpg)](https://www.deepwave.org/wp-content/uploads/2019/01/meeresbiologin-antje-boetius-1.jpg)© Alfred-Wegener-Institut / Kerstin Rolfes (CC-BY 4.0)
 
 Bereits zum 26. Mal wurde der Deutsche Umweltpreis der Deutschen Bundesstiftung Umwelt (DBU) vergeben, die Meeresbiologin Prof. Dr. Antje Boetius ist eine der Gewinnerinnen. Der mit 500.000 Euro dotierte Preis ist der größte unabhängige Umweltpreis Europas. Durch die Vergabe betont die DBU die große Bedeutung der Weltmeere für Klima, Lebensvielfalt und Nahrungsversorgung und warnt gleichzeitig vor dem Klimawandel, der Umweltverschmutzung und Überfischung.
 

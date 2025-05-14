@@ -3,7 +3,7 @@ title: "Wälder unter Wasser"
 date: 2019-08-31
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-172213.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244782/deepwave.org/Screenshot-2023-12-04-172213.png"
 image_caption: "© Gwylvos; Forests Beneath the Waves by Matt Biggs"
 author: "DEEPWAVE"
 ---

@@ -4,7 +4,7 @@ date: 2023-11-17
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2024/01/2023-11-16_Heligoland_07-2016_photo13.jpeg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244360/deepwave.org/2023-11-16_Heligoland_07-2016_photo13.jpg"
 image_caption: "© A.Savin / Wikimedia Commons"
 source: "Pressemitteilung, 16.11.2023, NABU"
 author: "Anja"

@@ -4,7 +4,7 @@ date: 2023-05-18
 blogs: 
   - "politik"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/08/Schweinswal_Phocoena_phocoena_in_der_Flensburger_Foerde-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244249/deepwave.org/Schweinswal_Phocoena_phocoena_in_der_Flensburger_Foerde-scaled.jpg"
 image_caption: "© Soenke Rahn / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 17.05.2023, BUND"
 author: "DEEPWAVE"

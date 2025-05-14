@@ -3,7 +3,7 @@ title: "Windenergie-Ausbau auf See ohne Perspektive für Naturverträglichkeit"
 date: 2023-10-07
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/10/Burbo_Bank_Offshore_Wind_Farm_-_geograph.org_.uk_-_4655370.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244121/deepwave.org/Burbo_Bank_Offshore_Wind_Farm_-_geograph.org_.uk_-_4655370.jpg"
 image_caption: "© David Dixon / Wikimedia Commons (CC BY-SA 2.0)"
 source: "Pressemitteilung, 06.10.2023, NABU"
 author: "DEEPWAVE"

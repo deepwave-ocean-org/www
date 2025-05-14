@@ -3,7 +3,7 @@ title: "Venedig: Bilder der Stille"
 date: 2020-03-26
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-171104.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243851/deepwave.org/Screenshot-2023-12-04-171104.png"
 image_caption: "© Joan Jonas: MOVING OFF THE LAND II<br />Filmstill"
 author: "DEEPWAVE"
 ---

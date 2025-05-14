@@ -3,7 +3,7 @@ title: "Der Klimawandel ist keine Glaubenssache"
 date: 2019-09-29
 blogs: 
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2022/02/matt-palmer-ofJ7pPG9KcI-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244070/deepwave.org/matt-palmer-ofJ7pPG9KcI-unsplash-scaled.jpg"
 image_caption: "© Matt Palmer / Unsplash"
 author: "DEEPWAVE"
 related: 

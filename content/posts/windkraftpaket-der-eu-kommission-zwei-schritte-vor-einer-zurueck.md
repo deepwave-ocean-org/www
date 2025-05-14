@@ -4,7 +4,7 @@ date: 2023-10-25
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/08/Offshore_Windenergie_Tho_Ge_Pixabay.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244332/deepwave.org/Offshore_Windenergie_Tho_Ge_Pixabay.jpg"
 image_caption: "© Tho-Ge / Pixabay"
 source: "Pressemitteilung, 24.10.2023, NABU"
 author: "Lukas"

@@ -6,7 +6,7 @@ blogs:
   - "was-tun"
 tags: 
   - "china"
-image: "https://www.deepwave.org/wp-content/uploads/2005/05/Tongan_Bridge_-_west_end_-_land_reclamation_-_DSCF9224.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243991/deepwave.org/Tongan_Bridge_-_west_end_-_land_reclamation_-_DSCF9224.jpg"
 image_caption: "© CC BY-SA 3.0 / Wikimedia Commons"
 author: "deepwave-blog"
 related: 

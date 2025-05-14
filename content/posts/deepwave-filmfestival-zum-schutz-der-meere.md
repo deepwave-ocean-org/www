@@ -1,6 +1,8 @@
 ---
 title: "DEEPWAVE Filmfestival zum Schutz der Meere"
 date: 2019-04-16
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245202/deepwave.org/_Kirsten_und_Joachim_Jakobsen.jpg
+image_caption: © Kirsten Jakobsen/Joachim Jakobsen
 blogs: 
   - "filme"
   - "kultur"
@@ -8,8 +10,6 @@ blogs:
   - "was-tun"
 author: "DEEPWAVE"
 ---
-
-[![](https://www.deepwave.org/wp-content/uploads/2019/04/©_Kirsten_und_Joachim_Jakobsen.jpg)](https://www.deepwave.org/deepwave-filmfestival-zum-schutz-der-meere/_kirsten_und_joachim_jakobsen/)© Kirsten Jakobsen/Joachim Jakobsen
 
 Wir freuen uns euch zum ersten DEEPWAVE Filmfestival am 24. Mai 2019 in Hamburg mit faszinierenden Filmen und interessanten Gästen begrüßen zu dürfen.
 

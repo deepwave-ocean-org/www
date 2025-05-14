@@ -6,15 +6,14 @@ blogs:
   - "tiefsee"
 source: "Pressemitteilung, 17.05.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/2019-04-05_22-59-41_Sonne_SO268-2_099ROV14_OnlyLogo_klein_original1-scaled.jpg
+image_caption: © ROV-Team/GEOMAR / Wikimedia Commons (CC BY 4.0)
+image_alt: Eine Manganknolle wird von einem Roboter aufgehoben
 related: 
   - "/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/"
   - "/tiefseebergbau-folgen-noch-nicht-abzusehen/"
   - "/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2023/06/2019-04-05_22-59-41_Sonne_SO268-2_099ROV14_OnlyLogo_klein_original1-scaled.jpg" link="https://www.deepwave.org/wp-content/uploads/2023/06/2019-04-05_22-59-41_Sonne_SO268-2_099ROV14_OnlyLogo_klein_original1-scaled.jpg" alt="Eine Manganknolle wird von einem Roboter aufgehoben" caption="© ROV-Team/GEOMAR / Wikimedia Commons (CC BY 4.0)" >}}
-
-
 
 **Neue Studie zeigt: Der Umgang mit Manganknollen birgt Gesundheitsrisiken**
 

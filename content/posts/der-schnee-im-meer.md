@@ -4,7 +4,7 @@ date: 2020-06-01
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2020/04/underwater_free-photos-pixabay.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244709/deepwave.org/underwater_free-photos-pixabay.jpg"
 image_caption: "© Free-Photos/ pixabay"
 author: "DEEPWAVE"
 related: 

@@ -6,7 +6,7 @@ blogs:
   - "tiefsee"
 tags: 
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2005/06/Riftia_tube_worm_colony_Galapagos.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245376/deepwave.org/Riftia_tube_worm_colony_Galapagos.jpg"
 image_caption: "© NOAA / Wikimedia Commons"
 source: "Pressemitteilung, 27.06.2005, Christian-Albrechts-Universität zu Kiel"
 author: "deepwave-blog"

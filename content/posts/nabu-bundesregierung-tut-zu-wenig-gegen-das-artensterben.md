@@ -3,6 +3,7 @@ title: "NABU: Bundesregierung tut zu wenig gegen das Artensterben"
 date: 2018-11-14
 blogs: 
   - "politik"
+  - "no-image"
 source: "Pressemitteilung, NABU, 13.11.2018"
 author: "DEEPWAVE"
 related: 

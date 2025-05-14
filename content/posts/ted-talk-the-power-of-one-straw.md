@@ -10,7 +10,7 @@ tags:
   - "plastik"
   - "plastikmuell"
   - "straw"
-image: "https://www.deepwave.org/wp-content/uploads/2018/02/drinking-straw-229470_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244665/deepwave.org/drinking-straw-229470_1920.jpg"
 image_caption: "© Kapa65 / Pixabay"
 author: "DEEPWAVE"
 related: 

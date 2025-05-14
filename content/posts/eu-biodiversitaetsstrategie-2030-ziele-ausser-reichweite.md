@@ -3,7 +3,7 @@ title: "2030-Ziele außer Reichweite: Verlieren EU und Deutschland im Kampf gege
 date: 2024-11-22
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2025/01/eu_flaggen_bruessel_biodiversitaetsstrategie_christian-lue-unsplash.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243994/deepwave.org/eu_flaggen_bruessel_biodiversitaetsstrategie_christian-lue-unsplash.jpg"
 image_caption: "© Unsplash /Christian Lue"
 source: "Pressemitteilung, 21.11.2024, NABU"
 author: "Amalia Klein"

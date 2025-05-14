@@ -4,7 +4,7 @@ date: 2022-02-09
 blogs: 
   - "forschung"
   - "pplastic-pollution"
-image: "https://www.deepwave.org/wp-content/uploads/2022/03/seagull-gb6dc6ccd1_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244835/deepwave.org/seagull-gb6dc6ccd1_1920.jpg"
 image_caption: "© blandinejoannic / Pixabay"
 author: "DEEPWAVE"
 related: 

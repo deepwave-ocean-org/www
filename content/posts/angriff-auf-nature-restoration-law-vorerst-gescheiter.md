@@ -3,7 +3,7 @@ title: "Angriff auf Nature Restoration Law vorerst gescheitert"
 date: 2023-06-16
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/07/noah-buscher-x8ZStukS2PM-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243891/deepwave.org/noah-buscher-x8ZStukS2PM-unsplash-scaled.jpg"
 image_caption: "© Noah Buscher / Unsplash"
 source: "Pressemitteilung, 15.06.2023, NABU"
 author: "DEEPWAVE"

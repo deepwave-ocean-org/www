@@ -4,7 +4,7 @@ date: 2019-04-11
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2019/04/raoul-croes-tdDKlhxfgj4-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244941/deepwave.org/raoul-croes-tdDKlhxfgj4-unsplash-scaled.jpg"
 image_caption: "© Raoul Croes / Unsplash"
 author: "DEEPWAVE"
 ---

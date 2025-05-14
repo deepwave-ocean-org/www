@@ -9,7 +9,7 @@ tags:
   - "clean-up"
   - "meeresmuell"
   - "plastikmuell"
-image: "https://www.deepwave.org/wp-content/uploads/2019/04/Gruppenfoto-Beach-Clean-Up-Sylt_Copyright_Luisa_Knueppe_WDC-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244955/deepwave.org/Gruppenfoto-Beach-Clean-Up-Sylt_Copyright_Luisa_Knueppe_WDC-scaled.jpg"
 image_caption: "© Luisa Knüppe / Whale and Dolphin Conservation"
 author: "DEEPWAVE"
 ---

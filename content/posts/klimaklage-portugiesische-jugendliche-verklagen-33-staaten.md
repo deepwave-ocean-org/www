@@ -4,7 +4,7 @@ date: 2020-09-20
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/01/matt-howard-eAKDzK4lo4o-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245145/deepwave.org/matt-howard-eAKDzK4lo4o-unsplash-scaled.jpg"
 image_caption: "© Matt Howard / Unsplash"
 author: "DEEPWAVE"
 related: 

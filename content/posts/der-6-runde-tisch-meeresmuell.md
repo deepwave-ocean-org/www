@@ -6,6 +6,7 @@ blogs:
   - "politik"
   - "veranstaltungen"
   - "was-tun"
+  - "no-image"
 tags: 
   - "europa"
   - "fischerei"

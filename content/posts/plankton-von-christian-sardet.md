@@ -4,7 +4,7 @@ date: 2020-06-04
 blogs: 
   - "kultur"
   - "literatur"
-image: "https://www.deepwave.org/wp-content/uploads/2020/06/Buchcover_Plankton_von_Christian_Sardet-1.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244860/deepwave.org/Buchcover_Plankton_von_Christian_Sardet-1.jpg"
 image_caption: "© Christian Sardet „Plankton“ Verlag Ulmer 2016."
 author: "Lea Teichmann"
 related: 

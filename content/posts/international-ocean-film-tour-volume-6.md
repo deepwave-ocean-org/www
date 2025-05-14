@@ -6,6 +6,7 @@ blogs:
   - "kultur"
   - "veranstaltungen"
   - "was-tun"
+  - "no-image"
 tags: 
   - "haie"
   - "ocean-film-tour"

@@ -4,7 +4,7 @@ date: 2020-08-31
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2020/10/fezbot2000-8J8-mlevFqg-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244482/deepwave.org/fezbot2000-8J8-mlevFqg-unsplash-scaled.jpg"
 image_caption: "© Fezbot2000 / Unsplash"
 author: "DEEPWAVE"
 related: 
@@ -25,4 +25,4 @@ Süddeutsche Zeitung, 31.08.2020, Autorin: Tina Baier
 
 Den [vollständigen Artikel](https://www.sueddeutsche.de/wissen/korallen-umwelt-ozeane-1.5016439) findet ihr bei der [Süddeutschen Zeitung](https://www.sueddeutsche.de/).
 
-Weitere Informationen zu [Korallenriffen](https://www.deepwave.org/die-ozeane/korallen/) könnt ihr in unserer [Themenübersicht](https://www.deepwave.org/die-ozeane/) finden und in unserem Factsheet [Korallenriffe: Bedrohte Paradiese der Meere.](https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts_Korallen_2016.pdf)
+Weitere Informationen zu [Korallenriffen](https://www.deepwave.org/die-ozeane/korallen/) könnt ihr in unserer [Themenübersicht](https://www.deepwave.org/die-ozeane/) finden und in unserem Factsheet [Korallenriffe: Bedrohte Paradiese der Meere.](http://res.cloudinary.com/deepwave-org/image/upload/v1747244234/deepwave.org/DWfacts_Korallen_2016.pdf)

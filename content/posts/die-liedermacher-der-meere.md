@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "kultur"
   - "musik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/06/vivek-kumar-fs283LESUtc-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245207/deepwave.org/vivek-kumar-fs283LESUtc-unsplash-scaled.jpg"
 image_caption: "© Vivek Kumar / Unsplash"
 author: "DEEPWAVE"
 related: 

@@ -6,6 +6,7 @@ blogs:
   - "politik"
   - "videos-und-audio"
   - "was-tun"
+  - "no-image"
 tags: 
   - "aktionen"
   - "greta-thunberg"

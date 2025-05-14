@@ -3,6 +3,7 @@ title: "DEEPWAVE wird 20!"
 date: 2023-03-03
 blogs: 
   - "good-news"
+  - "no-image"
 author: "Amalia Klein"
 ---
 

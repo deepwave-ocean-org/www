@@ -3,6 +3,7 @@ title: "Verpackt. Vertrackt. Ver... hoben."
 date: 2019-06-13
 blogs: 
   - "alternativen-zu-einwegplastik"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 

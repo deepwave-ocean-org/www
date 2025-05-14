@@ -4,7 +4,7 @@ date: 2023-06-03
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/06/Plastic_Ocean_4408273247-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244126/deepwave.org/Plastic_Ocean_4408273247-scaled.jpg"
 image_caption: "© Kevin Krejci / Wikimedia Commons (CC BY 2.0)"
 source: "Pressemitteilung, 02.06.2023, Umweltbundesamt"
 author: "DEEPWAVE"

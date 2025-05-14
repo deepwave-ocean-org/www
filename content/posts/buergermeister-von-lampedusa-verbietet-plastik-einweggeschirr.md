@@ -5,6 +5,7 @@ blogs:
   - "alternativen-zu-einwegplastik"
   - "good-news"
   - "pplastic-pollution"
+  - "no-image"
 tags: 
   - "einwegplastik"
   - "europa"

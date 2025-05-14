@@ -8,7 +8,7 @@ tags:
   - "marine-litter"
   - "plastik"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/garbage-1255244_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244282/deepwave.org/garbage-1255244_1920.jpg"
 image_caption: "© EKM-Mittelsachsen / Pixabay"
 author: "DEEPWAVE"
 related: 

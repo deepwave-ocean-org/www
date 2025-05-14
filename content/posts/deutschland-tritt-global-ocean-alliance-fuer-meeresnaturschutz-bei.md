@@ -4,6 +4,7 @@ date: 2020-05-14
 blogs: 
   - "good-news"
   - "politik"
+  - "no-image"
 source: "Pressemitteilung, 13.05.2020, BMU"
 author: "DEEPWAVE"
 related: 

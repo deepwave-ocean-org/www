@@ -4,7 +4,7 @@ date: 2020-09-16
 blogs: 
   - "pplastic-pollution"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2021/02/PP_EU_KV_Quadratisch_onlineRZ.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244668/deepwave.org/PP_EU_KV_Quadratisch_onlineRZ.jpg"
 image_caption: "© BMBF / Plastic Pirates – Go Europe!"
 source: "Pressemitteilung, 15.09.2020, Plastic Pirates"
 author: "DEEPWAVE"

@@ -4,7 +4,7 @@ date: 2022-02-03
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2022/03/20130103_Eis_Impressionen_LGruebner4407-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244960/deepwave.org/20130103_Eis_Impressionen_LGruebner4407-scaled.jpg"
 image_caption: "© Lars Grübner / Alfred-Wegener-Institut (CC-BY 4.0)"
 source: "Pressemitteilung, 02.02.2022, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

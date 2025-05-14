@@ -4,7 +4,7 @@ date: 2021-02-11
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2021/02/csm_deep-seabed-mining-c-WWF-Portugal_a80a4551a3.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245214/deepwave.org/csm_deep-seabed-mining-c-WWF-Portugal_a80a4551a3.jpg"
 image_caption: "© WWF Portugal"
 source: "Pressemitteilung, 10.02.2021, WWF"
 author: "DEEPWAVE"

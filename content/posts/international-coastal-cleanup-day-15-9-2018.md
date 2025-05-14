@@ -1,6 +1,8 @@
 ---
 title: "International Coastal Cleanup Day 15.9.2018"
 date: 2018-09-14
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244372/deepwave.org/IMG_1118-1200x1607-765x1024.jpg
+image_caption: © DEEPWAVE
 blogs: 
   - "pplastic-pollution"
   - "veranstaltungen"
@@ -13,8 +15,6 @@ tags:
   - "veranstaltung"
 author: "DEEPWAVE"
 ---
-
-[![](https://www.deepwave.org/wp-content/uploads/2018/11/IMG_1118-1200x1607-765x1024.jpg)](https://www.deepwave.org/wp-content/uploads/2018/11/IMG_1118-1200x1607.jpg) © DEEPWAVE
 
 Es gibt ihn nun schon seit über 30 Jahren, den International Coastal Cleanup Day, ins Leben gerufen von der US-amerikanischen NGO „Ocean Conservancy“. Auch dieses Jahr, am **15.9.2018**, finden weltweit viele Müllsammelaktionen statt.
 

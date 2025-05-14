@@ -7,7 +7,7 @@ tags:
   - "demonstration"
   - "fridays-for-future"
   - "klimawandel"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/Luisa_Neubauer_13-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244958/deepwave.org/Luisa_Neubauer_13-scaled.jpg"
 image_caption: "© Andol / Wikimedia Commons (CC BY-SA 4.0)"
 author: "DEEPWAVE"
 ---

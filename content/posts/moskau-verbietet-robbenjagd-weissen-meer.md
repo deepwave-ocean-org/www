@@ -9,7 +9,7 @@ tags:
   - "jagd"
   - "robben"
   - "umwelt"
-image: "https://www.deepwave.org/wp-content/uploads/2009/03/henriette-valkema-i9rzTO_qxfk-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244900/deepwave.org/henriette-valkema-i9rzTO_qxfk-unsplash-scaled.jpg"
 image_caption: "© henriette valkema / Unsplash"
 author: "deepwave-blog"
 ---

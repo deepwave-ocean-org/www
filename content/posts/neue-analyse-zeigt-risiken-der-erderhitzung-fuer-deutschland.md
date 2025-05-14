@@ -4,7 +4,7 @@ date: 2021-06-15
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2021/07/sunflower-954557_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244640/deepwave.org/sunflower-954557_1920.jpg"
 image_caption: "© ivabalk / Pixabay"
 source: "Pressemitteilung, 14.06.2021, Umweltbundesamt"
 author: "DEEPWAVE"

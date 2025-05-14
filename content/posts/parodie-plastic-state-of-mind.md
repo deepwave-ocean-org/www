@@ -11,7 +11,7 @@ tags:
   - "muell"
   - "musik"
   - "plastikmuell"
-image: "https://www.deepwave.org/wp-content/uploads/2018/02/daniel-romero-DPC8oN2IMcY-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244635/deepwave.org/daniel-romero-DPC8oN2IMcY-unsplash-scaled.jpg"
 image_caption: "© Daniel Romero / Unsplash"
 author: "DEEPWAVE"
 related: 

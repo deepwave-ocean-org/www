@@ -1,13 +1,16 @@
 ---
 title: "\"Die Geschichte des Wassers\" von Maja Lunde"
 date: 2019-06-21
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245445/deepwave.org/Die_Geschichte_das_Wassers_2-300x300.jpg)](http://res.cloudinary.com/deepwave-org/image/upload/v1747245447/deepwave.org/Die_Geschichte_das_Wassers_2.jpg
+image_caption:
+image_alt: Das Buch "Die Geschichte des Wassers" an Ufer eines kleinen Flusses mitten in der Natur
 blogs: 
   - "kultur"
   - "literatur"
 author: "DEEPWAVE"
 ---
 
-[![Das Buch "Die Geschichte des Wassers" an Ufer eines kleinen Flusses mitten in der Natur](https://www.deepwave.org/wp-content/uploads/2019/06/Die_Geschichte_das_Wassers_2-300x300.jpeg)](https://www.deepwave.org/wp-content/uploads/2019/06/Die_Geschichte_das_Wassers_2.jpeg)**„Die Geschichte des Wassers“** – Eine Geschichte, die nachwirkt
+**„Die Geschichte des Wassers“** – Eine Geschichte, die nachwirkt
 
 Es ist mitten im Jahrhundertsommer 2018, als ich „Die Geschichte des Wassers“ von Maja Lunde aufschlage. Draußen herrschen weit über 30°C, es hat schon wochenlang nicht mehr richtig geregnet und alles fühlt sich trocken und staubig an. Ein Setting, wie es für Lundes Roman kaum besser passen könnte. Die norwegische Autorin verknüpft in ihrem Buch zwei auf den ersten Blick völlig unabhängige Erzählstränge miteinander. Da ist die 67-jährige Umweltaktivistin Signe, die zurück in ihre Heimat in Norwegen reist und gegen den Ausverkauf des Gletschereises kämpft – mit einer Kraft und Stärke, die sie nur durch ihre tiefe Überzeugung und ihre Liebe zur Natur haben kann. Die zweite Geschichte spielt rund zwanzig Jahre in der Zukunft, in einem Europa, das in Wasser- und Trockenländer zweigeteilt ist. Erstere wollen oder können längst keine Klimaflüchtlinge mehr aufnehmen, letztere sind seit nunmehr fünf Jahren Hitze und Dürre ausgesetzt und bieten immer weniger Lebenschancen für die Menschen in diesen Ländern. Protagonisten dieses zweiten Erzählstrangs sind David und seine kleinen Tochter Lou, die Davids Frau und seinen Sohn während ihrer Flucht aus ihrer brennenden Heimatstadt verloren haben und versuchen, sie wiederzufinden.
 

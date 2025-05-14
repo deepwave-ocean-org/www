@@ -8,7 +8,7 @@ tags:
   - "meeresboden"
   - "mikroorganismen"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2013/03/Erdkruste.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245356/deepwave.org/Erdkruste.jpg"
 image_caption: "© USGS, TomCatX / Wikimedia Commons"
 author: "deepwave-blog"
 related: 

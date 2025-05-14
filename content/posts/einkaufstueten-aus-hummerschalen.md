@@ -4,6 +4,7 @@ date: 2019-04-04
 blogs: 
   - "alternativen-zu-einwegplastik"
   - "was-tun"
+  - "no-image"
 author: "DEEPWAVE"
 ---
 

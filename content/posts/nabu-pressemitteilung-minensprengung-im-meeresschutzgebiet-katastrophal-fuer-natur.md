@@ -3,7 +3,7 @@ title: "NABU Pressemitteilung: Minensprengung im Meeresschutzgebiet katastrophal
 date: 2019-11-25
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/11/minensprengun_ostsee_NABU_NDR_Peter-Sorge.jpeg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244280/deepwave.org/minensprengun_ostsee_NABU_NDR_Peter-Sorge.jpg"
 image_caption: "© NDR | Peter Sorge"
 author: "Amalia Klein"
 related: 

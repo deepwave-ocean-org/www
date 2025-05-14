@@ -8,7 +8,7 @@ tags:
   - "klimaforschung"
   - "korallenriffe"
   - "ozeanversauerung"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/earth-1023859_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243985/deepwave.org/earth-1023859_1920.jpg"
 image_caption: "© Geralt / Pixabay"
 author: "DEEPWAVE"
 related: 

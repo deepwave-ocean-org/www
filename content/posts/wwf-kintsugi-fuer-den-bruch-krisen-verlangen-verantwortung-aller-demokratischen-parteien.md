@@ -3,7 +3,7 @@ title: "WWF: Kintsugi für den Bruch – Krisen verlangen Verantwortung aller de
 date: 2024-11-08
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/11/alana-harris-9lNvfrRlWE8-unsplash.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244277/deepwave.org/alana-harris-9lNvfrRlWE8-unsplash.jpg"
 image_caption: "© Alana Harris / Unsplash"
 source: "Pressemitteilung, 07.11.2024, WWF"
 author: "DEEPWAVE"

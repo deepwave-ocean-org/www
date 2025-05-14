@@ -8,7 +8,7 @@ tags:
   - "forschung"
   - "meeresleuchten"
   - "plankton"
-image: "https://www.deepwave.org/wp-content/uploads/2013/01/animal-5383375_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244969/deepwave.org/animal-5383375_1920.jpg"
 image_caption: "© MierCatPhotography / Pixabay"
 source: "Pressemitteilung, 02. Januar 2013, Sektion Phykologie der Deutschen Botanischen Gesellschaft"
 author: "deepwave-blog"

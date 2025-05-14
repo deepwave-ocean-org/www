@@ -4,7 +4,7 @@ date: 2022-11-23
 blogs: 
   - "good-news"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2022/11/paul-kapischka-WUm0lu8_Jo0-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244694/deepwave.org/paul-kapischka-WUm0lu8_Jo0-unsplash-scaled.jpg"
 image_caption: "© Paul Kapischka / Unsplash"
 source: "Pressemitteilung, 22.11.2022, Naturschutzbund Deutschland e.V."
 author: "DEEPWAVE"

@@ -6,6 +6,7 @@ blogs:
   - "kultur"
   - "videos-und-audio"
   - "was-tun"
+  - "no-image"
 tags: 
   - "artenvielfalt"
   - "film"

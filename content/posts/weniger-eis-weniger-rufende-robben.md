@@ -4,7 +4,7 @@ date: 2023-04-18
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2023/05/20081211_Weddell-seal_HBornemann-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243896/deepwave.org/20081211_Weddell-seal_HBornemann-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Horst Bornemann (CC-BY 4.0)"
 source: "Pressemitteilung, 17.04.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

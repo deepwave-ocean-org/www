@@ -4,7 +4,7 @@ date: 2024-09-01
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2024/10/noaa_tiefsee_krabben_submarine_ring_of_fire.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244063/deepwave.org/noaa_tiefsee_krabben_submarine_ring_of_fire.jpg"
 image_caption: "© NOAA Office of Ocean Exploration and Research / <a href='https://www.noaa.gov/digital-collections/categories/4173/item?page=24'>Image courtesy of Submarine Ring of Fire 2006 Exploration, NOAA Vents Program</a>"
 source: "Pressemitteilung vom 31. Juli 2024, MARUM - Zentrum für Marine Umweltwissenschaften"
 author: "Amalia Klein"

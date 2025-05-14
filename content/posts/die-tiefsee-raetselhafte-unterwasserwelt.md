@@ -1,6 +1,9 @@
 ---
 title: "Die Tiefsee: Rästelhafte Unterwasserwelt"
 date: 2018-10-13
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244454/deepwave.org/jellyfish_qualle_tiefsee_republica_pixabay.jpg
+image_caption: © Republica / Pixabay
+image_alt: Unterwasserwelt, Eine orangene Qualle schwimmt durch die Tiefsee
 blogs: 
   - "forschung"
   - "tiefsee"
@@ -13,8 +16,6 @@ author: "DEEPWAVE"
 related: 
   - "/deep-sea/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2018/10/jellyfish_qualle_tiefsee_republica_pixabay.jpg" link="https://www.deepwave.org/wp-content/uploads/2018/10/jellyfish_qualle_tiefsee_republica_pixabay.jpg" alt="Unterwasserwelt: Eine orangene Qualle schwimmt durch die Tiefsee" caption="© Republica / Pixabay" >}}
 
 Die [Tiefsee](https://www.deepwave.org/die-ozeane/die-tiefsee/) ist bisher weniger erforscht als der Mond. Bis Mitte des 19. Jahrhunderts war die Wissenschaft noch überzeugt, dass durch die dort besonderen Umweltbedingungen keinerlei Leben möglich sei. Durch die Bergung eines Tiefseekabels, welches von verschiedensten Tierarten besiedelt war, wurden die Forscher:innen 1858 eines Besseren belehrt. Neben dem bekannten Riesentintenfisch gibt es viele weitere Lebewesen, die sich optimal an diese Bedingungen - die für uns extrem erscheinen - der Unterwasserwelt angepasst haben: durch ein bestimmtes Molekül, das ihre Proteine stabilisiert, können Tiefseefische dem Druck in der Tiefe standhalten. Durch die Fähigkeit zur Biolumineszenz, können sich die Lebewesen verständigen und Beute oder Partner anlocken.
 

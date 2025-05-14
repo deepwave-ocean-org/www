@@ -4,7 +4,7 @@ date: 2023-03-01
 blogs: 
   - "favoriten"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/03/Ablasshandel_Holzschnitt_CCS.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg"
 image_caption: "© Ablasshandel im Mittelalter / Wikimedia Commons"
 author: "Amalia Klein"
 ---

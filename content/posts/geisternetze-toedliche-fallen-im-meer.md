@@ -5,7 +5,7 @@ blogs:
   - "pplastic-pollution"
   - "überfischung"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2022/10/Geisternetz_Cormoran_Wolf_Wichmann.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244777/deepwave.org/Geisternetz_Cormoran_Wolf_Wichmann.png"
 image_caption: "© Wolf Wichmann"
 author: "Amalia Klein"
 related: 

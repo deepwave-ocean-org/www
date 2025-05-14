@@ -4,7 +4,7 @@ date: 2022-05-17
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2022/07/CO2_Gesteinsmehl_Mesocosm-Deployment_MichaelSswat_GEOMAR-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243865/deepwave.org/CO2_Gesteinsmehl_Mesocosm-Deployment_MichaelSswat_GEOMAR-scaled.jpg"
 image_caption: "© Ulf Riebesell, GEOMAR "
 author: "Amalia Klein"
 related: 

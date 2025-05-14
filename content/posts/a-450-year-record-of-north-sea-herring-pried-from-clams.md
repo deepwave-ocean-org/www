@@ -3,7 +3,7 @@ title: "A 450-Year Record of North Sea Herring, Pried from Clams"
 date: 2019-07-06
 blogs: 
   - "forschung-en"
-image: "https://www.deepwave.org/wp-content/uploads/2019/07/matt-artz-4IhOQ4vwXaQ-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244704/deepwave.org/matt-artz-4IhOQ4vwXaQ-unsplash-scaled.jpg"
 image_caption: "© Matt Artz / Unsplash"
 author: "Lea Teichmann"
 ---

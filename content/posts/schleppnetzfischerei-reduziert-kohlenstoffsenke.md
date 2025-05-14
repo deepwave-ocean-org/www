@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "klima"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2024/12/krabbenkutter_trawl_nordsee_kohlenstoffsenke_pixabay_wolf_blur.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244846/deepwave.org/krabbenkutter_trawl_nordsee_kohlenstoffsenke_pixabay_wolf_blur.jpg"
 image_caption: "© Pixabay / Wolf Blur"
 source: "Pressemitteilung, 28.10.2024, Hereon"
 author: "Amalia Klein"

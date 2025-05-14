@@ -4,7 +4,7 @@ date: 2023-08-10
 blogs: 
   - "klima"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/08/Expl0392_-_Flickr_-_NOAA_Photo_Library.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244011/deepwave.org/Expl0392_-_Flickr_-_NOAA_Photo_Library.jpg"
 image_caption: "© Shawn Harper, Hidden Ocean 2005 Expedition: NOAA Office of Ocean Exploration / Wikimedia Commons (CC BY 2.0)"
 source: "Pressemitteilung, 09.08.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

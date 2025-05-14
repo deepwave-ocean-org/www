@@ -17,6 +17,6 @@ DEEPWAVE richtet das jährliche Treffen der im Meeresschutz aktiven deutschen Ve
 
 #### 2\. September
 
-[![](https://www.deepwave.org/wp-content/uploads/2023/05/Highlights_Montemero.png)](https://www.deepwave.org/wp-content/uploads/2023/05/Highlights_Montemero.png)
+[![](http://res.cloudinary.com/deepwave-org/image/upload/v1747245691/deepwave.org/Highlights_Montemero.png)](http://res.cloudinary.com/deepwave-org/image/upload/v1747245691/deepwave.org/Highlights_Montemero.png)
 
 1.Treffen mit Emily Pappa und Pino Brenner von [Montemero](https://www.montemero.eu). Wir beschließen eine gemeinsame Kooperation.

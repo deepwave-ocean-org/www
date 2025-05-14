@@ -1,6 +1,9 @@
 ---
 title: "Haifischsteaks: 150.000 tote Haie im Lidl Regal"
 date: 2005-05-25
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244035/deepwave.org/Shark_meat_at_Tokyo_supermarket-scaled.jpg
+image_caption: © CC0 1.0 / Wikimedia Commons
+image_alt: in Styroporschale verpacktes Haifischsteak mit japanischer Schrift
 blogs: 
   - "was-tun"
 tags: 
@@ -13,8 +16,6 @@ related:
   - "/wwf_lidl_setzt_erneut_auf_falsche_fisch_/"
 _schema: blog_post
 ---
-
-\[caption id="attachment\_20820253" align="alignnone" width="2048"\][![in Styroporschale verpacktes Haifischsteak mit japanischer Schrift](https://www.deepwave.org/wp-content/uploads/2005/05/Shark_meat_at_Tokyo_supermarket-scaled.jpg)](https://www.deepwave.org/wp-content/uploads/2005/05/Shark_meat_at_Tokyo_supermarket-scaled.jpg) © CC0 1.0 / Wikimedia Commons\[/caption\]
 
 Lidl wirbt mit dem Verkauf exotischer Fischware: Ab nächster Woche werden bei Lidl Haifischsteaks für nur 4,49 Euro verkauft. Aufgrund dieser Aktion mussten bereits geschätzte 150.000 Blauhaie und andere Haiarten (ganz zu schweigen von den Delfinen, Meeresschildkröten und Seevögeln) an den Langleinen der Hochseetrawler sterben. Dabei sind durch den [Haifischflossenhandel](https://www.deepwave.org/buergerinitiative-gegen-haifischflossenhandel-jede-stimme-zaehlt/) und [andere Industriezweige](https://www.deepwave.org/squalen-in-covid-19-impfungen-erhoeht-druck-auf-haie/) weltweit alle Haiarten vom Aussterben bedroht.
 

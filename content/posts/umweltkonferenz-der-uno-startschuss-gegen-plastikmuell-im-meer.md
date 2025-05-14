@@ -9,7 +9,7 @@ tags:
   - "meeeresplastik"
   - "plastikmuell"
   - "umweltkongress"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/waste-1433138_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244141/deepwave.org/waste-1433138_1920.jpg"
 image_caption: "© ©SandraAltherr / Pixabay"
 author: "DEEPWAVE"
 related: 

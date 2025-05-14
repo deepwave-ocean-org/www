@@ -7,7 +7,7 @@ tags:
   - "demonstration"
   - "fridays-for-future"
   - "klimaschutz"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/nico_roicke_unsplash_fridays_fur_future_Klimademo-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244073/deepwave.org/nico_roicke_unsplash_fridays_fur_future_Klimademo-scaled.jpg"
 image_caption: "© Nico Roicke / Unsplash"
 author: "DEEPWAVE"
 related: 

@@ -3,7 +3,7 @@ title: "Kernforderungen für eine zukunftsfähige Meerespolitik"
 date: 2023-05-10
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2023/11/Insta_Kernforderungen_Meerespolitik.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244581/deepwave.org/Insta_Kernforderungen_Meerespolitik.png"
 image_caption: "© Anna Mandel /DEEPWAVE"
 author: "Amalia Klein"
 related: 

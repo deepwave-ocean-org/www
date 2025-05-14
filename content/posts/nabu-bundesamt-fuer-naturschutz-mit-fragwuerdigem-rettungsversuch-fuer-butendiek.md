@@ -3,7 +3,7 @@ title: "NABU: Bundesamt für Naturschutz mit fragwürdigem Rettungsversuch für 
 date: 2021-03-05
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/03/offshore-wind-park-3080449_1280.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243845/deepwave.org/offshore-wind-park-3080449_1280.jpg"
 image_caption: "© A Different Perspective / Pixabay"
 source: "Pressemitteilung, 04.03.2021, NABU"
 author: "DEEPWAVE"

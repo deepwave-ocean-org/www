@@ -4,6 +4,7 @@ date: 2020-11-27
 blogs: 
   - "forschung"
   - "klima"
+  - "no-image"
 source: "Pressemitteilung, 26.11.2020, Senckenberg Gesellschaft für Naturforschung"
 author: "DEEPWAVE"
 related: 

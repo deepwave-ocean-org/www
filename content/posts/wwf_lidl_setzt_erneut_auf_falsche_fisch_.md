@@ -5,7 +5,7 @@ blogs:
   - "was-tun"
 tags: 
   - "fischerei"
-image: "https://www.deepwave.org/wp-content/uploads/2005/06/shrimp-727214_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245394/deepwave.org/shrimp-727214_1920.jpg"
 image_caption: "© jackmac34 / Pixabay"
 source: "Pressemitteilung, 14. Juni 2005, WWF"
 author: "deepwave-blog"

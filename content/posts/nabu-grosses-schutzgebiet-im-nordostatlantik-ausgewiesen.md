@@ -4,7 +4,7 @@ date: 2021-10-02
 blogs: 
   - "good-news"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/10/gerald-schombs-n30Y9Y63IVw-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245164/deepwave.org/gerald-schombs-n30Y9Y63IVw-unsplash-scaled.jpg"
 image_caption: "© Gerald Schömbs / Unsplash"
 source: "Pressemitteilung, 01.10.2021, NABU"
 author: "DEEPWAVE"

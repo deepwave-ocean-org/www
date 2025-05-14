@@ -8,7 +8,7 @@ tags:
   - "meeresmuell"
   - "politik"
   - "umwelt"
-image: "https://www.deepwave.org/wp-content/uploads/2009/05/garbage-2729608_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245004/deepwave.org/garbage-2729608_1920.jpg"
 image_caption: "© RitaE / Pixabay"
 author: "deepwave-blog"
 related: 

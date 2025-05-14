@@ -4,7 +4,7 @@ date: 2021-06-16
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2021/08/1024px-Permafrost_in_Herschel_Island_011.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243822/deepwave.org/1024px-Permafrost_in_Herschel_Island_011.jpg"
 image_caption: "© Boris Radosavljevic / Wikimedia Commons (CC BY 2.0)"
 source: "Pressemitteilung, 15.06.2021, Alfred-Wegener-Institut"
 author: "DEEPWAVE"

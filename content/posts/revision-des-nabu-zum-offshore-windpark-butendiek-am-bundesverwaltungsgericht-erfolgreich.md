@@ -3,7 +3,7 @@ title: "Revision des NABU zum Offshore Windpark Butendiek am Bundesverwaltungsge
 date: 2021-05-01
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/06/andrey-sharpilo-d_7pSMukAl8-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245369/deepwave.org/andrey-sharpilo-d_7pSMukAl8-unsplash-scaled.jpg"
 image_caption: "© Andrey Sharpilo / Unsplash"
 source: "Pressemitteilung, 30.04.2021, NABU"
 author: "DEEPWAVE"

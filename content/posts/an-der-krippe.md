@@ -3,7 +3,7 @@ title: "An der Krippe"
 date: 2019-12-29
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2023/12/Screenshot-2023-12-04-171652.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243874/deepwave.org/Screenshot-2023-12-04-171652.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 ---

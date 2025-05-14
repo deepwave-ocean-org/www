@@ -7,7 +7,7 @@ blogs:
 tags: 
   - "umwelt"
   - "wale"
-image: "https://www.deepwave.org/wp-content/uploads/2009/04/industry-4688725_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245256/deepwave.org/industry-4688725_1920.jpg"
 image_caption: "© wasi1370 / Pixabay"
 source: "Pressemitteilung, 20. April 2009, WWF"
 author: "deepwave-blog"

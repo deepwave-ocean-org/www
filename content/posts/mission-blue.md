@@ -3,7 +3,7 @@ title: "La Gomera und Teneriffa zu \"Hope-Spot\" erklärt"
 date: 2020-02-03
 blogs: 
   - "good-news"
-image: "https://www.deepwave.org/wp-content/uploads/2020/02/jakob-owens-za9MCg787eI-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244129/deepwave.org/jakob-owens-za9MCg787eI-unsplash-scaled.jpg"
 image_caption: "© Jakob Owens / Unsplash"
 author: "Noemi Merz"
 ---

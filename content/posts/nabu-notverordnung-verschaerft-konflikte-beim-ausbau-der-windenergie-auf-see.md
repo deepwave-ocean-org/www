@@ -4,7 +4,7 @@ date: 2023-01-29
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/02/windenergie_auf_see_offshore_waldemar-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244637/deepwave.org/windenergie_auf_see_offshore_waldemar-unsplash-scaled.jpg"
 image_caption: "© Waldemar / Unsplash"
 source: "Pressemitteilung, 27.01.2023, NABU"
 author: "Amalia Klein"

@@ -4,7 +4,7 @@ date: 2019-08-29
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/08/cruise-4339923_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245075/deepwave.org/cruise-4339923_1920.jpg"
 image_caption: "© Thomas Wolter / Pixabay"
 author: "Amalia Klein"
 related: 

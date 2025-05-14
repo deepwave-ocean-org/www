@@ -4,7 +4,7 @@ date: 2023-08-29
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2023/09/Zooplankton.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245259/deepwave.org/Zooplankton.jpg"
 image_caption: "© Matt Wilson/Jay Clark, NOAA NMFS AFSC / Wikimedia Commons (PD)"
 source: "Pressemitteilung, 28.08.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

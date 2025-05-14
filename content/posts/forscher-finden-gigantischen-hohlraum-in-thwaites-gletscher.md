@@ -7,7 +7,7 @@ blogs:
 tags: 
   - "antarktis"
   - "meeresforschung"
-image: "https://www.deepwave.org/wp-content/uploads/2019/01/ice-cream-3180910_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244963/deepwave.org/ice-cream-3180910_1920.jpg"
 image_caption: "© Jodeng / Pixabay"
 author: "DEEPWAVE"
 related: 

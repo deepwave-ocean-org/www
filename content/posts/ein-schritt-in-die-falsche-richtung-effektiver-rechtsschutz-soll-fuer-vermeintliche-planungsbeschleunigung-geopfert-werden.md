@@ -3,7 +3,7 @@ title: "Ein Schritt in die falsche Richtung: Effektiver Rechtsschutz soll für v
 date: 2022-12-01
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/01/windmill-g4f6e8fa7c_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244658/deepwave.org/windmill-g4f6e8fa7c_1920.jpg"
 image_caption: "© moerschy / Pixabay"
 source: "Pressemitteilung, 30.11.22, NABU"
 author: "DEEPWAVE"

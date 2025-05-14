@@ -4,7 +4,7 @@ date: 2022-06-15
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2022/10/Galway_Seetang_Amalia_Klein_kleiner.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244564/deepwave.org/Galway_Seetang_Amalia_Klein_kleiner.jpg"
 image_caption: "© Amalia Klein / DEEPWAVE"
 author: "Amalia Klein"
 related: 

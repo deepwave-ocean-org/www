@@ -4,7 +4,7 @@ date: 2024-11-26
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/12/matthew-tenbruggencate-unsplash_COP_COP29_UN_Klimakonferenz-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244922/deepwave.org/matthew-tenbruggencate-unsplash_COP_COP29_UN_Klimakonferenz-scaled.jpg"
 image_caption: "© Matthew Tenbruggencate / Unsplash"
 source: "Pressemitteilung, 25.11.2024, BUND"
 author: "Amalia Klein"

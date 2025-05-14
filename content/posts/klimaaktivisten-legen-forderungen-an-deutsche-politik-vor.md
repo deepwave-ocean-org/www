@@ -4,6 +4,7 @@ date: 2019-04-10
 blogs: 
   - "klima"
   - "politik"
+  - "no-image"
 tags: 
   - "fridays-for-future"
   - "klimaschutz"

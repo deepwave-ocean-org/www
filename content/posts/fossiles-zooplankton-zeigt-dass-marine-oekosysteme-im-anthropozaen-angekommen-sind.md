@@ -8,7 +8,7 @@ tags:
   - "klimawandel"
   - "marum"
   - "plankton"
-image: "https://www.deepwave.org/wp-content/uploads/2019/05/eran-menashri-aw3j_lgA0Q8-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245217/deepwave.org/eran-menashri-aw3j_lgA0Q8-unsplash-scaled.jpg"
 image_caption: "© Eran Menashri / Unsplash"
 source: "Pressemitteilung, 22.05.2019, MARUM (Zentrum für Marine Umweltwissenschaften)"
 author: "DEEPWAVE"

@@ -9,7 +9,7 @@ tags:
   - "climate-change"
   - "eisschmelze"
   - "klimawandel"
-image: "https://www.deepwave.org/wp-content/uploads/2019/03/arctic-983917_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244419/deepwave.org/arctic-983917_1920.jpg"
 image_caption: "© Free-Photos / Pixabay"
 author: "DEEPWAVE"
 related: 

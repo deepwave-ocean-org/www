@@ -3,7 +3,7 @@ title: "NABU klagt gegen Weiterbau von Nord Stream 2"
 date: 2021-05-04
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/08/1024px-Stack_of_pipes_North_Stream_2.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243791/deepwave.org/1024px-Stack_of_pipes_North_Stream_2.jpg"
 image_caption: "© Pedant01 / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 03.05.2021, NABU"
 author: "DEEPWAVE"

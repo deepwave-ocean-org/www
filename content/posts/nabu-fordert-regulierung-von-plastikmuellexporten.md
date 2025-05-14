@@ -5,6 +5,7 @@ blogs:
   - "favoriten"
   - "pplastic-pollution"
   - "politik"
+  - "no-image"
 source: "Pressemitteilung, 23.03.2019 vom NABU"
 author: "DEEPWAVE"
 ---

@@ -5,7 +5,7 @@ blogs:
   - "bluestraw"
   - "forschung"
   - "pplastic-pollution"
-image: "https://www.deepwave.org/wp-content/uploads/2025/01/shaah-shahidh-unsplash_schiff_rot_mikroplastik_farbe_beschichtung-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244744/deepwave.org/shaah-shahidh-unsplash_schiff_rot_mikroplastik_farbe_beschichtung-scaled.jpg"
 image_caption: "© Shaah Shahidh / Unsplash"
 source: "Pressemitteilung, 22.04.2024, Helmholtz-Zentrums Hereon und BSH"
 author: "Amalia Klein"

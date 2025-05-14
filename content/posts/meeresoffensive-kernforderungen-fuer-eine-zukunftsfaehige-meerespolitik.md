@@ -1,13 +1,14 @@
 ---
 title: "Kernforderungen für eine zukunftsfähige Meerespolitik"
 date: 2023-05-08
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244974/deepwave.org/david-paschke-unsplash_Seebruecke_Ostsee-scaled.jpg
+image_caption: © David Paschke / Unsplash
+image_alt: Meeresoffensive - Seebrücke in der deutschen Ostsee
 blogs: 
   - "favoriten"
   - "politik"
 author: "Amalia Klein"
 ---
-
-\[et\_pb\_section fb\_built="1" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_row \_builder\_version="4.16" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" global\_colors\_info="{}"\]\[et\_pb\_column type="4\_4" \_builder\_version="4.16" custom\_padding="|||" global\_colors\_info="{}" custom\_padding\_\_hover="|||"\]\[et\_pb\_text \_builder\_version="4.21.0" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]{{< figure src="https://www.deepwave.org/wp-content/uploads/2023/05/david-paschke-unsplash_Seebruecke_Ostsee-scaled.jpg" link="https://www.deepwave.org/wp-content/uploads/2023/05/david-paschke-unsplash_Seebruecke_Ostsee-scaled.jpg" alt="Meeresoffensive - Seebrücke in der deutschen Ostsee" caption="© David Paschke / Unsplash" >}}
 
 Mit dem vorliegenden Papier wenden sich die unterzeichnenden umwelt- und entwicklungspolitischen Organisationen ([Brot für die Welt](https://www.brot-fuer-die-welt.de/), [BUND](https://www.bund.net/), [DEEPWAVE](http://deepwave.org), [Deutsche Umwelthilfe](https://www.duh.de/home/), [DNR](https://www.dnr.de/), [Environmental Justice Foundation](https://ejfoundation.org/), [fair oceans](https://fair-oceans.info/), [Forum Umwelt & Entwicklung](https://www.forumue.de/), [Greenpeace](https://www.greenpeace.de/), [NABU](https://www.nabu.de/), [Misereor](https://www.misereor.de/), [Ozeanien Dialog](http://www.ozeanien-dialog.de), [Pro Wildlife](https://www.prowildlife.de/), [Sharkproject](https://germany.sharkproject.org/), [WDC](https://de.whales.org/), [World Future Council](https://www.worldfuturecouncil.org/de/), [WWF](https://www.wwf.de/)) an die Bundesregierung und die zuständigen Ministerien sowie Behörden mit der Aufforderung, im Rahmen ihrer aktuellen Legislatur politische Entscheidungen konsequent darauf auszurichten, die Meeresökosysteme zu schützen und ihre Funktionen zu erhalten.
 
@@ -25,4 +26,4 @@ Mit unserem gemeinsamen Kernforderungspapier möchten wir die Erarbeitung der de
 
 Noch können wir gemeinsam die Weichen für eine Zukunft mit den Meeren stellen.
 
-\[/et\_pb\_text\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2023/05/Verbaendepapier\_Meeresschutz\_Mai2023\_final-pdf.jpg" title\_text="Verbändepapier\_Meeresschutz\_Mai2023\_final" url="https://www.deepwave.org/wp-content/uploads/2023/05/Verbaendepapier\_Meeresschutz\_Mai2023\_final.pdf" \_builder\_version="4.21.0" \_module\_preset="default" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[/et\_pb\_section\]
+{{< figure src="https://www.deepwave.org/wp-content/uploads/2023/05/Verbaendepapier_Meeresschutz_Mai2023_final-pdf.jpg" link="https://www.deepwave.org/wp-content/uploads/2023/05/Verbaendepapier_Meeresschutz_Mai2023_final.pdf">}}

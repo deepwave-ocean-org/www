@@ -1,13 +1,13 @@
 ---
 title: Ozeanbücher
-image: https://www.deepwave.org/wp-content/uploads/2019/10/Buchempfehlung_Aktion_Meer_Meer_Weniger_Plastik_Ausschnitt_2.jpg?x95826
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243781/deepwave.org/Buchempfehlung_Aktion_Meer_Meer_Weniger_Plastik_Ausschnitt_2.jpg
 overlay: rgb(34 38 48 / 61%)
 layout: ocean-books
 alias:
  - ozeanbuecher/
 ---
 
-![](https://www.deepwave.org/wp-content/uploads/2019/10/Mehr_Meer_Weniger_Plastik_Buchkampagne.jpg?x95826)
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747243783/deepwave.org/Mehr_Meer_Weniger_Plastik_Buchkampagne.jpg)
 
 Bücher spielen bei DEEPWAVE schon immer eine heimliche Hauptrolle. Wer unser Büro betritt, ist von ihnen umgeben: Ozeanbücher in allen Formen, Farben, Größen. Vergriffene Raritäten, Neuerscheinungen, Bildbände, Forschungberichte, Bestimmunsgbücher, Literaturklassiker und völlig Unerwartetes.
 

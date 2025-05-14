@@ -4,7 +4,7 @@ date: 2024-04-24
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/07/Jesse-De-Meulenaere_Unsplash_Offshore_Solarpaket-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245035/deepwave.org/Jesse-De-Meulenaere_Unsplash_Offshore_Solarpaket-scaled.jpg"
 image_caption: "© Jesse De Meulenaere / Unsplash"
 source: "Pressemitteilung, NABU, 23.04.2024"
 author: "DEEPWAVE"

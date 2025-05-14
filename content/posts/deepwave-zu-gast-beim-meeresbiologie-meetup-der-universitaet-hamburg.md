@@ -4,7 +4,7 @@ date: 2023-10-30
 blogs: 
   - "veranstaltungen"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2023/10/MMU7.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243959/deepwave.org/MMU7.jpg"
 image_caption: "© Luba Kolwa"
 author: "DEEPWAVE"
 related: 

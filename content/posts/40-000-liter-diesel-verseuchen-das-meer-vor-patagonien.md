@@ -3,7 +3,7 @@ title: "40.000 Liter Diesel verseuchen das Meer vor Patagonien"
 date: 2019-08-01
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2019/08/mathias-bach-laursen-_1xnPQ9wwus-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244305/deepwave.org/mathias-bach-laursen-_1xnPQ9wwus-unsplash-scaled.jpg"
 image_caption: "© Mathias Bach Laursen / Unsplash"
 author: "Amalia Klein"
 ---

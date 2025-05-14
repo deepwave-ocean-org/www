@@ -4,7 +4,7 @@ date: 2023-12-13
 blogs: 
   - "politik"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2024/01/2023-12-12_fengyou-wan-L2E584RsxPY-unsplash.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245112/deepwave.org/2023-12-12_fengyou-wan-L2E584RsxPY-unsplash.jpg"
 image_caption: "© Fengyou Wan / Unsplash"
 source: "Pressemitteilung, 12.12.2023, Pressemitteilung DUH"
 author: "Anja"

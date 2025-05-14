@@ -1,6 +1,9 @@
 ---
 title: "Lücken in der Ozeanbeobachtung schließen"
 date: 2024-11-12
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245438/deepwave.org/davide-ragusa-unsplash_fernrohr_meeresbeobachtung-scaled.jpg
+image_caption: © Davide Ragusa / Unsplash
+image_alt: EuroSea, Ein Fernrohr ist in das Meer an den Horizon gerichtet. Es ist neblig.
 blogs: 
   - "forschung"
   - "klima"
@@ -11,10 +14,6 @@ related:
   - "/tief-durchatmen-der-geheime-stoffwechsel-ethanfressender-archaeen-anaerobe-oxidation/"
   - "/bund-weltklimakonferenz-verfehlt-ambitionierte-klimafinanzierung-cop29/"
 ---
-
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2024/12/davide-ragusa-unsplash_fernrohr_meeresbeobachtung-scaled.jpg" link="https://www.deepwave.org/wp-content/uploads/2024/12/davide-ragusa-unsplash_fernrohr_meeresbeobachtung-scaled.jpg" alt="EuroSea: Ein Fernrohr ist in das Meer an den Horizon gerichtet. Es ist neblig." caption="© Davide Ragusa / Unsplash" >}}
-
-
 
 #### Empfehlungen der europäischen Meeresforschungsgemeinschaft
 

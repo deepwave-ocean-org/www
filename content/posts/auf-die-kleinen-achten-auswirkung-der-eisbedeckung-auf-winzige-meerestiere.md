@@ -4,7 +4,7 @@ date: 2022-11-18
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2022/12/Broken_pack_ice_with_cryopelagic_antarctic_diatoms.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244001/deepwave.org/Broken_pack_ice_with_cryopelagic_antarctic_diatoms.jpg"
 image_caption: "© GeSHaFish / Wikimedia Commons (CC BY-SA 3.0)"
 author: "DEEPWAVE"
 related: 

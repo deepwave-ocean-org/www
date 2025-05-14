@@ -4,7 +4,7 @@ date: 2016-02-11
 blogs: 
   - "forschung"
   - "pplastic-pollution"
-image: "https://www.deepwave.org/wp-content/uploads/2016/02/yannis-papanastasopoulos-U6dnImauDAE-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245156/deepwave.org/yannis-papanastasopoulos-U6dnImauDAE-unsplash-scaled.jpg"
 image_caption: "© Yannis Papanastasopoulos / Unsplash"
 source: "Pressemitteilung, 10.02.2016, GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel"
 author: "bluestraw"

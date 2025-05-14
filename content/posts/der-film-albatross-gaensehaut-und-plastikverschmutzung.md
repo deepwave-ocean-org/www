@@ -6,7 +6,7 @@ blogs:
   - "kultur"
   - "pplastic-pollution"
   - "veranstaltungen"
-image: "https://www.deepwave.org/wp-content/uploads/2019/06/HelgoVogelFelsNetzRest17_073.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244179/deepwave.org/HelgoVogelFelsNetzRest17_073.jpg"
 image_caption: "© Wolf Wichmann"
 author: "Noemi Merz"
 related: 

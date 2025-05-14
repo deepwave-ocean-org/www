@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/11/DirtyCoffeeToGo-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245133/deepwave.org/DirtyCoffeeToGo-scaled.jpg"
 image_caption: "© Jasmin Sessler / Wikimedia Commons (CC BY 4.0)"
 source: "Pressemitteilung, 29.09.2023, BMUV"
 author: "DEEPWAVE"

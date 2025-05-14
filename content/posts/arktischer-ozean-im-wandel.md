@@ -4,7 +4,7 @@ date: 2023-09-30
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2023/11/20190117_AntjeBoetius046_EHorvath-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244149/deepwave.org/20190117_AntjeBoetius046_EHorvath-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Esther Horvath (CC-BY 4.0)"
 source: "Pressemitteilung, 29.09.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

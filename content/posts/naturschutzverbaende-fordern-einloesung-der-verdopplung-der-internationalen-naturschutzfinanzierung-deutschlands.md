@@ -3,7 +3,7 @@ title: "Naturschutzverbände fordern Einlösung der Verdopplung der internationa
 date: 2023-09-21
 blogs: 
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2023/10/Naturschutz-Infoschild-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244300/deepwave.org/Naturschutz-Infoschild-scaled.jpg"
 image_caption: "© Rosa-Maria Rinkl / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 20.09.2023, _Gemeinsame Pressemitteilung von BUND, CfN, DNR, DUH, FUE, Greenpeace, NABU, Pro Wildlife, WWF, ZGF_"
 author: "DEEPWAVE"

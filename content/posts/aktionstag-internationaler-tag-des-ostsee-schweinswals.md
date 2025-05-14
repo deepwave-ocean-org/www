@@ -9,7 +9,7 @@ tags:
   - "ostsee"
   - "schweinswal"
   - "walschutz"
-image: "https://www.deepwave.org/wp-content/uploads/2019/04/Schweinswal-1.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244253/deepwave.org/Schweinswal-1.jpg"
 image_caption: "© Baldhur, NOAA / Wikimedia Commons"
 author: "DEEPWAVE"
 ---

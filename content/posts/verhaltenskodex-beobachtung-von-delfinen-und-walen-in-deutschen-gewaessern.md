@@ -3,7 +3,7 @@ title: "Verhaltenskodex: Beobachtung von Delfinen und Walen in deutschen Gewäss
 date: 2020-06-25
 blogs: 
   - "good-news"
-image: "https://www.deepwave.org/wp-content/uploads/2020/08/Delfin_FlavioGasperini_unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245161/deepwave.org/Delfin_FlavioGasperini_unsplash-scaled.jpg"
 image_caption: "© Flavio Gasperini / Unsplash"
 author: "DEEPWAVE"
 ---

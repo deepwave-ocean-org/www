@@ -3,7 +3,7 @@ title: "Forscher rätseln über Orca-Angriffe"
 date: 2020-09-14
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2020/09/noaa-9HFIRy6jJbY-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245029/deepwave.org/noaa-9HFIRy6jJbY-unsplash-scaled.jpg"
 image_caption: "© NOAA / Unsplash"
 author: "DEEPWAVE"
 related: 

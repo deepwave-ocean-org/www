@@ -4,7 +4,7 @@ date: 2024-11-08
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2024/11/climate-action-4150536_1280.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244154/deepwave.org/climate-action-4150536_1280.jpg"
 image_caption: "© Filmbetrachter / Pixabay"
 source: "Pressemitteilung, 07.11.2024, DUH"
 author: "DEEPWAVE"

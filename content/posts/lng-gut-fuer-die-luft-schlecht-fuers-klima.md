@@ -9,7 +9,7 @@ tags:
   - "hafen"
   - "methan"
   - "schifffahrt"
-image: "https://www.deepwave.org/wp-content/uploads/2018/06/jacob-meissner-6sN40ubCpeg-unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244176/deepwave.org/jacob-meissner-6sN40ubCpeg-unsplash-scaled.jpg"
 image_caption: "© Jacob Meissner / Unsplash"
 author: "DEEPWAVE"
 related: 

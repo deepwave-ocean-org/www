@@ -8,7 +8,7 @@ tags:
   - "biodiversitaet"
   - "ipbes"
   - "klimawandel"
-image: "https://www.deepwave.org/wp-content/uploads/2019/06/red-1283776_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244553/deepwave.org/red-1283776_1920.jpg"
 image_caption: "© Pexels / Pixabay"
 author: "DEEPWAVE"
 ---

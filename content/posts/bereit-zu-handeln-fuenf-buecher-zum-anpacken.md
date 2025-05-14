@@ -6,14 +6,13 @@ blogs:
   - "bildung"
   - "kultur"
   - "literatur"
+  - "no-image"
 author: "DEEPWAVE"
 related: 
   - "/ozeanbuecher/"
   - "/vier-fuers-klima/"
   - "/vier-fuers-klima/"
 ---
-
-\[et\_pb\_section fb\_built="1" \_builder\_version="4.16" custom\_padding="0px||||false|false" global\_colors\_info="{}"\]\[et\_pb\_row \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="4\_4" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.2" global\_colors\_info="{}"\]
 
 _Edit (14.03.2023): Wenn euch die Bücher ausgegangen sind, haben wir einige Empfehlungen für euch. Bestellt diese aber nicht bei den großen Unternehmen, sondern nutzt die Gelegenheit, um eine lokale Buchhandlung ausfindig zu machen - [buchhandlung-finden.de](https://www.buchhandlung-finden.de/) und [genialokal.de](https://www.genialokal.de/) helfen euch dabei. Dort könnt ihr oft auch online bestellen, E-Books erwerben oder telefonisch eine Abholung vereinbaren und so denjenigen Buchhändler:innen helfen, die es eh schon schwer genug haben. Und wer weiß, vielleicht entwickeln sich ja durch Gespräche über gute Bücher Freundschaften, die wir jetzt in dieser Krise brauchen - und danach. Unter_ hier bestellen _haben wir unsere lokale Buchhändlerin verlinkt - stellvertretend für diesen Gedanken._
 

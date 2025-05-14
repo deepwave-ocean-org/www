@@ -4,7 +4,7 @@ date: 2021-06-24
 blogs: 
   - "klima"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2021/08/MV_CSCL_Mercury_R01.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244551/deepwave.org/MV_CSCL_Mercury_R01.jpg"
 image_caption: "© Marc Ryckaert / Wikimedia Commons (CC BY 3.0)"
 source: "Pressemitteilung, 23.06.2021, NABU"
 author: "DEEPWAVE"

@@ -3,6 +3,7 @@ title: "NABU-Studie: Beim Recycling durchgefallen"
 date: 2019-06-12
 blogs: 
   - "forschung"
+  - "no-image"
 tags: 
   - "recycling"
   - "ressourcen"

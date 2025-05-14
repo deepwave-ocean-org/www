@@ -9,7 +9,7 @@ tags:
   - "ressourcen-en"
   - "tiefsee-en"
   - "tiefseebergbau-en"
-image: "https://www.deepwave.org/wp-content/uploads/2019/06/vent-grab-e1550834119960-1440x947-1.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244850/deepwave.org/vent-grab-e1550834119960-1440x947-1.jpg"
 image_caption: "© Deep Sea Mining Finance (DSMF)]"
 author: "DEEPWAVE"
 ---

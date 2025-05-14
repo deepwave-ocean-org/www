@@ -9,7 +9,7 @@ tags:
   - "meeresverschmutzung"
   - "plastic-pollution"
   - "wal"
-image: "https://www.deepwave.org/wp-content/uploads/2019/04/ocean-2051760_1920.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244903/deepwave.org/ocean-2051760_1920.jpg"
 image_caption: "© Three-shots / Pixabay"
 author: "DEEPWAVE"
 related: 

@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "politik"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/02/Ostseeschweinswal_Beifang_Stellnetzverbot.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243876/deepwave.org/Ostseeschweinswal_Beifang_Stellnetzverbot.jpg"
 image_caption: "© Erik Christensen / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 13.05.22, NABU"
 author: "DEEPWAVE"

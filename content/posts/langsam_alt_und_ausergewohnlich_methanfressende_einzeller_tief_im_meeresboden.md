@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "klima"
   - "tiefsee"
-image: "https://www.deepwave.org/wp-content/uploads/2006/03/Bacteria_259_05.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244767/deepwave.org/Bacteria_259_05.jpg"
 image_caption: "© Doc. RNDr. Josef Reischig, CSc. / Wikimedia Commons (CC-BY-SA-3.0)"
 source: "Pressemitteilung, 22.02.2006, idw - Informationsdienst Wissenschaft"
 author: "deepwave-blog"

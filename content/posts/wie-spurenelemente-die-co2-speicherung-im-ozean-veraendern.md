@@ -4,7 +4,7 @@ date: 2023-09-28
 blogs: 
   - "forschung"
   - "klima"
-image: "https://www.deepwave.org/wp-content/uploads/2023/10/Massive_phytoplankton_bloom_in_the_Barents_Sea_Copernicus-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243830/deepwave.org/Massive_phytoplankton_bloom_in_the_Barents_Sea_Copernicus-scaled.jpg"
 image_caption: "© European Union, Copernicus Sentinel-3 imagery / Wikimedia Commons"
 source: "Pressemitteilung, 27.09.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

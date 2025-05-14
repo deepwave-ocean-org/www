@@ -4,6 +4,7 @@ date: 2022-08-04
 blogs: 
   - "forschung"
   - "tiefsee"
+  - "no-image"
 author: "DEEPWAVE"
 related: 
   - "/quallen-erobern-die-ostsee/"

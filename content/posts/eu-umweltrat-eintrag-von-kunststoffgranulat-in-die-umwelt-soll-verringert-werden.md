@@ -6,7 +6,7 @@ blogs:
   - "good-news"
   - "pplastic-pollution"
   - "politik"
-image: "https://www.deepwave.org/wp-content/uploads/2025/01/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245050/deepwave.org/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-scaled.jpg"
 image_caption: "© ISIPLAST / Wikimedia Commons (Creative Commons Attribution-Share Alike 4.0 International license)"
 source: "Pressemitteilung, 17.12.2024, BMUV"
 author: "Amalia Klein"

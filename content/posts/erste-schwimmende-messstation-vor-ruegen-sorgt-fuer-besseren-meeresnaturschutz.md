@@ -3,7 +3,7 @@ title: "Erste schwimmende Messstation vor Rügen sorgt für besseren Meeresnatur
 date: 2023-04-25
 blogs: 
   - "forschung"
-image: "https://www.deepwave.org/wp-content/uploads/2023/04/Kreidefelsen_Ruegen_in_spring-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244697/deepwave.org/Kreidefelsen_Ruegen_in_spring-scaled.jpg"
 image_caption: "© NilsMargott / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 24.04.2023, BMUV"
 author: "DEEPWAVE"

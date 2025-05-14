@@ -5,7 +5,7 @@ blogs:
   - "bluestraw"
   - "pplastic-pollution"
   - "was-tun"
-image: "https://www.deepwave.org/wp-content/uploads/2024/11/Kaffeekapseln_Einweg_Nespresso_Thomas_Wolter_Pixabay.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244214/deepwave.org/Kaffeekapseln_Einweg_Nespresso_Thomas_Wolter_Pixabay.jpg"
 image_caption: "© Thomas Wolter / Pixabay"
 source: "Pressemitteilung, 2.11.2024, DUH"
 author: "Amalia Klein"

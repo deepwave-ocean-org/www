@@ -4,7 +4,7 @@ date: 2024-01-19
 blogs: 
   - "politik"
   - "überfischung"
-image: "https://www.deepwave.org/wp-content/uploads/2024/08/EU_Parlament_Flagge_Sara_Kurfess_Unsplash-scaled.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244487/deepwave.org/EU_Parlament_Flagge_Sara_Kurfess_Unsplash-scaled.jpg"
 image_caption: "© Sara Kurfeß / Unsplash"
 source: "Pressemitteilung, WWF, 18.01.2024"
 author: "Lukas"

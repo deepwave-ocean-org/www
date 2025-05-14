@@ -3,7 +3,7 @@ title: "COP27"
 date: 2022-11-26
 blogs: 
   - "reflexionen"
-image: "https://www.deepwave.org/wp-content/uploads/2023/11/Screenshot-2023-11-26-112920.png"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244825/deepwave.org/Screenshot-2023-11-26-112920.png"
 image_caption: "© Anna Mandel: Lost in Plastic (Detail) "
 author: "DEEPWAVE"
 related: 

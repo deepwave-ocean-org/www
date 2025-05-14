@@ -4,6 +4,7 @@ date: 2018-07-01
 blogs: 
   - "pplastic-pollution"
   - "was-tun"
+  - "no-image"
 tags: 
   - "marine-litter"
   - "meeresmuell"

@@ -5,7 +5,7 @@ blogs:
   - "politik"
 tags: 
   - "wale"
-image: "https://www.deepwave.org/wp-content/uploads/2020/09/Paola_Ocaranza_Walflosse_Kuenast_setzt_sich_fuer_Aufrechterhaltung_des_Walfangmoratoriums_ein.jpg"
+image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245227/deepwave.org/Paola_Ocaranza_Walflosse_Kuenast_setzt_sich_fuer_Aufrechterhaltung_des_Walfangmoratoriums_ein.jpg"
 image_caption: "© Paola Ocaranze / Unsplash"
 author: "deepwave-blog"
 related: 
@@ -31,4 +31,4 @@ Deutschland trete mit Nachdruck dafür ein, die Wale nicht nur vor der direkten 
 
 Deutschland trete nach wie vor für die Einrichtung von Schutzgebieten im Südpazifik und im Südatlantik ein. Dies sei insbesondere deshalb dringend notwendig, weil in diesen Gebieten große Aufzucht- und Weidgründe für die Großwale liegen, in denen Jungwale die Gelegenheit haben sollten, ungestört aufzuwachsen.
 
-"Der Walfang hat in der heutigen Zeit keine Berechtigung mehr, zumal es wirtschaftliche Alternativen gibt", sagte die Ministerin. An erster Stelle sei hier das [Whale Watching](https://www.deepwave.org/wp-content/uploads/2016/08/DWfacts_Whalewatching.CDPOG_2016.pdf) zu nennen. Betrachte man die zahlreichen weltweiten Aktivitäten und berücksichtige man die steigende Zahl an Touristen, so sei das Whale Watching ein Wirtschaftsfaktor geworden, der etlichen Regionen mehr Devisen und mehr Wohlstand bringe als es der Walfang je vermag. "Das Whale Watching ist der seltene Fall einer Ressourcennutzung ohne Ausbeutung und Dezimierung und sollte deshalb ausgebaut und gefördert werden", so die Ministerin. Dies sei nach Auffassung Deutschlands eine wirkliche nachhaltige Nutzung, für die die IWC die notwendigen Regeln aufstellen sollte.
+"Der Walfang hat in der heutigen Zeit keine Berechtigung mehr, zumal es wirtschaftliche Alternativen gibt", sagte die Ministerin. An erster Stelle sei hier das [Whale Watching](http://res.cloudinary.com/deepwave-org/image/upload/v1747245229/deepwave.org/DWfacts_Whalewatching.CDPOG_2016.pdf) zu nennen. Betrachte man die zahlreichen weltweiten Aktivitäten und berücksichtige man die steigende Zahl an Touristen, so sei das Whale Watching ein Wirtschaftsfaktor geworden, der etlichen Regionen mehr Devisen und mehr Wohlstand bringe als es der Walfang je vermag. "Das Whale Watching ist der seltene Fall einer Ressourcennutzung ohne Ausbeutung und Dezimierung und sollte deshalb ausgebaut und gefördert werden", so die Ministerin. Dies sei nach Auffassung Deutschlands eine wirkliche nachhaltige Nutzung, für die die IWC die notwendigen Regeln aufstellen sollte.

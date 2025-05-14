@@ -3,6 +3,7 @@ title: "Verpackungen sind elementar wichtig – Michael Braungart"
 date: 2018-08-14
 blogs: 
   - "pplastic-pollution"
+  - "no-image"
 tags: 
   - "alternativen"
   - "meeresmuell"

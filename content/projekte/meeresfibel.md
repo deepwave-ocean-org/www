@@ -8,7 +8,7 @@ alias:
 
 {{< flipbook pdf="https://res.cloudinary.com/deepwave-org/image/upload/v1747066430/deepwave.org/meeresfibel_vorschau_qktytr.pdf" height="100vh">}}
 
-[![](https://www.deepwave.org/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-26-at-18.46.57.jpeg?x95826 "Meeresfibel Spiel")](https://www.deepwave.org/wp-content/uploads/2019/01/mare_fibel_besprechung.pdf?x95826)
+[![](http://res.cloudinary.com/deepwave-org/image/upload/v1747243750/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57.jpg "Meeresfibel Spiel")](http://res.cloudinary.com/deepwave-org/image/upload/v1747243753/deepwave.org/mare_fibel_besprechung.pdf)
 
 # Die Meeresfibel gibt es jetzt als App!
 
@@ -46,13 +46,13 @@ Durch die detaillierten und wissenschaftlich fundierten Illustrationen und die v
 
 Die Meeresfibeln werden klassensatzweise von uns an Schulen und an Privatpersonen gegen eine geringe Schutzgebühr verschickt.
 
-[![](https://www.deepwave.org/wp-content/uploads/2019/01/mare_fibel_besprechung-1.png?x95826)](https://www.deepwave.org/wp-content/uploads/2019/01/mare_fibel_besprechung.pdf?x95826)
+[![](http://res.cloudinary.com/deepwave-org/image/upload/v1747243756/deepwave.org/mare_fibel_besprechung-1.png)](http://res.cloudinary.com/deepwave-org/image/upload/v1747243753/deepwave.org/mare_fibel_besprechung.pdf)
 
 Unsere Meeresfibel kann seit Neuestem im Landkreis Cuxhaven im [Bücherbus](https://www.landkreis-cuxhaven.de/index.php?sNavID=1779.48) ausgeliehen werden. Viel Spaß beim Lesen und danke an das tolle Team des Bücherbusses!
 
-![](https://www.deepwave.org/wp-content/uploads/2020/03/Meeresfibel_Buecherbus_Cuxhaven.jpg?x95826)
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747243762/deepwave.org/Meeresfibel_Buecherbus_Cuxhaven.jpg)
 
-[![](https://www.deepwave.org/wp-content/uploads/2019/01/Mandel_Tafeln_AWI_1.jpg?x95826)](https://www.deepwave.org/wp-content/uploads/2019/01/Mandel_Tafeln_AWI_1.jpg?x95826 "Mandel_Tafeln_AWI_1")
+[![](http://res.cloudinary.com/deepwave-org/image/upload/v1747243765/deepwave.org/Mandel_Tafeln_AWI_1.jpg)](http://res.cloudinary.com/deepwave-org/image/upload/v1747243765/deepwave.org/Mandel_Tafeln_AWI_1.jpg "Mandel_Tafeln_AWI_1")
 
 [](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/#)[](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/#)
 
@@ -90,7 +90,7 @@ Die Meeresfibel für Schüler „Unser Blauer Planet: gestern -- heute -- morgen
 
 Pressestimme:
 
-[Artikel Ostsee-Zeitung](https://www.deepwave.org/wp-content/uploads/2015/12/151205_oz-stralsund-meeresfibel.jpg?x95826)
+[Artikel Ostsee-Zeitung](http://res.cloudinary.com/deepwave-org/image/upload/v1747243770/deepwave.org/151205_oz-stralsund-meeresfibel.jpg)
 
 <http://www.ostsee-zeitung.de/Vorpommern/Stralsund/Die-Ozeane-brauchen-eine-Chance>
 

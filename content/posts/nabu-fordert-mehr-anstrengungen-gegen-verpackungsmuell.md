@@ -3,6 +3,7 @@ title: "NABU fordert mehr Anstrengungen gegen Verpackungsmüll"
 date: 2019-02-28
 blogs: 
   - "politik"
+  - "no-image"
 tags: 
   - "nabu"
   - "plastik"
