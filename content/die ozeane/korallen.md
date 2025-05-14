@@ -1,6 +1,6 @@
 ---
 title: Korallen
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747241294/Tropen_Hintergrund.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243661/deepwave.org/Tropen_Hintergrund.jpg
 overlay: rgba(38,58,49,0.58)
 order: 9
 ---
@@ -43,9 +43,9 @@ Text: Onno Groß, 2016
 
 ### Unsere Factsheets zum Thema Klimawandel
 
--   [„Die Versauerung der Ozeane"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241286/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf
--   [„Meeresspiegelanstieg und Klimawandel"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241288/DWfacts_Meeresspiegelanstieg-und-Klimawandel_2016.pdf
--   [„Polarmeere"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241292/DWfactsPolarmeere_2016.pdf
+-   [„Die Versauerung der Ozeane"](http://res.cloudinary.com/deepwave-org/image/upload/v1747242932/deepwave.org/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf)
+-   [„Meeresspiegelanstieg und Klimawandel"](http://res.cloudinary.com/deepwave-org/image/upload/v1747242935/deepwave.org/DWfacts_Meeresspiegelanstieg-und-Klimawandel_2016.pdf)
+-   [„Polarmeere"](http://res.cloudinary.com/deepwave-org/image/upload/v1747242938/deepwave.org/DWfactsPolarmeere_2016.pdf)
 
 ### Blogbeiträge zum Thema Klimawandel
 
