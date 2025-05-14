@@ -16,7 +16,7 @@ related:
 
 _Edit (14.03.2023): Wenn euch die Bücher ausgegangen sind, haben wir einige Empfehlungen für euch. Bestellt diese aber nicht bei den großen Unternehmen, sondern nutzt die Gelegenheit, um eine lokale Buchhandlung ausfindig zu machen - [buchhandlung-finden.de](https://www.buchhandlung-finden.de/) und [genialokal.de](https://www.genialokal.de/) helfen euch dabei. Dort könnt ihr oft auch online bestellen, E-Books erwerben oder telefonisch eine Abholung vereinbaren und so denjenigen Buchhändler:innen helfen, die es eh schon schwer genug haben. Und wer weiß, vielleicht entwickeln sich ja durch Gespräche über gute Bücher Freundschaften, die wir jetzt in dieser Krise brauchen - und danach. Unter_ hier bestellen _haben wir unsere lokale Buchhändlerin verlinkt - stellvertretend für diesen Gedanken._
 
-Nach unser erfolgreichen Aktion ["Ozeanbücher"](https://www.deepwave.org/ozeanbuecher/) diesen Sommer, wurden wir von der [Buchhandelskooperation MENSCH](http://www.mensch-buchhandlungen.de/) gefragt, welche Bücher uns bewegen, uns begeistern, zum Staunen bringen und zum Handeln anregen. Die persönlichen Empfehlungen unseres Teams findet ihr hier.
+Nach unser erfolgreichen Aktion ["Ozeanbücher"](https://www.deepwave.org/ozeanbuecher/) diesen Sommer, wurden wir von der [Buchhandelskooperation MENSCH](http://www.mensch-buchhandlungen.de/) gefragt, welche Bücher uns bewegen, uns begeistern, zum Staunen bringen und zum Handeln anregen. Die persönlichen Empfehlungen unseres Teams findet ihr hier.
 
 [1\. Zehn Kinderbücher, die uns für die Meere begeistern](https://www.deepwave.org/blogs/kultur/#post-20805677)  
 [2\. Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken](https://www.deepwave.org/blogs/kultur/#post-20805700)  
@@ -26,9 +26,11 @@ Wer bereits verinnerlicht hat, was auf dem Spiel steht, wenn wir uns nicht verä
 
 Eines der von uns ausgesuchten Bücher hat den schönen Untertitel "Was du konkret tun kannst, um den Wahnsinn zu stoppen". Und genau darum geht es in all den folgenden Empfehlungen: um praktische Anleitungen. Um das, was wir unternehmen können, um uns wieder wie ein achtsamer Gast auf diesem Planeten zu verhalten.
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="4 fürs Klima" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Vier-fürs-Klima\_Petra\_Pinzler\_Empfehlung.jpg" url="https://www.deepwave.org/vier-fuers-klima/" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+## Buchempfehlungen
 
-### [Vier fürs Klima](https://www.deepwave.org/vier-fuers-klima/)
+### [Vier fürs Klima](/vier-fuers-klima/)
+
+[![Vier fürs Klima Petra Pinzler Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747266814/deepwave.org/Vier-f%C3%BCrs-Klima_Petra_Pinzler_Empfehlung.jpg)](/vier-fuers-klima/)
 
 ##### Petra Pinzler, / Günther Wessel, Droemer Knaur
 
@@ -36,11 +38,11 @@ Eines der von uns ausgesuchten Bücher hat den schönen Untertitel "Was du konkr
 
 Luisa Münch
 
-##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/vier-fuers-klima/)
-
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Jetzt retten wir die welt" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Und-jetzt-retten-wir-die-Welt\_Ilona\_Koglin\_jpg.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+##### [Hier findet ihr unsere ausführliche Rezension...](/vier-fuers-klima/)
 
 ### Und jetzt retten wir die Welt
+
+![Und jetzt retten wir die Welt Ilona Koglin jpg](http://res.cloudinary.com/deepwave-org/image/upload/v1747266817/deepwave.org/Und-jetzt-retten-wir-die-Welt_Ilona_Koglin_jpg.jpg)
 
 ##### Ilona Koglin / Marek Rohde, Franckh-Kosmos Verlag
 
@@ -48,21 +50,21 @@ Luisa Münch
 
 Luisa Münch
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Plastiksparbuch" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Das-Plastiksparbuch\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
-
 ### Das Plastiksparbuch
+
+![Das Plastiksparbuch Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747266819/deepwave.org/Das-Plastiksparbuch_Empfehlung.jpg)
 
 ##### smarticular Verlag
 
-"Welche Arten von Plastik gibt es, ist Kunststoff grundsätzlich schlecht und wie funktioniert eigentlich nachhaltiger Konsum? Auf 422 Seiten randvoll mit Informationen gibt „Das Plastiksparbuch“ Antworten auf Fragen rund um das Thema Plastik und seine Vermeidung. Theoretisch bleibt es aber nur auf den ersten Seiten, denn das Buch verspricht mehr als 300 Alternativen und Ideen, um „der Plastikflut“ zu entkommen – und genau die liefert es auch. Die Hauptrubriken, für die Ideen geliefert werden, sind Wocheneinkauf, Küche, Ernährung, Körperpflege, Haushalt, Wäsche waschen, Kinder und Unterwegs. Und damit ist ein riesiger Bereich unseres alltäglichen Lebens abgedeckt.
+"Welche Arten von Plastik gibt es, ist Kunststoff grundsätzlich schlecht und wie funktioniert eigentlich nachhaltiger Konsum? Auf 422 Seiten randvoll mit Informationen gibt „Das Plastiksparbuch" Antworten auf Fragen rund um das Thema Plastik und seine Vermeidung. Theoretisch bleibt es aber nur auf den ersten Seiten, denn das Buch verspricht mehr als 300 Alternativen und Ideen, um „der Plastikflut" zu entkommen – und genau die liefert es auch. Die Hauptrubriken, für die Ideen geliefert werden, sind Wocheneinkauf, Küche, Ernährung, Körperpflege, Haushalt, Wäsche waschen, Kinder und Unterwegs. Und damit ist ein riesiger Bereich unseres alltäglichen Lebens abgedeckt.
 
-Aber wie klappt es nun mit dem Plastiksparen? Zu Beginn jedes dieser Kapitels liefert das Buch eine Übersicht kleiner Schritte, die eine große Wirkung haben. Der Stoffbeutel beim Einkaufen etwa oder Glasgefäße zum Einfrieren in der Küche. Und dann folgen Leserstimmen, DIY-Vorschläge (man kann aus einem alten T-Shirt ganz einfach einen Einkaufsbeutel machen!) und Tipps über Tipps – manche davon klein und einfach umsetzbar, andere aufwendiger. Für mich ist „Das Plastiksparbuch“ DAS Nachschlagewerk rund um die Vermeidung von Plastik im Alltag. Es gibt so viele umfassende Ideen, mit denen man wirklich zu jedem Lebensbereich Inspiration findet und richtig Lust aufs Ausprobieren bekommt. Für mich eines der Bücher, das in jedem Bücherregal einen Platz finden sollte!"
+Aber wie klappt es nun mit dem Plastiksparen? Zu Beginn jedes dieser Kapitels liefert das Buch eine Übersicht kleiner Schritte, die eine große Wirkung haben. Der Stoffbeutel beim Einkaufen etwa oder Glasgefäße zum Einfrieren in der Küche. Und dann folgen Leserstimmen, DIY-Vorschläge (man kann aus einem alten T-Shirt ganz einfach einen Einkaufsbeutel machen!) und Tipps über Tipps – manche davon klein und einfach umsetzbar, andere aufwendiger. Für mich ist „Das Plastiksparbuch" DAS Nachschlagewerk rund um die Vermeidung von Plastik im Alltag. Es gibt so viele umfassende Ideen, mit denen man wirklich zu jedem Lebensbereich Inspiration findet und richtig Lust aufs Ausprobieren bekommt. Für mich eines der Bücher, das in jedem Bücherregal einen Platz finden sollte!"
 
 Luisa Münch
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="einfach plasitkfrei" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Charlotte\_Schüler\_Einfach\_plastikfrei\_leben\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
-
 ### #Einfach plastikfrei leben
+
+![Charlotte Schüler Einfach plastikfrei leben Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747266822/deepwave.org/Charlotte_Sch%C3%BCler_Einfach_plastikfrei_leben_Empfehlung.jpg)
 
 ##### Charlotte Schüler, Südwest Verlag
 
@@ -72,18 +74,16 @@ In den vier Schritten zum plastikfreien Leben stecken neben den vielen Tipps auc
 
 Luisa Münch
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="schluss mit plastik" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Schluss\_Mit\_Plastik\_Martin\_Dorey\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
-
 ### Schluss. Mit. Plastik.
+
+![Schluss Mit Plastik Martin Dorey Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747266825/deepwave.org/Schluss_Mit_Plastik_Martin_Dorey_Empfehlung.jpg)
 
 ##### Martin Dorey, Heyne, Wilhelm Verlag
 
 " 'Hast du mal zwei Minuten? Natürlich hast du die.' Allein mit diesem Satz hatte mich Martin Dorey schon. Denn in seinem Buch geht es genau darum: Mit kleinen Schritten, die gerade einmal zwei Minuten dauern, etwas gegen den Plastikwahnsinn zu unternehmen.
 
-Zu Beginn war ich zugegeben skeptisch, ob Zwei-Minuten-Lösungen tatsächlich helfen können, alltägliche Gewohnheiten zu verändern. Aber nachdem ich „Schluss. Mit. Plastik.“ gelesen hatte, war mir klar: das können sie. Dorey erklärt in seinem Buch zunächst, warum wir eigentlich auf Plastik verzichten sollten, woher das viele Plastik im Meer kommt und welche Alternativen es zu diesem Material gibt. Die Infos sind kurzweilig und leicht verständlich aufbereitet, und mit den vielen Fakten wird die Tragweite unsere Plastikproblems richtig deutlich.
+Zu Beginn war ich zugegeben skeptisch, ob Zwei-Minuten-Lösungen tatsächlich helfen können, alltägliche Gewohnheiten zu verändern. Aber nachdem ich „Schluss. Mit. Plastik." gelesen hatte, war mir klar: das können sie. Dorey erklärt in seinem Buch zunächst, warum wir eigentlich auf Plastik verzichten sollten, woher das viele Plastik im Meer kommt und welche Alternativen es zu diesem Material gibt. Die Infos sind kurzweilig und leicht verständlich aufbereitet, und mit den vielen Fakten wird die Tragweite unsere Plastikproblems richtig deutlich.
 
 Die Zwei-Minuten-Lösungen sind unterteilt in Bereiche wie Zuhause, am Arbeitsplatz oder für Kinder und bieten ganz einfache Anregungen und Tipps für den eigenen Alltag. Ich kann das Buch jedem empfehlen, der gerade beginnt, sich mit dem Thema Plastikmüllvermeidung auseinanderzusetzen. Statt von heute auf morgen das ganze Leben auf den Kopf stellen zu müssen, gelingt es mit den kleinen Lösungen, Stück für Stück Gewohnheiten zu ändern und so immer mehr für die Umwelt zu tun."
 
 Luisa Münch
-
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[/et\_pb\_section\]

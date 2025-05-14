@@ -33,7 +33,7 @@ In der Literatur, den Geschichten, die wir uns erzählen, und den Büchern, die 
 
 Doch die modernen Geschichten haben sich verändert. Denn wir verhalten uns auf diesem Planeten nicht mehr als das, was wir sind: als Gast. Die Ozeane zeigen uns unsere Irrwege. Und in manchen (hoffentlich nur) fiktiven Erzählungen rächen sie sich dafür.
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Das Ozeanbuch" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Das-\_Ozeanbuch\_Esther\_Gonstalla\_Empfehlung.jpg" url="https://www.deepwave.org/das-ozeanbuch-ueber-die-bedrohung-der-meere/" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+[![Das Ozeanbuch Esther Gonstalla Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das-_Ozeanbuch_Esther_Gonstalla_Empfehlung.jpg)](/das-ozeanbuch-ueber-die-bedrohung-der-meere/)
 
 ### [Das Ozeanbuch](https://www.deepwave.org/das-ozeanbuch-ueber-die-bedrohung-der-meere/)
 
@@ -47,7 +47,7 @@ Anna Groß
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/das-ozeanbuch-ueber-die-bedrohung-der-meere/)
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="21 Lektionen" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/21-Lektionen-für-das-21.-Jahrhundert\_Yuval\_Harari\_Empfehlung.jpg" url="https://www.deepwave.org/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+[![21 Lektionen für das 21. Jahrhundert Yuval Harari Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/21-Lektionen-für-das-21.-Jahrhundert_Yuval_Harari_Empfehlung.jpg)](/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
 
 ### [21 Lektionen für das 21. Jahrhundert](https://www.deepwave.org/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
 
@@ -59,7 +59,8 @@ Frederik Götz
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Geschichte des Wassers" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Die-Geschichte-des-Wassers\_Maja\_Lunde\_Empfehlung.jpg" url="https://www.deepwave.org/die-geschichte-des-wassers/" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+
+[![Die Geschichte des Wassers Maja Lunde Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Die-Geschichte-des-Wassers_Maja_Lunde_Empfehlung.jpg)](/die-geschichte-des-wassers/)
 
 ### [Die Geschichte des Wassers](https://www.deepwave.org/die-geschichte-des-wassers/)
 
@@ -71,7 +72,9 @@ Luisa Münch
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/die-geschichte-des-wassers/)
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Der Schwarm" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Der-Schwarm\_Frank\_Schätzing\_Empfehlung.jpg" url="https://www.deepwave.org/der-schwarm/" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+
+[![Der Schwarm Frank Schätzing Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Schwarm_Frank_Schätzing_Empfehlung.jpg)](/der-schwarm/)
+
 
 ### [Der Schwarm](https://www.deepwave.org/der-schwarm/)
 
@@ -83,7 +86,8 @@ Barbara Focke
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/der-schwarm/)
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Was Fische wissen" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Was\_Fische\_wissen\_Jonathan\_Balcombe\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+
+![Was Fische wissen Jonathan Balcombe Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Was_Fische_wissen_Jonathan_Balcombe_Empfehlung.jpg)
 
 ### Was Fische wissen
 
@@ -95,7 +99,7 @@ Barbara Focke
 
 Franziska Bils
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Lesch" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Die\_Menschheit\_schaftt\_sich\_ab\_Harald\_Lesch\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+![Die Menschheit schaftt sich ab Harald Lesch Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Die_Menschheit_schaftt_sich_ab_Harald_Lesch_Empfehlung.jpg)
 
 ### Die Menschheit schafft sich ab
 
@@ -105,7 +109,8 @@ Franziska Bils
 
 Maximilian Hierhammer
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Häckel Kunstformen" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Kunstformen\_der\_Natur\_Ernst\_Haekel\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+
+![Kunstformen der Natur Ernst Haekel Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Kunstformen_der_Natur_Ernst_Haekel_Empfehlung.jpg)
 
 ### Ernst Haeckel: Kunstformen der Natur - Kunstformen aus dem Meer
 
@@ -115,7 +120,7 @@ Maximilian Hierhammer
 
 Anna Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Häckel Pop Up" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Wunderwesen-aus-der-Tiefe\_Ernst\_Haeckel\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+![Wunderwesen aus der Tiefe Ernst Haeckel Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Wunderwesen-aus-der-Tiefe_Ernst_Haeckel_Empfehlung.jpg)
 
 ### Wunderwesen aus der Tiefe
 
@@ -127,7 +132,7 @@ Anna Groß
 
 Anna Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Blaue Wunder" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Das-blaue-Wunder\_Bagusche-Frauke\_Empfehlung.jpg" align="center" admin\_label="Bild" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+![Das blaue Wunder Bagusche Frauke Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das-blaue-Wunder_Bagusche-Frauke_Empfehlung.jpg)
 
 ### Das blaue Wunder
 
@@ -137,7 +142,8 @@ Anna Groß
 
 Heye Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Flut" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Flut\_Hugh\_Aldersey-Williams\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" hover\_enabled="0" global\_colors\_info="{}" sticky\_enabled="0"\]
+
+![Flut Hugh Aldersey-Williams Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Flut_Hugh_Aldersey-Williams_Empfehlung.jpg)
 
 ### Flut
 
@@ -149,7 +155,7 @@ Heye Groß
 
 Heye Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Tiefsee" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Tiefsee\_Dagmar\_Röhrlich\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+![Tiefsee Dagmar Röhrlich Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Tiefsee_Dagmar_Röhrlich_Empfehlung.jpg)
 
 ### Tiefsee
 
@@ -159,7 +165,7 @@ Heye Groß
 
 Anna Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="sy oktopus" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Rendezvous-mit-einem-Oktopus\_Sy\_Montgomery\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+![Rendezvous mit einem Oktopus Sy Montgomery Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Rendezvous-mit-einem-Oktopus_Sy_Montgomery_Empfehlung.jpg)
 
 ### Rendezvous mit einem Oktopus
 
@@ -169,7 +175,8 @@ Anna Groß
 
 Franziska Bils
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="der krake und das bewusstsein" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Der-Krake-das-Meer-und-die-tiefen-Ursprünge-des-Bewusstseins\_Peter\_Godfrey-Smith\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+
+![Der Krake das Meer und die tiefen Ursprünge des Bewusstseins Peter Godfrey-Smith Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Krake-das-Meer-und-die-tiefen-Ursprünge-des-Bewusstseins_Peter_Godfrey-Smith_Empfehlung.jpg)
 
 ### Der Krake, das Meer und die tiefen Ursprünge des Bewusstseins
 
@@ -179,7 +186,7 @@ Franziska Bils
 
 Heye Groß
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_3,2\_3" use\_custom\_gutter="on" gutter\_width="2" admin\_label="Spuren der Sterne" \_builder\_version="4.16" width="100%" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_image src="https://www.deepwave.org/wp-content/uploads/2019/10/Spuren-der-Sterne\_Ute\_Wilhelmsen-\_Empfehlung.jpg" align="center" \_builder\_version="4.16" max\_height\_tablet="400px" max\_height\_phone="300px" max\_height\_last\_edited="on|tablet" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[et\_pb\_column type="2\_3" \_builder\_version="4.16" global\_colors\_info="{}"\]\[et\_pb\_text \_builder\_version="4.20.4" global\_colors\_info="{}"\]
+![Spuren der Sterne Ute Wilhelmsen Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Spuren-der-Sterne_Ute_Wilhelmsen-_Empfehlung.jpg)
 
 ### Spuren der Sterne
 
@@ -188,5 +195,3 @@ Heye Groß
 "Die Meeresbiologin Ute Wilhelmsen und der Physiker Till Mundzeck widmen sich kenntnisreich und mitreißend zwei noch sehr unerforschten Welten, dem Kosmos und der Tiefsee. Und sie zeigen in berührend schönen Aufnahmen ihre überraschende Nähe."
 
 Anna Groß
-
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[/et\_pb\_section\]

@@ -40,7 +40,7 @@ Franziska Bils
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/fische-fische-ueberall-von-britta-teckentrup/)
 
-![](https://www.deepwave.org/wp-content/uploads/2019/10/Ozeane_Hélène_Druvert_Empfehlung.jpg)
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265866/deepwave.org/Ozeane_H%C3%A9l%C3%A8ne_Druvert_Empfehlung.jpg)
 
 ### Ozeane
 
@@ -51,7 +51,7 @@ Gerstenberg Verlag
 
 Anna Mandel, Illustratorin der [Meeresfibel](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/)
 
-![](https://www.deepwave.org/wp-content/uploads/2019/10/Herr-Seepferdchen-PopUp_Eric_Carle_Empfehlung.jpg)
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265868/deepwave.org/Herr-Seepferdchen-PopUp_Eric_Carle_Empfehlung.jpg)
 
 ### Herr Seepferdchen Pop-Up Buch
 
@@ -61,7 +61,7 @@ Anna Mandel, Illustratorin der [Meeresfibel](https://www.deepwave.org/projekte/s
 
 Luisa Münch
 
-![](https://www.deepwave.org/wp-content/uploads/2019/10/Nick-und-der-Wal_Benji_Daves_Empfehlung.jpg)
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265871/deepwave.org/Nick-und-der-Wal_Benji_Daves_Empfehlung.jpg)
 
 ### Nick und der Wal
 
@@ -71,7 +71,7 @@ Luisa Münch
 
 Anna Mandel
 
-![](https://www.deepwave.org/wp-content/uploads/2019/10/Der_Regenbogenfisch_entdeckt_die_Tiefsee_Empfehlung.jpg)
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265873/deepwave.org/Der_Regenbogenfisch_entdeckt_die_Tiefsee_Empfehlung.jpg)
 
 ### Der Regenbogenfisch entdeckt die Tiefsee
 

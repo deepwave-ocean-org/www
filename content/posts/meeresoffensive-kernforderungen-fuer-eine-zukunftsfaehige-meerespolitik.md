@@ -26,4 +26,4 @@ Mit unserem gemeinsamen Kernforderungspapier möchten wir die Erarbeitung der de
 
 Noch können wir gemeinsam die Weichen für eine Zukunft mit den Meeren stellen.
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2023/05/Verbaendepapier_Meeresschutz_Mai2023_final-pdf.jpg" link="https://www.deepwave.org/wp-content/uploads/2023/05/Verbaendepapier_Meeresschutz_Mai2023_final.pdf">}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747265881/deepwave.org/Verbaendepapier_Meeresschutz_Mai2023_final-pdf.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747265884/deepwave.org/Verbaendepapier_Meeresschutz_Mai2023_final.pdf">}}
