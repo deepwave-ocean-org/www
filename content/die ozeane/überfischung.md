@@ -1,6 +1,6 @@
 ---
 title: Überfischung
-image: https://www.deepwave.org/wp-content/uploads/2018/10/Ueberfischung_bad_icon_RGB.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747239085/deepwave.org/Ueberfischung_bad_icon_RGB_hsoc9z.jpg
 overlay: rgba(40,53,53,0.61)
 order: 3
 ---
