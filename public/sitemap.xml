@@ -50,6 +50,12 @@
     <loc>http://localhost:1313/wie-reagieren-marine-nahrungsnetze-auf-alkalinitaetserhoehungen/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/newsletter/1_dec/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/deutsche-umwelthilfe-zu-grundschleppnetzfischerei-in-der-ostsee-neue-verbote-gehen-immer-noch-nicht-weit-genug/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -155,6 +161,9 @@
     <loc>http://localhost:1313/jahrzehntelang-vernachlaessigter-meeresschutz-raecht-sich/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/newsletter/28_may/</loc>
+    <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/quallen-koennten-kuenftig-den-arktischen-ozean-dominieren/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -232,6 +241,9 @@
   </url><url>
     <loc>http://localhost:1313/polarstern-nimmt-kurs-auf-die-ostantarktis/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/27_nov_23/</loc>
+    <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ueber-uns/was-wir-tun/november-2023/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
@@ -2152,6 +2164,8 @@
     <loc>http://localhost:1313/die-ozeane/l%C3%A4rm/</loc>
   </url><url>
     <loc>http://localhost:1313/die-ozeane/meerespolitik/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ozeanb%C3%BCcher/</loc>
   </url><url>
     <loc>http://localhost:1313/reflektierter-optimismus/</loc>
   </url><url>

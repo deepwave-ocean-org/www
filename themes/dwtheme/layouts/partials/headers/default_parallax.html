@@ -1,8 +1,10 @@
 <section class="relative overflow-hidden w-full">
+    {{ with .Params.img }}
     
     <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
-        style="background-image: url('{{ partial "img/src" .Params.image }}');">
+        style="background-image: url('{{ partial "img/src" . }}');">
     </div>
+    {{ end }}
     
     <div class="absolute inset-0" style="background-color: {{ .Params.overlay | default "var(--color-parallax-overlay)" | safeCSS }};"></div>
 

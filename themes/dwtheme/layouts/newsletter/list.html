@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{ partial "headers/default_parallax" . }}
+<div class="not_full_width min-h-screen my-12">
+    {{ with .Content }}
+    <article class="max-w-4xl mx-auto">
+        {{ . }}
+    </article>
+    {{ end }}
+<form class="layout_form cr_form cr_font max-w-4xl mx-auto" action="https://eu.cleverreach.com/f/25098-143305/wcs/" method="post" target="_blank">
+<div class="cr_body cr_page cr_font formbox" style="background-color: transparent;">
+    <div class="non_sortable" style="text-align:left;">
+    </div>
+    <div class="editable_content" style="text-align:left;">
+        <div id="3019099" rel="email" class="cr_ipe_item ui-sortable musthave" style="margin:0 0 10px 0; padding: 0 0;">
+            <label for="text3019099" class="itemname" style="display: none;">E-Mail*</label> <input id="text3019099" name="email" value="" type="text" style="width:100%; padding: 16px; border: 1px solid #bbb; " autocomplete="email" placeholder="E-Mail-Adresse" />
+        </div>
+        <div id="3019083" rel="checkbox" class="itemname" style="width:100%; padding: 0 16px; color: #8e8e8e; border: 0px solid #bbb; background-color: transparent " >
+            <label class="itemname"style="font-size: 14px; margin: 0 !important; display: none;">Einverständnisserklärung</label>
+            <div style="overflow:auto;">
+                <input id="Ich bin damit einverstanden, dass DEEPWAVE e.V. meine persönlichen Daten zum3019083" class="cr_ipe_checkbox" name="269718[]" value="Ich bin damit einverstanden, dass DEEPWAVE e.V. meine persönlichen Daten zum" type="checkbox" /> Ich habe die <a href="https://www.deepwave.org/datenschutz/" title="Datenschutzerklärung" target="_blank" rel="noopener noreferrer">Datenschutzerklärung </a>zur Kenntniss genommen.
+            </div>
+        </div>
+        <div id="3019101" rel="button" class="cr_ipe_item ui-sortable submit_container" style="text-align:center; margin-top:15px;">
+            <button type="submit" class="button" style="background-color: #004258; color: #7295af; border: 2px solid; border-radius: 3px; padding: .3em 1em; font-size: 20px; line-height: 1.7em !important;  font-weight: 500; font-family: inherit; margin: 0;">Anmelden zum Newsletter</button>
+        </div>
+    </div>
+    <noscript><a href="http://www.cleverreach.de">www.CleverReach.de</a></noscript>
+  </div>
+</form>
+{{ partial "divider" . }}
+<div>
+    {{ range .Pages.ByDate.Reverse }}
+    <div class="text-center mb-4">{{ partial "date-german.html" .Date }}</div>
+    <iframe src="https://25098.seu.cleverreach.com/m/{{ .Params.id }}" class="shadow-lg mb-12" style="width: 100%; height: 700px"></iframe>
+    {{ end }}
+</div>
+
+</div>
+{{ end }}

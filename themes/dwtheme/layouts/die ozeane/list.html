@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ if .Title }}
+{{ partial "headers/default_parallax" . }}
+{{ end }}
+<div class="not_full_width min-h-screen my-12">
+    {{ with .Content }}
+    {{ . }}
+    {{ partial "divider" . }}
+    {{ end }}
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {{ range .Pages.ByParam "order" }}
+        <div>
+            <a href="{{ .Permalink }}" class="block">
+                {{ partial "img/img" (dict "src" .Params.image "alt" .Title "class" "m-auto" "img_class" "rounded-full w-2/3 m-auto h-auto object-cover aspect-square")}}
+                <h2 class="text-xl mt-4 text-center">{{ .Title }}</h2>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

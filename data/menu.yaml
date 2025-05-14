@@ -36,10 +36,10 @@ secondary:
 service:
   - title: "Newsletter"
     url: "/newsletter/"
-  - title: "Factsheets"
-    url: "/die-ozeane/factsheets/"
+  # - title: "Factsheets"
+  #   url: "/die-ozeane/factsheets/"
   - title: "Bücher"
-    url: "/ozeanbuecher/"
+    url: "/ozeanbücher/"
   - title: "Bilder"
     url: "/die-ozeane/bilder/"
   - title: "Podcasts"
