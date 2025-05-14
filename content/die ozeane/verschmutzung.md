@@ -1,6 +1,6 @@
 ---
 title: Verschmutzung
-image: https://www.deepwave.org/wp-content/uploads/2018/10/Meeresverschmutzung_bad_icon_RGB.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747241205/Meeresverschmutzung_bad_icon_RGB.jpg
 overlay: rgba(46,76,68,0.38)
 order: 8
 ---
@@ -45,8 +45,8 @@ Quellen:
 
 ### Hier unsere Factsheets über das Thema Plastikmüll
 
--   [Die Verschmutzung in der Tiefsee](https://www.deepwave.org/wp-content/uploads/2015/03/Tiefsee-M%C3%BCll.pdf?x95826)
--   [Mikroplastik in Kosmetik- Stoppt den Wahnsinn](https://www.deepwave.org/wp-content/uploads/2016/08/DWfacts_Microplastik-_2016.pdf?x95826)
+-   [Die Verschmutzung in der Tiefsee](http://res.cloudinary.com/deepwave-org/image/upload/v1747241207/Tiefsee-M_C3_BCll.pdf
+-   [Mikroplastik in Kosmetik- Stoppt den Wahnsinn](http://res.cloudinary.com/deepwave-org/image/upload/v1747241210/DWfacts_Microplastik-_2016.pdf
 
 ### Recyclingbroschüre
 
@@ -68,7 +68,7 @@ Jeder Einzelne kann sich beteiligen:
 
 Verhindert die Müllentsorgung im Meer und sammelt auf, was ihr findet -- vielleicht rettet ihr einem Meeressäugetier damit das Leben. Seid sparsam mit Verpackungen und beschwert euch bei Firmen, die Produkte unnötig aufwendig einpacken. Helfet bei örtlichen Stadt- und Strandreinigungen als Sammler:in und verhindert so den Weitertransport des Mülls vom Land ins Meer.
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2016/07/deepwave_plastikmeer.jpg?x95826" caption="©  DEEPWAVE e.V.">}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747241212/deepwave_plastikmeer.jpg" caption="©  DEEPWAVE e.V.">}}
 
 Ballastwasser
 -------------
@@ -107,7 +107,7 @@ Die Gas- und Erdölexploration in immer tieferen Regionen vor den Küsten muss u
 
 ### Unser Factsheet über Tiefsee-Öl
 
-[„Erdöl aus der Tiefsee"](https://www.deepwave.org/wp-content/uploads/2015/03/Tiefsee-Oel.pdf?x95826)
+[„Erdöl aus der Tiefsee"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241214/Tiefsee-Oel.pdf
 
 ### Blogbeiträge zum Thema
 

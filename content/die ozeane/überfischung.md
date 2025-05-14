@@ -39,10 +39,10 @@ Quellen:
 
 #### Factsheets:
 
--   [„Tunfisch -- ein Fisch ohne Zukunft?"](https://www.deepwave.org/wp-content/uploads/2016/08/DWfacts_Thunfisch_2016.pdf?x95826)
--   [„Tiefsee-Grundschleppnetze"](https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts_Grundschleppnetzfischerei_2016.pdf?x95826)
--   [„Shrimps"](https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts-Shrimps-2016_fin.pdf?x95826)
--   [„Gammelfischerei"](https://www.deepwave.org/wp-content/uploads/2016/07/Gammelfischerei_factsheet_deepwave.pdf?x95826)
+-   [„Tunfisch -- ein Fisch ohne Zukunft?"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241258/DWfacts_Thunfisch_2016.pdf
+-   [„Tiefsee-Grundschleppnetze"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241261/DWfacts_Grundschleppnetzfischerei_2016.pdf
+-   [„Shrimps"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241264/DWfacts-Shrimps-2016_fin.pdf
+-   [„Gammelfischerei"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241268/Gammelfischerei_factsheet_deepwave.pdf
 
 Beifang
 
@@ -105,8 +105,8 @@ Quellen:
 
 #### Factsheets
 
--   [„Zebrahai & Leopardenhai"](https://www.deepwave.org/wp-content/uploads/2016/08/DWfacts_Zebrahai-Leopardenhai_2016.pdf?x95826)
--   [„Haie-Die gejagten Räuber"](https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts_Haie_2016_fin.pdf?x95826)
+-   [„Zebrahai & Leopardenhai"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241271/DWfacts_Zebrahai-Leopardenhai_2016.pdf
+-   [„Haie-Die gejagten Räuber"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241274/DWfacts_Haie_2016_fin.pdf
 
 Text: Onno Groß, 2016
 
@@ -117,7 +117,7 @@ Aquakultur
 
 Aquakultur oder Aquafarming ist das aquatische Äquivalent zur landbasierten Landwirtschaft. Im Großen und Ganzen umfasst die Landwirtschaft sowohl die Tierhaltung als auch den Pflanzenanbau (Agronomie, Gartenbau und teilweise Forstwirtschaft). Ebenso umfasst die Aquakultur die Tierhaltung (einschließlich Krustentiere, Fische und Weichtiere) und Pflanzen (einschließlich Algen und Süßwassermakrophyten). Während die Landwirtschaft überwiegend auf der Nutzung von Süßwasser basiert, findet die Aquakultur sowohl im Binnenland (Süßwasser) als auch an der Küste (Brackwasser, Meerwasser) statt.
 
-![](https://www.deepwave.org/wp-content/uploads/2019/11/FAO_fisheries_vs_aquaculture_2018.png?x95826)
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747241277/FAO_fisheries_vs_aquaculture_2018.png
 
 © FAO SOFIA 2018
 
@@ -138,4 +138,4 @@ Yonathan Kibreab für DEEPWAVE
 
 #### Hier unser Factsheet zum Thema Aquakultur
 
--   [„Aquakultur: Nahrungsquelle der Zukunft?"](https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts-Aquakultur_2016_fin.pdf?x95826)
+-   [„Aquakultur: Nahrungsquelle der Zukunft?"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241280/DWfacts-Aquakultur_2016_fin.pdf

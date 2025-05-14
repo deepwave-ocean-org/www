@@ -1,6 +1,6 @@
 ---
 title: Küstenschutz
-image: https://www.deepwave.org/wp-content/uploads/2018/10/Kuestenschutz_good_icon_RGB.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747241235/Kuestenschutz_good_icon_RGB.jpg
 overlay: rgba(43,39,32,0.49)
 order: 5
 ---
@@ -9,7 +9,7 @@ order: 5
 
 Aktuelles zum Küstenschutz findet sich im World Ocean Review 5, den man [hier](https://worldoceanreview.com/bestellen/) bestellen kann:
 
-{{< figure src="https://www.deepwave.org/wp-content/uploads/2018/12/Cover_WOR_V.jpg?x95826" link="https://worldoceanreview.com/bestellen/" alt="WOR 5" caption="" >}}
+{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747241238/Cover_WOR_V.jpg" link="https://worldoceanreview.com/bestellen/" alt="WOR 5" caption="" >}}
 
 ## Unser Mangrovenprojekt MANGREEN
 
@@ -21,7 +21,7 @@ Nach 10 Jahren ist das Projekt nun verstärkt mit internationalen Mitteln ausges
 
 ### Factsheet zu Mangrovenwäldern
 
--   [„Mangroven- Gezeitenwald der Küsten"](https://www.deepwave.org/wp-content/uploads/2016/08/Mangroven_2016_deepwave.pdf?x95826)
+-   [„Mangroven- Gezeitenwald der Küsten"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241242/Mangroven_2016_deepwave.pdf
 
 ### Blogbeiträge zum Thema
 
@@ -40,7 +40,7 @@ Text: Onno Groß, 2016
 Segeln gegen Proteinpiraten
 ===========================
 
-[![Segeln gegen Proteinpiraten](https://www.deepwave.org/wp-content/uploads/2016/02/Proteinpiratenneu-300x277.jpg?x95826)](https://www.deepwave.org/projekte/proteinpiraten-tour/)
+[![Segeln gegen Proteinpiraten](http://res.cloudinary.com/deepwave-org/image/upload/v1747241244/Proteinpiratenneu-300x277.jpg.jpg
 
 > Die Industrienationen haben die Meere hoffnungslos überfischt. Nun bedienen wir uns an den Küsten des Südens: Wie Piratenflotten marodieren hochmoderne Fangflotten durch die traditionellen Fischgründe. Dabei zerstören ihre gewaltigen Netze die fragilen Ökosysteme am Meeresgrund für Generationen. An Land sorgen die Zuchtshrimps aus den tropischen Aquakulturen für den Verlust der Mangrovenwälder. Das Fischfutter für die Export-Garnelen entstammt wertvollen Fischgründen. Was so unsere Tiefkühltruhen füllt, lässt andere verhungern...
 
@@ -50,11 +50,11 @@ KAPPELN/GREIFSWALD. Frische Seeluft tanken, Abenteuer pur erleben und umweltakti
 
 Mit Vorträgen, Aktionstheater und Filmbeiträgen sollten dabei Verbraucher, Touristen und Küstenanwohner für die drastischen ökologischen und ökonomischen Folgen sensibilisiert werden. Entlang der Ostseeküste wurden dazu an Bord des antiken Bildungsloggers „Lovis" öffentliche Seminare von verschiedenen Menschenrechts- und Umweltaktivisten aus Deutschland, Spanien, England, Holland und Indien gegeben. Für allerlei spektakuläre Überraschungen für die Sommergäste dienten freie Theaterstücke und ein Freiluftkino auf den Segeln der „Lovis". Über Kappeln, die Schleimündung, Dänemark Stralsund ging es bis nach Greifswald.
 
-[Pressemappe](https://www.deepwave.org/wp-content/uploads/2016/02/Pressemappe_Proteinpiraten.pdf?x95826), mit 24 Seiten Hintergurnd zur Überfischung und Garnelenzucht.
+[Pressemappe](http://res.cloudinary.com/deepwave-org/image/upload/v1747241247/Pressemappe_Proteinpiraten.pdf mit 24 Seiten Hintergurnd zur Überfischung und Garnelenzucht.
 
-[Flyer](https://www.deepwave.org/wp-content/uploads/2016/02/proteinpirates.pdf?x95826)der Proteinpiraten-Reise.
+[Flyer](http://res.cloudinary.com/deepwave-org/image/upload/v1747241249/proteinpirates.pdf Proteinpiraten-Reise.
 
-![](https://www.deepwave.org/wp-content/uploads/2016/02/DWwww.Proteinpirates.org_.jpg?x95826)
+![](http://res.cloudinary.com/deepwave-org/image/upload/v1747241252/DWwww.Proteinpirates.org_.jpg
 
 Veranstalter: DEEPWAVE e.V. (Marine Conservation)/ [FIAN](http://www.fian.de/) (Food First Information- and Action Network) / Böe e.V. ("Educational Lugger "[Lovis](http://lovis.de/)")
 

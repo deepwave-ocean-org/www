@@ -1,6 +1,6 @@
 ---
 title: Klima
-image: https://www.deepwave.org/wp-content/uploads/2018/10/Klimawandel_good_icon_RGB.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747241283/Klimawandel_good_icon_RGB.jpg
 overlay: rgba(24,104,117,0.4)
 order: 7
 ---
@@ -43,9 +43,9 @@ Text: Onno Groß, 2016
 
 ### Unsere Factsheets zum Thema Klimawandel
 
--   [„Die Versauerung der Ozeane"](https://www.deepwave.org/wp-content/uploads/2016/08/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf?x95826)
--   [„Meeresspiegelanstieg und Klimawandel"](https://www.deepwave.org/wp-content/uploads/2016/07/DWfacts_Meeresspiegelanstieg-und-Klimawandel_2016.pdf?x95826)
--   [„Polarmeere"](https://www.deepwave.org/wp-content/uploads/2016/08/DWfactsPolarmeere_2016.pdf?x95826)
+-   [„Die Versauerung der Ozeane"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241286/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf)
+-   [„Meeresspiegelanstieg und Klimawandel"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241288/DWfacts_Meeresspiegelanstieg-und-Klimawandel_2016.pdf)
+-   [„Polarmeere"](http://res.cloudinary.com/deepwave-org/image/upload/v1747241292/DWfactsPolarmeere_2016.pdf)
 
 ### Blogbeiträge zum Thema Klimawandel
 
