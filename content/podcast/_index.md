@@ -1,6 +1,6 @@
 ---
 title: Podcasts
 subtitle: bei denen wir zu Gast waren
-# image: https://www.deepwave.org/wp-content/uploads/2019/04/podcast_header.jpg
-# overlay: rgba(52, 67, 84, 0.38)
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747237663/deepwave.org/podcast_header_qcmi3s.jpg
+overlay: rgba(52, 67, 84, 0.38)
 ---
