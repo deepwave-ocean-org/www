@@ -9,6 +9,8 @@ main:
       url: "/ueber-uns/wer-wir sind/"
     - title: "Onno Groß"
       url: "/ueber-uns/onno-groß/"
+  - title: "Highlights"
+    url: "/reflektierter-optimismus/
   - title: "Reflexionen"
     url: "/blogs/reflexionen"
   - title: "Projekte"
@@ -29,8 +31,8 @@ main:
     url: "/die-ozeane/"
   - title: "Blogs"
     url: "/blogs/"
-  - title: "Etwas tun"
-    url: "/reflektierter-optimismus/"
+  # - title: "Etwas tun"
+  #   url: "/reflektierter-optimismus/"
 secondary:
   - title: "Spenden"
     url: "/etwas-tun/spenden/"
