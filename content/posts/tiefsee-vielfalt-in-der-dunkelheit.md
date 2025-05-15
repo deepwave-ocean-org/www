@@ -1,18 +1,20 @@
 ---
-title: "Tiefsee - Vielfalt in der Dunkelheit"
-date: 2020-05-20
-blogs: 
-  - "kultur"
-  - "literatur"
-  - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244132/deepwave.org/Tauchroboter_ROV_KIEL_6000_GEOMAR-scaled.jpg"
-image_caption: "© Bildkomposition von Christoph Kersten, GEOMAR, unter Verwendung von Bildmaterial des MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten, Uni­ver­si­tät Bre­men (CC-BY 4.0)"
-source: "Pressemitteilung, 15.05.2020, Senckenberg Gesellschaft für Naturforschung"
-author: "DEEPWAVE"
-related: 
-  - "/deep-sea-mining-leave-my-down-below-alone/"
+title: Tiefsee - Vielfalt in der Dunkelheit
+date: 2020-05-20T00:00:00Z
+blogs:
+  - kultur
+  - tiefsee
+image: >-
+  http://res.cloudinary.com/deepwave-org/image/upload/v1747244132/deepwave.org/Tauchroboter_ROV_KIEL_6000_GEOMAR-scaled.jpg
+image_caption: >-
+  © Bildkomposition von Christoph Kersten, GEOMAR, unter Verwendung von
+  Bildmaterial des MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten,
+  Uni­ver­si­tät Bre­men (CC-BY 4.0)
+source: Pressemitteilung, 15.05.2020, Senckenberg Gesellschaft für Naturforschung
+author: DEEPWAVE
+related:
+  - /deep-sea-mining-leave-my-down-below-alone/
 ---
-
 Das Begleitbuch zu den neuen Ausstellungsräumen „Tiefsee“ und „Meeresforschung“ im Senckenberg Naturmuseum Frankfurt erscheint heute – die Eröffnung der neuen Themenräume verzögert sich aufgrund der Corona-Pandemie.
 
 Begleitend zum neuen Ausstellungsbereich Tiefsee und Meeresforschung, den beiden ersten neuen Räume im Rahmen des Projekts „Neues Museum“, geben die Kuratoren Dr. Thorolf Müller und Dr. Gerd Hoffmann-Wieck das Buch „Tiefsee – Vielfalt in der Dunkelheit“ heraus. Gemeinsam mit 30 Tiefseeforscher\*innen der Senckenberg Gesellschaft für Naturforschung und des [GEOMAR Helmholtz-Zentrum für Ozeanforschung](https://www.geomar.de/) in Kiel beleuchten sie in vier Großkapiteln den größten Lebensraum des Planeten und vermitteln fundiert Einblicke in die geologische und biologische Erforschung des dunklen Universums. Der Einfluss des Menschen und rechtliche Fragen sind weitere Themen. Das Buch zur Ausstellung erscheint heute und ermöglicht allen Tiefsee-Interessierten, bereits jetzt thematisch in die Tiefen der Ozeane abzutauchen. Ein neuer Eröffnungstermin für die Ausstellung wird in Kürze bekannt gegeben.
@@ -29,6 +31,6 @@ Das Buch „Tiefsee – Vielfalt in der Dunkelheit“ ist ein Begleitbuch zu den
 
 **Publikation** Thorolf Müller, Gerd Hoffmann-Wieck (Hrsg.) Tiefsee – Vielfalt in der Dunkelheit 2020, 204 Seiten, 177 Abbildungen, Anhang, durchgehend farbig, 20 x 22,5 cm, broschiert, ISBN 978-3-510-61415-8, Senckenberg-Buch 83, 17,90 Euro [www.schweizerbart.de/9783510614158](http://www.schweizerbart.de/9783510614158)
 
-Diese [Pressemitteilung](https://www.senckenberg.de/de/pressemeldungen/tiefsee-vielfalt-in-der-dunkelheit/) findet ihr auf der Website des [Senckenberg Museum Frankfurt](https://museumfrankfurt.senckenberg.de/en/).
+Diese&nbsp;[Pressemitteilung](https://www.senckenberg.de/de/pressemeldungen/tiefsee-vielfalt-in-der-dunkelheit/)&nbsp;findet ihr auf der Website des&nbsp;[Senckenberg Museum Frankfurt](https://museumfrankfurt.senckenberg.de/en/).
 
-Wer noch mehr über das faszinierende Leben in den Tiefen der Meere erfahren möchte, findet weitere Informationen auf unserer [Tiefseeseite](https://www.deepwave.org/die-ozeane/die-tiefsee/). Und wer wissen möchte wie wir diese unberührte Welt schützen können, schaut bei der [Deep Sea Conservation Coalition](http://www.savethehighseas.org/) und deren Video [Deep sea mining!? Leave my down below alone!](https://www.deepwave.org/deep-sea-mining-leave-my-down-below-alone/) vorbei.
+Wer noch mehr über das faszinierende Leben in den Tiefen der Meere erfahren möchte, findet weitere Informationen auf unserer [Tiefseeseite](https://www.deepwave.org/die-ozeane/die-tiefsee/). Und wer wissen möchte wie wir diese unberührte Welt schützen können, schaut bei der [Deep Sea Conservation Coalition](http://www.savethehighseas.org/) und deren Video [Deep sea mining!? Leave my down below alone!](https://www.deepwave.org/deep-sea-mining-leave-my-down-below-alone/)&nbsp;vorbei.
