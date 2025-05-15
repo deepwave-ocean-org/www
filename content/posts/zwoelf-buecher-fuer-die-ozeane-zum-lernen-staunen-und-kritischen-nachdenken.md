@@ -1,31 +1,23 @@
 ---
-title: "Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken"
-date: 2019-10-23
-blogs: 
-  - "bildung"
-  - "kultur"
-  - "literatur-collection"
-  - "no-image"
-author: "DEEPWAVE"
-related: 
-  - "/ozeanbuecher/"
-  - "/das-ozeanbuch-ueber-die-bedrohung-der-meere/"
-  - "/das-ozeanbuch-ueber-die-bedrohung-der-meere/"
-  - "/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/"
-  - "/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/"
-  - "/die-geschichte-des-wassers/"
-  - "/die-geschichte-des-wassers/"
-  - "/der-schwarm/"
-  - "/der-schwarm/"
+title: Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken
+date: 2019-10-23T00:00:00Z
+blogs:
+  - bildung
+  - kultur
+  - literatur-collection
+  - no-image
+author: DEEPWAVE
+related:
+  - /das-ozeanbuch-ueber-die-bedrohung-der-meere/
+  - /21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/
+  - /die-geschichte-des-wassers/
+  - /der-schwarm/
 ---
+*Edit (14.03.2023): Wenn euch die Bücher ausgegangen sind, haben wir einige Empfehlungen für euch. Bestellt diese aber nicht bei den großen Unternehmen, sondern nutzt die Gelegenheit, um eine lokale Buchhandlung ausfindig zu machen - [buchhandlung-finden.de](https://www.buchhandlung-finden.de/) und [genialokal.de](https://www.genialokal.de/) helfen euch dabei. Dort könnt ihr oft auch online bestellen, E-Books erwerben oder telefonisch eine Abholung vereinbaren und so denjenigen Buchhändler:innen helfen, die es eh schon schwer genug haben. Und wer weiß, vielleicht entwickeln sich ja durch Gespräche über gute Bücher Freundschaften, die wir jetzt in dieser Krise brauchen - und danach. Unter* hier bestellen *haben wir unsere lokale Buchhändlerin verlinkt - stellvertretend für diesen Gedanken.*
 
-_Edit (14.03.2023): Wenn euch die Bücher ausgegangen sind, haben wir einige Empfehlungen für euch. Bestellt diese aber nicht bei den großen Unternehmen, sondern nutzt die Gelegenheit, um eine lokale Buchhandlung ausfindig zu machen - [buchhandlung-finden.de](https://www.buchhandlung-finden.de/) und [genialokal.de](https://www.genialokal.de/) helfen euch dabei. Dort könnt ihr oft auch online bestellen, E-Books erwerben oder telefonisch eine Abholung vereinbaren und so denjenigen Buchhändler:innen helfen, die es eh schon schwer genug haben. Und wer weiß, vielleicht entwickeln sich ja durch Gespräche über gute Bücher Freundschaften, die wir jetzt in dieser Krise brauchen - und danach. Unter_ hier bestellen _haben wir unsere lokale Buchhändlerin verlinkt - stellvertretend für diesen Gedanken._
+Nach unser erfolgreichen Aktion ["Ozeanbücher"](https://www.deepwave.org/ozeanbuecher/) diesen Sommer, wurden wir von der [Buchhandelskooperation MENSCH](http://www.mensch-buchhandlungen.de/)&nbsp;gefragt, welche Bücher uns bewegen, uns begeistern, zum Staunen bringen und zum Handeln anregen. Die persönlichen Empfehlungen unseres Teams findet ihr hier.
 
-Nach unser erfolgreichen Aktion ["Ozeanbücher"](https://www.deepwave.org/ozeanbuecher/) diesen Sommer, wurden wir von der [Buchhandelskooperation MENSCH](http://www.mensch-buchhandlungen.de/) gefragt, welche Bücher uns bewegen, uns begeistern, zum Staunen bringen und zum Handeln anregen. Die persönlichen Empfehlungen unseres Teams findet ihr hier.
-
-[1\. Zehn Kinderbücher, die uns für die Meere begeistern](https://www.deepwave.org/blogs/kultur/#post-20805677)  
-**[2\. Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken](https://www.deepwave.org/blogs/kultur/#post-20805700)**  
-[3\. Bereit zu handeln? Fünf Bücher zum Anpacken](https://www.deepwave.org/blogs/kultur/#post-20805722)
+[1\. Zehn Kinderbücher, die uns für die Meere begeistern](https://www.deepwave.org/blogs/kultur/#post-20805677)<br> **[2\. Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken](https://www.deepwave.org/blogs/kultur/#post-20805700)**<br> [3\. Bereit zu handeln? Fünf Bücher zum Anpacken](https://www.deepwave.org/blogs/kultur/#post-20805722)
 
 Wir sind mit dem Meer verbunden und dieses Gefühl der Verbundenheit ist Teil unserer Kultur. Der Beweis dafür findet sich in jedem Bücherregal.
 
@@ -47,7 +39,7 @@ Anna Groß
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/das-ozeanbuch-ueber-die-bedrohung-der-meere/)
 
-[![21 Lektionen für das 21. Jahrhundert Yuval Harari Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/21-Lektionen-für-das-21.-Jahrhundert_Yuval_Harari_Empfehlung.jpg)](/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
+[![21 Lektionen für das 21. Jahrhundert Yuval Harari Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/21-Lektionen-f%C3%BCr-das-21.-Jahrhundert_Yuval_Harari_Empfehlung.jpg)](/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
 
 ### [21 Lektionen für das 21. Jahrhundert](https://www.deepwave.org/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
 
@@ -58,7 +50,6 @@ Anna Groß
 Frederik Götz
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
-
 
 [![Die Geschichte des Wassers Maja Lunde Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Die-Geschichte-des-Wassers_Maja_Lunde_Empfehlung.jpg)](/die-geschichte-des-wassers/)
 
@@ -72,9 +63,7 @@ Luisa Münch
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/die-geschichte-des-wassers/)
 
-
-[![Der Schwarm Frank Schätzing Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Schwarm_Frank_Schätzing_Empfehlung.jpg)](/der-schwarm/)
-
+[![Der Schwarm Frank Schätzing Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Schwarm_Frank_Sch%C3%A4tzing_Empfehlung.jpg)](/der-schwarm/)
 
 ### [Der Schwarm](https://www.deepwave.org/der-schwarm/)
 
@@ -85,7 +74,6 @@ Luisa Münch
 Barbara Focke
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/der-schwarm/)
-
 
 ![Was Fische wissen Jonathan Balcombe Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Was_Fische_wissen_Jonathan_Balcombe_Empfehlung.jpg)
 
@@ -108,7 +96,6 @@ Franziska Bils
 "Lesch lehrt uns Demut und zerstreut jeden Zweifel an der wissenschaftlichen Eindeutigkeit unserer Vernichtungskraft – wir nutzen die uns gegebenen Gaben, um genau die Bedingungen, die zu unserem Dasein geführt haben, auf den Kopf zu stellen. Wenn wir uns dessen nicht jetzt bewusstwerden und dementsprechend handeln, kennt die Geschichte nur ein Ende: Die Menschheit schafft sich ab."
 
 Maximilian Hierhammer
-
 
 ![Kunstformen der Natur Ernst Haekel Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Kunstformen_der_Natur_Ernst_Haekel_Empfehlung.jpg)
 
@@ -142,7 +129,6 @@ Anna Groß
 
 Heye Groß
 
-
 ![Flut Hugh Aldersey-Williams Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Flut_Hugh_Aldersey-Williams_Empfehlung.jpg)
 
 ### Flut
@@ -155,7 +141,7 @@ Heye Groß
 
 Heye Groß
 
-![Tiefsee Dagmar Röhrlich Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Tiefsee_Dagmar_Röhrlich_Empfehlung.jpg)
+![Tiefsee Dagmar Röhrlich Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Tiefsee_Dagmar_R%C3%B6hrlich_Empfehlung.jpg)
 
 ### Tiefsee
 
@@ -175,8 +161,7 @@ Anna Groß
 
 Franziska Bils
 
-
-![Der Krake das Meer und die tiefen Ursprünge des Bewusstseins Peter Godfrey-Smith Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Krake-das-Meer-und-die-tiefen-Ursprünge-des-Bewusstseins_Peter_Godfrey-Smith_Empfehlung.jpg)
+![Der Krake das Meer und die tiefen Ursprünge des Bewusstseins Peter Godfrey-Smith Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Krake-das-Meer-und-die-tiefen-Urspr%C3%BCnge-des-Bewusstseins_Peter_Godfrey-Smith_Empfehlung.jpg)
 
 ### Der Krake, das Meer und die tiefen Ursprünge des Bewusstseins
 
