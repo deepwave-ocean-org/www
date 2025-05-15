@@ -13,7 +13,7 @@ author: Nico Czaja
 
 &nbsp;
 
-## **Über die subterrane Unterbringung von CO\*\*\*\*₂** **mittels CCS¹** **als MZBDKW²**
+## **Über die subterrane Unterbringung von CO₂** **mittels CCS¹** **als MZBDKW²**
 
 &nbsp;
 
