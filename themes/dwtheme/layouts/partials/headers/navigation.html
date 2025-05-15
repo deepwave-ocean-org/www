@@ -1,21 +1,57 @@
-<header class="font-sans">
-    <div class="menu_shadow">
-        <div class="not_full_width">
-        <div class="py-6 flex justify-end">
-            {{ partial "nav/service.html" . }}
+<header class="font-sans menu_shadow bg-white z-20">
+  <div class="relative">
+    <div class="not_full_width">
+        <div class="h-16 flex flex-col justify-center">
+          <ul class="flex space-x-4 text-sm justify-end">
+            {{ range site.Data.menu.service }}
+            <li>
+              <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+            </li>
+            {{ end }}
+          </ul>
         </div>
-        <div class="flex items-center justify-between">
+        <div class="h-16 flex items-center justify-between">
             <a href="/" class="logo">
             {{ partial "logo.html" . }}
             </a>
         </div>
-        <div class="flex items-center justify-between flex-wrap">
-            {{ partial "nav/main.html" . }}
-            <button class="hidden" id="mobile-menu-button">
+        <div class="h-12 flex flex-col justify-end pb-4 text-sm md:text-lg">
+          <div class="flex justify-between">
+            <nav class="">
+              <ul class="flex space-x-6 flex-wrap">
+                {{ $sec := .Section }}
+                {{ range site.Data.menu.main }}
+                <li class="group">
+                  {{ if .sublinks }}
+                  <div
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow {{ if eq $sec .section }}!flex{{ end }}">
+                    <div class="not_full_width w-full flex space-x-4">
+                      {{ range .sublinks }}
+                      <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                      {{ end }}
+                    </div>
+                  </div>
+                  {{ end }}
+                  <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </nav>
+            <nav class="">
+              <ul class="flex space-x-4 flex-wrap">
+                {{ range site.Data.menu.secondary }}
+                <li class="relative group">
+                  <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </nav>
+          </div>
+          <button class="hidden" id="mobile-menu-button">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
             </svg>
-            </button>
+          </button>
         </div>
       </div>
     </div>
@@ -23,13 +59,4 @@
     <div class="hidden" id="mobile-menu">
       {{ partial "nav/mobile.html" . }}
     </div>
-    
-    <!-- Subnavigation if on blog page -->
-    {{ if or (eq .Section "blogs") (eq .Section "posts") }}
-        <div class="menu_shadow py-3">
-            <div class="not_full_width">
-            {{ partial "nav/blogs.html" . }}
-          </div>
-    </div>
-    {{ end }}
   </header>

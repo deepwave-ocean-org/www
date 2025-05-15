@@ -1,7 +1,7 @@
 ---
 title: "\"Die Geschichte des Wassers\" von Maja Lunde"
 date: 2019-06-21
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245445/deepwave.org/Die_Geschichte_das_Wassers_2-300x300.jpg)](http://res.cloudinary.com/deepwave-org/image/upload/v1747245447/deepwave.org/Die_Geschichte_das_Wassers_2.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245447/deepwave.org/Die_Geschichte_das_Wassers_2.jpg
 image_caption:
 image_alt: Das Buch "Die Geschichte des Wassers" an Ufer eines kleinen Flusses mitten in der Natur
 blogs: 

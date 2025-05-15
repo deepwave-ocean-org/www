@@ -1,7 +1,7 @@
 ---
 title: "Vier fürs Klima von Petra Pinzler und Günther Wessler"
 date: 2019-06-27
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244270/deepwave.org/Vier_f%C3%BCrs_Klima-300x300.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747320882/deepwave.org/Vier_f_C3_BCrs_Klima.jpg
 image_caption: © DEEPWAVE e.V.
 image_alt: Das Buch Vier fürs Klima vor einem Fahrrad mit einem Bioapfel und einem konventionellen Apfel
 blogs: 

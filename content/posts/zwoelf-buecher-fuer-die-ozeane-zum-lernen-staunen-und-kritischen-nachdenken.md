@@ -4,7 +4,7 @@ date: 2019-10-23
 blogs: 
   - "bildung"
   - "kultur"
-  - "literatur"
+  - "literatur-collection"
   - "no-image"
 author: "DEEPWAVE"
 related: 

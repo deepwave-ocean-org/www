@@ -22,90 +22,99 @@
     <script src="https://unpkg.com/htmx.org@1.9.6"></script>
     
     <script src="/js/cloudinary-core-shrinkwrap.min.js"></script>
-</head><header class="font-sans">
-    <div class="menu_shadow">
-        <div class="not_full_width">
-        <div class="py-6 flex justify-end">
-            <ul class="flex space-x-4 text-sm font-sans">
-  
-    <li>
-      <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
-    </li>
-  
-    <li>
-      <a href="/ozeanb%c3%bccher/" class="hover:text-deepwave-light-blue">Bücher</a>
-    </li>
-  
-    <li>
-      <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
-    </li>
-  
-    <li>
-      <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
-    </li>
-  
-</ul>
+</head><header class="font-sans menu_shadow bg-white z-20">
+  <div class="relative">
+    <div class="not_full_width">
+        <div class="h-16 flex flex-col justify-center">
+          <ul class="flex space-x-4 text-sm justify-end">
+            
+            <li>
+              <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+            </li>
+            
+            <li>
+              <a href="/ozeanb%c3%bccher/" class="hover:text-deepwave-light-blue">Bücher</a>
+            </li>
+            
+            <li>
+              <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+            </li>
+            
+            <li>
+              <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+            </li>
+            
+          </ul>
         </div>
-        <div class="flex items-center justify-between">
+        <div class="h-16 flex items-center justify-between">
             <a href="/" class="logo">
             <div class="flex items-center">
-    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" class="h-16">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" height="100%" width="100%">
   </div>
             </a>
         </div>
-        <div class="flex items-center justify-between flex-wrap">
-            <nav class="pt-4 md:pb-4 text-sm md:text-lg">
-  <ul class="flex space-x-6 flex-wrap">
-  
-    <li class="relative group">
-      <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
-    </li>
-  
-    <li class="relative group">
-      <a href="/highlights/" class="hover:text-deepwave-light-blue">Highlights</a>
-    </li>
-  
-    <li class="relative group">
-      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
-    </li>
-  
-    <li class="relative group">
-      <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
-    </li>
-  
-    <li class="relative group">
-      <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
-    </li>
-  
-    <li class="relative group">
-      <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
-    </li>
-  
-</ul>
-</nav>
-
-<nav class="pb-4 md:pt-4 text-sm md:text-lg">
-  <ul class="flex space-x-4 flex-wrap">
-    
-    <li class="relative group">
-      <a href="/etwas-tun/" class="hover:text-deepwave-light-blue">Etwas tun</a>
-    </li>
-  
-    <li class="relative group">
-      <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
-    </li>
-  
-    <li class="relative group">
-      <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
-    </li>
-  
-</ul>
-</nav>
-            <button class="hidden" id="mobile-menu-button">
+        <div class="h-12 flex flex-col justify-end pb-4">
+          <nav class="text-sm md:text-lg">
+            <ul class="flex space-x-6 flex-wrap">
+              
+              
+              <li class="group">
+                
+                <div
+                  class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow ">
+                  <div class="not_full_width w-full flex space-x-4">
+                    
+                    <a href="/ueber-uns/was-wir-tun/" class="hover:text-deepwave-light-blue">Was wir tun</a>
+                    
+                    <a href="/ueber-uns/wer-wir%20sind/" class="hover:text-deepwave-light-blue">Wer wir sind</a>
+                    
+                    <a href="/ueber-uns/onno-gro%c3%9f/" class="hover:text-deepwave-light-blue">Onno Groß</a>
+                    
+                  </div>
+                </div>
+                
+                <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+              </li>
+              
+              <li class="group">
+                
+                <div
+                  class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow ">
+                  <div class="not_full_width w-full flex space-x-4">
+                    
+                    <a href="https://klartext.deepwave.org" class="hover:text-deepwave-light-blue">KLARTEXT Meerespolitik</a>
+                    
+                    <a href="https://tiefsee.deepwave.org" class="hover:text-deepwave-light-blue">NO DEEP SEA MINING - NEVER</a>
+                    
+                    <a href="projekte/filmfestival/" class="hover:text-deepwave-light-blue">Filmfestival</a>
+                    
+                    <a href="projekte/meeresfibel/" class="hover:text-deepwave-light-blue">Die Meeresfibel</a>
+                    
+                    <a href="projekte/mangrovenprojekt/" class="hover:text-deepwave-light-blue">MANGREEN</a>
+                    
+                  </div>
+                </div>
+                
+                <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+              </li>
+              
+              <li class="group">
+                
+                <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+              </li>
+              
+              <li class="group">
+                
+                <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+              </li>
+              
+            </ul>
+          </nav>
+          <button class="hidden" id="mobile-menu-button">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
             </svg>
-            </button>
+          </button>
         </div>
       </div>
     </div>
@@ -113,150 +122,6 @@
     <div class="hidden" id="mobile-menu">
       
     </div>
-    
-    
-    
-        <div class="menu_shadow py-3">
-            <div class="not_full_width">
-            <ul class="flex flex-wrap space-x-4 py-1 text-sm md:text-lg">
-  
-  
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  <li>
-      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">
-        Good News
-      </a>
-    </li>
-  
-  <li>
-      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">
-        Politik
-      </a>
-    </li>
-  
-  <li>
-      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">
-        Reflexionen
-      </a>
-    </li>
-  
-  <li>
-      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">
-        Klima
-      </a>
-    </li>
-  
-  <li>
-      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">
-        Tiefsee
-      </a>
-    </li>
-  
-  <li>
-      <a href="/blogs/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">
-        Überfischung
-      </a>
-    </li>
-  
-  <li>
-      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">
-        Forschung
-      </a>
-    </li>
-  
-  <li>
-      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">
-        Kultur
-      </a>
-    </li>
-  
-  <li>
-      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">
-        Was tun?
-      </a>
-    </li>
-  
-</ul>
-          </div>
-    </div>
-    
   </header>
     
     <body>
@@ -1781,6 +1646,8 @@ Okt. 25, 2023</time>
             
                 
             
+                
+            
         
             
             
@@ -3250,6 +3117,8 @@ Okt. 25, 2023</time>
             
                 
             
+                
+            
         
     
     
@@ -3334,6 +3203,146 @@ Berlin – Der NABU hat eine Studie zur räumlichen...</p>
             var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
             cl.responsive();
         </script>
-    </body>
+    </body><footer class="bg-deepwave-dark-blue text-deepwave-light-blue py-24 mt-12"
+    style="box-shadow: inset 0px 12px 18px -6px rgba(0,0,0,0.3)">
+    <div class="not_full_width mx-auto px-6 md:px-12">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="md:col-span-2">
+                <div class="flex items-start flex-wrap md:flex-nowrap">
+                    <div class="md:mr-6 w-2/3 mx-auto">
+                        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313003/Onno_Gross_Meteor_1989_2cprivat_tahrne.jpg"
+                            alt="Onno Groß" class="rounded-full object-cover aspect-square w-full" loading="lazy" />
+                    </div>
+                    <div class="flex flex-col">
+                        <p>
+                            Jeden Tag, mit jedem Quadratmeter Schutzgebiet, jedem Verzicht auf Fisch und jeder
+                            Vermeidung von Plastikmüll können wir die Ozeane und unseren Planeten bewahren.
+                        </p>
+                        <p>
+                            Und mit jedem Hinterfragen und jeder aktiven Teilnahme am Meeresschutz kommen wir unserer
+                            Bestimmung zur Harmonie auf dieser Welt einen Schritt näher.
+                        </p>
+                        <p class="mt-2">Onno Groß</p>
+                    </div>
+                </div>
+            </div>
+            <div class="md:col-span-1">
+                <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747267322/deepwave.org/LOGO_DEEPWAVE_2022_white.svg"
+                    alt="DEEPWAVE e.V." class="w-full max-w-md"
+                    style="filter: brightness(0) saturate(100%) invert(61%) sepia(17%) saturate(658%) hue-rotate(163deg) brightness(90%) contrast(88%)" />
+            </div>
+        </div>
+
+        <div class="border-t border-deepwave-light-blue my-8"></div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+                <h2 class="text-2xl mb-6">Interessiert an Neuigkeiten zum Meeresschutz?</h2>
+                <p class="mb-4">Dann halten wir dich mit unserem <a href="/newsletter" class="text-deepwave-link">Newsletter <i
+                            class="icon icon-envelope"></i></a>
+                    auf dem Laufenden.</p>
+
+                <form class="layout_form cr_form cr_font max-w-4xl mx-auto" action="https://eu.cleverreach.com/f/25098-143305/wcs/"
+                    method="post" target="_blank">
+                    <div class="cr_body cr_page cr_font formbox" style="background-color: transparent;">
+                        <div class="non_sortable" style="text-align:left;">
+                        </div>
+                        <div class="editable_content" style="text-align:left;">
+                            <div id="3019099f" rel="email" class="cr_ipe_item ui-sortable musthave"
+                                style="margin:0 0 10px 0; padding: 0 0;">
+                                <label for="text3019099f" class="itemname" style="display: none;">E-Mail*</label> <input
+                                    id="text3019099f" name="email" value="" type="email"
+                                    style="width:100%; padding: 16px; border: 1px solid #bbb;" autocomplete="email"
+                                    placeholder="E-Mail-Adresse" required class="bg-white" />
+                            </div>
+                            <div id="3019083f" rel="checkbox" class="itemname"
+                                style="width:100%; padding: 0 16px; color: #8e8e8e; border: 0px solid #bbb; background-color: transparent ">
+                                <label class="itemname"
+                                    style="font-size: 14px; margin: 0 !important; display: none;">Einverständnisserklärung</label>
+                                <div style="overflow:auto;">
+                                    <input id="Ich bin damit einverstanden, dass DEEPWAVE e.V. meine persönlichen Daten zum3019083f"
+                                        class="cr_ipe_checkbox" name="269718[]"
+                                        value="Ich bin damit einverstanden, dass DEEPWAVE e.V. meine persönlichen Daten zum"
+                                        type="checkbox" /> Ich habe die <a href="https://www.deepwave.org/datenschutz/"
+                                        title="Datenschutzerklärung" target="_blank" rel="noopener noreferrer"
+                                        class="text-deepwave-link">Datenschutzerklärung
+                                    </a>zur Kenntniss genommen.
+                                </div>
+                            </div>
+                            <div id="3019101f" rel="button" class="cr_ipe_item ui-sortable submit_container"
+                                style="text-align:center; margin-top:15px;">
+                                <button type="submit" class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 bg-[#004258]">
     
-</html>
+    Anmelden zum Newsletter
+    
+</button>
+                            </div>
+                        </div>
+                        <noscript><a href="http://www.cleverreach.de">www.CleverReach.de</a></noscript>
+                    </div>
+                </form>
+            </div>
+            <div class="flex justify-center md:justify-end">
+                <div class="relative w-full max-w-md">
+                    <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313757/newsletter_1b-724x1024_f124ps.jpg"
+                        alt="Newsletter Vorschau" class="absolute top-6 right-0 w-3/4 h-auto shadow-lg" loading="lazy" />
+                    <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313743/newsletter_1a-724x1024_fnsqx3.jpg"
+                        alt="Newsletter Vorschau" class="relative z-10 w-3/4 h-auto shadow-xl" loading="lazy" />
+                    </div>
+                    </div>
+                    </div>
+                    <div class="border-t border-deepwave-light-blue mt-12 mb-8"></div>
+                    <div class="flex flex-row">
+                        <div class="w-full flex justify-center">
+                        <button type="button" class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 bg-[#00485e]">
+    
+    <a href="/spenden/" target="_blank">
+    
+    Spende jetzt für uns!
+    
+    </a>
+    
+</button>
+                        </div>
+                        <div class="w-full flex justify-center">
+                        <button type="button" class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 bg-[#052d49]">
+    
+    <a href="https://www.patreon.com/DEEPWAVEeV" target="_blank">
+    
+    Patreon
+    
+    </a>
+    
+</button>
+                        </div>
+                        <div class="w-full flex justify-center">
+                        <button type="button" class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 bg-[#750d3a]">
+    
+    <a href="https://www.instagram.com/deepwave_ocean_org/" target="_blank">
+    
+    Follow
+    
+    </a>
+    
+</button>
+                        </div>
+                    </div>
+        <div class="border-t border-deepwave-light-blue my-8"></div>
+        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747317427/Newsletter_Barbara_xgfgu8.jpg" alt="Wave"
+            class="h-24 object-cover w-full" loading="lazy" />
+        <div class="border-t border-deepwave-light-blue my-8"></div>
+        <div class="w-full text-center mb-4">
+            © 2025 DEEPWAVE e.V. | Alle Rechte vorbehalten.<br />
+            <a href="/datenschutz/" title="Datenschutzerklärung" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Datenschutzerklärung</a> | <a href="/impressum/" title="Impressum" target="_blank"
+                rel="noopener noreferrer" class="text-deepwave-link">Impressum </a><br />
+            Sodenkamp 13e | 22337 Hamburg | Deutschland | +49 (0) 40 4609 1461
+        </div>
+        <div class="w-full text-right">
+            Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Hugo</a><br />
+            Design by <a href="https://heye.earth/" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Heye</a>
+</div>
+    </div>
+</footer></html>

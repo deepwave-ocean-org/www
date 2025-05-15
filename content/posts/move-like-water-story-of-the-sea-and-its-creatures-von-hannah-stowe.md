@@ -1,7 +1,7 @@
 ---
 title: "\"Move Like Water: Story of the Sea and Its Creatures\" von Hannah Stowe"
 date: 2023-09-16
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244435/deepwave.org/Move_Like_Water-300x284.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244438/deepwave.org/Move_Like_Water.jpg
 image_caption:
 image_alt: Buchcover Move Like Water, ein gezeichneter Wal der aus dem Meer springt
 blogs: 

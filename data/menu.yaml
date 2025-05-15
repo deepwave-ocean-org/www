@@ -1,17 +1,19 @@
 main:
   - title: "Über uns"
     url: "/ueber-uns/"
+    section: "ueber-uns"
     sublinks:
     - title: "Was wir tun"
       url: "/ueber-uns/was-wir-tun/"
-  - title: "Highlights"
-    url: "/highlights/"
-  - title: "Reflexionen"
-    url: "/blogs/reflexionen/"
+    - title: "Wer wir sind"
+      url: "/ueber-uns/wer-wir sind/"
+    - title: "Onno Groß"
+      url: "/ueber-uns/onno-groß/"
   - title: "Projekte"
     url: "/projekte/"
+    section: "projekte"
     sublinks:
-    - titel: "KLARTEXT Meerespolitik"
+    - title: "KLARTEXT Meerespolitik"
       url: "https://klartext.deepwave.org"
     - title: "NO DEEP SEA MINING - NEVER"
       url: "https://tiefsee.deepwave.org"
@@ -48,27 +50,27 @@ home:
   - title: Über uns
     subtitle: Unsere NGO, unser Gründer Onno Groß und unsere Zukunft
     url: /ueber-uns/
-    image: https://www.deepwave.org/wp-content/uploads/2023/03/Heye_im_Wasser_Quadrat-scaled.jpg?x95826
+    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267235/deepwave.org/Heye_im_Wasser_Quadrat-scaled.jpg
   - title: Highlights
     subtitle: Unsere Kampagnen, Kooperation, Filmfestivals ...
     url: /highlights/
-    image: https://www.deepwave.org/wp-content/uploads/2023/07/Highlights2-480x480.png
+    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267238/deepwave.org/Highlights2-480x480.png
   - title: Reflexionen
     subtitle: Gedanken, Sichtungen, Hintergründe
     url: https://www.instagram.com/deepwave_ocean_org/
-    image: https://www.deepwave.org/wp-content/uploads/2023/03/Ueberfischung_Quadrat.png
+    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267241/deepwave.org/Ueberfischung_Quadrat.png
   - title: Die Ozeane
     subtitle: Unsere Texte über Tiefsee, Klimakrise, Überfischung, Lärm u.v.m.
     url: /die-ozeane/
-    image: https://www.deepwave.org/wp-content/uploads/2018/12/ozeane_5-768x768.png
+    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267244/deepwave.org/ozeane_5-768x768.png
   - title: Projekte
     subtitle: Unsere Hotspots des Meeresschutzes
     url: /projekte/
-    image: https://www.deepwave.org/wp-content/uploads/2023/03/Projekte_Quadratisch-480x480.png
+    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267247/deepwave.org/Projekte_Quadratisch-480x480.png
   - title: Blogs
     subtitle: Unsere 9 thematischen Newsblogs
     url: /blogs/
-    image: https://www.deepwave.org/wp-content/uploads/2018/12/blog_2.png
+    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267250/deepwave.org/blog_2.png
 footer:
   ueber-uns:
     - name: "Woher wir kommen"

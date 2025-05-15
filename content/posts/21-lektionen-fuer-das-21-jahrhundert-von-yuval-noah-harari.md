@@ -1,7 +1,7 @@
 ---
 title: "\"21 Lektionen für das 21. Jahrhundert\" von Yuval Noah Harari"
 date: 2019-07-09
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244475/deepwave.org/Harari_21_Lektionen_fuer_das_21te_Jahrhundert-300x300.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244478/deepwave.org/Harari_21_Lektionen_fuer_das_21te_Jahrhundert.jpg
 image_caption:
 image_alt: Das Buch "21 Lektionen für das 21. Jahrhundert" von Yuval Noah Harari ist zu sehen. Im Hintergrund sind weitere Bücher mit Augen auf dem Cover zu sehen.
 blogs: 

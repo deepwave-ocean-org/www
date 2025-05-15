@@ -1,7 +1,7 @@
 ---
 title: "\"Das Ozeanbuch - Über die Bedrohung der Meere\" von Esther Gonstalla"
 date: 2019-07-03
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245040/deepwave.org/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla-300x300.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245042/deepwave.org/Das_Ozeanbuch_Ueber_die_Bedrohung_der_Meere_Esther-Gonstalla.jpg
 image_caption: © DEEPWAVE e.V.
 image_alt: Das Ozeanbuch - Über die Bedrohung der Meere liiegt aufgesclagen, als auch mit dem Cover vor einem Globus
 blogs: 

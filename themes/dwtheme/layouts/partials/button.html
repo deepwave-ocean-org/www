@@ -1,0 +1,9 @@
+<button {{with .type}}type="{{ . }}"{{end}} class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 {{ .bgColor }}">
+    {{with .link}}
+    <a href="{{ . }}" target="_blank">
+    {{end}}
+    {{.text}}
+    {{with .link}}
+    </a>
+    {{end}}
+</button>

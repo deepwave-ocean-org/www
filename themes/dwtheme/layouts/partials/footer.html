@@ -1,17 +1,19 @@
-<footer class="bg-deepwave-dark-blue text-deepwave-light-blue py-12">
-    <div class="container mx-auto px-6 md:px-12">
+<footer class="bg-deepwave-dark-blue text-deepwave-light-blue py-24 mt-12"
+    style="box-shadow: inset 0px 12px 18px -6px rgba(0,0,0,0.3)">
+    <div class="not_full_width mx-auto px-6 md:px-12">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="md:col-span-2">
-                <div class="flex items-start">
-                    <div class="mr-6">
-                        <img src="/images/onno-gross.jpg" alt="Onno Groß" class="rounded-full w-36 h-36 object-cover" />
+                <div class="flex items-start flex-wrap md:flex-nowrap">
+                    <div class="md:mr-6 w-2/3 mx-auto">
+                        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313003/Onno_Gross_Meteor_1989_2cprivat_tahrne.jpg"
+                            alt="Onno Groß" class="rounded-full object-cover aspect-square w-full" loading="lazy" />
                     </div>
-                    <div class="flex flex-col space-y-4">
-                        <p class="text-gray-200">
+                    <div class="flex flex-col">
+                        <p>
                             Jeden Tag, mit jedem Quadratmeter Schutzgebiet, jedem Verzicht auf Fisch und jeder
                             Vermeidung von Plastikmüll können wir die Ozeane und unseren Planeten bewahren.
                         </p>
-                        <p class="text-gray-200">
+                        <p>
                             Und mit jedem Hinterfragen und jeder aktiven Teilnahme am Meeresschutz kommen wir unserer
                             Bestimmung zur Harmonie auf dieser Welt einen Schritt näher.
                         </p>
@@ -20,54 +22,94 @@
                 </div>
             </div>
             <div class="md:col-span-1">
-                <img src="https://www.deepwave.org/wp-content/uploads/2022/11/LOGO_DEEPWAVE_2022_white.svg?x95826"
-                    alt="DEEPWAVE e.V." class="w-full max-w-md" />
+                <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747267322/deepwave.org/LOGO_DEEPWAVE_2022_white.svg"
+                    alt="DEEPWAVE e.V." class="w-full max-w-md"
+                    style="filter: brightness(0) saturate(100%) invert(61%) sepia(17%) saturate(658%) hue-rotate(163deg) brightness(90%) contrast(88%)" />
             </div>
         </div>
 
-        <div class="border-t border-[#7295af] my-8"></div>
+        <div class="border-t border-deepwave-light-blue my-8"></div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
-                <h2 class="text-2xl mb-6 text-gray-300">Interessiert an Neuigkeiten zum Meeresschutz?</h2>
-                <p class="text-gray-200 mb-4">Dann halten wir dich mit unserem <a href="/newsletter"
-                        class="text-[#7295af] hover:text-[#2298a5]">Newsletter <i class="icon icon-envelope"></i></a>
+                <h2 class="text-2xl mb-6">Interessiert an Neuigkeiten zum Meeresschutz?</h2>
+                <p class="mb-4">Dann halten wir dich mit unserem <a href="/newsletter" class="text-deepwave-link">Newsletter <i
+                            class="icon icon-envelope"></i></a>
                     auf dem Laufenden.</p>
 
-                <form class="mt-4">
-                    <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-                        <input type="email" placeholder="E-Mail-Adresse"
-                            class="px-4 py-2 bg-white text-gray-800 border border-gray-300 rounded w-full md:w-2/3"
-                            required />
-                        <div class="flex items-center">
-                            <button type="button" class="text-[#7295af]"><i
-                                    class="icon icon-arrow-right text-2xl"></i></button>
+                <form class="layout_form cr_form cr_font max-w-4xl mx-auto" action="https://eu.cleverreach.com/f/25098-143305/wcs/"
+                    method="post" target="_blank">
+                    <div class="cr_body cr_page cr_font formbox" style="background-color: transparent;">
+                        <div class="non_sortable" style="text-align:left;">
                         </div>
+                        <div class="editable_content" style="text-align:left;">
+                            <div id="3019099f" rel="email" class="cr_ipe_item ui-sortable musthave"
+                                style="margin:0 0 10px 0; padding: 0 0;">
+                                <label for="text3019099f" class="itemname" style="display: none;">E-Mail*</label> <input
+                                    id="text3019099f" name="email" value="" type="email"
+                                    style="width:100%; padding: 16px; border: 1px solid #bbb;" autocomplete="email"
+                                    placeholder="E-Mail-Adresse" required class="bg-white" />
+                            </div>
+                            <div id="3019083f" rel="checkbox" class="itemname"
+                                style="width:100%; padding: 0 16px; color: #8e8e8e; border: 0px solid #bbb; background-color: transparent ">
+                                <label class="itemname"
+                                    style="font-size: 14px; margin: 0 !important; display: none;">Einverständnisserklärung</label>
+                                <div style="overflow:auto;">
+                                    <input id="Ich bin damit einverstanden, dass DEEPWAVE e.V. meine persönlichen Daten zum3019083f"
+                                        class="cr_ipe_checkbox" name="269718[]"
+                                        value="Ich bin damit einverstanden, dass DEEPWAVE e.V. meine persönlichen Daten zum"
+                                        type="checkbox" /> Ich habe die <a href="https://www.deepwave.org/datenschutz/"
+                                        title="Datenschutzerklärung" target="_blank" rel="noopener noreferrer"
+                                        class="text-deepwave-link">Datenschutzerklärung
+                                    </a>zur Kenntniss genommen.
+                                </div>
+                            </div>
+                            <div id="3019101f" rel="button" class="cr_ipe_item ui-sortable submit_container"
+                                style="text-align:center; margin-top:15px;">
+                                {{ partial "button" (dict "type" "submit" "text" "Anmelden zum Newsletter" "bgColor" "bg-[#004258]") }}
+                            </div>
+                        </div>
+                        <noscript><a href="http://www.cleverreach.de">www.CleverReach.de</a></noscript>
                     </div>
-
-                    <div class="mt-4 flex items-start">
-                        <input type="checkbox" id="datenschutz" class="mt-1 mr-2" required />
-                        <label for="datenschutz" class="text-sm">
-                            Ich habe die <a href="/datenschutz"
-                                class="text-[#7295af] hover:text-[#2298a5]">Datenschutzerklärung</a> zur Kenntnis
-                            genommen.
-                        </label>
-                    </div>
-
-                    <button type="submit"
-                        class="mt-6 px-6 py-3 bg-[#326784] hover:bg-[#2298a5] text-white border border-[#7295af] rounded transition duration-300 flex items-center">
-                        Anmelden zum Newsletter <i class="icon icon-envelope ml-2"></i>
-                    </button>
                 </form>
             </div>
             <div class="flex justify-center md:justify-end">
                 <div class="relative w-full max-w-md">
-                    <img src="/images/newsletter-preview-back.jpg" alt="Newsletter Vorschau"
-                        class="absolute top-4 right-0 w-11/12 h-auto shadow-lg rounded" />
-                    <img src="/images/newsletter-preview-front.jpg" alt="Newsletter Vorschau"
-                        class="relative z-10 w-11/12 h-auto shadow-xl rounded" />
-                </div>
-            </div>
+                    <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313757/newsletter_1b-724x1024_f124ps.jpg"
+                        alt="Newsletter Vorschau" class="absolute top-6 right-0 w-3/4 h-auto shadow-lg" loading="lazy" />
+                    <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313743/newsletter_1a-724x1024_fnsqx3.jpg"
+                        alt="Newsletter Vorschau" class="relative z-10 w-3/4 h-auto shadow-xl" loading="lazy" />
+                    </div>
+                    </div>
+                    </div>
+                    <div class="border-t border-deepwave-light-blue mt-12 mb-8"></div>
+                    <div class="flex flex-row">
+                        <div class="w-full flex justify-center">
+                        {{ partial "button" (dict "type" "button" "text" "Spende jetzt für uns!" "bgColor" "bg-[#00485e]" "link" "/spenden/") }}
+                        </div>
+                        <div class="w-full flex justify-center">
+                        {{ partial "button" (dict "type" "button" "text" "Patreon" "bgColor" "bg-[#052d49]" "link" "https://www.patreon.com/DEEPWAVEeV") }}
+                        </div>
+                        <div class="w-full flex justify-center">
+                        {{ partial "button" (dict "type" "button" "text" "Follow" "bgColor" "bg-[#750d3a]" "link" "https://www.instagram.com/deepwave_ocean_org/") }}
+                        </div>
+                    </div>
+        <div class="border-t border-deepwave-light-blue my-8"></div>
+        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747317427/Newsletter_Barbara_xgfgu8.jpg" alt="Wave"
+            class="h-24 object-cover w-full" loading="lazy" />
+        <div class="border-t border-deepwave-light-blue my-8"></div>
+        <div class="w-full text-center mb-4">
+            © {{ now | dateFormat "2006" }} DEEPWAVE e.V. | Alle Rechte vorbehalten.<br />
+            <a href="/datenschutz/" title="Datenschutzerklärung" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Datenschutzerklärung</a> | <a href="/impressum/" title="Impressum" target="_blank"
+                rel="noopener noreferrer" class="text-deepwave-link">Impressum </a><br />
+            Sodenkamp 13e | 22337 Hamburg | Deutschland | +49 (0) 40 4609 1461
         </div>
+        <div class="w-full text-right">
+            Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Hugo</a><br />
+            Design by <a href="https://heye.earth/" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Heye</a>
+</div>
     </div>
 </footer>

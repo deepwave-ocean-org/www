@@ -1,7 +1,7 @@
 ---
 title: "Die drei ??? - Meuterei auf hoher See"
 date: 2019-06-23
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244384/deepwave.org/Drei_Frage_Meuterei-300x300.jpg
+image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244387/deepwave.org/Drei_Frage_Meuterei.jpg
 image_alt: "Die CD zum Hörspiel 'Die drei Fragezeichen: Meuterei auf hoher See', ein Smartphone auf dem die Folge läuft und Kopfhörer"
 blogs: 
   - "kultur"

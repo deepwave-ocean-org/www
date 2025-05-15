@@ -5,7 +5,7 @@ blogs:
   - "alternativen-zu-einwegplastik"
   - "bildung"
   - "kultur"
-  - "literatur"
+  - "literatur-collection"
   - "no-image"
 author: "DEEPWAVE"
 related: 

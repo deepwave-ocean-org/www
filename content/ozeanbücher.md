@@ -7,7 +7,7 @@ alias:
  - ozeanbuecher/
 ---
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747243783/deepwave.org/Mehr_Meer_Weniger_Plastik_Buchkampagne.jpg)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747243783/deepwave.org/Mehr_Meer_Weniger_Plastik_Buchkampagne.jpg)
 
 Bücher spielen bei DEEPWAVE schon immer eine heimliche Hauptrolle. Wer unser Büro betritt, ist von ihnen umgeben: Ozeanbücher in allen Formen, Farben, Größen. Vergriffene Raritäten, Neuerscheinungen, Bildbände, Forschungberichte, Bestimmunsgbücher, Literaturklassiker und völlig Unerwartetes.
 
