@@ -9,6 +9,8 @@ main:
       url: "/ueber-uns/wer-wir sind/"
     - title: "Onno Groß"
       url: "/ueber-uns/onno-groß/"
+  - title: "Reflexionen"
+    url: "/blogs/reflexionen"
   - title: "Projekte"
     url: "/projekte/"
     section: "projekte"
@@ -27,12 +29,9 @@ main:
     url: "/die-ozeane/"
   - title: "Blogs"
     url: "/blogs/"
-secondary:
   - title: "Etwas tun"
-    url: "/etwas-tun/"
-  - title: "Shop"
-    url: "https://deepwave.shop/"
-    target: "_blank"
+    url: "/reflektierter-optimismus/"
+secondary:
   - title: "Spenden"
     url: "/etwas-tun/spenden/"
 service:
@@ -46,6 +45,8 @@ service:
     url: "/die-ozeane/bilder/"
   - title: "Podcasts"
     url: "/podcast/"
+  - title: "Shop"
+    url: "https://deepwave.shop/"
 home:
   - title: Über uns
     subtitle: Unsere NGO, unser Gründer Onno Groß und unsere Zukunft
