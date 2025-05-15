@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     let currentIndex = 0;
     const itemCount = sliderItems.length;
-  let autoSlideInterval = 2000;
+  let autoSlideInterval = 3000;
     
     // Touch handling variables
     let touchStartX = 0;
