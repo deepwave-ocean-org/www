@@ -6,7 +6,7 @@ blogs:
 image: >-
   http://res.cloudinary.com/deepwave-org/image/upload/v1747244794/deepwave.org/A_Cloud_to_Starboard_-_Penholm_-_G._Howell-Baker_-_The_Magazine_of_Art_version.jpg
 image_caption: © Cloud to Starboard /@ Wikimedia Commons
-author: Nico Czaja
+author: "nico-czaja"
 related:
   - /ccs-unter-die-erde-kehren/
 ---

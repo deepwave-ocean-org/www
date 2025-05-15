@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nico Czaja on My New Hugo Site</title>
+    <link>http://localhost:1313/author/nico-czaja/</link>
+    <description>Recent content in Nico Czaja on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/nico-czaja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über die Wolken</title>
+      <link>http://localhost:1313/ueber-die-wolken/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ueber-die-wolken/</guid>
+      <description>&lt;h4 id=&#34;wie-man-sie-macht-und-ob-man-es-lieber-lassen-sollte&#34;&gt;Wie man sie macht und ob man es lieber lassen sollte&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ein Gastbeitrag von Nico Czaja&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es folgt ein langer Text - wer nur sehr wenig Zeit hat, kann stattdessen dieses Filmchen sehen, das die wesentlichen Aspekte kurz und knapp auf den Punkt bringt:  &lt;a href=&#34;https://www.youtube.com/watch?v=EKPFZPyQurA&#34;&gt;Should we reflect sunlight to cool the planet?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;a href=&#34;http://res.cloudinary.com/deepwave-org/image/upload/v1747244797/deepwave.org/DAILY-SEA-SURFACE-TEMPERATURE-ANOMALY.png&#34;&gt;&lt;img src=&#34;http://res.cloudinary.com/deepwave-org/image/upload/v1747244797/deepwave.org/DAILY-SEA-SURFACE-TEMPERATURE-ANOMALY.png&#34;&#xA;    alt=&#34;Grafik, die die durchschnittlichen Tagestemperaturen der Meeresoberfläche im Nordostatlantik pro Monat zeigt, farblich aufgeschlüsselt nach Jahrzehnten. Die schwarze Linie, die extrem nach oben ausschlägt, geht bis Juni 2023.&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;© Tägliche Meeresoberflächentemperaturenanomalien / @Copernicus Climate Change Service/ECMWF&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unter die Erde kehren</title>
+      <link>http://localhost:1313/ccs-unter-die-erde-kehren/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ccs-unter-die-erde-kehren/</guid>
+      <description>&lt;h2 id=&#34;ein-gastbeitrag-von-nico-czaja&#34;&gt;Ein Gastbeitrag von Nico Czaja&lt;/h2&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;über-die-subterrane-unterbringung-von-co-mittels-ccs-als-mzbdkw&#34;&gt;&lt;strong&gt;Über die subterrane Unterbringung von CO₂&lt;/strong&gt; &lt;strong&gt;mittels CCS¹&lt;/strong&gt; &lt;strong&gt;als MZBDKW²&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Ich war mal Katholik und bin damit ein Experte für Schuld, Sühne und die kundige Verrechnung der beiden miteinander. Die Zweischneidigkeit des Konzeptes “Beichte” gehört zu meinen faszinierendsten Kindheitserinnerungen: Wie schön und klug und, ja, christlich von der katholischen Kirche, einen institutionellen Raum zu öffnen, in dem man sich den eigenen Verfehlungen stellen, um Vergebung bitten und Nachsicht erfahren kann – und wie interessant die Anreize, die es setzt, wenn jede Sünde einen überschaubaren Gegenwert in Bußehandlungen hat. Und rumsdibums hatte ich ganz allein die Grundprinzipien des Ablasshandel erfunden. Mit zehn Jahren!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

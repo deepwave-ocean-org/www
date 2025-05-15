@@ -9,4 +9,4 @@ order: 4
 
 
 \
-Unser [Klartext](https://klartext.deepwave.org/) erklärt die Meerespolitik.
+Unser [KLARTEXT](https://klartext.deepwave.org/) erklärt, wie Meerespolitik funktioniert.

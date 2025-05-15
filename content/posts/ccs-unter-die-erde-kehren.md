@@ -7,7 +7,7 @@ blogs:
 image: >-
   http://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
 image_caption: © Ablasshandel im Mittelalter / Wikimedia Commons
-author: Nico Czaja
+author: nico-czaja
 ---
 ## Ein Gastbeitrag von Nico Czaja
 
