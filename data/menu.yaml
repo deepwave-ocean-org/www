@@ -9,8 +9,6 @@ main:
       url: "/ueber-uns/wer-wir sind/"
     - title: "Onno Groß"
       url: "/ueber-uns/onno-groß/"
-  - title: "Highlights"
-    url: "/reflektierter-optimismus/"
   - title: "Reflexionen"
     url: "/blogs/reflexionen"
   - title: "Projekte"
