@@ -5,6 +5,7 @@ theme = "dwtheme"
 
 [taxonomies]
   category = "blogs"
+  author = "author"
 [permalinks]
   posts = "/:filename/"
 

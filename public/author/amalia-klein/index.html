@@ -1,0 +1,2625 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta http-equiv="delegate-ch"
+        content="sec-ch-width https://res.cloudinary.com; sec-ch-dpr https://res.cloudinary.com; sec-ch-viewport-width https://res.cloudinary.com;">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    
+  
+    
+    
+      
+        <link rel="stylesheet" href="/css/main.css">
+      
+    
+  
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    
+    <script src="/js/cloudinary-core-shrinkwrap.min.js"></script>
+</head><header class="font-sans menu_shadow bg-white z-20">
+  <div class="relative">
+    <div class="not_full_width">
+        <div class="h-16 flex flex-col justify-center">
+          <ul class="flex space-x-4 text-sm justify-end">
+            
+            <li>
+              <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+            </li>
+            
+            <li>
+              <a href="/ozeanb%c3%bccher/" class="hover:text-deepwave-light-blue">Bücher</a>
+            </li>
+            
+            <li>
+              <a href="/die-ozeane/bilder/" class="hover:text-deepwave-light-blue">Bilder</a>
+            </li>
+            
+            <li>
+              <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+            </li>
+            
+            <li>
+              <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+            </li>
+            
+          </ul>
+        </div>
+        <div class="h-16 flex items-center justify-between">
+            <a href="/" class="logo">
+            <div class="flex items-center">
+    <img src="/images/deepwave_logo_de_4c_hor_SVG_ein_Pfad.svg" alt="Deepwave Logo" height="100%" width="100%">
+  </div>
+            </a>
+        </div>
+        <div class="h-12 flex flex-col justify-end pb-4 text-sm md:text-lg">
+          <div class="flex justify-between">
+            <nav class="">
+              <ul class="flex space-x-6 flex-wrap">
+                
+                
+                <li class="group">
+                  
+                  <div
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow ">
+                    <div class="not_full_width w-full flex space-x-4">
+                      
+                      <a href="/ueber-uns/was-wir-tun/" class="hover:text-deepwave-light-blue">Was wir tun</a>
+                      
+                      <a href="/ueber-uns/wer-wir%20sind/" class="hover:text-deepwave-light-blue">Wer wir sind</a>
+                      
+                      <a href="/ueber-uns/onno-gro%c3%9f/" class="hover:text-deepwave-light-blue">Onno Groß</a>
+                      
+                    </div>
+                  </div>
+                  
+                  <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+                </li>
+                
+                <li class="group">
+                  
+                  <a href="/blogs/reflexionen" class="hover:text-deepwave-light-blue">Reflexionen</a>
+                </li>
+                
+                <li class="group">
+                  
+                  <div
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow ">
+                    <div class="not_full_width w-full flex space-x-4">
+                      
+                      <a href="https://klartext.deepwave.org" class="hover:text-deepwave-light-blue">KLARTEXT Meerespolitik</a>
+                      
+                      <a href="https://tiefsee.deepwave.org" class="hover:text-deepwave-light-blue">NO DEEP SEA MINING - NEVER</a>
+                      
+                      <a href="projekte/filmfestival/" class="hover:text-deepwave-light-blue">Filmfestival</a>
+                      
+                      <a href="projekte/meeresfibel/" class="hover:text-deepwave-light-blue">Die Meeresfibel</a>
+                      
+                      <a href="projekte/mangrovenprojekt/" class="hover:text-deepwave-light-blue">MANGREEN</a>
+                      
+                    </div>
+                  </div>
+                  
+                  <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+                </li>
+                
+                <li class="group">
+                  
+                  <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+                </li>
+                
+                <li class="group">
+                  
+                  <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+                </li>
+                
+              </ul>
+            </nav>
+            <nav class="">
+              <ul class="flex space-x-4 flex-wrap">
+                
+                <li class="relative group">
+                  <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+                </li>
+                
+              </ul>
+            </nav>
+          </div>
+          <button class="hidden" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="hidden" id="mobile-menu">
+      
+    </div>
+  </header>
+    
+    <body>
+        <div id="content">
+
+<section class="relative overflow-hidden w-full">
+    
+    
+    <div class="absolute inset-0" style="background-color: var(--color-parallax-overlay);"></div>
+
+    <div class="relative z-10 not_full_width h-full flex flex-col justify-center text-white my-24">
+      <h1 class="text-3xl md:text-3xl mb-2">Amalia Klein</h1>
+      
+    </div>
+  </section>
+
+<div class="not_full_width min-h-screen my-12">
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/davos-logik-eines-hardware-upgrades/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244633/deepwave.org/hardware_technik_upgrade_davos_pixabay_moebiusdream.jpg" alt="Davos: Logik eines Hardware-Upgrades" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Davos: Logik eines Hardware-Upgrades</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Krüger: Die Erde passt nicht zu der Art wie wir Business machen wollen
+Berlin/Davos – Der Global Risks Report des...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/guter-fisch-zum-weihnachtsfest/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1746450565/deepwave.org/david-foodphototasty-unsplash_guter_fisch_gegrillte_dorade-scaled_lamvdk.webp" alt="„Guter Fisch“ zum Weihnachtsfest" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">„Guter Fisch“ zum Weihnachtsfest</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Forschungseinrichtungen, Umweltverbände und die Verbraucherzentralen aktualisieren die gemeinsame Liste „Guter Fisch“...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/eu-umweltrat-eintrag-von-kunststoffgranulat-in-die-umwelt-soll-verringert-werden/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245050/deepwave.org/wikimedia_commons_kunststoffgranulat_mikroplastik_blau-scaled.jpg" alt="EU-Umweltrat: Eintrag von Mikroplastik in die Umwelt soll verringert werden" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">EU-Umweltrat: Eintrag von Mikroplastik in die Umwelt soll verringert werden</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Wichtiger Schritt gegen versehentlich freigesetztes Kunststoffgranulat Schätzungen der Europäischen Kommission zufolge...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nordsee-fangquoten-deutsche-umwelthilfe-kritisiert-beschluesse-als-unzureichend/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245054/deepwave.org/burkhard-kaufhold-unsplash_netz_fangquote_nordsee_grau-scaled.jpg" alt="Nordsee-Fangquoten: Deutsche Umwelthilfe kritisiert Beschlüsse als unzureichend" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Nordsee-Fangquoten: Deutsche Umwelthilfe kritisiert Beschlüsse als unzureichend</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">• Quoten für Nordseehering und Nordseekabeljau gefährden Stabilität der Ökosysteme in Nord- und Ostsee
+• DUH fordert...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/neues-fischereiforschungsschiff-des-bundes-in-litauen-auf-kiel-gelegt-walther-herwig/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245012/deepwave.org/walther_herwig_III_forschungsschiff_wikimedia_commons.jpg" alt="Neues Fischereiforschungsschiff des Bundes in Litauen auf Kiel gelegt" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Neues Fischereiforschungsschiff des Bundes in Litauen auf Kiel gelegt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Es geht los: Der Bau des neuen Forschungsschiffs WALTHER HERWIG wurde am litauischen Werftstandort Klaipeda gestartet....</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/wie-reagieren-marine-nahrungsnetze-auf-alkalinitaetserhoehungen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244612/deepwave.org/Marine_microplankton_zooplankton_nahrungsnetze.jpg" alt="Wie reagieren marine Nahrungsnetze auf Alkalinitätserhöhungen?" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Wie reagieren marine Nahrungsnetze auf Alkalinitätserhöhungen?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Erste Studie zeigt vielversprechende Ergebnisse 06.12.2024/Kiel. Um den Klimawandel einzudämmen, müssen die vom Menschen...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deutsche-umwelthilfe-zu-grundschleppnetzfischerei-in-der-ostsee-neue-verbote-gehen-immer-noch-nicht-weit-genug/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244965/deepwave.org/viviane_m_pixabay_ostsee_dorsch_kabeljau_2.jpg" alt="Deutsche Umwelthilfe zu Grundschleppnetzfischerei in der Ostsee: „Neue Verbote gehen immer noch nicht weit genug“" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Deutsche Umwelthilfe zu Grundschleppnetzfischerei in der Ostsee: „Neue Verbote gehen immer noch nicht weit genug“</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Berlin, 29.11.2024: Die besonders umweltschädliche Grundschleppnetzfischerei wird in drei deutschen...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/vorkommen-von-blau-und-finnwalen-in-der-arktis/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244971/deepwave.org/torsten-dederichs-unsplash_finnwal_wal_arktis_farmstrasse-scaled.jpg" alt="Vorkommen von Blau- und Finnwalen in der Arktis" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Vorkommen von Blau- und Finnwalen in der Arktis</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Forschungsteam unter AWI-Leitung stellt erste akustische Langzeituntersuchung von Bartenwalen in der östlichen...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/verbrauchertaeuschung-mit-angeblich-klimaneutralem-erdgas-greenwashing/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245007/deepwave.org/gasleitung_greenwashing_erdgas_pixabay_ds_30.jpg" alt="Verbrauchertäuschung mit angeblich „klimaneutralem“ Erdgas: Deutsche Umwelthilfe leitet Rechtsverfahren gegen 15 weitere Gasversorger ein" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Verbrauchertäuschung mit angeblich „klimaneutralem“ Erdgas: Deutsche Umwelthilfe leitet Rechtsverfahren gegen 15 weitere Gasversorger ein</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">• DUH-Bundesgeschäftsführer Resch wirft den Erdgasversorgern „unverantwortliches Greenwashing“ vor, indem sie fossiles...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/bund-weltklimakonferenz-verfehlt-ambitionierte-klimafinanzierung-cop29/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244922/deepwave.org/matthew-tenbruggencate-unsplash_COP_COP29_UN_Klimakonferenz-scaled.jpg" alt="BUND: Weltklimakonferenz verfehlt ambitionierte Klimafinanzierung" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">BUND: Weltklimakonferenz verfehlt ambitionierte Klimafinanzierung</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Beschlüsse gehen an drastischer Realität der Klimakrise vorbei.
+Neues Finanzierungsziel gefährdet Lebengrundlange von...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/verbot-von-einweg-e-zigaretten-soll-ins-elektrogesetz-deutsche-umwelthilfe-fordert-nach-votum-des-bundesrats-schnellstmoegliche-nachbesserung/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245422/deepwave.org/vapes_einweg_e_zigaretten_wikimedia_commons-scaled.jpg" alt="Verbot von Einweg-E-Zigaretten soll ins Elektrogesetz: Deutsche Umwelthilfe fordert nach Votum des Bundesrats schnellstmögliche Nachbesserung" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Verbot von Einweg-E-Zigaretten soll ins Elektrogesetz: Deutsche Umwelthilfe fordert nach Votum des Bundesrats schnellstmögliche Nachbesserung</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Berlin, 22.11.2024: Der Bundesrat hat sich heute für ein Verbot von Einweg-E-Zigaretten in Deutschland ausgesprochen....</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/eu-biodiversitaetsstrategie-2030-ziele-ausser-reichweite/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243994/deepwave.org/eu_flaggen_bruessel_biodiversitaetsstrategie_christian-lue-unsplash.jpg" alt="2030-Ziele außer Reichweite: Verlieren EU und Deutschland im Kampf gegen Biodiversitätsverlust?" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">2030-Ziele außer Reichweite: Verlieren EU und Deutschland im Kampf gegen Biodiversitätsverlust?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Bericht verdeutlicht: Politische Versprechen allein reichen nicht – Handlungszeitraum schrumpft rapide
+Berlin - Ein...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/weder-oede-noch-leer-tiefseeboden-wimmelt-von-leben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244335/deepwave.org/Tiefsee-Lebewesen_Senckenberg_Arktis.jpg" alt="Weder öde noch leer: Tiefseeboden wimmelt von Leben" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Weder öde noch leer: Tiefseeboden wimmelt von Leben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Neue Übersichtsstudie zeigt Vielfalt von Lebensräumen und Organismen in der arktischen Tiefsee
+Die Tiefsee der Arktis...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/gemeinsam-gegen-den-fossilen-irrweg-ccs-gesetz-stoppen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244784/deepwave.org/Protest_Against_Carbon_Capture_and_Storage_CCS_Wikimedia_Commons.jpg" alt="Gemeinsam gegen den fossilen Irrweg: CCS-Gesetz stoppen" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Gemeinsam gegen den fossilen Irrweg: CCS-Gesetz stoppen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Echte Klimaschutzlösungen jetzt!
+Großes Bündnis gegen Novelle des Kohlendioxid-Speichergesetzes Offener Brief an...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/eurosea-luecken-in-der-ozeanbeobachtung-schliessen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245438/deepwave.org/davide-ragusa-unsplash_fernrohr_meeresbeobachtung-scaled.jpg" alt="Lücken in der Ozeanbeobachtung schließen" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Lücken in der Ozeanbeobachtung schließen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Empfehlungen der europäischen Meeresforschungsgemeinschaft 11.11.2024/Kiel/Baku. Die europäischen Meeresforscher:innen...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/neue-zahlen-zu-einweg-kaffeekapseln-28-milliarden-stueck-und-fast-10-000-tonnen-muell-pro-jahr-durch-jacobs-nestle-und-co/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244214/deepwave.org/Kaffeekapseln_Einweg_Nespresso_Thomas_Wolter_Pixabay.jpg" alt="Neue Zahlen zu Einweg-Kaffeekapseln: 2,8 Milliarden Stück und fast 10.000 Tonnen Müll pro Jahr durch Jacobs, Nestlé und Co." class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Neue Zahlen zu Einweg-Kaffeekapseln: 2,8 Milliarden Stück und fast 10.000 Tonnen Müll pro Jahr durch Jacobs, Nestlé und Co.</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">• Berechnungen der Deutschen Umwelthilfe für das Jahr 2022 basierend auf Marktdaten und Gewichtsmessungen
+• Hersteller...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/schleppnetzfischerei-reduziert-kohlenstoffsenke/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244846/deepwave.org/krabbenkutter_trawl_nordsee_kohlenstoffsenke_pixabay_wolf_blur.jpg" alt="Schleppnetzfischerei reduziert Kohlenstoffspeicherung" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Schleppnetzfischerei reduziert Kohlenstoffspeicherung</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Durch intensive Fischerei am Meeresgrund wird vermehrt Kohlenstoff freigesetzt Plattfische und Garnelen werden in der...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/dieumweltdruckerei-fuer-eine-nachhaltige-entwicklung-global-denken-und-lokal-handeln/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243884/deepwave.org/kevin_riemer_schadendorf.jpg" alt="Für eine nachhaltige Entwicklung: Global denken und lokal handeln!" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Für eine nachhaltige Entwicklung: Global denken und lokal handeln!</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Unser Interview mit Dr. Kevin Riemer-Schadendorf, dem Leiter Nachhaltigkeit und Kommunikation bei der UmweltDruckerei,...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/eu-entscheidung-zu-ostsee-fangquoten/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244929/deepwave.org/netz_fischer_ostsee_fangquote_haende_conor-o-nolan-unsplash-scaled.jpg" alt="EU-Entscheidung zu Ostsee-Fangquoten: Deutsche Umwelthilfe kritisiert Beschlüsse als kurzsichtig" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">EU-Entscheidung zu Ostsee-Fangquoten: Deutsche Umwelthilfe kritisiert Beschlüsse als kurzsichtig</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">• Neue Fangquoten der EU-Fischereiministerinnen und -minister riskieren die Zukunft der Ostseefischerei
+• Beifangquoten...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/zeit-fuer-saubere-meeresluft/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244596/deepwave.org/schiff_abgas_schornstein_joe-green-unsplash-scaled.jpg" alt="Zeit für saubere Meeresluft" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Zeit für saubere Meeresluft</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">NGO-Netzwerk ruft zur Verbesserung der Luftqualität im Mittelmeerraum auf
+Berlin/Livorno - Ein Bündnis von...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/tief-durchatmen-der-geheime-stoffwechsel-ethanfressender-archaeen-anaerobe-oxidation/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244354/deepwave.org/NOAA_tiefsee_quelle_raucher.jpg" alt="Tief durchatmen: Der geheime Stoffwechsel ethanfressender Archaeen" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tief durchatmen: Der geheime Stoffwechsel ethanfressender Archaeen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Quellen am Meeresboden setzen von Natur aus Alkane frei – Schadstoffe, die potenziell gefährlich für Lebewesen sind und...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/parlamentskreis-meerespolitik-im-deutschen-bundestag/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244607/deepwave.org/Parlamentskreis_Meerespolitikc-Inga-Kjer-5.jpg" alt="Parlamentskreis Meerespolitik im Deutschen Bundestag" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Parlamentskreis Meerespolitik im Deutschen Bundestag</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Mit vereinten Kräften für unsere Meere – Parlamentskreis Meerespolitik im Deutschen Bundestag
+Das Zukunftsthema...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/goldene-regeln-zur-rettung-der-fischbestaende/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245387/deepwave.org/angel_koeder_goldene_regeln_nachhaltige_fischerei_BjoKib_pixabay.jpg" alt="Goldene Regeln zur Rettung der Fischbestände" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Goldene Regeln zur Rettung der Fischbestände</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">30 internationale Fachleute fordern Neudefinition nachhaltiger Fischerei 23.09.2024/Kiel. Eine Gruppe von 30 führenden...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/stroemungen-wie-ist-das-wetter-in-der-tiefsee/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244063/deepwave.org/noaa_tiefsee_krabben_submarine_ring_of_fire.jpg" alt="Wie ist das Wetter in der Tiefsee?" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Wie ist das Wetter in der Tiefsee?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Neue Nature Geoscience-Studie zeigt wechselhaftes Verhalten der Strömungen in der Tiefsee
+Eine neue Studie zeigt, wie...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/fischereiforschung-hat-fischbestaende-zu-optimistisch-eingeschaetzt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245404/deepwave.org/Heringe_Sardinen_Fischereiforschung_kogia_nessim_stevenson-scaled.jpg" alt="Fischereiforschung hat Fischbestände zu optimistisch eingeschätzt" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Fischereiforschung hat Fischbestände zu optimistisch eingeschätzt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">GEOMAR-Experte fordert realistischere Bestandsbewertungen
+22.08.2024/Kiel. Es steht schlecht um die Fischbestände im...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/startschuss-fuer-nature-restoration-law-bedrohte-natur-retten-lebensqualitaet-steigern/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245153/deepwave.org/ostsee_unsplash_gleb_lucky_steg-scaled.jpg" alt="Startschuss für Nature Restoration Law: Bedrohte Natur retten, Lebensqualität steigern" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Startschuss für Nature Restoration Law: Bedrohte Natur retten, Lebensqualität steigern</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Krüger: Konkrete Maßnahmen in der Hand der Bundesländer / Bestehende Gesetze dürfen Fortschritte nicht zunichtemachen...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/wwf-neuausrichtung-der-internationalen-meeresbodenbehoerde-dringend-notwendig/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244043/deepwave.org/NOAA_exploration_tiefsee.jpg" alt="WWF: Neuausrichtung der Internationalen Meeresbodenbehörde dringend notwendig" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">WWF: Neuausrichtung der Internationalen Meeresbodenbehörde dringend notwendig</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Auf der Jahrestagung der Internationalen Meeresbodenbehörde (ISA, International Seabed Authority) in Jamaika wurde heute...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ccs-gesetz-mit-der-ampel-in-den-klima-jurassic-park/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245151/deepwave.org/ccs_dinosaurier_jurassic_park_unsplash_engin-akyurt-scaled.jpg" alt="CCS-Gesetz: Mit der Ampel in den Klima-Jurassic Park" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">CCS-Gesetz: Mit der Ampel in den Klima-Jurassic Park</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Zum Beschluss der Novelle des CCS-Gesetzes (KSpG) erklärt Olaf Bandt, Vorsitzender des Bund für Umwelt und Naturschutz...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/jahrzehntelang-vernachlaessigter-meeresschutz-raecht-sich/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244171/deepwave.org/nicholas-doherty-unsplash_offshore_windpark_nordsee_uebernutzung-scaled.jpg" alt="Jahrzehntelang vernachlässigter Meeresschutz rächt sich" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Jahrzehntelang vernachlässigter Meeresschutz rächt sich</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Krüger: Weitere Übernutzung der Meere verstärkt Klima- und Biodiversitätskrise
+Berlin – Das Bundeskabinett befasst sich...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/quallen-koennten-kuenftig-den-arktischen-ozean-dominieren/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245284/deepwave.org/qualle_ohrenqualle_arktis_matthias-gotzke-unsplash-scaled.jpg" alt="Quallen könnten künftig den Arktischen Ozean dominieren" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Quallen könnten künftig den Arktischen Ozean dominieren</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">AWI-Studie zeigt: Quallen im Arktischen Ozean profitieren vom Klimawandel und breiten sich weiter nach Norden aus Der...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/klimaschutzgesetz-staffelstab-wird-vorzeitig-weitergegeben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244382/deepwave.org/bundestag_klimaschutzgesetz_hoch3media_unsplash-scaled.jpg" alt="Klimaschutzgesetz: Staffelstab wird vorzeitig weitergegeben" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Klimaschutzgesetz: Staffelstab wird vorzeitig weitergegeben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Klimaschutzgesetz: Staffelstab wird vorzeitig weitergegeben Krüger: Ampel könnte Hände in den Schoß legen
+Berlin - Der...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/mikroplastik-im-meer-neue-methode-ermoeglicht-analyse-von-partikeln-aus-beschichtungen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244744/deepwave.org/shaah-shahidh-unsplash_schiff_rot_mikroplastik_farbe_beschichtung-scaled.jpg" alt="Mikroplastik im Meer: Neue Methode ermöglicht Analyse von Partikeln aus Beschichtungen" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Mikroplastik im Meer: Neue Methode ermöglicht Analyse von Partikeln aus Beschichtungen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Mikroplastik im Meer könnte größtenteils auch aus Beschichtungen sowie Farbanstrichen von Schiffen und Bauwerken im Meer...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/energiekrise-bei-ostdorsch-und-co-wie-ueberduengung-und-klimawandel-die-nahrungsnetze-der-ostsee-veraendern/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245246/deepwave.org/cod_dorsch_kabeljau_ostsee_fangquote_viviane_m_pixabay.jpg" alt="Energiekrise bei Dorsch und Co.: Wie Überdüngung und Klimawandel die Nahrungsnetze der Ostsee verändern" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Energiekrise bei Dorsch und Co.: Wie Überdüngung und Klimawandel die Nahrungsnetze der Ostsee verändern</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Der Ostdorschbestand ist seit Jahren in der Krise. Trotz historisch niedrigem Fischereidruck erholt sich der Bestand...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nordsee-schiffslaerm-dominiert-unter-wasser/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245038/deepwave.org/containerschiff_schiffslaerm_nordsee_unsplash_johan_taljaard-scaled.jpg" alt="Nordsee: Schiffslärm dominiert unter Wasser" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Nordsee: Schiffslärm dominiert unter Wasser</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Erstmals haben die Nordseeanrainerstaaten den Unterwasserlärm gemeinsam an 19 Stationen gemessen und analysiert. Die...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/was-wir-nicht-verarbeiten-koennen-wird-uns-veraendern/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244943/deepwave.org/Insta_Was_wir_nicht_verarbeiten_koennen_Sonne_Wolken_Meer.png" alt="Was wir nicht verarbeiten können, wird uns verändern" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Was wir nicht verarbeiten können, wird uns verändern</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Wir wussten, dass es passieren wird, wir haben uns nicht vorgestellt, dass es so passiert. Wir haben uns nichts...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deepwave-filmfestival-zum-schutz-der-hoch-und-tiefsee-20-jahre-deepwave/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243863/deepwave.org/Insta_Filmfestival_Ausschnitt.png" alt="DEEPWAVE Filmfestival zum Schutz der Hoch- und Tiefsee – 20 Jahre DEEPWAVE" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">DEEPWAVE Filmfestival zum Schutz der Hoch- und Tiefsee – 20 Jahre DEEPWAVE</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Tief unter den Wellen, weit entfernt von unserer Aufmerksamkeit, könnte bald die größte Bergbauaktion in der Geschichte...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/kernforderungen-fuer-eine-zukunftsfaehige-meerespolitik/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244581/deepwave.org/Insta_Kernforderungen_Meerespolitik.png" alt="Kernforderungen für eine zukunftsfähige Meerespolitik" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Kernforderungen für eine zukunftsfähige Meerespolitik</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Ein Titel, der alles sagt.
+Gemeinsam mit 16 umwelt- und entwicklungspolitischen Organisationen wenden wir uns mit diesem...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/meeresoffensive-kernforderungen-fuer-eine-zukunftsfaehige-meerespolitik/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244974/deepwave.org/david-paschke-unsplash_Seebruecke_Ostsee-scaled.jpg" alt="Kernforderungen für eine zukunftsfähige Meerespolitik" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Kernforderungen für eine zukunftsfähige Meerespolitik</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Mit dem vorliegenden Papier wenden sich die unterzeichnenden umwelt- und entwicklungspolitischen Organisationen (Brot...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deepwave-wird-20/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">DEEPWAVE wird 20!</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">DEEPWAVE wird 20!</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">DEEPWAVE wird 20! Schaut euch hier unser Geburtstagsvideo zu 20 Jahren Vereinsarbeit an:...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ccs-unter-die-erde-kehren/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg" alt="Unter die Erde kehren" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Unter die Erde kehren</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Ein Gastbeitrag von Nico Czaja Über die subterrane Unterbringung von CO****₂ mittels CCS¹ als MZBDKW² Ich war mal...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-notverordnung-verschaerft-konflikte-beim-ausbau-der-windenergie-auf-see/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244637/deepwave.org/windenergie_auf_see_offshore_waldemar-unsplash-scaled.jpg" alt="NABU: Notverordnung verschärft Konflikte beim Ausbau der Windenergie auf See" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU: Notverordnung verschärft Konflikte beim Ausbau der Windenergie auf See</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Krüger: Abbau ökologischer Standards wird den Ausbau nicht beschleunigen
+Berlin – Das Bundeskabinett will zeitnah eine...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/lng-terminals-gehoeren-auf-den-pruefstand/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245233/deepwave.org/Hamburg_Hafen_Kraene_LNG_marius-niveri-unsplash-scaled.jpg" alt="LNG-Terminals gehören auf den Prüfstand" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">LNG-Terminals gehören auf den Prüfstand</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Der Bund für Umwelt und Naturschutz Deutschland (BUND) und der Naturschutzbund Deutschland (NABU) fordern anlässlich der...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/bund-gegen-kohlendioxid-deponien-im-meer-oder-an-land-ampel-darf-auch-klimaschaedlichen-plaenen-der-industrie-fuer-landesweite-co2-pipelines-und-exportinfrastruktur-nicht-nachgeben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244787/deepwave.org/CCS_Coal_Carbon_Capture_Technology_In_Use_Wikimedia_Commons.png" alt="BUND gegen Kohlendioxid-Deponien im Meer oder an Land" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">BUND gegen Kohlendioxid-Deponien im Meer oder an Land</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Der Bund für Umwelt und Naturschutz Deutschland (BUND) verurteilt die heutige Ankündigung der Bundesregierung, jährlich...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-zu-eu-notverordnung-politischer-fehltritt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244661/deepwave.org/eu-nordverordnung_erneuerbare_energien_solaranlage_offingen_andreas-gucklhorn-unsplash-scaled.jpg" alt="NABU zu EU-Notverordnung: Politischer Fehltritt" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU zu EU-Notverordnung: Politischer Fehltritt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Krüger: Eilgesetzgebung ist falscher Weg – EU muss zukunftsfähigen Rechtsrahmen für Erneuerbare-Energien-Richtlinie...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/fehmarnbeltquerung-nabu-enttaeuscht-ueber-entscheidung-des-bundesverwaltungsgerichts-zu-riffen-im-fehmarnbelt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244689/deepwave.org/lighthouse-fehmarn_denfran_pixabay.jpg" alt="NABU enttäuscht über Entscheidung des Bundesverwaltungsgerichts zu Riffen im Fehmarnbelt" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU enttäuscht über Entscheidung des Bundesverwaltungsgerichts zu Riffen im Fehmarnbelt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Krüger: Minimallösung gleicht massive Zerstörung wertvoller Riffe nicht aus / gefährliche Präzedenz für künftige...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/klimaarchive-unter-dem-vergroesserungsglas/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244357/deepwave.org/Nature-Cariacobecken-MARUM-web1.jpg" alt="Kli­maar­chi­ve un­ter dem Ver­grö­ße­rungs­glas" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Kli­maar­chi­ve un­ter dem Ver­grö­ße­rungs­glas</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">MARUM-Stu­die in Na­tu­re: Neue Ana­ly­se­me­tho­de zeigt ab­rup­te Zu­nah­me der Sai­so­na­li­tät wäh­rend des letz­ten...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/tiefseebergbau-fuer-einsteigerinnen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244643/deepwave.org/Tiefseebergbau_fuer_EinsteigerInnen_Ausschnitt_Fibel_Instagram.jpg" alt="Tiefseebergbau für Einsteiger:innen" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tiefseebergbau für Einsteiger:innen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Vor ein paar Tagen hat unsere aktuelle Regierung an entscheidender Stelle ein Votum abgegeben, das uns alle hier...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/kreislaufwirtschaft-plastikverschmutzung-hat-kuenftig-ihren-preis/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245114/deepwave.org/muelltonne_kenny-eliason-unsplash-scaled.jpg" alt="Plastikverschmutzung hat künftig ihren Preis" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Plastikverschmutzung hat künftig ihren Preis</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Bundeskabinett beschließt Gesetz zum Aufbau eines Einwegkunststofffonds
+Die Bundesregierung hat heute beschlossen, dass...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/arktischer-ozean-kuenftig-auch-im-sommer-versauert/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245158/deepwave.org/eisberg_groenland_annie-spratt-unsplash-scaled.jpg" alt="Arktischer Ozean künftig auch im Sommer versauert" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Arktischer Ozean künftig auch im Sommer versauert</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Eine neue Studie geht davon aus, dass der Klimawandel die saisonale Versauerung des Arktischen Ozeans verschieben und...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/geisternetze-toedliche-fallen-im-meer/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244777/deepwave.org/Geisternetz_Cormoran_Wolf_Wichmann.png" alt="Geisternetze, tödliche Fallen im Meer" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Geisternetze, tödliche Fallen im Meer</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Geisternetze machen einen Großteil der Plastikverschmutzung in den Meeren aus und sind für den Tod von Seevögeln,...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/mikroplastik-in-kosmetik-jederzeit-und-ueberall-erkennen-mit-der-toxfox-app/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244546/deepwave.org/smartphone_toxfox_app_jonas-leupe-unsplash-scaled.jpg" alt="Mikroplastik in Kosmetik jederzeit und überall erkennen – mit der ToxFox-App" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Mikroplastik in Kosmetik jederzeit und überall erkennen – mit der ToxFox-App</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Mikroplastik und andere Schadstoffe, welche sowohl unserer Umwelt als auch unserer Gesundheit schaden, befinden sich...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-vogelgrippe-trifft-auf-patient-meer/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244325/deepwave.org/vogel_moewe_unsplash_trac_vu_vogelgrippe-scaled.jpg" alt="NABU: Vogelgrippe trifft auf Patient Meer" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU: Vogelgrippe trifft auf Patient Meer</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Miller: Nur konsequenter Schutz kann betroffene Vogelarten retten
+Berlin - Die Vogelgrippe grassiert unter Basstölpeln,...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deepwave-zu-gast-beim-gruenland-podcast/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244877/deepwave.org/Gruenland_Logo_Podcast-scaled.jpg" alt="DEEPWAVE zu Gast beim GRÜNLAND-Podcast" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">DEEPWAVE zu Gast beim GRÜNLAND-Podcast</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Was sind die großen Probleme der Meere? Warum brauchen wir die Ozeane? Was muss getan werden, um sie zu schützen und...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244988/deepwave.org/Mikroplastik_Tiefsee_Meeresgrund_Senckenberg-1.jpg" alt="Endstation Tiefsee: Mikroplastik belastet Meeresgrund noch stärker als angenommen" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Endstation Tiefsee: Mikroplastik belastet Meeresgrund noch stärker als angenommen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Forschungsteam weist hohe Mikroplastik-Verschmutzung im westpazifischen Kurilen-Kamtschatka-Graben nach
+Die...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/european-commission-strengthens-its-position-against-deep-sea-mining/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244805/deepwave.org/european_commision_eu_flaggen_guillaume_perigois_unsplash-scaled.jpg" alt="European Commission strengthens its position against deep sea mining" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">European Commission strengthens its position against deep sea mining</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Today the European Commission published the EU agenda on International Ocean Governance, announcing its intention to...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/korallengaerten-auf-der-mauretanischen-mauer-entdeckt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244711/deepwave.org/Oktokoralle_Swiftia_phaenton_Senckenberg.jpg" alt="Korallengärten auf der „Mauretanischen Mauer“ entdeckt" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Korallengärten auf der „Mauretanischen Mauer“ entdeckt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Neue, kolonienbildende Oktokorallenart von der weltweit größten Tiefwasserkorallenhügelkette beschrieben...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/seetang-traegt-tiere-von-kueste-zu-kueste/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244564/deepwave.org/Galway_Seetang_Amalia_Klein_kleiner.jpg" alt="Tang trägt Tiere von Küste zu Küste" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Tang trägt Tiere von Küste zu Küste</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Millionen Flöße aus Seetang treiben von Küste zu Küste des Südlichen Ozeans. Dabei tragen sie Seesterne, Asseln,...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/zirkumpolarstrom-der-suedozean-wie-man-ihn-noch-nie-gesehen-hat/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244925/deepwave.org/Suedozean_Antarktis_Unsplash_66north-scaled.jpg" alt="Der Südozean, wie man ihn noch nie gesehen hat" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Der Südozean, wie man ihn noch nie gesehen hat</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Eine neue Karte zeigt den Meeresboden des Südlichen Ozeans in nie dagewesenem Detail
+Die Beschaffenheit des Ozeanbodens...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/lehren-aus-der-vergangenheit-wie-kaltwasserkorallen-auf-globale-erwaermung-reagieren/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245254/deepwave.org/Lophelia_pertusa_NOAA_Kaltwasserkorallen.jpg" alt="Leh­ren aus der Ver­gan­gen­heit: Wie Kalt­was­ser­ko­ral­len auf glo­ba­le Er­wär­mung re­agie­ren" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Leh­ren aus der Ver­gan­gen­heit: Wie Kalt­was­ser­ko­ral­len auf glo­ba­le Er­wär­mung re­agie­ren</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Ko­ral­len re­agie­ren auf Ver­än­de­run­gen ih­rer Um­ge­bung – das gilt so­wohl für tro­pi­sche wie für...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/ki-erkennt-riff-gesundheit-am-klang/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244769/deepwave.org/Riff_1_Jens_Marwan.jpg" alt="KI erkennt Riff-Gesundheit am Klang" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">KI erkennt Riff-Gesundheit am Klang</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Nicht nur Wale, sondern auch Fische, Krebse und andere Riffbewohner geben Geräusche von sich, mit denen sie teilweise...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/un-umweltversammlung-durchbruch-gegen-die-plastikflut-was-175-staaten-jetzt-beschlossen-haben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245204/deepwave.org/Plastik_Plastikflut_naja-bertolt-jensen-unsplash-scaled.jpg" alt="Durchbruch gegen die Plastikflut: Was 175 Staaten jetzt beschlossen haben" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Durchbruch gegen die Plastikflut: Was 175 Staaten jetzt beschlossen haben</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Die UN-Umweltversammlung hat ein neues Plastikabkommen ins Leben gerufen, welches endlich die weltweite...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/delfine-verarzten-ihre-hautprobleme-mit-korallenschleim/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244912/deepwave.org/Delfine_Shaab_El_Erg_Jens_Marwan_-scaled.jpg" alt="Delfine verarzten ihre Hautprobleme mit Korallenschleim" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Delfine verarzten ihre Hautprobleme mit Korallenschleim</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Viele Menschen bezeichnen Delfine als ihre Lieblingstiere. Kein Wunder, denn die Meeressäuger mit dem freundlichen...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/was-geisterfossilien-ueber-vergangene-klimafolgen-verraten/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244890/deepwave.org/fossilien_geisterfossilien_unsplash_Ashleigh_Joy_Photography-scaled.jpg" alt="Was „Geisterfossilien” über vergangene Klimafolgen verraten" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Was „Geisterfossilien” über vergangene Klimafolgen verraten</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Der Klimawandel und die damit einhergehende Ozeanversauerung macht sich immer stärker in unseren Meeren bemerkbar....</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/mit-gesteinsmehl-gegen-den-klimawandel/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243865/deepwave.org/CO2_Gesteinsmehl_Mesocosm-Deployment_MichaelSswat_GEOMAR-scaled.jpg" alt="Mit Gesteinsmehl gegen den Klimawandel" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Mit Gesteinsmehl gegen den Klimawandel</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Pressemittelung vom 15. Mai 2022, GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel
+Das Projekt OceanNETs erforscht in...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-zum-klimaschutzsofortprogramm-hat-die-bundesregierung-das-15-grad-limit-aufgegeben/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245014/deepwave.org/markus_spiske_unsplash_plakat_one_world_klimawandel-scaled.jpg" alt="NABU zum Klimaschutzsofortprogramm: Hat die Bundesregierung das 1,5-Grad-Limit aufgegeben?" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU zum Klimaschutzsofortprogramm: Hat die Bundesregierung das 1,5-Grad-Limit aufgegeben?</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">NABU zum Klimaschutzsofortprogramm: Hat die Bundesregierung das 1,5-Grad-Limit aufgegeben? Krüger: Alle Ressorts müssen...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-klimaschutz-braucht-gesunde-meere/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245070/deepwave.org/mary_ray_unsplash_offshore_windpark-scaled.jpg" alt="NABU: Klimaschutz braucht gesunde Meere" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU: Klimaschutz braucht gesunde Meere</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">NABU: Klimaschutz braucht gesunde Meere Krüger: Windenergie-auf-See-Gesetz geht am Ziel vorbei
+Berlin - Das neue...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/die-globale-plastikflut-erreicht-die-arktis/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245391/deepwave.org/Muell_auf_Meereis_002_MBergmann_AWI.jpg" alt="Die globale „Plastikflut“ erreicht die Arktis" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Die globale „Plastikflut“ erreicht die Arktis</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">AWI-Studie zeigt: Plastikmüll verschmutzt den Arktischen Ozean in bedenklichem Ausmaß
+Vor der weltweiten Verschmutzung...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/awi-polarstern-startet-richtung-arktis/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243925/deepwave.org/AWI_Polarstern_startet_Richtung_Arktis-scaled.jpg" alt="AWI: Polarstern startet Richtung Arktis" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">AWI: Polarstern startet Richtung Arktis</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Am Pfingstmontag, den 24. Mai 2021 startet die Polarstern Richtung Arktis. In der Framstraße zwischen Grönland und...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/germanzero-klimaplan/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244480/deepwave.org/German_Zero_Warenwirtschaft_Hamburg_Der_15_Grad_Klimaplan_fuer_Deutschland.jpg" alt="GermanZero: Der 1,5-Grad-Klimaplan für Deutschland" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">GermanZero: Der 1,5-Grad-Klimaplan für Deutschland</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Hier ein Newsletter, den wir gerade bekommen haben. Wir unterstützen die Sache!
+Newsletter von der Warenwirtschaft...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/geschenkempfehlung-die-insel-der-delfine-von-fabian-ritter/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245175/deepwave.org/Die_Insel_der_Delfine_Cover.jpg" alt="Geschenkempfehlung - Die Insel der Delfine von Fabian Ritter" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Geschenkempfehlung - Die Insel der Delfine von Fabian Ritter</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Auf der kleinen Kanareninsel La Gomera, 300 Meter über dem Meeresspiegel, steht ein kleines zusammengezimmertes...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/der-8-runde-tisch-meeresmuell/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243966/deepwave.org/Plastik_Muell_Strand_achter_Runde_Tisch_Meeresmuell.jpg" alt="Der 8. Runde Tisch Meeresmüll" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Der 8. Runde Tisch Meeresmüll</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Der Runde Tisch Meeresmüll bringt Vertreter von Umweltschutzorganisationen, Instituten, Industrie und Wirtschaft...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/klimastreik-am-29-november-neustartklima/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244303/deepwave.org/Neustart_Klima_Demo_29.11_Fridays_For_Future.jpg" alt="Klimastreik am 29. November #NeustartKlima" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Klimastreik am 29. November #NeustartKlima</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Fridays for Future rief am 29. November zum 4. Globalem Klimastreik auf unter dem Motto:
+#NeustartKlima - laut, wütend...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/sea-thru-die-wahren-farben-der-unterwasserwelt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245200/deepwave.org/sea_thru_Korallen_Farben_Algorithmus.gif" alt="&#34;Sea-Thru&#34;- Die Farben der Unterwasserwelt ohne Wasser" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">&#34;Sea-Thru&#34;- Die Farben der Unterwasserwelt ohne Wasser</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Mit dem Programm &ldquo;Sea-Thru&rdquo; wird es möglich, die Farben der Unterwasserwelt so zu sehen, wie sie an Land...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-pressemitteilung-minensprengung-im-meeresschutzgebiet-katastrophal-fuer-natur/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244280/deepwave.org/minensprengun_ostsee_NABU_NDR_Peter-Sorge.jpg" alt="NABU Pressemitteilung: Minensprengung im Meeresschutzgebiet katastrophal für Natur" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU Pressemitteilung: Minensprengung im Meeresschutzgebiet katastrophal für Natur</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">In der Nord- und Ostsee liegen die Altlasten der Weltkriege, etwa eine Million Tonnen alte Bomben schlummern dort auf...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-fordert-buendnis-von-bund-und-laendern-zur-bergung-von-kriegsaltlasten-in-nord-und-ostsee/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243988/deepwave.org/valiant-made-PBwmXCEJWSM-unsplash-scaled.jpg" alt="NABU fordert Bündnis von Bund und Ländern zur Bergung von Kriegsaltlasten in Nord- und Ostsee" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU fordert Bündnis von Bund und Ländern zur Bergung von Kriegsaltlasten in Nord- und Ostsee</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Anlässlich der aktuellen Umweltministerkonferenz in Hamburg fordert der Naturschutzbund Deutschland (NABU) zu einer...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/italien-fuehrt-das-schulfach-klimawandel-ein/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244673/deepwave.org/cdc-EpMIv296POE-unsplash-scaled.jpg" alt="Italien führt das Schulfach &#34;Klimawandel&#34; ein" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Italien führt das Schulfach &#34;Klimawandel&#34; ein</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Klimawandel und nachhaltige Entwicklung - so soll das neue Schulfach heißen, das ab dem nächsten Schuljahr in Italien...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/green-kayaks/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243969/deepwave.org/filip-mroz-zK049OFP4uI-unsplash-scaled.jpg" alt="Green Kayaks" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Green Kayaks</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Mit einem Kajak bei schönem Wetter durch die Kanäle Hamburgs zu paddeln, dabei noch etwas Gutes zu tun und das umsonst,...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/frei-mein-zuhause-hat-keine-waende-delfinarien/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244789/deepwave.org/dolphins-1170342_1920.jpg" alt="FREI: Mein Zuhause hat keine Wände - Kampagne gegen deutsche Delfinarien" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">FREI: Mein Zuhause hat keine Wände - Kampagne gegen deutsche Delfinarien</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Wer denkt, dass Meeressäuger lediglich in bekannten Themenparks wie Seaworld zur Schau gestellt werden, liegt mit dieser...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/deep-sea-mining-leave-my-down-below-alone/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Deep sea mining!? Leave my down below alone!</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Deep sea mining!? Leave my down below alone!</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Die Organisation Seas at Risk zeigt mit ihrem Cartoon-Video: &ldquo;Deep sea mining!? Leave my down below alone!&rdquo;...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/our-plastic-our-problem-a-marine-litter-info-operetta/" class="block">
+        
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">Our Plastic, Our Problem (A marine litter info-operetta!)</h2>
+            </div>
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Our Plastic, Our Problem (A marine litter info-operetta!)</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Hier eine kleine Info-Operette für alle Plastik-und Musikliebhaber! Sie zeigt, warum sich in der Gesellschaft und in der...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/refill-nun-auch-deutschlandweit/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245173/deepwave.org/refill_station_aufkleber_kostenfrei_trinkwasser.jpg" alt="Refill: Leitungswasser ist Trinkwasser!" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Refill: Leitungswasser ist Trinkwasser!</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Leitungswasser ist Trinkwasser! Leider werden auch in Deutschland noch immer Tonnen von Wasserplastikflaschen verkauft...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/illegale-entsorgung-von-plastikmuell-verstoss-gegen-marpol/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245276/deepwave.org/trash-2385232_1920.jpg" alt="Illegale Entsorgung von Plastikmüll- Verstoß gegen MARPOL Gesetz" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Illegale Entsorgung von Plastikmüll- Verstoß gegen MARPOL Gesetz</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Auf der entlegenen, unbewohnten Insel Inaccessible Island zwischen Argentinien und Südafrika sammelten der Vogelkundler...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/upcycling-biokunststoffbecher-aus-orangenschalen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244823/deepwave.org/markus-winkler-zv4JaHkmr6M-unsplash-scaled.jpg" alt="Upcycling: Biokunststoffbecher aus Orangenschalen" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Upcycling: Biokunststoffbecher aus Orangenschalen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Für frisch gepressten Orangensaft an Fruchtständen werden häufig Einweg-Plastikbecher benutzt. Eine überraschende...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nabu-kreuzfahrt-ranking-2019/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245075/deepwave.org/cruise-4339923_1920.jpg" alt="NABU Kreuzfahrt-Ranking 2019" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">NABU Kreuzfahrt-Ranking 2019</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Kreuzfahrtreisen werden immer beliebter, die Branche boomt und das, obwohl die massiven Meeres- und Umweltschäden, die...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/schulze-will-hersteller-von-wegwerfprodukten-an-reinigungskosten-beteiligen/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245127/deepwave.org/jasmin-sessler-5Wfttm2CjeI-unsplash-scaled.jpg" alt="Schulze will Hersteller von Wegwerfprodukten an Reinigungskosten beteiligen" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Schulze will Hersteller von Wegwerfprodukten an Reinigungskosten beteiligen</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">In vielen deutschen Städten hat die Nutzung und die anschließend rücksichtslose Entsorgung von Wegwerfartikeln und...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/40-000-liter-diesel-verseuchen-das-meer-vor-patagonien/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244305/deepwave.org/mathias-bach-laursen-_1xnPQ9wwus-unsplash-scaled.jpg" alt="40.000 Liter Diesel verseuchen das Meer vor Patagonien" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">40.000 Liter Diesel verseuchen das Meer vor Patagonien</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Kürzlich sind vor der Insel Guarello rund 40.000 Liter Diesel ins Meer ausgetreten. Die konkreten Ursachen des...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/meeressaeugerforschung-erfasst-seltenes-video-von-neugeborenem-buckelwal/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244181/deepwave.org/Buckelwal_Kalb_neugeboren_seltenes-Video-1.jpg" alt="Meeressäugerforschung erfasst seltenes Video von neugeborenem Buckelwal" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Meeressäugerforschung erfasst seltenes Video von neugeborenem Buckelwal</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Es ist ein wunderschöner und seltener Augenblick, den Meeresforscher der University of Hawai&rsquo;i am Manoa&rsquo;s...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/gute-vorsaetze-fuer-2019-in-amerikanischen-gemeinden/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244313/deepwave.org/naja-bertolt-jensen-IUBc0cxN7Lc-unsplash-scaled.jpg" alt="Gute Vorsätze für 2019 in amerikanischen Gemeinden" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Gute Vorsätze für 2019 in amerikanischen Gemeinden</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">In Kalifornien haben einige Gemeinden verschiedene Resolutionen und Gesetze auf den Weg gebracht, um dem Plastikproblem...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/plastikmuell-auf-haiti-wie-the-plastic-bank-die-meere-sauber-haelt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244497/deepwave.org/plastic-waste-3962409_1920.jpg" alt="Plastikmüll auf Haiti - Wie &#34;The Plastic Bank&#34; die Meere sauber hält" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Plastikmüll auf Haiti - Wie &#34;The Plastic Bank&#34; die Meere sauber hält</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Das 2013 gegründete Sozialunternehmen &ldquo;The Plastic Bank&rdquo; löst in Haiti zwei Probleme auf einen Streich: die...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/greenpeace-schutz-der-tiefsee-durch-eine-handvoll-von-fischerei-nationen-vereitelt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244414/deepwave.org/david_clode_trawler_schleppnetz_grundschleppnetz_boot.jpg" alt="Greenpeace: Schutz der Tiefsee durch eine Handvoll von Fischerei-Nationen vereitelt" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">Greenpeace: Schutz der Tiefsee durch eine Handvoll von Fischerei-Nationen vereitelt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Nationale Interessen verhindern UN Moratorium auf Verbot der Tiefsee-Grundschleppnetze
+Wien (OTS) - New York - Das...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+        <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="/nahrungsraetsel-der-tiefsee-geknackt/" class="block">
+        
+        <div class="relative h-48 bg-gray-200">
+            <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244162/deepwave.org/The_fauna_of_the_deep_sea_1894_14576840559.jpg" alt="„Nahrungsrätsel“ der Tiefsee geknackt" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        
+
+
+        <div class="p-4">
+            <div class="flex items-center mb-4">
+                
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-900">„Nahrungsrätsel“ der Tiefsee geknackt</h3>
+                </div>
+            </div>
+
+            
+            <p class="text-gray-600 text-sm">Wie ernähren sich die Bewohner der Tiefsee? Amerikanische Wissenschaftler scheinen das Nahrungsrätsel gelöst zu haben,...</p>
+            
+
+        </div>
+    </a>
+</div>
+        
+    </div>
+</div>
+
+        <div class="not_full_width">
+        </div>
+        </div>
+        <script type="text/javascript">
+            console.log("Cloudinary JS loaded");
+            var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
+            cl.responsive();
+        </script>
+    </body><footer class="bg-deepwave-dark-blue text-deepwave-light-blue py-24 mt-12"
+    style="box-shadow: inset 0px 12px 18px -6px rgba(0,0,0,0.3)">
+    <div class="not_full_width mx-auto px-6 md:px-12">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="md:col-span-2">
+                <div class="flex items-start flex-wrap md:flex-nowrap">
+                    <div class="md:mr-6 w-2/3 mx-auto">
+                        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313003/Onno_Gross_Meteor_1989_2cprivat_tahrne.jpg"
+                            alt="Onno Groß" class="rounded-full object-cover aspect-square w-full" loading="lazy" />
+                    </div>
+                    <div class="flex flex-col">
+                        <p>
+                            Jeden Tag, mit jedem Quadratmeter Schutzgebiet, jedem Verzicht auf Fisch und jeder
+                            Vermeidung von Plastikmüll können wir die Ozeane und unseren Planeten bewahren.
+                        </p>
+                        <p>
+                            Und mit jedem Hinterfragen und jeder aktiven Teilnahme am Meeresschutz kommen wir unserer
+                            Bestimmung zur Harmonie auf dieser Welt einen Schritt näher.
+                        </p>
+                        <p class="mt-2">Onno Groß</p>
+                    </div>
+                </div>
+            </div>
+            <div class="md:col-span-1">
+                <img src="http://res.cloudinary.com/deepwave-org/image/upload/v1747267322/deepwave.org/LOGO_DEEPWAVE_2022_white.svg"
+                    alt="DEEPWAVE e.V." class="w-full max-w-md"
+                    style="filter: brightness(0) saturate(100%) invert(61%) sepia(17%) saturate(658%) hue-rotate(163deg) brightness(90%) contrast(88%)" />
+            </div>
+        </div>
+
+        <div class="border-t border-deepwave-light-blue my-8"></div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+                <h2 class="text-2xl mb-6">Interessiert an Neuigkeiten zum Meeresschutz?</h2>
+                <p class="mb-4">Dann halten wir dich mit unserem <a href="/newsletter" class="text-deepwave-link">Newsletter <i
+                            class="icon icon-envelope"></i></a>
+                    auf dem Laufenden.</p>
+
+                <form class="layout_form cr_form cr_font max-w-4xl mx-auto" action="https://eu.cleverreach.com/f/25098-143305/wcs/"
+                    method="post" target="_blank">
+                    <div class="cr_body cr_page cr_font formbox" style="background-color: transparent;">
+                        <div class="non_sortable" style="text-align:left;">
+                        </div>
+                        <div class="editable_content" style="text-align:left;">
+                            <div id="3019099f" rel="email" class="cr_ipe_item ui-sortable musthave"
+                                style="margin:0 0 10px 0; padding: 0 0;">
+                                <label for="text3019099f" class="itemname" style="display: none;">E-Mail*</label> <input
+                                    id="text3019099f" name="email" value="" type="email"
+                                    style="width:100%; padding: 16px; border: 1px solid #bbb;" autocomplete="email"
+                                    placeholder="E-Mail-Adresse" required class="bg-white" />
+                            </div>
+                            <div id="3019083f" rel="checkbox" class="itemname"
+                                style="width:100%; padding: 0 16px; color: #8e8e8e; border: 0px solid #bbb; background-color: transparent ">
+                                <label class="itemname"
+                                    style="font-size: 14px; margin: 0 !important; display: none;">Einverständnisserklärung</label>
+                                <div style="overflow:auto;">
+                                    <input id="Ich bin damit einverstanden, dass DEEPWAVE e.V. meine persönlichen Daten zum3019083f"
+                                        class="cr_ipe_checkbox" name="269718[]"
+                                        value="Ich bin damit einverstanden, dass DEEPWAVE e.V. meine persönlichen Daten zum"
+                                        type="checkbox" /> Ich habe die <a href="https://www.deepwave.org/datenschutz/"
+                                        title="Datenschutzerklärung" target="_blank" rel="noopener noreferrer"
+                                        class="text-deepwave-link">Datenschutzerklärung
+                                    </a>zur Kenntniss genommen.
+                                </div>
+                            </div>
+                            <div id="3019101f" rel="button" class="cr_ipe_item ui-sortable submit_container"
+                                style="text-align:center; margin-top:15px;">
+                                <button type="submit" class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 bg-[#004258]">
+    
+    Anmelden zum Newsletter
+    
+</button>
+                            </div>
+                        </div>
+                        <noscript><a href="http://www.cleverreach.de">www.CleverReach.de</a></noscript>
+                    </div>
+                </form>
+            </div>
+            <div class="flex justify-center md:justify-end">
+                <div class="relative w-full max-w-md">
+                    <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313757/newsletter_1b-724x1024_f124ps.jpg"
+                        alt="Newsletter Vorschau" class="absolute top-6 right-0 w-3/4 h-auto shadow-lg" loading="lazy" />
+                    <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747313743/newsletter_1a-724x1024_fnsqx3.jpg"
+                        alt="Newsletter Vorschau" class="relative z-10 w-3/4 h-auto shadow-xl" loading="lazy" />
+                    </div>
+                    </div>
+                    </div>
+                    <div class="border-t border-deepwave-light-blue mt-12 mb-8"></div>
+                    <div class="flex flex-row">
+                        <div class="w-full flex justify-center">
+                        <button type="button" class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 bg-[#00485e]">
+    
+    <a href="/spenden/" target="_blank">
+    
+    Spende jetzt für uns!
+    
+    </a>
+    
+</button>
+                        </div>
+                        <div class="w-full flex justify-center">
+                        <button type="button" class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 bg-[#052d49]">
+    
+    <a href="https://www.patreon.com/DEEPWAVEeV" target="_blank">
+    
+    Patreon
+    
+    </a>
+    
+</button>
+                        </div>
+                        <div class="w-full flex justify-center">
+                        <button type="button" class="hover:scale-105 cursor-pointer hover:border-transparent border-2 color-deepwave-light-blue rounded-sm text-xl px-5 py-3 bg-[#750d3a]">
+    
+    <a href="https://www.instagram.com/deepwave_ocean_org/" target="_blank">
+    
+    Follow
+    
+    </a>
+    
+</button>
+                        </div>
+                    </div>
+        <div class="border-t border-deepwave-light-blue my-8"></div>
+        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747317427/Newsletter_Barbara_xgfgu8.jpg" alt="Wave"
+            class="h-24 object-cover w-full" loading="lazy" />
+        <div class="border-t border-deepwave-light-blue my-8"></div>
+        <div class="w-full text-center mb-4">
+            © 2025 DEEPWAVE e.V. | Alle Rechte vorbehalten.<br />
+            <a href="/datenschutz/" title="Datenschutzerklärung" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Datenschutzerklärung</a> | <a href="/impressum/" title="Impressum" target="_blank"
+                rel="noopener noreferrer" class="text-deepwave-link">Impressum </a><br />
+            Sodenkamp 13e | 22337 Hamburg | Deutschland | +49 (0) 40 4609 1461
+        </div>
+        <div class="w-full text-right">
+            Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Hugo</a><br />
+            Design by <a href="https://heye.earth/" target="_blank" rel="noopener noreferrer"
+                class="text-deepwave-link">Heye</a>
+</div>
+    </div>
+</footer></html>

@@ -3,9 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/</loc>
+    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/deepwave/</loc>
+    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/deepwave-geht-einen-schritt-weiter/</loc>
+    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/good-news/</loc>
+    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/amalia-klein/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/davos-logik-eines-hardware-upgrades/</loc>
@@ -17,9 +35,6 @@
     <loc>http://localhost:1313/blogs/politik/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/guter-fisch-zum-weihnachtsfest/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,9 +42,6 @@
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/eu-umweltrat-eintrag-von-kunststoffgranulat-in-die-umwelt-soll-verringert-werden/</loc>
-    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/good-news/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/pplastic-pollution/</loc>
@@ -206,8 +218,14 @@
     <loc>http://localhost:1313/eu-parlament-schwenkt-beim-meeresschutz-um/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/author/lukas/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/lng-plaene-fuer-ruegen-umweltverbaende-schlagen-alarm/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/anja/</loc>
+    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/der-meeresschutz-kommt-unter-die-raeder/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
@@ -548,6 +566,9 @@
     <loc>http://localhost:1313/abkuehlung-von-teilen-der-arktis-kehrt-sich-offenbar-um/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/author/deepwave-blog/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -782,6 +803,9 @@
     <loc>http://localhost:1313/wenn-haie-leuchten-von-julia-schnetzer/</loc>
     <lastmod>2022-06-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/author/lea-teichmann/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/delfine-verarzten-ihre-hautprobleme-mit-korallenschleim/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -808,6 +832,9 @@
   </url><url>
     <loc>http://localhost:1313/sanktionen-stoppen-forschungsprojekte-mit-russischen-partnern/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/deepwave-steht-seit-angebinn-f%C3%BCr-eine-besondere-verbindung-die-zur-kunst/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ueber-uns/was-wir-tun/maerz-2022/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
@@ -1170,6 +1197,9 @@
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/under-europes-first-underwater-restaurant/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/noemi-merz/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/seegras-das-neue-daemm-und-fuellmaterial/</loc>
@@ -1878,6 +1908,9 @@
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/antarktis-schwindet-weiter/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/bluestraw/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/plastic-pollution-our-oceans-our-future/</loc>
