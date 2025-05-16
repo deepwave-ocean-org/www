@@ -11,7 +11,7 @@
 <meta name="keywords" content="{{ delimit . " , " }}">{{ end }}
 
 <!-- Canonical URL -->
-<link rel="canonical" href="{{ .Permalink }}">
+<link rel="canonical" href="{{ .Permalink | absURL }}">
 
 <!-- Indexing Controls -->
 {{ if .Params.noindex }}
