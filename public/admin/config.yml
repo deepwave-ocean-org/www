@@ -27,16 +27,10 @@ collections:
         widget: "select"
         multiple: true
         options: ["good-news", "forschung", klima", "politik", "kultur", "tiefsee", "reflexionen", "überfischung", "was-tun"]
-      - label: "Author"
-        name: "author"
+      - label: "Related"
+        name: "related"
         widget: "relation"
-        collection: "authors"
-        search_fields: ["name"]
+        collection: "posts"
+        multiple: true
+        search_fields: ["title"]
         value_field: "{{slug}}"
-  - name: 'authors'
-    label: 'Authors'
-    folder: 'content/authors'
-    create: true
-    slug: '{{slug}}'
-    fields:
-      - { label: 'Name', name: 'name', widget: 'string' }

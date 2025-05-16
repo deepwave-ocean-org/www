@@ -4,8 +4,8 @@ title: "Haifischsteaks: 150.000 tote Haie im Lidl Regal"
 image_caption: © CC0 1.0 / Wikimedia Commons
 image_alt: in Styroporschale verpacktes Haifischsteak mit japanischer Schrift
 related:
-  - abkuehlung-von-teilen-der-arktis-kehrt-sich-offenbar-um
-  - deepwave-geht-einen-schritt-weiter
+  - /abkuehlung-von-teilen-der-arktis-kehrt-sich-offenbar-um/
+  - /deepwave-geht-einen-schritt-weiter/
 author: deepwave-blog
 date: 2005-05-25
 blogs:
