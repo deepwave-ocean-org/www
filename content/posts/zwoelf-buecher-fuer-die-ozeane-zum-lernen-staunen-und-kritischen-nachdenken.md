@@ -5,7 +5,9 @@ blogs:
   - bildung
   - kultur
   - literatur-collection
-  - no-image
+image: https://www.deepwave.org/wp-content/uploads/2019/10/Der-Krake-das-Meer-und-die-tiefen-Urspr%C3%BCnge-des-Bewusstseins_Peter_Godfrey-Smith_Empfehlung.jpg
+image_caption: © Peter Godfrey-Smith
+summary: Wir sind mit dem Meer verbunden und dieses Gefühl der Verbundenheit ist Teil unserer Kultur. Der Beweis dafür findet sich in jedem Bücherregal.
 author: DEEPWAVE
 related:
   - /das-ozeanbuch-ueber-die-bedrohung-der-meere/

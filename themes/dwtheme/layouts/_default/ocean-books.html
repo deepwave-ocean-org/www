@@ -7,16 +7,22 @@
     {{ . }}
     {{ partial "divider" . }}
     {{ end }}
+    {{ partial "img/img" (dict "src" "https://res.cloudinary.com/deepwave-org/image/upload/v1747243783/deepwave.org/Mehr_Meer_Weniger_Plastik_Buchkampagne.jpg" "alt" .Page.Title "class" "" "img_class" "w-full h-auto object-cover mb-6")}}
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
+        {{ range index .Site.Taxonomies.blogs "literatur-collection" }}
+        {{ partial "card" .}}
+        {{ end }}
+        </div>
+        {{ partial "divider" . }}
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
         {{ range .Site.Taxonomies.blogs.literatur }}
         <div>
             <a href="{{ .Page.Permalink }}" class="block">
                 {{ partial "img/img" (dict "src" .Page.Params.image "alt" .Page.Title "class" "" "img_class" "rounded-xl w-full h-auto object-cover aspect-square")}}
-                
             <h2 class="text-xl mt-4">{{ .Page.Title }}</h2>
             </a>
         </div>
-        
         {{ end }}
     </div>
 </div>

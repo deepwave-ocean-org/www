@@ -12,4 +12,5 @@
     <script src="https://unpkg.com/htmx.org@1.9.6"></script>
     {{ $cloudinaryJS := resources.Get "js/cloudinary-core-shrinkwrap.js" | resources.Minify }}
     <script src="{{ $cloudinaryJS.RelPermalink }}"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>

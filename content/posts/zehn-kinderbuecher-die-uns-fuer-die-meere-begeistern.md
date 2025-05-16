@@ -5,7 +5,9 @@ blogs:
   - "bildung"
   - "kultur"
   - "literatur-collection"
-  - "no-image"
+image: https://www.deepwave.org/wp-content/uploads/2019/10/Nick-und-der-Wal_Benji_Daves_Empfehlung.jpg
+image_caption: © Aladin / Benji Davies
+summary: Kinderbücher erinnern uns an eine Zeit, in der die Meere uns noch ungebrochen begeistert haben, in der wir voller Freude all die Schönheit und Komplexität in uns aufsogen, ein Buch nach dem anderen …
 author: "DEEPWAVE"
 related: 
   - "/ozeanbuecher/"
