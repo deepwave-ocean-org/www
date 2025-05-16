@@ -36,6 +36,9 @@ collections:
   - name: 'author'
     label: 'Author'
     folder: 'content/author'
+    nested:
+      depth: 100
+      summary: '{{title}}'
     create: true
     slug: '{{slug}}'
     fields:
