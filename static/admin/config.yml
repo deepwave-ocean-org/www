@@ -30,12 +30,12 @@ collections:
       - label: "Author"
         name: "author"
         widget: "relation"
-        collection: "authors"
+        collection: "author"
         search_fields: ["name"]
         value_field: "{{slug}}"
-  - name: 'authors'
-    label: 'Authors'
-    folder: 'content/authors'
+  - name: 'author'
+    label: 'Author'
+    folder: 'content/author'
     create: true
     slug: '{{slug}}'
     fields:
