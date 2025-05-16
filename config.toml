@@ -1,7 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.deepwave.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Wir gebem dem Meer eine Stimme"
 theme = "dwtheme"
+
+
 
 [taxonomies]
   category = "blogs"
@@ -19,14 +21,8 @@ theme = "dwtheme"
     target = 'assets/notwatching/hugo_stats.json'
 
 [params]
-  footericon = "/images/onno-gross.jpg"
-  footertext = "Jeden Tag, mit jedem Quadratmeter Schutzgebiet, jedem Verzicht auf Fisch und jeder Vermeidung von Plastikmüll können wir die Ozeane und unseren Planeten bewahren."
-  footerlogo = "/images/deepwave-logo.png"
-  footerimg = "/images/ocean-footer.jpg"
-  newstitle = "Interessiert an Neuigkeiten zum Meeresschutz?"
-  newsundertitle = "Dann halten wir dich mit unserem Newsletter auf dem Laufenden."
-  footernewsone = "/images/newsletter-preview-1.jpg"
-  footernewstwo = "/images/newsletter-preview-2.jpg"
+  defaultImage = "https://res.cloudinary.com/deepwave-org/image/upload/v1747267232/deepwave.org/Ice_Background_Philipp_Griess.jpg"
+  logo = "https://res.cloudinary.com/deepwave-org/image/upload/v1747346944/deepwave.org/deepwave_logo_de_4c_hor_SVG_ein_Pfad_s46prq.svg"
 
 [params.cld]
 
