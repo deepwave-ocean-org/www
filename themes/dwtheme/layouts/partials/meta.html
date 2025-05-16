@@ -64,6 +64,7 @@
 {{ end }}
 
 <!-- Structured Data (JSON-LD) -->
+<!-- Structured Data (JSON-LD) -->
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -97,10 +98,8 @@
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "{{ .Permalink }}"
-    },
-    {{ with .Params.blogs }}
-    "articleSection": [{{ range $index, $blog := . }}{{ if $index }}, {{ end }}"{{ $blog }}"{{ end }}]
-    {{ end }}
+    }{{ with .Params.blogs }},
+    "articleSection": [{{ range $index, $blog := . }}{{ if $index }}, {{ end }}"{{ $blog }}"{{ end }}]{{ end }}
 }
 </script>
 
