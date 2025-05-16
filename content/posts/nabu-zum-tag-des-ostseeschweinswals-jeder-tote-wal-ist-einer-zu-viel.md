@@ -3,7 +3,7 @@ title: "NABU zum Tag des Ostseeschweinswals: Jeder tote Wal ist einer zu viel"
 date: 2021-05-15
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244320/deepwave.org/wave-4891318_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244320/deepwave.org/wave-4891318_1920.jpg"
 image_caption: "© Dimitris Vetsikas / Pixabay"
 source: "Pressemitteilung, 14.05.2021, NABU"
 author: "DEEPWAVE"

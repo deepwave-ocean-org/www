@@ -6,7 +6,7 @@ blogs:
   - "bluestraw"
   - "good-news"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245204/deepwave.org/Plastik_Plastikflut_naja-bertolt-jensen-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245204/deepwave.org/Plastik_Plastikflut_naja-bertolt-jensen-unsplash-scaled.jpg"
 image_caption: "© Naja Bertolt Jensen / Unsplash"
 author: "Amalia Klein"
 related: 

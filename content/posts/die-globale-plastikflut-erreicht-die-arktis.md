@@ -5,7 +5,7 @@ blogs:
   - "bluestraw"
   - "forschung"
   - "pplastic-pollution"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245391/deepwave.org/Muell_auf_Meereis_002_MBergmann_AWI.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245391/deepwave.org/Muell_auf_Meereis_002_MBergmann_AWI.jpg"
 image_caption: "© Alfred-Wegener-Institut / Melanie Bergmann"
 source: "Pressemitteilung, 05.04.2022, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "Amalia Klein"

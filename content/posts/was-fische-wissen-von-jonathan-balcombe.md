@@ -4,7 +4,7 @@ date: 2019-10-19
 blogs: 
   - "kultur"
   - "literatur"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244362/deepwave.org/Balcombe_Was_Fische_wissen_Cover-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244362/deepwave.org/Balcombe_Was_Fische_wissen_Cover-scaled.jpg"
 image_caption: "© mare"
 author: "DEEPWAVE"
 ---

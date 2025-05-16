@@ -4,7 +4,7 @@ date: 2019-02-22
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245103/deepwave.org/GillNetLostCormorant_007.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245103/deepwave.org/GillNetLostCormorant_007.jpg"
 image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 22.02.2019 vom NABU"
 author: "DEEPWAVE"

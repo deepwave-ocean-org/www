@@ -4,7 +4,7 @@ date: 2019-07-20
 blogs: 
   - "good-news"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244443/deepwave.org/Deutschland_beteiligt_sich_an_geordneter_Schiffsverschrottung.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244443/deepwave.org/Deutschland_beteiligt_sich_an_geordneter_Schiffsverschrottung.jpg"
 image_caption: "© Engin Akyurt / Unsplash"
 author: "DEEPWAVE"
 ---

@@ -3,7 +3,7 @@ title: "World Ocean Day 2020"
 date: 2020-11-29
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245238/deepwave.org/Screenshot-2023-11-30-173940.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245238/deepwave.org/Screenshot-2023-11-30-173940.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 ---

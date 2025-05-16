@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "politik"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244749/deepwave.org/precautionary_pause_tiefseebergbau_manganknollen.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244749/deepwave.org/precautionary_pause_tiefseebergbau_manganknollen.jpg"
 image_caption: "© ROV KIEL 6000, GEOMAR / Wikimedia Commons (CC BY 4.0)"
 source: "Pressemitteilung, 01.11.22, BMUV"
 author: "DEEPWAVE"

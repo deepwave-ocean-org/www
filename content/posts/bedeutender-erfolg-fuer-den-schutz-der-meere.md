@@ -4,7 +4,7 @@ date: 2023-09-22
 blogs: 
   - "good-news"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243837/deepwave.org/Waves_of_Luputhana_03-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243837/deepwave.org/Waves_of_Luputhana_03-scaled.jpg"
 image_caption: "© Thomas Fuhrmann / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 21.09.2023, BMUV"
 author: "DEEPWAVE"

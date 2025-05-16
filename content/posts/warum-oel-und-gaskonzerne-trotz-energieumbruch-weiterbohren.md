@@ -4,7 +4,7 @@ date: 2023-01-26
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243881/deepwave.org/dominik-vanyi-Mk2ls9UBO2E-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243881/deepwave.org/dominik-vanyi-Mk2ls9UBO2E-unsplash-scaled.jpg"
 image_caption: "© Dominik Vanyi / Unsplash"
 author: "DEEPWAVE"
 related: 

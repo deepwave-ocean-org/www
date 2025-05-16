@@ -4,7 +4,7 @@ date: 2021-06-25
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244219/deepwave.org/Antarctic_Circumpolar_Current.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244219/deepwave.org/Antarctic_Circumpolar_Current.png"
 image_caption: "© NASA / Wikimedia Commons"
 source: "Pressemitteilung, 24.06.2021, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

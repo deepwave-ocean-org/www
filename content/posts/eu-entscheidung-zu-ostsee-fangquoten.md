@@ -4,7 +4,7 @@ date: 2024-10-23
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244929/deepwave.org/netz_fischer_ostsee_fangquote_haende_conor-o-nolan-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244929/deepwave.org/netz_fischer_ostsee_fangquote_haende_conor-o-nolan-unsplash-scaled.jpg"
 image_caption: "© Conor O'Nolan / Unsplash"
 source: "Pressemitteilung, Deutsche Umwelthilfe, 22.10.2024"
 author: "Amalia Klein"

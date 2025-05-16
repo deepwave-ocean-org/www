@@ -1,7 +1,7 @@
 ---
 title: "DEEPWAVE Filmfestival zum Schutz der Meere"
 date: 2019-04-16
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245202/deepwave.org/_Kirsten_und_Joachim_Jakobsen.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245202/deepwave.org/_Kirsten_und_Joachim_Jakobsen.jpg
 image_caption: © Kirsten Jakobsen/Joachim Jakobsen
 blogs: 
   - "filme"

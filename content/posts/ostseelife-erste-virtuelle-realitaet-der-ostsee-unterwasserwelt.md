@@ -4,7 +4,7 @@ date: 2019-07-03
 blogs: 
   - "good-news"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245105/deepwave.org/plaice-205276_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245105/deepwave.org/plaice-205276_1920.jpg"
 image_caption: "© Lekies / Pixabay"
 author: "DEEPWAVE"
 related: 

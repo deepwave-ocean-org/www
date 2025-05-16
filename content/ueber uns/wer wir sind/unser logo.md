@@ -1,14 +1,14 @@
 ---
 title: Das DEEPWAVE Logo
 subtitle: Die Geschichte hinter Tremoctopus violaceus, unserer Krake.
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245538/deepwave.org/tremoctopus.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245538/deepwave.org/tremoctopus.jpg
 overlay: rgba(51,51,51,0.76)
 ---
-![DEEPWAVE Logo](http://res.cloudinary.com/deepwave-org/image/upload/v1747245540/deepwave.org/deepwave_logo_en_4c.jpg)
+![DEEPWAVE Logo](https://res.cloudinary.com/deepwave-org/image/upload/v1747245540/deepwave.org/deepwave_logo_en_4c.jpg)
 
 Kraken sind achtarmige Kopffüßler *(Cephalopoda)* und gehören zu den Weichtieren *(Mollusca)*, das heißt sie haben keine eigentlichen Skelette. Während die zehnarmigen Kalmaren (&#8222;Calamari&#8220;) sich meist frei im Wasser bewegen, leben die meisten Octopusse eher auf dem Meeresboden.
 
-![Tremoctopus violaceus, 2m long. © Peter Wirtz](http://res.cloudinary.com/deepwave-org/image/upload/v1747245538/deepwave.org/tremoctopus.jpg)
+![Tremoctopus violaceus, 2m long. © Peter Wirtz](https://res.cloudinary.com/deepwave-org/image/upload/v1747245538/deepwave.org/tremoctopus.jpg)
 
 *Tremoctopus violaceus, 2m long. © Peter Wirtz*
 
@@ -18,15 +18,15 @@ Mehr Informationen zu diesem seltenen und gefährdeten Tier finden Sie hier: [Wi
 
 Frühere Varianten unseres Logos:
 
-![DEEPWAVE logo](http://res.cloudinary.com/deepwave-org/image/upload/v1747245545/deepwave.org/DEEPWAVE_KRAKE_AnnaMandel-1.jpg)
+![DEEPWAVE logo](https://res.cloudinary.com/deepwave-org/image/upload/v1747245545/deepwave.org/DEEPWAVE_KRAKE_AnnaMandel-1.jpg)
 
-![DEEPWAVE logo](http://res.cloudinary.com/deepwave-org/image/upload/v1747245547/deepwave.org/Deepwave_Logo.jpg)
+![DEEPWAVE logo](https://res.cloudinary.com/deepwave-org/image/upload/v1747245547/deepwave.org/Deepwave_Logo.jpg)
 
-![DEEPWAVE logo](http://res.cloudinary.com/deepwave-org/image/upload/v1747245549/deepwave.org/loch1.jpg)
+![DEEPWAVE logo](https://res.cloudinary.com/deepwave-org/image/upload/v1747245549/deepwave.org/loch1.jpg)
 
 Unser berühmter Werbeträger ist kaum zu übersehen:
 Die Mercedes E-Klasse Baujahr 1994 in Dunkelblau mit Krake
 
-![Mercedes with DEEPWAVE logo](http://res.cloudinary.com/deepwave-org/image/upload/v1747245551/deepwave.org/20180917_212936.jpg)
+![Mercedes with DEEPWAVE logo](https://res.cloudinary.com/deepwave-org/image/upload/v1747245551/deepwave.org/20180917_212936.jpg)
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245486/deepwave.org/20180513_134156.jpg" link="" alt="Mercedes with DEEPWAVE logo" caption="*© Fotos privat*" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747245486/deepwave.org/20180513_134156.jpg" link="" alt="Mercedes with DEEPWAVE logo" caption="*© Fotos privat*" >}}

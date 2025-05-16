@@ -9,7 +9,7 @@ tags:
   - "great-white-shark"
   - "haie"
   - "marine-conservation"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244494/deepwave.org/gerald-schombs-8DO2XXCoB0Q-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244494/deepwave.org/gerald-schombs-8DO2XXCoB0Q-unsplash-scaled.jpg"
 image_caption: "© Gerald Schömbs / Unsplash"
 author: "DEEPWAVE"
 related: 

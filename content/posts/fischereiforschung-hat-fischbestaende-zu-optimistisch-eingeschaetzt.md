@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "überfischung"
 source: "Pressemitteilung, GEOMAR, 22.08.2024"
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245404/deepwave.org/Heringe_Sardinen_Fischereiforschung_kogia_nessim_stevenson-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245404/deepwave.org/Heringe_Sardinen_Fischereiforschung_kogia_nessim_stevenson-scaled.jpg
 image_caption: © Kogia / Nessim Stevenson
 author: "Amalia Klein"
 related: 

@@ -13,7 +13,7 @@ blogs:
 tags:
   - haie
 source: Pressemitteilung, 24. Mai 2005, NABU
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244035/deepwave.org/Shark_meat_at_Tokyo_supermarket-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244035/deepwave.org/Shark_meat_at_Tokyo_supermarket-scaled.jpg
 ---
 
 Lidl wirbt mit dem Verkauf exotischer Fischware: Ab nächster Woche werden bei Lidl Haifischsteaks für nur 4,49 Euro verkauft. Aufgrund dieser Aktion mussten bereits geschätzte 150.000 Blauhaie und andere Haiarten (ganz zu schweigen von den Delfinen, Meeresschildkröten und Seevögeln) an den Langleinen der Hochseetrawler sterben. Dabei sind durch den [Haifischflossenhandel](https://www.deepwave.org/buergerinitiative-gegen-haifischflossenhandel-jede-stimme-zaehlt/) und [andere Industriezweige](https://www.deepwave.org/squalen-in-covid-19-impfungen-erhoeht-druck-auf-haie/) weltweit alle Haiarten vom Aussterben bedroht.

@@ -1,7 +1,7 @@
 ---
 title: "Kein Fisch Meer: Deutsche Umwelthilfe, Our Fish und DEEPWAVE fordern ein Ende der Überfischung zum Welttag der Meere"
 date: 2019-06-04
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244052/deepwave.org/Fischmarkt-abgesagt.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244052/deepwave.org/Fischmarkt-abgesagt.jpg
 image_caption: © Finke / DUH
 blogs: 
   - "politik"

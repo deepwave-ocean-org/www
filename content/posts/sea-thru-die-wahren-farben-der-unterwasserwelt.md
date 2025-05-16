@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "kultur"
   - "videos-und-audio"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245200/deepwave.org/sea_thru_Korallen_Farben_Algorithmus.gif"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245200/deepwave.org/sea_thru_Korallen_Farben_Algorithmus.gif"
 image_caption: "© SCIENTIFIC AMERICAN"
 author: "Amalia Klein"
 related: 

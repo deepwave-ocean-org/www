@@ -6,7 +6,7 @@ blogs:
   - "politik"
 tags: 
   - "wale"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245056/deepwave.org/boat-3704524_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245056/deepwave.org/boat-3704524_1920.jpg"
 image_caption: "© GRWA / Pixabay"
 author: "deepwave-blog"
 related: 
@@ -19,6 +19,6 @@ Norwegen, Island und Japan nutzen Schlupflöcher im Moratorium und betreiben ger
 
 Den Artikel [Walfang - Wie einige Länder rechtliche Schlupflöcher ausnutzen](https://www.tierschutzbund.de/information/hintergrund/artenschutz/walfang/) findet ihr beim [Tierschutzbund](https://www.tierschutzbund.de/).
 
-Die Studie [Troubled Waters](http://res.cloudinary.com/deepwave-org/image/upload/v1747245059/deepwave.org/troubledwaters.pdf) beschäftigt sich eingehender mit den Gründen und Auswirkungen der Waljagd.
+Die Studie [Troubled Waters](https://res.cloudinary.com/deepwave-org/image/upload/v1747245059/deepwave.org/troubledwaters.pdf) beschäftigt sich eingehender mit den Gründen und Auswirkungen der Waljagd.
 
 In unserem Blogbeitrag [Nachruf auf einen Wal](https://www.deepwave.org/nachruf-auf-einen-wal/) machen wir darauf aufmerksam, dass vor unseren Augen der Vaquita, der kalifornische Schweinswal ausstirbt.

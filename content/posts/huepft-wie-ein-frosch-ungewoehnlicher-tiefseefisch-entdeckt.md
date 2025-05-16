@@ -9,7 +9,7 @@ tags:
   - "meeresforschung"
   - "tiefsee"
   - "tiefseefisch"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244719/deepwave.org/Psychedelic_frogfish_08Am7A1b.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244719/deepwave.org/Psychedelic_frogfish_08Am7A1b.jpg"
 image_caption: "© CC BY-SA 3.0 / Wikimedia Commons"
 author: "deepwave-blog"
 related: 

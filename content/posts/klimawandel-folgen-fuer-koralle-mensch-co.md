@@ -4,7 +4,7 @@ date: 2023-04-01
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243923/deepwave.org/Coral_Reef-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243923/deepwave.org/Coral_Reef-scaled.jpg"
 image_caption: "© Jerry Reid / Wikimedia Commons (PD)"
 source: "Pressemitteilung, 31.03.2023, Senckenberg Gesellschaft für Naturforschung"
 author: "DEEPWAVE"

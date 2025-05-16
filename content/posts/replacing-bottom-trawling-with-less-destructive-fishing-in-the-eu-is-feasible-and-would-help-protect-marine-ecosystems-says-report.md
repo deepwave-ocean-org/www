@@ -5,7 +5,7 @@ blogs:
   - "politik"
   - "tiefsee"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245433/deepwave.org/002_2014_03_17_Netze.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245433/deepwave.org/002_2014_03_17_Netze.jpg"
 image_caption: "© Friedrich Haag / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 08.09.2022, Seas At Risk"
 author: "DEEPWAVE"

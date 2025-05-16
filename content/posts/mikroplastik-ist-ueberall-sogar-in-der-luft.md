@@ -1,7 +1,7 @@
 ---
 title: "Mikroplastik ist überall – sogar in der Luft"
 date: 2019-08-30
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245264/deepwave.org/Helicopter_in_Arctic.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245264/deepwave.org/Helicopter_in_Arctic.jpg
 image_caption: © Alfred-Wegener-Institut / Mine Tekmann
 image_alt: Ein roter Helikopter im arktischen Eis. Es ist strahlend blauer Himmel, im Hintergrund türmen sich Eisberge. Zwei Forscher mit dicken orangenen Überlebensanzügen stehen am Helikopter. Im Vordergrund sieht man zwei Weckgläser mit Schneeproben.
 blogs: 

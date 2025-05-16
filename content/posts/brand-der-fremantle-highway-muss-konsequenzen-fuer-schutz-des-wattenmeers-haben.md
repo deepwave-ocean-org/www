@@ -3,7 +3,7 @@ title: "Brand der Fremantle Highway muss Konsequenzen für Schutz des Wattenmeer
 date: 2023-08-03
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243856/deepwave.org/Fremantle_Highway_Brurned_out-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243856/deepwave.org/Fremantle_Highway_Brurned_out-scaled.jpg"
 image_caption: "© Uberprutser / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 02.08.2023, NABU"
 author: "DEEPWAVE"

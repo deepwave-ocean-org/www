@@ -4,7 +4,7 @@ date: 2022-10-02
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244285/deepwave.org/20150913_PS94_Arktis_085_MHoppmann-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244285/deepwave.org/20150913_PS94_Arktis_085_MHoppmann-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Mario Hoppmann (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 

@@ -5,7 +5,7 @@ blogs:
   - "politik"
   - "überfischung"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244449/deepwave.org/boat-g270bd74c6_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244449/deepwave.org/boat-g270bd74c6_1920.jpg"
 image_caption: "© kkortmulder / Pixabay"
 source: "Pressemitteilung, 19.12.2005, Greenpeace"
 author: "deepwave-blog"

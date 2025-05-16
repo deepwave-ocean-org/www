@@ -6,7 +6,7 @@ blogs:
   - "forschung"
   - "pplastic-pollution"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244858/deepwave.org/Quarkverpackung_neben_Manganknolle-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244858/deepwave.org/Quarkverpackung_neben_Manganknolle-scaled.jpg"
 image_caption: "© ROV-Team/GEOMAR"
 source: "Pressemitteilung, GEOMAR, 11. Juni 2020"
 author: "DEEPWAVE"

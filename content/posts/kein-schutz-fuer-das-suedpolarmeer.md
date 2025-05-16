@@ -4,7 +4,7 @@ date: 2022-11-05
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245417/deepwave.org/derek-oyen-Pp-zoKs3pXQ-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245417/deepwave.org/derek-oyen-Pp-zoKs3pXQ-unsplash-scaled.jpg"
 image_caption: "© Derek Oyen / Unsplash"
 source: "Pressemitteilung, 04.11.2022, WWF"
 author: "DEEPWAVE"

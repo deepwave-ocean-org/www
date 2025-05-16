@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "klima"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244152/deepwave.org/cristian-palmer-XexawgzYOBc-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244152/deepwave.org/cristian-palmer-XexawgzYOBc-unsplash-scaled.jpg"
 image_caption: "© Cristian Palmer / Unsplash"
 source: "Pressemitteilung, 01.09.2006, idw - Informationsdienst Wissenschaft"
 author: "deepwave-blog"

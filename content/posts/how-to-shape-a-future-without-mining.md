@@ -4,7 +4,7 @@ date: 2021-06-11
 blogs: 
   - "politik"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244287/deepwave.org/1024px-Deep_sea_corals_Wagner_Seamount.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244287/deepwave.org/1024px-Deep_sea_corals_Wagner_Seamount.jpg"
 image_caption: "© NOAA Office of Ocean Exploration and Research / Wikimedia Commons (PD)"
 source: "Pressemitteilung, 10.06.2021, Seas At Risk"
 author: "DEEPWAVE"

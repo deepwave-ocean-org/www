@@ -3,7 +3,7 @@ title: "Rettende Wimpernschläge"
 date: 2022-08-24
 blogs: 
   - "forschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244209/deepwave.org/marek-okon-tWWCqIMiUmg-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244209/deepwave.org/marek-okon-tWWCqIMiUmg-unsplash-scaled.jpg"
 image_caption: "© Marek Okon / Unsplash"
 source: "Pressemitteilung, 23.08.2022, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

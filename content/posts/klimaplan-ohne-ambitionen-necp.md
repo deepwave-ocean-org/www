@@ -7,7 +7,7 @@ blogs:
 tags: 
   - "klimawandel"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244630/deepwave.org/Windkraftwerk_Nebel_Pixabay.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244630/deepwave.org/Windkraftwerk_Nebel_Pixabay.jpg"
 image_caption: "© S. Hermann &amp; F. Richter / Pixabay"
 author: "DEEPWAVE"
 ---

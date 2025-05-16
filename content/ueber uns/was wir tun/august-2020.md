@@ -3,7 +3,7 @@ title: "August 2020"
 date: 2020-08-01
 ---
 
-![Alexander Gerst und Antje Boetius im Tiefsee U-Boot](http://res.cloudinary.com/deepwave-org/image/upload/v1747244339/deepwave.org/MissionErdeAzoren_JoachimJakobsen.jpg)
+![Alexander Gerst und Antje Boetius im Tiefsee U-Boot](https://res.cloudinary.com/deepwave-org/image/upload/v1747244339/deepwave.org/MissionErdeAzoren_JoachimJakobsen.jpg)
 
 #### **12\. August**
 

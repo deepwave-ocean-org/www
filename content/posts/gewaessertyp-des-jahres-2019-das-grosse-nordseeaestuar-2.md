@@ -6,7 +6,7 @@ blogs:
 tags: 
   - "kampagne"
   - "kuestenschutz"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243825/deepwave.org/13-09-29-nordfriesisches-wattenmeer-RalfR-10-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243825/deepwave.org/13-09-29-nordfriesisches-wattenmeer-RalfR-10-scaled.jpg"
 image_caption: "© Ralf Roletschek / Wikimedia Commons (CC-BY-SA 3.0)"
 source: "Pressemitteilung, Umweltbundesamt, 21.03.2019"
 author: "DEEPWAVE"

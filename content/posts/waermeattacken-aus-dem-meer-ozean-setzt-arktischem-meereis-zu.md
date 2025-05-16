@@ -4,7 +4,7 @@ date: 2021-06-16
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245002/deepwave.org/20150921_PS94_Arktis_374_SHendricks-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245002/deepwave.org/20150921_PS94_Arktis_374_SHendricks-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Stefan Hendricks (CC-BY 4.0)"
 source: "Pressemitteilung, 15.06.2021, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

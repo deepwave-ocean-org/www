@@ -4,7 +4,7 @@ date: 2019-10-30
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244707/deepwave.org/gulfside-mike-Z3w_py1TDcM-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244707/deepwave.org/gulfside-mike-Z3w_py1TDcM-unsplash-scaled.jpg"
 image_caption: "© Gulfside Mike / Unsplash"
 author: "DEEPWAVE"
 related: 

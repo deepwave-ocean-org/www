@@ -4,7 +4,7 @@ date: 2019-01-12
 blogs: 
   - "alternativen-zu-einwegplastik"
   - "good-news"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244313/deepwave.org/naja-bertolt-jensen-IUBc0cxN7Lc-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244313/deepwave.org/naja-bertolt-jensen-IUBc0cxN7Lc-unsplash-scaled.jpg"
 image_caption: "© Naja Bertolt Jensen / Unsplash"
 author: "Amalia Klein"
 related: 

@@ -4,7 +4,7 @@ date: 2018-08-06
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244675/deepwave.org/desert-4376898_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244675/deepwave.org/desert-4376898_1920.jpg"
 image_caption: "© naturfreund_pics / Pixabay"
 author: "DEEPWAVE"
 ---

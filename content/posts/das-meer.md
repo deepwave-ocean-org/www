@@ -1,7 +1,7 @@
 ---
 title: "\"Das Meer\" von Jules Michelet"
 date: 2019-06-20
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243935/deepwave.org/WhatsApp-Image-2019-06-25-at-10.14.20.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243935/deepwave.org/WhatsApp-Image-2019-06-25-at-10.14.20.jpg
 image_caption:
 image_alt: Das sehr alte Buch "Das Meer" vor einer alten Zeichnung mir Tiefseelebewesen
 blogs: 

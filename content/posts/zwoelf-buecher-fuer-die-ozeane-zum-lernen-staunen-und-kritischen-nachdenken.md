@@ -27,7 +27,7 @@ In der Literatur, den Geschichten, die wir uns erzählen, und den Büchern, die 
 
 Doch die modernen Geschichten haben sich verändert. Denn wir verhalten uns auf diesem Planeten nicht mehr als das, was wir sind: als Gast. Die Ozeane zeigen uns unsere Irrwege. Und in manchen (hoffentlich nur) fiktiven Erzählungen rächen sie sich dafür.
 
-[![Das Ozeanbuch Esther Gonstalla Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das-_Ozeanbuch_Esther_Gonstalla_Empfehlung.jpg)](/das-ozeanbuch-ueber-die-bedrohung-der-meere/)
+[![Das Ozeanbuch Esther Gonstalla Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das-_Ozeanbuch_Esther_Gonstalla_Empfehlung.jpg)](/das-ozeanbuch-ueber-die-bedrohung-der-meere/)
 
 ### [Das Ozeanbuch](https://www.deepwave.org/das-ozeanbuch-ueber-die-bedrohung-der-meere/)
 
@@ -41,7 +41,7 @@ Anna Groß
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/das-ozeanbuch-ueber-die-bedrohung-der-meere/)
 
-[![21 Lektionen für das 21. Jahrhundert Yuval Harari Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/21-Lektionen-f%C3%BCr-das-21.-Jahrhundert_Yuval_Harari_Empfehlung.jpg)](/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
+[![21 Lektionen für das 21. Jahrhundert Yuval Harari Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/21-Lektionen-f%C3%BCr-das-21.-Jahrhundert_Yuval_Harari_Empfehlung.jpg)](/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
 
 ### [21 Lektionen für das 21. Jahrhundert](https://www.deepwave.org/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
 
@@ -53,7 +53,7 @@ Frederik Götz
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/21-lektionen-fuer-das-21-jahrhundert-von-yuval-noah-harari/)
 
-[![Die Geschichte des Wassers Maja Lunde Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Die-Geschichte-des-Wassers_Maja_Lunde_Empfehlung.jpg)](/die-geschichte-des-wassers/)
+[![Die Geschichte des Wassers Maja Lunde Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Die-Geschichte-des-Wassers_Maja_Lunde_Empfehlung.jpg)](/die-geschichte-des-wassers/)
 
 ### [Die Geschichte des Wassers](https://www.deepwave.org/die-geschichte-des-wassers/)
 
@@ -65,7 +65,7 @@ Luisa Münch
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/die-geschichte-des-wassers/)
 
-[![Der Schwarm Frank Schätzing Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Schwarm_Frank_Sch%C3%A4tzing_Empfehlung.jpg)](/der-schwarm/)
+[![Der Schwarm Frank Schätzing Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Schwarm_Frank_Sch%C3%A4tzing_Empfehlung.jpg)](/der-schwarm/)
 
 ### [Der Schwarm](https://www.deepwave.org/der-schwarm/)
 
@@ -77,7 +77,7 @@ Barbara Focke
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/der-schwarm/)
 
-![Was Fische wissen Jonathan Balcombe Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Was_Fische_wissen_Jonathan_Balcombe_Empfehlung.jpg)
+![Was Fische wissen Jonathan Balcombe Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Was_Fische_wissen_Jonathan_Balcombe_Empfehlung.jpg)
 
 ### Was Fische wissen
 
@@ -89,7 +89,7 @@ Barbara Focke
 
 Franziska Bils
 
-![Die Menschheit schaftt sich ab Harald Lesch Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Die_Menschheit_schaftt_sich_ab_Harald_Lesch_Empfehlung.jpg)
+![Die Menschheit schaftt sich ab Harald Lesch Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Die_Menschheit_schaftt_sich_ab_Harald_Lesch_Empfehlung.jpg)
 
 ### Die Menschheit schafft sich ab
 
@@ -99,7 +99,7 @@ Franziska Bils
 
 Maximilian Hierhammer
 
-![Kunstformen der Natur Ernst Haekel Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Kunstformen_der_Natur_Ernst_Haekel_Empfehlung.jpg)
+![Kunstformen der Natur Ernst Haekel Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Kunstformen_der_Natur_Ernst_Haekel_Empfehlung.jpg)
 
 ### Ernst Haeckel: Kunstformen der Natur - Kunstformen aus dem Meer
 
@@ -109,7 +109,7 @@ Maximilian Hierhammer
 
 Anna Groß
 
-![Wunderwesen aus der Tiefe Ernst Haeckel Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Wunderwesen-aus-der-Tiefe_Ernst_Haeckel_Empfehlung.jpg)
+![Wunderwesen aus der Tiefe Ernst Haeckel Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Wunderwesen-aus-der-Tiefe_Ernst_Haeckel_Empfehlung.jpg)
 
 ### Wunderwesen aus der Tiefe
 
@@ -121,7 +121,7 @@ Anna Groß
 
 Anna Groß
 
-![Das blaue Wunder Bagusche Frauke Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das-blaue-Wunder_Bagusche-Frauke_Empfehlung.jpg)
+![Das blaue Wunder Bagusche Frauke Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das-blaue-Wunder_Bagusche-Frauke_Empfehlung.jpg)
 
 ### Das blaue Wunder
 
@@ -131,7 +131,7 @@ Anna Groß
 
 Heye Groß
 
-![Flut Hugh Aldersey-Williams Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Flut_Hugh_Aldersey-Williams_Empfehlung.jpg)
+![Flut Hugh Aldersey-Williams Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Flut_Hugh_Aldersey-Williams_Empfehlung.jpg)
 
 ### Flut
 
@@ -143,7 +143,7 @@ Heye Groß
 
 Heye Groß
 
-![Tiefsee Dagmar Röhrlich Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Tiefsee_Dagmar_R%C3%B6hrlich_Empfehlung.jpg)
+![Tiefsee Dagmar Röhrlich Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Tiefsee_Dagmar_R%C3%B6hrlich_Empfehlung.jpg)
 
 ### Tiefsee
 
@@ -153,7 +153,7 @@ Heye Groß
 
 Anna Groß
 
-![Rendezvous mit einem Oktopus Sy Montgomery Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Rendezvous-mit-einem-Oktopus_Sy_Montgomery_Empfehlung.jpg)
+![Rendezvous mit einem Oktopus Sy Montgomery Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Rendezvous-mit-einem-Oktopus_Sy_Montgomery_Empfehlung.jpg)
 
 ### Rendezvous mit einem Oktopus
 
@@ -163,7 +163,7 @@ Anna Groß
 
 Franziska Bils
 
-![Der Krake das Meer und die tiefen Ursprünge des Bewusstseins Peter Godfrey-Smith Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Krake-das-Meer-und-die-tiefen-Urspr%C3%BCnge-des-Bewusstseins_Peter_Godfrey-Smith_Empfehlung.jpg)
+![Der Krake das Meer und die tiefen Ursprünge des Bewusstseins Peter Godfrey-Smith Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Der-Krake-das-Meer-und-die-tiefen-Urspr%C3%BCnge-des-Bewusstseins_Peter_Godfrey-Smith_Empfehlung.jpg)
 
 ### Der Krake, das Meer und die tiefen Ursprünge des Bewusstseins
 
@@ -173,7 +173,7 @@ Franziska Bils
 
 Heye Groß
 
-![Spuren der Sterne Ute Wilhelmsen Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Spuren-der-Sterne_Ute_Wilhelmsen-_Empfehlung.jpg)
+![Spuren der Sterne Ute Wilhelmsen Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Spuren-der-Sterne_Ute_Wilhelmsen-_Empfehlung.jpg)
 
 ### Spuren der Sterne
 

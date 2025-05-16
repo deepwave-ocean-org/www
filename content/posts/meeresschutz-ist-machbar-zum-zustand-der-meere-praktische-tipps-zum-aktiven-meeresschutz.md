@@ -1,7 +1,7 @@
 ---
 title: "Meeresschutz ist machbar! „Zum Zustand der Meere – praktische Tipps zum aktiven Meeresschutz“"
 date: 2019-04-09
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245143/deepwave.org/Cover-Mockup_SonneundStrand-195x300.png)](https://www.deepwave.org/meeresschutz-ist-machbar-zum-zustand-der-meere-praktische-tipps-zum-aktiven-meeresschutz/cover-mockup_sonneundstrand/
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245143/deepwave.org/Cover-Mockup_SonneundStrand-195x300.png)](https://www.deepwave.org/meeresschutz-ist-machbar-zum-zustand-der-meere-praktische-tipps-zum-aktiven-meeresschutz/cover-mockup_sonneundstrand/
 image_caption: © SONNE UND STRAND Ferienhausvermittlung A/S
 blogs: 
   - "was-tun"

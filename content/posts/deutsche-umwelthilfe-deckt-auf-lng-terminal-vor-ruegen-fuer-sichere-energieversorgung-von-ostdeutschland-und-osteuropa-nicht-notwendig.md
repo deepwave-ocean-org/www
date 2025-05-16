@@ -3,7 +3,7 @@ title: "Deutsche Umwelthilfe deckt auf: LNG-Terminal vor Rügen für sichere Ene
 date: 2023-09-23
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244318/deepwave.org/Mukran_Port_Nordstream2_Roehren_01-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244318/deepwave.org/Mukran_Port_Nordstream2_Roehren_01-scaled.jpg"
 image_caption: "© Josef Streichholz / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 22.09.2023, Deutsche Umwelthilfe (DUH)"
 author: "DEEPWAVE"

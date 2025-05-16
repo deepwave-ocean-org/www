@@ -4,7 +4,7 @@ date: 2021-08-05
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244377/deepwave.org/demonstration-4891275_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244377/deepwave.org/demonstration-4891275_1920.jpg"
 image_caption: "© Dominic Wunderlich / Pixabay"
 source: "Pressemitteilung, 04.08.2021, NABU"
 author: "DEEPWAVE"

@@ -9,7 +9,7 @@ Im Kreis von 11 Kolleg:innen nimmt Anna Groß für DW an der vom Parlamentskreis
 
 #### **24\. September**
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244607/deepwave.org/Parlamentskreis_Meerespolitikc-Inga-Kjer-5.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244607/deepwave.org/Parlamentskreis_Meerespolitikc-Inga-Kjer-5.jpg" alt="Sitzung im Deutschen Bundestag in Berlin, Blick von oben auf einen und einen halben Kreis, an dem Menschen sitzen, im Hintergrund unscharf der Blick auf die Spree durch die großen Glasscheiben" caption="© Inga Kjer" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747244607/deepwave.org/Parlamentskreis_Meerespolitikc-Inga-Kjer-5.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747244607/deepwave.org/Parlamentskreis_Meerespolitikc-Inga-Kjer-5.jpg" alt="Sitzung im Deutschen Bundestag in Berlin, Blick von oben auf einen und einen halben Kreis, an dem Menschen sitzen, im Hintergrund unscharf der Blick auf die Spree durch die großen Glasscheiben" caption="© Inga Kjer" >}}
 
 **Parlamentskreis Meerespolitk**
 
@@ -33,9 +33,9 @@ Treffen der **AG Tiefseebergbau** in Berlin monatliches Update über die Aktivit
 
 #### **9\. September**
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245616/deepwave.org/FRAITAG-0820.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747245616/deepwave.org/FRAITAG-0820.jpg" alt="Anna Groß übergibt feierlich die Preisstatuette an Antje Boetius, eine Krake aus weißem Japanpapier auf einer Art Manganknolle aus Stein" caption="©FRAITAG für TÜV Rheinland" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747245616/deepwave.org/FRAITAG-0820.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747245616/deepwave.org/FRAITAG-0820.jpg" alt="Anna Groß übergibt feierlich die Preisstatuette an Antje Boetius, eine Krake aus weißem Japanpapier auf einer Art Manganknolle aus Stein" caption="©FRAITAG für TÜV Rheinland" >}}
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245621/deepwave.org/FRAITAG-0826.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747245621/deepwave.org/FRAITAG-0826.jpg" alt="Antje Boetius im meerblauen Abendkleid mit der Preisstatuette Casper in der Hand, voller Freude" caption="©FRAITAG für TÜV Rheinland" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747245621/deepwave.org/FRAITAG-0826.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747245621/deepwave.org/FRAITAG-0826.jpg" alt="Antje Boetius im meerblauen Abendkleid mit der Preisstatuette Casper in der Hand, voller Freude" caption="©FRAITAG für TÜV Rheinland" >}}
 
 **Preisverleihung des [6\. Internationalen TÜV Rheinland Global Compact Award](https://www.tuv.com/presse/de/meldungen/tr-stiftung-global-compact-award-2024.html) an Antje Boetius** Feierliche Gala in Köln im Historischen Rathaus Anna Mandel übergibt die Preisstatuette an Antje Boetius mit einer kurzen Erläuterung an die 200 geladenen Gäste zu Casper, der Tiefseekrake, die für die Fragilität der Tiefsee steht, die durch den Tiefseebergbau bedroht ist.
 

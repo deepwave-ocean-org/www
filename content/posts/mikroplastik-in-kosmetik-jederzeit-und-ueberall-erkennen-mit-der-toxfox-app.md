@@ -5,7 +5,7 @@ blogs:
   - "bluestraw"
   - "good-news"
   - "pplastic-pollution"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244546/deepwave.org/smartphone_toxfox_app_jonas-leupe-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244546/deepwave.org/smartphone_toxfox_app_jonas-leupe-unsplash-scaled.jpg"
 image_caption: "© Jonas Leupe / Unsplash"
 author: "Amalia Klein"
 related: 

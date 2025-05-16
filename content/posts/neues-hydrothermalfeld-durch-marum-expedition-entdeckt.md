@@ -4,7 +4,7 @@ date: 2022-08-20
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244604/deepwave.org/1024px-MARUM_Schwarzer_Raucher.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244604/deepwave.org/1024px-MARUM_Schwarzer_Raucher.jpg"
 image_caption: "© MARUM − Zentrum für Marine Umweltwissenschaften, Universität Bremen / Wikimedia Commons (CC BY 4.0)"
 source: "Pressemitteilung, 19.08.2022, MARUM"
 author: "DEEPWAVE"

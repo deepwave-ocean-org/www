@@ -1,7 +1,7 @@
 ---
 title: "Plastikverschmutzung im Marianengraben"
 date: 2019-10-28
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244236/deepwave.org/NetzMakroFinger_030.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244236/deepwave.org/NetzMakroFinger_030.jpg
 image_caption: © Wolf Wichmann
 image_alt: Auf einer Fingerspitze liegen mehrere kleine, grüne Plastikfasern
 blogs: 

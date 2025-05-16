@@ -1,7 +1,7 @@
 ---
 title: "Neue AWI-Studie zu industriellen Altlasten im arktischen Permafrost"
 date: 2023-04-05
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244599/deepwave.org/20140824_Permafrost_Lena2014_001_TOpel-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244599/deepwave.org/20140824_Permafrost_Lena2014_001_TOpel-scaled.jpg
 image_caption: © Alfred-Wegener-Institut / Thomas Opel (CC-BY 4.0)
 image_alt: Ein mit Gras bewachsener arktischer Permafrostboden
 blogs: 

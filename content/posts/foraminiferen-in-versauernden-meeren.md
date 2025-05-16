@@ -4,7 +4,7 @@ date: 2023-11-08
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244207/deepwave.org/WhatsApp-Image-2023-11-08-at-11.39.44.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244207/deepwave.org/WhatsApp-Image-2023-11-08-at-11.39.44.jpg"
 image_caption: "© Charrieau et al. 2018"
 author: "DEEPWAVE"
 related: 

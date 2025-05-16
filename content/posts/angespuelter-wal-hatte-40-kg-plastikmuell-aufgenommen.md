@@ -7,7 +7,7 @@ blogs:
 tags: 
   - "plastic-pollution"
   - "wale"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244446/deepwave.org/environment-4495815_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244446/deepwave.org/environment-4495815_1920.jpg"
 image_caption: "© JarkkoManty / Pixabay"
 author: "DEEPWAVE"
 related: 

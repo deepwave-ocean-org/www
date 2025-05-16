@@ -4,7 +4,7 @@ date: 2023-02-07
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244223/deepwave.org/salt-marsh-g9f263a815_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244223/deepwave.org/salt-marsh-g9f263a815_1920.jpg"
 image_caption: "© Pete / Pixabay"
 author: "DEEPWAVE"
 related: 

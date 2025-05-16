@@ -8,7 +8,7 @@ tags:
   - "island"
   - "wale"
   - "wwf"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244409/deepwave.org/humpback-whale-1209297_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244409/deepwave.org/humpback-whale-1209297_1920.jpg"
 image_caption: "© Free-Photos / Pixabay"
 source: "Pressemitteilung, 20. Februar 2009, WWF"
 author: "deepwave-blog"

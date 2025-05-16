@@ -8,7 +8,7 @@ tags:
   - "korallen"
   - "korallenriffe"
   - "mesophotische-korallenriffe"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244033/deepwave.org/Mesophotische_Koralle_06082021.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244033/deepwave.org/Mesophotische_Koralle_06082021.png"
 image_caption: "© Corriero G., Pierri C., Mercurio M. et al. / Wikimedia Commons (<span class='cc-license-identifier'>CC-BY-4.0</span>)"
 author: "DEEPWAVE"
 related: 

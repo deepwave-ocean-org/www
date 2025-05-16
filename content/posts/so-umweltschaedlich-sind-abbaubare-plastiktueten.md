@@ -4,7 +4,7 @@ date: 2019-06-18
 blogs: 
   - "forschung"
   - "pplastic-pollution"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244412/deepwave.org/saindur-enviro-riMqPieqI9U-unsplash-1-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244412/deepwave.org/saindur-enviro-riMqPieqI9U-unsplash-1-scaled.jpg"
 image_caption: "© Saindur Enviro / Unsplash"
 author: "DEEPWAVE"
 related: 

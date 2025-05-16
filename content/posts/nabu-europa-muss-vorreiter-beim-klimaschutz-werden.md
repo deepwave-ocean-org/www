@@ -4,7 +4,7 @@ date: 2021-03-11
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244030/deepwave.org/christian-lue-8Yw6tsB8tnc-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244030/deepwave.org/christian-lue-8Yw6tsB8tnc-unsplash-scaled.jpg"
 image_caption: "© Christian Lue / Unsplash"
 source: "Pressemitteilung, 11.03.2021, NABU"
 author: "DEEPWAVE"

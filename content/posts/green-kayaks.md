@@ -4,7 +4,7 @@ date: 2019-11-01
 blogs: 
   - "good-news"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243969/deepwave.org/filip-mroz-zK049OFP4uI-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243969/deepwave.org/filip-mroz-zK049OFP4uI-unsplash-scaled.jpg"
 image_caption: "© Filip Mroz / Unsplash"
 author: "Amalia Klein"
 related: 

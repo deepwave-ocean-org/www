@@ -3,7 +3,7 @@ title: "Lauwarm erwischt: Expedition zum Nordpol"
 date: 2020-10-20
 blogs: 
   - "forschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244365/deepwave.org/20201014_WelcomeBack_NicoHarms_005-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244365/deepwave.org/20201014_WelcomeBack_NicoHarms_005-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Nico Harms (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 

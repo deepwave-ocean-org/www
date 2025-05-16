@@ -4,7 +4,7 @@ date: 2022-12-01
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244357/deepwave.org/Nature-Cariacobecken-MARUM-web1.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244357/deepwave.org/Nature-Cariacobecken-MARUM-web1.jpg"
 image_caption: "© MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten, Uni­ver­si­tät Bre­men; V. Die­kamp"
 source: "Pressemitteilung, 30.11.2022, MARUM"
 author: "Amalia Klein"

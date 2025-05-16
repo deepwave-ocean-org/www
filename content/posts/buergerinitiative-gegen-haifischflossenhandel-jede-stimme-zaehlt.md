@@ -5,7 +5,7 @@ blogs:
   - "favoriten"
   - "politik"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243961/deepwave.org/Stop_Sharkfinning_B%C3%BCrgerinitiative.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243961/deepwave.org/Stop_Sharkfinning_B%C3%BCrgerinitiative.jpg"
 image_caption: "© STOP FINNING"
 author: "Noemi Merz"
 related: 
@@ -19,7 +19,7 @@ Dass Europa jedoch einer der Hauptakteure im Haifischflossenhandel ist und somit
 
 Um dem kaltblütigen Handel mit den Flossen und Europas Rolle als Flossenexporteur endlich ein Ende zu setzten, wurde eine [neue EU-Bürgerinitiative](https://stop-finning.eu/) von Umweltorganisationen wie [Stop Finning](https://www.stop-finning.com/) oder [Sea Shepherd](https://sea-shepherd.de/) initiiert. Ziel sind eine Million Unterschriften, wovon mindestens 72.000 von deutschen Bürgern stammen müssen. Durch ein Verbot, dass den [Haifischflossenhandel](https://stop-finning.eu/requirement/) untersagt, wird sich das Töten der Tiere finanziell nicht mehr lohnen und somit einen Rückgang des Haifangs bewirken.
 
-Auch wenn das Abtrennen der Haifischflossen der Hauptgrund für das Töten der Tiere ist, spielt Europa zusätzlich eine erschreckend große Rolle bezüglich des [Haifischfleischkonsums](https://www.projectaware.org/publication/state-global-market-shark-products). Spanien ist beispielsweise weltweit der zweitgrößte Verbraucher von Haifischfleisch. Wer hätte gedacht, dass das Land, dass sich mit beliebten Gerichten wie Paella schmückt, tatsächlich schockierend hohe Mengen an Haifischfleisch legal konsumiert? Spanien, sowie auch Italien verkaufen Haifischfleisch oft gekennzeichnet als Schwertfisch und auch wegen des in der Leber enthaltenden Öls [Squalen](http://res.cloudinary.com/deepwave-org/image/upload/v1747243963/deepwave.org/DWfacts_squalen_2016.pdf), das für Kosmetikprodukte oder als Nahrungsergänzungsmittel genutzt wird, steigt die Zahl der massakrierten Haie stetig an. Ein Verbot, dass das Töten der Haie oder die damit zusammenhängende Squalennutzung untersagt, ist jedoch noch nicht in Sicht.
+Auch wenn das Abtrennen der Haifischflossen der Hauptgrund für das Töten der Tiere ist, spielt Europa zusätzlich eine erschreckend große Rolle bezüglich des [Haifischfleischkonsums](https://www.projectaware.org/publication/state-global-market-shark-products). Spanien ist beispielsweise weltweit der zweitgrößte Verbraucher von Haifischfleisch. Wer hätte gedacht, dass das Land, dass sich mit beliebten Gerichten wie Paella schmückt, tatsächlich schockierend hohe Mengen an Haifischfleisch legal konsumiert? Spanien, sowie auch Italien verkaufen Haifischfleisch oft gekennzeichnet als Schwertfisch und auch wegen des in der Leber enthaltenden Öls [Squalen](https://res.cloudinary.com/deepwave-org/image/upload/v1747243963/deepwave.org/DWfacts_squalen_2016.pdf), das für Kosmetikprodukte oder als Nahrungsergänzungsmittel genutzt wird, steigt die Zahl der massakrierten Haie stetig an. Ein Verbot, dass das Töten der Haie oder die damit zusammenhängende Squalennutzung untersagt, ist jedoch noch nicht in Sicht.
 
 DEEPWAVE setzt sich schon seit seiner Gründung gegen das Shark Finning ein und wie wir sehen ist, der Schutz der Haie immer noch nicht erreicht, daher unterstützt uns und alle anderen NGOs in dieser wichtigen Angelegenheit und unterschreibt auf  [STOP FINNING](https://stop-finning.eu/) !
 

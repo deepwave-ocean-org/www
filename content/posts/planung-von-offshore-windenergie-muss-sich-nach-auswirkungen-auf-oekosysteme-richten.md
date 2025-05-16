@@ -3,7 +3,7 @@ title: "Planung von Offshore-Windenergie muss sich nach Auswirkungen auf Ökosys
 date: 2023-07-12
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245209/deepwave.org/windmill-g4678bf63f_1280.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245209/deepwave.org/windmill-g4678bf63f_1280.jpg"
 image_caption: "© Erich Westendarp / Pixabay"
 source: "Pressemitteilung, 11.07.2023, NABU"
 author: "DEEPWAVE"

@@ -1,7 +1,7 @@
 ---
 title: "Der Südozean, wie man ihn noch nie gesehen hat"
 date: 2022-06-10
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244925/deepwave.org/Suedozean_Antarktis_Unsplash_66north-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244925/deepwave.org/Suedozean_Antarktis_Unsplash_66north-scaled.jpg
 image_caption: © 66north / Unsplash
 image_alt: Zirkumpolarstrom, Ein gewaltiger Eisberg ragt aus dem Meer
 blogs: 

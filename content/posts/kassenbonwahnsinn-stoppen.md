@@ -1,7 +1,7 @@
 ---
 title: "Kassenbonwahnsinn stoppen."
 date: 2020-01-13
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244995/deepwave.org/Kassenbon_Gasthaus_Gutenberg_Karlsruhe.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244995/deepwave.org/Kassenbon_Gasthaus_Gutenberg_Karlsruhe.jpg
 image_caption: © Christoph Schmidt/dpa
 image_alt: Das Gasthaus Gutenberg aus Karlsruhe demonstriert schön die Auswirkungen des Gesetzes. Über 1000 überflüssige kamen in einer Woche zusammen.
 blogs: 

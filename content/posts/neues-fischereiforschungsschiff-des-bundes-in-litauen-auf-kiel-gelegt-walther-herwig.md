@@ -4,7 +4,7 @@ date: 2024-12-07
 blogs: 
   - "forschung"
   - "good-news"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245012/deepwave.org/walther_herwig_III_forschungsschiff_wikimedia_commons.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245012/deepwave.org/walther_herwig_III_forschungsschiff_wikimedia_commons.jpg"
 image_caption: "© Wikimedia Commons (Creative Commons Attribution-Share Alike 3.0 Unported)"
 source: "Pressemitteilung, 06.12.2024, Thünen Institut"
 author: "Amalia Klein"

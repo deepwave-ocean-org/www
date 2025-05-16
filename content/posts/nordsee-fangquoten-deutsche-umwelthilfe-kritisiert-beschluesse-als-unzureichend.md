@@ -4,7 +4,7 @@ date: 2024-12-12
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245054/deepwave.org/burkhard-kaufhold-unsplash_netz_fangquote_nordsee_grau-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245054/deepwave.org/burkhard-kaufhold-unsplash_netz_fangquote_nordsee_grau-scaled.jpg"
 image_caption: "© Burkhard Kaufhold / Unsplash"
 source: "Pressemitteilung, 11.12.2024, Deutsche Umwelthilfe"
 author: "Amalia Klein"

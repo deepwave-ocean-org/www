@@ -87,27 +87,27 @@ home:
   - title: Über uns
     subtitle: Unsere NGO, unser Gründer Onno Groß und unsere Zukunft
     url: /ueber-uns/
-    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267235/deepwave.org/Heye_im_Wasser_Quadrat-scaled.jpg
+    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267235/deepwave.org/Heye_im_Wasser_Quadrat-scaled.jpg
   - title: Highlights
     subtitle: Unsere Kampagnen, Kooperation, Filmfestivals ...
     url: /highlights/
-    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267238/deepwave.org/Highlights2-480x480.png
+    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267238/deepwave.org/Highlights2-480x480.png
   - title: Reflexionen
     subtitle: Gedanken, Sichtungen, Hintergründe
     url: https://www.instagram.com/deepwave_ocean_org/
-    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267241/deepwave.org/Ueberfischung_Quadrat.png
+    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267241/deepwave.org/Ueberfischung_Quadrat.png
   - title: Die Ozeane
     subtitle: Unsere Texte über Tiefsee, Klimakrise, Überfischung, Lärm u.v.m.
     url: /die-ozeane/
-    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267244/deepwave.org/ozeane_5-768x768.png
+    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267244/deepwave.org/ozeane_5-768x768.png
   - title: Projekte
     subtitle: Unsere Hotspots des Meeresschutzes
     url: /projekte/
-    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267247/deepwave.org/Projekte_Quadratisch-480x480.png
+    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267247/deepwave.org/Projekte_Quadratisch-480x480.png
   - title: Blogs
     subtitle: Unsere 9 thematischen Newsblogs
     url: /blogs/
-    image: http://res.cloudinary.com/deepwave-org/image/upload/v1747267250/deepwave.org/blog_2.png
+    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267250/deepwave.org/blog_2.png
 footer:
   ueber-uns:
     - name: "Woher wir kommen"

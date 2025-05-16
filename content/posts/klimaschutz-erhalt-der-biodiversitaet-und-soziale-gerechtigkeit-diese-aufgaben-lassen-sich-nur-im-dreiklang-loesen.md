@@ -5,7 +5,7 @@ blogs:
   - "favoriten"
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245373/deepwave.org/farmer-2260636_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245373/deepwave.org/farmer-2260636_1920.jpg"
 image_caption: "© Aamir Mohd Khan / Pixabay"
 source: "Pressemitteilung, 10.06.2021, Alfred-Wegener-Institut"
 author: "DEEPWAVE"

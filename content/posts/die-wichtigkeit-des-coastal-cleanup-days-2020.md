@@ -6,7 +6,7 @@ blogs:
   - "pplastic-pollution"
   - "veranstaltungen"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244169/deepwave.org/Felix_Botschafter_Quadrat.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244169/deepwave.org/Felix_Botschafter_Quadrat.jpg"
 image_caption: "© DEEPWAVE e.V."
 author: "DEEPWAVE"
 related: 

@@ -3,7 +3,7 @@ title: "Lärm beeinflusst das Leben am Meeresboden"
 date: 2022-08-19
 blogs: 
   - "forschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244243/deepwave.org/Schiffsverkehr_auf_der_Elbe_Hamburg_24-06-2021.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244243/deepwave.org/Schiffsverkehr_auf_der_Elbe_Hamburg_24-06-2021.jpg"
 image_caption: "© Wolfgang Fricke / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 18.08.2022, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

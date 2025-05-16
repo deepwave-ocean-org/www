@@ -6,7 +6,7 @@ blogs:
   - "politik"
 tags: 
   - "extinction"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245236/deepwave.org/markus-spiske-DbwoDjKUiVE-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245236/deepwave.org/markus-spiske-DbwoDjKUiVE-unsplash-scaled.jpg"
 image_caption: "© Markus Spiske / Unsplash"
 author: "DEEPWAVE"
 related: 

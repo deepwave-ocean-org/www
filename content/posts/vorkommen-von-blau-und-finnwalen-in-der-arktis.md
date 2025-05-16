@@ -4,7 +4,7 @@ date: 2024-11-28
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244971/deepwave.org/torsten-dederichs-unsplash_finnwal_wal_arktis_farmstrasse-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244971/deepwave.org/torsten-dederichs-unsplash_finnwal_wal_arktis_farmstrasse-scaled.jpg"
 image_caption: "© Torsten Dederichs / Unsplash"
 source: "Pressemitteilung, 27.11.2024, AWI"
 author: "Amalia Klein"

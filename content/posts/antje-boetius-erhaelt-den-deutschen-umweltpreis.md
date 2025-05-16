@@ -1,7 +1,7 @@
 ---
 title: "Prof. Antje Boetius erhält den Deutschen Umweltpreis 2018"
 date: 2018-11-03
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244065/deepwave.org/meeresbiologin-antje-boetius-1.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244065/deepwave.org/meeresbiologin-antje-boetius-1.jpg
 image_caption: © Alfred-Wegener-Institut / Kerstin Rolfes (CC-BY 4.0)
 blogs: 
   - "forschung"

@@ -3,7 +3,7 @@ title: "NABU zum Klimaschutzsofortprogramm: Hat die Bundesregierung das 1,5-Grad
 date: 2022-05-05
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245014/deepwave.org/markus_spiske_unsplash_plakat_one_world_klimawandel-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245014/deepwave.org/markus_spiske_unsplash_plakat_one_world_klimawandel-scaled.jpg"
 image_caption: "© Markus Spiske / Unsplash"
 source: "Pressemitteilung, 03.05.2022, Naturschutzbund Deutschland e.V."
 author: "Amalia Klein"

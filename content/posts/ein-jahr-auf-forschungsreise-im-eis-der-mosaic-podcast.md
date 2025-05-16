@@ -1,7 +1,7 @@
 ---
 title: "Ein Jahr auf Forschungsreise im Eis: der MOSAiC-Podcast"
 date: 2020-02-04
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244721/deepwave.org/MOSAiC_Polarstern_Expedition-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244721/deepwave.org/MOSAiC_Polarstern_Expedition-scaled.jpg
 image_caption: © Alfred-Wegener-Institut / Esther Horvath (CC-BY 4.0)
 image_alt: Ein Mann läuft auf einer dicken Eisdecke entlang, im Hintergrund ist ein großes Forschungsschiff zu sehen
 blogs: 

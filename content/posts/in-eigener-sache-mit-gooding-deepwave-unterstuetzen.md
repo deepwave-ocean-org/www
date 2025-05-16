@@ -3,7 +3,7 @@ title: "In eigener Sache: mit Gooding DEEPWAVE unterstützen"
 date: 2023-02-10
 blogs: 
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245190/deepwave.org/online-einkaufen-verein-unterstuetzen-mittel.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245190/deepwave.org/online-einkaufen-verein-unterstuetzen-mittel.png"
 image_caption: "© Gooding"
 author: "DEEPWAVE"
 related: 

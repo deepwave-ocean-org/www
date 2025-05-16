@@ -3,7 +3,7 @@ title: "Salpen düngen das Südpolarmeer effektiver als Krill"
 date: 2021-06-03
 blogs: 
   - "forschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244594/deepwave.org/1024px-Salpen.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244594/deepwave.org/1024px-Salpen.jpg"
 image_caption: "© Dapaan / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 02.06.2021, Alfred-Wegener-Institut"
 author: "DEEPWAVE"

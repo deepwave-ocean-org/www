@@ -4,7 +4,7 @@ date: 2023-10-15
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245410/deepwave.org/Glitter_close_up.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245410/deepwave.org/Glitter_close_up.jpg"
 image_caption: "© Inkwina / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 14.10.2023, BUND"
 author: "DEEPWAVE"

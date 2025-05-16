@@ -10,7 +10,7 @@ tags:
   - "klimawandel"
   - "politik"
   - "umwelt"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244687/deepwave.org/Premier_RP_Mateusz_Morawiecki_Sekretarz_Generalny_ONZ_Antonio_Guterres_oraz_Prezydent_COP24_Michal_Kurtyka_podczas_ogloszenia_Katowickiego_Partnerstwa_na_rzecz_Elektromobilnosci-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244687/deepwave.org/Premier_RP_Mateusz_Morawiecki_Sekretarz_Generalny_ONZ_Antonio_Guterres_oraz_Prezydent_COP24_Michal_Kurtyka_podczas_ogloszenia_Katowickiego_Partnerstwa_na_rzecz_Elektromobilnosci-scaled.jpg"
 image_caption: "© CC BY-SA 4.0 / Wikimedia Commons"
 author: "DEEPWAVE"
 related: 

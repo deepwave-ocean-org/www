@@ -9,7 +9,7 @@ tags:
   - "seepferdchen"
   - "wale"
   - "wwf"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245220/deepwave.org/david-clode-1zglnBe3QJw-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245220/deepwave.org/david-clode-1zglnBe3QJw-unsplash-scaled.jpg"
 image_caption: "© © David Clode / Unsplash"
 author: "DEEPWAVE"
 related: 

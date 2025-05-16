@@ -4,7 +4,7 @@ date: 2023-06-08
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244817/deepwave.org/Trischen_mittelplate_schiff_22.08.2011_16-10-34.2011_16-10-34-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244817/deepwave.org/Trischen_mittelplate_schiff_22.08.2011_16-10-34.2011_16-10-34-scaled.jpg"
 image_caption: "© Dirk Ingo Franke / Wikimedia Commons (CC BY-SA 3.0))"
 source: "Pressemitteilung, 07.06.2023, NABU"
 author: "DEEPWAVE"

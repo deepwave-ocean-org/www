@@ -1,6 +1,6 @@
 ---
 title: Die Tiefsee
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243601/deepwave.org/Tiefsee_good_icon_A_RGB.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243601/deepwave.org/Tiefsee_good_icon_A_RGB.jpg
 overlay: rgba(26,26,38,0.49)
 order: 2
 ---
@@ -231,11 +231,11 @@ Text: Onno Groß, 2016
 
 Das Thema „Tiefsee" ist außerdem auf unseren folgenden Factsheets einsehbar:
 
--   [„Die Tiefsee -- eine unbekannte Welt"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243604/deepwave.org/Tiefsee.pdf)
--   [„Tiefseebergbau -- die Ausbeutung der Ozeane"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243606/deepwave.org/Tiefsee-Bergbau.pdf)
--   [„Die Verschmutzung der Tiefsee"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243587/deepwave.org/Tiefsee-M_C3_BCll.pdf)
--   [„Grundschleppnetzfischerei: Die Zerstörung der Tiefsee"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243611/deepwave.org/Tiefsee-Grundschleppnetze.pdf)
--   [„Erdöl aus der Tiefsee"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243595/deepwave.org/Tiefsee-Oel.pdf)
+-   [„Die Tiefsee -- eine unbekannte Welt"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243604/deepwave.org/Tiefsee.pdf)
+-   [„Tiefseebergbau -- die Ausbeutung der Ozeane"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243606/deepwave.org/Tiefsee-Bergbau.pdf)
+-   [„Die Verschmutzung der Tiefsee"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243587/deepwave.org/Tiefsee-M_C3_BCll.pdf)
+-   [„Grundschleppnetzfischerei: Die Zerstörung der Tiefsee"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243611/deepwave.org/Tiefsee-Grundschleppnetze.pdf)
+-   [„Erdöl aus der Tiefsee"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243595/deepwave.org/Tiefsee-Oel.pdf)
 
 ## Blogbeiträge zum Thema Tiefsee
 

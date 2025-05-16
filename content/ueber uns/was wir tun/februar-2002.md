@@ -3,7 +3,7 @@ title: "Februar 2020"
 date: 2020-02-01
 ---
 
-#### ![](http://res.cloudinary.com/deepwave-org/image/upload/v1747243762/deepwave.org/Meeresfibel_Buecherbus_Cuxhaven.jpg)
+#### ![](https://res.cloudinary.com/deepwave-org/image/upload/v1747243762/deepwave.org/Meeresfibel_Buecherbus_Cuxhaven.jpg)
 
 #### **28\. Februar**
 

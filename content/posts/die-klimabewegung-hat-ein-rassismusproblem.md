@@ -4,7 +4,7 @@ date: 2020-06-30
 blogs: 
   - "politik"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244967/deepwave.org/tonnydatteln-4961-960-640-80-c.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244967/deepwave.org/tonnydatteln-4961-960-640-80-c.jpg"
 image_caption: "© <a href='https://twitter.com/momozumkreis?lang=de'>Momo</a>"
 author: "DEEPWAVE"
 related: 

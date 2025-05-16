@@ -3,7 +3,7 @@ title: "Nordsee: Schiffslärm dominiert unter Wasser"
 date: 2024-02-01
 blogs: 
   - "forschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245038/deepwave.org/containerschiff_schiffslaerm_nordsee_unsplash_johan_taljaard-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245038/deepwave.org/containerschiff_schiffslaerm_nordsee_unsplash_johan_taljaard-scaled.jpg"
 image_caption: "© Johan Taljaard / Unsplash"
 source: "Pressemitteilung, 31.01.2024, BSH"
 author: "Amalia Klein"

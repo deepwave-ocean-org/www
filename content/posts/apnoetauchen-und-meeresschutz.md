@@ -3,7 +3,7 @@ title: "Apnoetauchen und Meeresschutz"
 date: 2023-08-12
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244663/deepwave.org/WhatsApp-Image-2023-11-24-at-07.10.00.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244663/deepwave.org/WhatsApp-Image-2023-11-24-at-07.10.00.jpg"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 ---

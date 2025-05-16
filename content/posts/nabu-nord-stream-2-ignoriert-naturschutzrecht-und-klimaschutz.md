@@ -3,7 +3,7 @@ title: "NABU: Nord Stream 2 ignoriert Naturschutzrecht und Klimaschutz"
 date: 2021-07-10
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244397/deepwave.org/1024px-Rohre_fuer_Nord_Stream_2_in_Mukran.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244397/deepwave.org/1024px-Rohre_fuer_Nord_Stream_2_in_Mukran.jpg"
 image_caption: "© Gerd Fahrenhorst / Wikimedia Commons (CC-BY-4.0)"
 source: "Pressemitteilung, 09.07.2021, NABU"
 author: "DEEPWAVE"

@@ -1,7 +1,7 @@
 ---
 title: "Das erste Kippelement ist das schnellste"
 date: 2020-04-02
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244266/deepwave.org/Thwaites_Gletscher_Vogelperspektive-1-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244266/deepwave.org/Thwaites_Gletscher_Vogelperspektive-1-scaled.jpg
 image_caption: © NASA / ​Wikimedia Commons
 image_alt: Gletscheransicht mit Meerblick aus der Vogelperspektive
 blogs: 

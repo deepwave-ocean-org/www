@@ -3,7 +3,7 @@ title: "Aussterbe-Warnung für den Vaquita"
 date: 2023-08-08
 blogs: 
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244702/deepwave.org/Vaquita4_Olson_NOAA.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244702/deepwave.org/Vaquita4_Olson_NOAA.jpg"
 image_caption: "© Paula Olson, NOAA / Wikimedia Commons (PD)"
 source: "Pressemitteilung, 07.08.2023, WWF"
 author: "DEEPWAVE"

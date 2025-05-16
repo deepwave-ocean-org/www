@@ -4,7 +4,7 @@ date: 2005-06-06
 blogs: 
   - "politik"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244841/deepwave.org/The_Brent_Spar_Battle.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244841/deepwave.org/The_Brent_Spar_Battle.jpg"
 image_caption: "© CC BY-SA 4.0 / Wikimedia Commons"
 source: "Pressemitteilung, 28. Mai 2005, Greenpeace"
 author: "deepwave-blog"

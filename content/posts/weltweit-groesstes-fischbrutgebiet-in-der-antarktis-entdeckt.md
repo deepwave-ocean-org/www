@@ -4,7 +4,7 @@ date: 2022-01-14
 blogs: 
   - "favoriten"
   - "forschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245129/deepwave.org/Fischbrutgebiet_weddelmeer_antarktis_eisfisch.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245129/deepwave.org/Fischbrutgebiet_weddelmeer_antarktis_eisfisch.jpg"
 image_caption: "© Alfred-Wegener-Institut / PS124, AWI OFOBS team"
 source: "Pressemitteilung, 13.01.2022, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

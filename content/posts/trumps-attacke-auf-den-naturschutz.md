@@ -3,7 +3,7 @@ title: "Trumps Attacke auf den Meeresschutz"
 date: 2020-06-06
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245354/deepwave.org/markus-spiske-pKx_zEJSIr0-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245354/deepwave.org/markus-spiske-pKx_zEJSIr0-unsplash-scaled.jpg"
 image_caption: "© Markus Spiske / Unsplash"
 author: "DEEPWAVE"
 related: 

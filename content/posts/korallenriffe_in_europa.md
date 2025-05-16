@@ -6,7 +6,7 @@ blogs:
   - "tiefsee"
 tags: 
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244403/deepwave.org/Lophelia_pertusa.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244403/deepwave.org/Lophelia_pertusa.png"
 image_caption: "© CC BY-SA 3.0 / Wikimedia Commons"
 author: "deepwave-blog"
 related: 
@@ -18,7 +18,7 @@ Nicht nur in tropischen Gewässern existieren Korallenriffe. Auch im Atlantik so
 
 Kaltwasserkorallen scheinen einen festen Bestandteil im Ozean einzunehmen, da Proben nachwiesen, dass einige Korallen über 200.000 Jahre alt sind. Einige Fossilienfunde weisen sogar darauf hin, dass die Riffe bereits seit über 30 Millionen Jahren bestehen. Forscher:innen sehen zudem immer mehr Hinweise, dass die Kaltwasserkorallenriffe die Kinderstuben vieler Fischarten sind. Hier haben die Fische ihre Eigelege und hier wachsen die Jungfische im Schutz der Korallen heran.
 
-Jedoch wird dieser Lebensraum bereits massiv durch die Tiefseefischerei zerstört, die mit ihren [Grundschleppnetzen](http://res.cloudinary.com/deepwave-org/image/upload/v1747243640/deepwave.org/DWfacts_Grundschleppnetzfischerei_2016.pdf) nach Garnelen und anderen Schalentieren, sowie einigen Tiefseefischen wie dem [Orange Roughy](https://www.deepwave.org/tag-des-artenschutzes-tiefseefisch-orange-roughy/) fischt. Diese fußballfeldgroßen Grundschleppnetze walzen alles um, was ihnen in den Weg kommt - so auch die Kaltwasserkorallen. Wissenschaftler:innen schätzen, dass weltweit bereits ein Drittel der Kaltwasserkorallenriffe beschädigt ist. Hinzu kommt, dass Tiefseeorganismen und dadurch auch die Kaltwasserkorallen viel langsamer wachsen als die Lebewesen in flacheren Gebieten und somit auch länger brauchen, um sich von der Zerstörung wieder zu erholen. Die Fischerei schneidet sich also ins eigene Fleisch: Ohne Kinderstube keine Fische. Außerdem droht auch die Ozeanversauerung die Kaltwasserkorallenriffe zu zerstören.
+Jedoch wird dieser Lebensraum bereits massiv durch die Tiefseefischerei zerstört, die mit ihren [Grundschleppnetzen](https://res.cloudinary.com/deepwave-org/image/upload/v1747243640/deepwave.org/DWfacts_Grundschleppnetzfischerei_2016.pdf) nach Garnelen und anderen Schalentieren, sowie einigen Tiefseefischen wie dem [Orange Roughy](https://www.deepwave.org/tag-des-artenschutzes-tiefseefisch-orange-roughy/) fischt. Diese fußballfeldgroßen Grundschleppnetze walzen alles um, was ihnen in den Weg kommt - so auch die Kaltwasserkorallen. Wissenschaftler:innen schätzen, dass weltweit bereits ein Drittel der Kaltwasserkorallenriffe beschädigt ist. Hinzu kommt, dass Tiefseeorganismen und dadurch auch die Kaltwasserkorallen viel langsamer wachsen als die Lebewesen in flacheren Gebieten und somit auch länger brauchen, um sich von der Zerstörung wieder zu erholen. Die Fischerei schneidet sich also ins eigene Fleisch: Ohne Kinderstube keine Fische. Außerdem droht auch die Ozeanversauerung die Kaltwasserkorallenriffe zu zerstören.
 
 Deshalb arbeiten die Wissenschaftler:innen mit Hochdruck daran, die Korallenriffe ausfindig zu machen und sie zu erforschen. Denn dadurch können sie Druck auf politische Institutionen aufbauen und sie dazu bewegen, Schutzgebiete einzurichten, in denen die Hochseefischerei mit Schleppnetzen verboten ist. Zudem sollten wir zumindest wissen, was wir verlieren.
 

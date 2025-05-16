@@ -12,7 +12,7 @@ tags:
   - "msc-siegel"
   - "tiefsee"
   - "tiefseearten"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245443/deepwave.org/CSIRO_ScienceImage_2948_Orange_Roughy-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245443/deepwave.org/CSIRO_ScienceImage_2948_Orange_Roughy-scaled.jpg"
 image_caption: "© CSIRO / Wikimedia Commons (CC-BY 3.0)"
 author: "DEEPWAVE"
 ---

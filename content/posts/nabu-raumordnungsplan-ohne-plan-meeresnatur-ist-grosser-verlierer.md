@@ -3,7 +3,7 @@ title: "NABU: Raumordnungsplan ohne Plan – Meeresnatur ist großer Verlierer"
 date: 2021-08-06
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244670/deepwave.org/1024px-Borkum_Hauptstrand_-_2020_-_2687.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244670/deepwave.org/1024px-Borkum_Hauptstrand_-_2020_-_2687.jpg"
 image_caption: "© Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 05.08.2021, NABU"
 author: "DEEPWAVE"

@@ -3,7 +3,7 @@ title: "Unterwasserlärm betrifft Pinguine genauso wie Wale und Delfine"
 date: 2021-04-23
 blogs: 
   - "forschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244648/deepwave.org/dylan-shaw-12R_znWtJHQ-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244648/deepwave.org/dylan-shaw-12R_znWtJHQ-unsplash-scaled.jpg"
 image_caption: "© Dylan Shaw / Unsplash"
 source: "Pressemitteilung, 22.04.2021, Umweltbundesamt"
 author: "DEEPWAVE"

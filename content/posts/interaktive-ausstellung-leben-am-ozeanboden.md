@@ -4,7 +4,7 @@ date: 2023-07-13
 blogs: 
   - "tiefsee"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243901/deepwave.org/MARUM_sea_anemone-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243901/deepwave.org/MARUM_sea_anemone-scaled.jpg"
 image_caption: "© MARUM − Zentrum für Marine Umweltwissenschaften, Universität Bremen / Wikimedia Commons (CC BY 4.0)"
 source: "Pressemitteilung, 12.07.2023, MARUM"
 author: "DEEPWAVE"

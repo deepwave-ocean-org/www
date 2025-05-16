@@ -3,7 +3,7 @@ title: "Schutz der Weltmeere braucht mehr Tempo und internationale Kooperation"
 date: 2023-09-14
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243860/deepwave.org/Hawaii_turtle_2.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243860/deepwave.org/Hawaii_turtle_2.jpg"
 image_caption: "© Brocken Inaglory / Wikimedia Commons (CC BY-SA 3.0)"
 source: "Pressemitteilung, 13.09.2023, NABU"
 author: "DEEPWAVE"

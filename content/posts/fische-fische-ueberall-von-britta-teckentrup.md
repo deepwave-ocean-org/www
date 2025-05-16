@@ -4,7 +4,7 @@ date: 2019-10-20
 blogs: 
   - "kultur"
   - "literatur"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244196/deepwave.org/Fische_Fische_%C3%BCberall_Britta_Teckentrup_Empfehlung-1.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244196/deepwave.org/Fische_Fische_%C3%BCberall_Britta_Teckentrup_Empfehlung-1.jpg"
 image_caption: "© Prestel Verlag"
 author: "DEEPWAVE"
 ---

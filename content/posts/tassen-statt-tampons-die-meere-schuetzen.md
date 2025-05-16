@@ -5,7 +5,7 @@ blogs:
   - "bluestraw-news"
   - "bluestraw"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244188/deepwave.org/DEEPWAVE_Tassen_statt_Tampons_Kampagnenfoto-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244188/deepwave.org/DEEPWAVE_Tassen_statt_Tampons_Kampagnenfoto-scaled.jpg"
 image_caption: "© DEEPWAVE / Bea Baurmann"
 author: "DEEPWAVE"
 ---
@@ -18,7 +18,7 @@ Hier setzt unsere Kampagne [Tassen statt Tampons: die Meere schützen](https://o
 
 Irgendjemand hat einmal ausgerechnet, dass eine Frau im Laufe ihres Lebens 10.000 Tampons benutzt, wir haben es hier also nicht mit einem Bagatellproblem zu tun. Abgesehen von der absurden Ressourcenverschwendung ist es kein Wunder, dass davon welche im Meer landen, direkt vom Strand, den Dünen oder über die Böschungen der Flüsse, inkl. rasch aufgerissener Verpackung. Ist ja nur so ein Fitzelchen. Menstruationstassen halten bis zu 10 Jahren. Das heißt abgesehen von allen anderen Vorteilen bräuchte eine Frau im Laufe ihres Lebens davon: vier.
 
-\[caption id="attachment\_20813308" align="alignnone" width="2048"\]![Zeichnung eines Strandes von oben mit Wellensaum, an dem ein Tampon liegt, der Tampon ist als Foto dazugefügt, mit einem zweiten Tampon, der sich ins Meer auflöst](http://res.cloudinary.com/deepwave-org/image/upload/v1747244191/deepwave.org/DEEPWAVE_Tassen_statt_Tampons_Kampagnenzeichnung-scaled.jpg) © DEEPWAVE / Illustration: Anna Mandel\[/caption\]
+\[caption id="attachment\_20813308" align="alignnone" width="2048"\]![Zeichnung eines Strandes von oben mit Wellensaum, an dem ein Tampon liegt, der Tampon ist als Foto dazugefügt, mit einem zweiten Tampon, der sich ins Meer auflöst](https://res.cloudinary.com/deepwave-org/image/upload/v1747244191/deepwave.org/DEEPWAVE_Tassen_statt_Tampons_Kampagnenzeichnung-scaled.jpg) © DEEPWAVE / Illustration: Anna Mandel\[/caption\]
 
 Mit der finziellen Unterstützung der one-for-the-planet-Community könnten wir Menstruationstassen kaufen und diese verschenken. In Brennpunktschulen und Flüchtlingsprojekten, zu denen wir persönlichen Kontakt haben. So bieten wir Mädchen und Frauen die Möglichkeit, die Menstruationstasse auszuprobieren, die noch nicht von diesem Konzept gehört haben oder sich diese Investition nicht leisten können. Wir möchten ihnen ermöglichen, gesünder, angenehmer, kostengünstiger und auch selbstbewusster mit ihrer Periode umzugehen.
 

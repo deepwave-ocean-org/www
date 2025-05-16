@@ -3,7 +3,7 @@ title: "Ein Dank an unser großartiges Team"
 date: 2022-06-28
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244136/deepwave.org/Screenshot-2023-11-30-164906.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244136/deepwave.org/Screenshot-2023-11-30-164906.png"
 image_caption: "© Jochen Quast"
 author: "DEEPWAVE"
 related: 

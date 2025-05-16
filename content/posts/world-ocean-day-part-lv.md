@@ -3,7 +3,7 @@ title: "World Ocean Day Part lV"
 date: 2023-06-18
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244584/deepwave.org/WhatsApp-Image-2023-11-24-at-07.10.00-4.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244584/deepwave.org/WhatsApp-Image-2023-11-24-at-07.10.00-4.jpg"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 

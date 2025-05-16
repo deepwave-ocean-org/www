@@ -1,7 +1,7 @@
 ---
 title: "\"Wir dachten, der Stint wäre unerschöpflich\""
 date: 2019-04-23
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244292/deepwave.org/reuben-hustler-unsplash-fischer-netz-gruen-blau-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244292/deepwave.org/reuben-hustler-unsplash-fischer-netz-gruen-blau-scaled.jpg
 image_caption: © Reuben Hustler / Unsplash
 image_alt: Nahaufnahme eines Fischernetzes. Vielleicht kann bald kein Stint mehr darin gefangen werden
 blogs: 

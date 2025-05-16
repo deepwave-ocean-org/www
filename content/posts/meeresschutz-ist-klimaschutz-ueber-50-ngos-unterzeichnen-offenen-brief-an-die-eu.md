@@ -1,7 +1,7 @@
 ---
 title: "Meeresschutz ist Klimaschutz – Über 50 NGOs unterzeichnen offenen Brief an die EU"
 date: 2019-10-01
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244733/deepwave.org/Climateocean_logo_fundingfish_worried_about_climate_breakdown.png
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244733/deepwave.org/Climateocean_logo_fundingfish_worried_about_climate_breakdown.png
 image_caption: © climateocean
 image_alt: Nahaufnahme der Meeresoberfläche mit Lichtreflektionen. Darüber die Sätze, Worried about climate breakdown? There is an ocean of solutions
 blogs: 

@@ -10,7 +10,7 @@ tags:
   - "massivsulfide"
   - "papua-new-guinea"
   - "tiefseebergbau"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244908/deepwave.org/Deep_sea_corals_Wagner_Seamount.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244908/deepwave.org/Deep_sea_corals_Wagner_Seamount.jpg"
 image_caption: "© NOAA Office of Ocean Exploration and Research / Wikimedia Commons"
 author: "DEEPWAVE"
 related: 

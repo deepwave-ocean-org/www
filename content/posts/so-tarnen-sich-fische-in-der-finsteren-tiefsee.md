@@ -3,7 +3,7 @@ title: "So tarnen sich Fische in der finsteren Tiefsee"
 date: 2020-09-01
 blogs: 
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244124/deepwave.org/noe-sardet-hp4SVuJM2-g-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244124/deepwave.org/noe-sardet-hp4SVuJM2-g-unsplash-scaled.jpg"
 image_caption: "© Noé Sardet / Unsplash"
 author: "DEEPWAVE"
 related: 

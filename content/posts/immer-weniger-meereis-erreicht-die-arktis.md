@@ -10,7 +10,7 @@ tags:
   - "eisschmelze"
   - "klimawandel"
   - "meereseis"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244246/deepwave.org/20200930_MOSAiCleg5_FolkeMehrtens_060_small.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244246/deepwave.org/20200930_MOSAiCleg5_FolkeMehrtens_060_small.jpg"
 image_caption: "© Alfred-Wegener-Institut / Folke Mehrtens (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 

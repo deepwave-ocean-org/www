@@ -1,36 +1,36 @@
-backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
-media_folder: static/img
-public_folder: /img
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: deepwave-org
-    api_key: 128449217353833
-collections:
-  - name: 'posts'
-    label: 'Posts'
-    folder: 'content/posts'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: "Image", name: "image", widget: "image" }
-      - { label: "image Caption ©", name: "image_caption", widget: "string" }
-      - label: "Categories"
-        name: "blogs"
-        widget: "select"
-        multiple: true
-        options: ["good-news", "forschung", klima", "politik", "kultur", "tiefsee", "reflexionen", "überfischung", "was-tun"]
-      - label: "Related"
-        name: "related"
-        widget: "relation"
-        collection: "posts"
-        multiple: true
-        search_fields: ["title"]
-        value_field: "{{slug}}"
+# backend:
+#   name: git-gateway
+#   branch: main # Branch to update (optional; defaults to master)
+# media_folder: static/img
+# public_folder: /img
+# media_library:
+#   name: cloudinary
+#   config:
+#     cloud_name: deepwave-org
+#     api_key: 128449217353833
+# collections:
+#   - name: 'posts'
+#     label: 'Posts'
+#     folder: 'content/posts'
+#     create: true
+#     slug: '{{slug}}'
+#     editor:
+#       preview: false
+#     fields:
+#       - { label: 'Title', name: 'title', widget: 'string' }
+#       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+#       - { label: 'Body', name: 'body', widget: 'markdown' }
+#       - { label: "Image", name: "image", widget: "image" }
+#       - { label: "image Caption ©", name: "image_caption", widget: "string" }
+#       - label: "Categories"
+#         name: "blogs"
+#         widget: "select"
+#         multiple: true
+#         options: ["good-news", "forschung", klima", "politik", "kultur", "tiefsee", "reflexionen", "überfischung", "was-tun"]
+#       - label: "Related"
+#         name: "related"
+#         widget: "relation"
+#         collection: "posts"
+#         multiple: true
+#         search_fields: ["title"]
+#         value_field: "/{{slug}}/"

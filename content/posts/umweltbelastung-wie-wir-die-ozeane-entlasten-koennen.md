@@ -1,7 +1,7 @@
 ---
 title: "Wie wir die Ozeane entlasten können"
 date: 2018-12-07
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244514/deepwave.org/tractor-4543124_1920-1.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244514/deepwave.org/tractor-4543124_1920-1.jpg
 image_caption: © schauhi / Pixabay
 image_alt: Umweltbelastung, Traktor verspritzt Gülle auf einem Feld
 blogs: 

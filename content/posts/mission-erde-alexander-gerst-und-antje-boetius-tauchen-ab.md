@@ -1,7 +1,7 @@
 ---
 title: "Mission Erde: Alexander Gerst und Antje Boetius tauchen ab"
 date: 2020-08-12
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244339/deepwave.org/MissionErdeAzoren_JoachimJakobsen.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244339/deepwave.org/MissionErdeAzoren_JoachimJakobsen.jpg
 image_caption: © AWI/Joachim Jakobsen
 image_alt: Alexander Gerst und Antje Boetius im Tiefsee U-Boot
 blogs: 
@@ -20,7 +20,7 @@ _Alexander Gerst begibt sich für die Fernsehserie “[Mission Erde](https://www
 **DW**: Der Weltraum und die Tiefsee könnten in vielerlei Hinsicht nicht verschiedener sein. Die Leere des Vakuums, verglichen mit unvorstellbarem Druck. Freie Sicht bis in entfernte Galaxien oder nur soweit die Scheinwerfer reichen. Absolute Stille verglichen mit Walgesängen, die über den ganzen Erdball zu hören sind. Hast du jetzt, wo du mit Alexander Gerst unterwegs warst, noch mehr ein Gefühl für die Einzigartigkeit der Tiefsee? Oder ging es in euren Gesprächen eher um die Gemeinsamkeiten, die Schwärze, das Schweben, die Enge oder Freiheit?
 
 **Boetius**: Wir haben über beides viel gesprochen – vor allem über die Gemeinsamkeit, dass in der bemannten oder wie Alexander sagt „bemenschten“ Raumfahrt und Tiefseeforschung ein nicht zu unterschätzender Perspektivwechsel entsteht. Dass es wichtig ist, dass die internationale Gemeinschaft dafür die notwendigen Techniken vorhält, auch wenn Roboter immer besser im Erkunden werden. Es gibt viel Gemeinsames, wie das Bewusstsein für lebenserhaltende Versorgung durch Technik und Umwelt – das vielen Menschen fehlt, weil man sich so gar keine Gedanken machen muss, woher die Luft zum Atmen kommt und die Energie zum Leben. Und wir haben festgestellt, dass die unbedingte Neugierde und Lust auf das Erkunden und Verstehen fremder Räume in der Kindheit ein ganz starkes Gefühl ist.\
-![Deep_Sea_Bioluminescence_Rebikoff_Fondation](http://res.cloudinary.com/deepwave-org/image/upload/v1747266895/deepwave.org/Deep_Sea_Bioluminescence_Rebikoff_Fondation.jpg)
+![Deep_Sea_Bioluminescence_Rebikoff_Fondation](https://res.cloudinary.com/deepwave-org/image/upload/v1747266895/deepwave.org/Deep_Sea_Bioluminescence_Rebikoff_Fondation.jpg)
 
 **DW**: Du hast einmal von der Biolumineszenz gesagt, sie sei dort unten wie eine sternenklare Nacht im Gebirge, nur dass sich alle Sterne bewegen und blinken wie in der wildesten Disco. Konntet ihr beim Tauchgang selbstleuchtendes Leben sehen?
 
@@ -34,7 +34,7 @@ _Alexander Gerst begibt sich für die Fernsehserie “[Mission Erde](https://www
 
 **Boetius**: Im U-Boot hören wir zunächst vor allem Blasen platzen beim Ab- und Auftauchen, Pings für die Orientierung und dann ab und zu die eher scharrende Kommunikation zum Schiff. Wir können das Meeresleben draußen um uns herum nicht hören ohne zusätzliche Geräte. Für solche Horchposten in der Tiefsee nutzen wir daher passive hydroakustische Rekorder auf Verankerungen, da kommt Erstaunliches bei raus. Manche Geräusche kann man gar nicht zuordnen. Auf jeden Fall gibt es auch in der Tiefsee menschlichen Lärm zu detektieren, aber eher im Nordmeer und Mittelmeer, wo nach Gas und Öl gesucht wird.
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244346/deepwave.org/NASA_Hitzsommer_2018.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244346/deepwave.org/NASA_Hitzsommer_2018.jpg" alt="Aufnahme aus dem all vom Ruhrgebiet im sehr trockenen Sommer 2018" caption="© dpa / NASA" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747244346/deepwave.org/NASA_Hitzsommer_2018.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747244346/deepwave.org/NASA_Hitzsommer_2018.jpg" alt="Aufnahme aus dem all vom Ruhrgebiet im sehr trockenen Sommer 2018" caption="© dpa / NASA" >}}
 
 **DW**: Alexander Gerst hat 2018 Bilder des extremen Hitzesommers aus dem All geschossen und geschrieben “Schockierender Anblick. Alles vertrocknet und braun, was eigentlich grün sein sollte.” Hattet ihr ein ähnliches Erlebnis unter Wasser? Einen Anblick, der zeigt, wie sich die Klimakatastrophe auf die Tiefsee auswirkt?
 

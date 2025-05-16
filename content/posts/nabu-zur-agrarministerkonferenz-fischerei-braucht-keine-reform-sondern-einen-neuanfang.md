@@ -4,7 +4,7 @@ date: 2023-09-23
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244183/deepwave.org/Krabbenkutter_Ivonne_Pellworm_P5242390jm.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244183/deepwave.org/Krabbenkutter_Ivonne_Pellworm_P5242390jm.jpg"
 image_caption: "© Joachim Müllerchen / Wikimedia Commons (CC BY-SA 2.0)"
 source: "Pressemitteilung, 22.09.2023, NABU"
 author: "DEEPWAVE"

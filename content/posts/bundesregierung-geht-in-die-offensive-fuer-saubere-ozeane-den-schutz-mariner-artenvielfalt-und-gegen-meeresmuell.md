@@ -5,7 +5,7 @@ blogs:
   - "favoriten"
   - "good-news"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245287/deepwave.org/baltic-sea-g7130935a5_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245287/deepwave.org/baltic-sea-g7130935a5_1920.jpg"
 image_caption: "© vait_mcright / Pixabay"
 source: "Pressemitteilung, 10.02.2022, BMUV (Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz)"
 author: "DEEPWAVE"

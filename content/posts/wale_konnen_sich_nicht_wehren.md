@@ -6,7 +6,7 @@ blogs:
   - "was-tun"
 tags: 
   - "wale"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245385/deepwave.org/1024px-Humpback_whales_in_singing_position.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245385/deepwave.org/1024px-Humpback_whales_in_singing_position.jpg"
 image_caption: "© Dr. Louis M. Herman, NOAA Photo Library / Wikimedia Commons"
 source: "Pressemitteilung, 14. Juni 2005, Deutsche Umwelthilfe"
 author: "deepwave-blog"

@@ -3,7 +3,7 @@ title: "Nach 2 Jahren Pause gibt es wieder unser Filmfestival in Hamburg!"
 date: 2022-06-05
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243827/deepwave.org/Screenshot-2023-11-30-173728.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243827/deepwave.org/Screenshot-2023-11-30-173728.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 

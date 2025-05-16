@@ -4,7 +4,7 @@ date: 2023-02-01
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245240/deepwave.org/michal-pech-GrijtNGd_g0-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245240/deepwave.org/michal-pech-GrijtNGd_g0-unsplash-scaled.jpg"
 image_caption: "© Michal Pech / Unsplash"
 source: "Pressemitteilung, 31.01.2023, MARUM"
 author: "DEEPWAVE"

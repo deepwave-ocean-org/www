@@ -4,7 +4,7 @@ date: 2022-11-21
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244587/deepwave.org/kelly-sikkema-_whs7FPfkwQ-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244587/deepwave.org/kelly-sikkema-_whs7FPfkwQ-unsplash-scaled.jpg"
 image_caption: "© Kelly Sikkema / Unsplash"
 source: "Pressemitteilung, 20.11.22, BUND"
 author: "DEEPWAVE"

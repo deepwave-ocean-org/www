@@ -3,7 +3,7 @@ title: "NABU enttäuscht über Entscheidung des Bundesverwaltungsgerichts zu Rif
 date: 2022-12-16
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244689/deepwave.org/lighthouse-fehmarn_denfran_pixabay.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244689/deepwave.org/lighthouse-fehmarn_denfran_pixabay.jpg"
 image_caption: "© denfran / pixabay"
 source: "Pressemitteilung, 14.12.2022, NABU"
 author: "Amalia Klein"

@@ -1,7 +1,7 @@
 ---
 title: "Wie reagieren marine Nahrungsnetze auf Alkalinitätserhöhungen?"
 date: 2024-12-07
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244612/deepwave.org/Marine_microplankton_zooplankton_nahrungsnetze.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244612/deepwave.org/Marine_microplankton_zooplankton_nahrungsnetze.jpg
 image_caption: © Epipelagic / Wikimedia Commons (CC BY-SA 4.0)
 image_alt: Alkalinitätserhöhung - Mikroskopaufnahme einer gemischten Zooplanktonprobe
 blogs: 

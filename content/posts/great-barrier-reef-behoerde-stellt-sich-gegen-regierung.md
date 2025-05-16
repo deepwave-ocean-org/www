@@ -4,7 +4,7 @@ date: 2019-09-06
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244193/deepwave.org/yanguang-lan-nPtKc0jqNus-unsplash.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244193/deepwave.org/yanguang-lan-nPtKc0jqNus-unsplash.jpg"
 image_caption: "© Yanguang Lan / Unsplash"
 author: "DEEPWAVE"
 ---

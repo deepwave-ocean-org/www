@@ -1,7 +1,7 @@
 ---
 title: "Die Tiefsee: Rästelhafte Unterwasserwelt"
 date: 2018-10-13
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244454/deepwave.org/jellyfish_qualle_tiefsee_republica_pixabay.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244454/deepwave.org/jellyfish_qualle_tiefsee_republica_pixabay.jpg
 image_caption: © Republica / Pixabay
 image_alt: Unterwasserwelt, Eine orangene Qualle schwimmt durch die Tiefsee
 blogs: 

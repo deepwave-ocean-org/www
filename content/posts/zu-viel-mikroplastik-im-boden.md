@@ -7,7 +7,7 @@ tags:
   - "mikroplastik"
   - "plastic-pollution"
   - "plastikmuell"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245194/deepwave.org/krystina-jarvis-aiHr3832uhs-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245194/deepwave.org/krystina-jarvis-aiHr3832uhs-unsplash-scaled.jpg"
 image_caption: "© Krystina Jarvis / Unsplash"
 author: "DEEPWAVE"
 related: 

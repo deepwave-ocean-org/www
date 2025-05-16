@@ -3,7 +3,7 @@ title: "April 2020"
 date: 2020-04-01
 ---
 
-#### ![](http://res.cloudinary.com/deepwave-org/image/upload/v1747245562/deepwave.org/Tamil_Nadu_Corono_Rice_Donation.jpg)
+#### ![](https://res.cloudinary.com/deepwave-org/image/upload/v1747245562/deepwave.org/Tamil_Nadu_Corono_Rice_Donation.jpg)
 
 #### **30\. April**
 

@@ -4,7 +4,7 @@ date: 2019-09-10
 blogs: 
   - "ehemals-news"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244905/deepwave.org/mikroplastik_einkaufsratgeber-3-e1580379794494.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244905/deepwave.org/mikroplastik_einkaufsratgeber-3-e1580379794494.jpg"
 image_caption: "© BUND"
 author: "Noemi Merz"
 related: 

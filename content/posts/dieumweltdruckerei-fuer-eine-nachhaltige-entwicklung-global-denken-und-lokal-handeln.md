@@ -3,7 +3,7 @@ title: "Für eine nachhaltige Entwicklung: Global denken und lokal handeln!"
 date: 2024-10-26
 blogs: 
   - "good-news"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243884/deepwave.org/kevin_riemer_schadendorf.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243884/deepwave.org/kevin_riemer_schadendorf.jpg"
 image_caption: "© Kevin Riemer-Schadendorf / dieUmweltDruckerei"
 author: "Amalia Klein"
 ---
@@ -28,7 +28,7 @@ Unser Interview mit [Dr. Kevin Riemer-Schadendorf](https://www.linkedin.com/in/k
 > 
 > Ein Beispiel ist die Korallenbleiche, die primär durch steigende Wassertemperaturen verursacht wird. Wenn das Klima sich erwärmt, stressen die hohen Temperaturen die Korallen, was zur Bleiche führt und das gesamte Ökosystem gefährdet. Exemplarisch sind Meeresschildkröten auf gesunde Korallenriffe angewiesen, da diese Lebensräume für viele ihrer Beutetiere bieten. Korallenbleiche beeinträchtigen somit die Nahrungsgrundlage der Schildkröten. Zudem sind die Eier der Schildkröten anfällig für Veränderungen im Klima, da Temperatur und Meeresspiegel direkte Auswirkungen auf ihre Brutstätten haben. Um die Meeresschildkröten zu schützen, supporten wir beispielsweise ein [Artenschutzprojekt in Kenia](https://www.dieumweltdruckerei.de/blog/tag/meeresschildkroeten/). Gemeinsam haben wir vor Ort 1.200 Mangroven gepflanzt. Die Bäume leisten nicht nur einen wichtigen Klima- und Erosionsschutz, sondern dienen den Schildkröten und weiteren Arten als sicheres Brut- und Aufzuchtgebiet.
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747243886/deepwave.org/kevin_riember_schadendorf_schildkroete.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747243886/deepwave.org/kevin_riember_schadendorf_schildkroete.jpg" alt="Dr. Kevin Riemer-Schadendorf schwimmt im flachen Wasser mit einer Meeresschildkröte" caption="© Kevin Riemer-Schadendorf/ dieUmweltDruckerei" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747243886/deepwave.org/kevin_riember_schadendorf_schildkroete.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747243886/deepwave.org/kevin_riember_schadendorf_schildkroete.jpg" alt="Dr. Kevin Riemer-Schadendorf schwimmt im flachen Wasser mit einer Meeresschildkröte" caption="© Kevin Riemer-Schadendorf/ dieUmweltDruckerei" >}}
 
 **Das passt gut zu unserem eigenen Mangrovenschutzprojekt** [**MANGREEN**](https://www.deepwave.org/projekte/mangrovenprojekt/) **in Tamil Nadu. Hast du eigentlich eine persönliche Verbindung zum Meer?**
 

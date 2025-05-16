@@ -3,7 +3,7 @@ title: "Der Strand wird immer schmaler ..."
 date: 2022-09-30
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244820/deepwave.org/Screenshot-2023-11-26-114228.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244820/deepwave.org/Screenshot-2023-11-26-114228.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 ---

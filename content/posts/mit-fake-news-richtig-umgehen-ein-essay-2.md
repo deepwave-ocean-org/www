@@ -1,7 +1,7 @@
 ---
 title: "Mit Fake News richtig umgehen – ein Essay"
 date: 2020-05-27
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244731/deepwave.org/011_Bild_DE.png
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244731/deepwave.org/011_Bild_DE.png
 image_caption: © Oliver Wünsch
 image_alt: Zwei Personen vor einem Ölgemälde einer zeigt auf das Bild und sagt Ist schön da draußen oder Der andere stutzt und fragt Draußen
 blogs: 

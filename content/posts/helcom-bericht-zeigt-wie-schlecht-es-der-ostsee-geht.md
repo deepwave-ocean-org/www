@@ -4,7 +4,7 @@ date: 2023-11-01
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245131/deepwave.org/Moewen_Ostsee_MandrillArt_Pixabay.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245131/deepwave.org/Moewen_Ostsee_MandrillArt_Pixabay.jpg"
 image_caption: "© MandrillArt / Pixabay"
 source: "Pressemitteilung, NABU, 31.10.2023"
 author: "Lukas"

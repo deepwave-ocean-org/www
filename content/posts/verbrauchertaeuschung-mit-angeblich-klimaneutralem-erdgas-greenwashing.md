@@ -3,7 +3,7 @@ title: "Verbrauchertäuschung mit angeblich „klimaneutralem“ Erdgas: Deutsch
 date: 2024-11-27
 blogs: 
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245007/deepwave.org/gasleitung_greenwashing_erdgas_pixabay_ds_30.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245007/deepwave.org/gasleitung_greenwashing_erdgas_pixabay_ds_30.jpg"
 image_caption: "© Pixabay / ds_30"
 source: "Pressemitteilung, 26.11.2024, DUH"
 author: "Amalia Klein"

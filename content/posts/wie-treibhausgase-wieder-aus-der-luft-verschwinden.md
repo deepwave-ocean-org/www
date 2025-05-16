@@ -9,7 +9,7 @@ tags:
   - "co2"
   - "klimawandel"
   - "kohlendioxid-speicher"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244351/deepwave.org/bottle-2582012_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244351/deepwave.org/bottle-2582012_1920.jpg"
 image_caption: "© ExplorerBob / Pixabay"
 author: "DEEPWAVE"
 related: 

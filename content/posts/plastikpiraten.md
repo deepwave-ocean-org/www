@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "pplastic-pollution"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244380/deepwave.org/plastic-in-the-river-4767327_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244380/deepwave.org/plastic-in-the-river-4767327_1920.jpg"
 image_caption: "© Filmbetrachter / Pixabay"
 author: "DEEPWAVE"
 related: 

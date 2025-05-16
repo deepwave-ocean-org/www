@@ -9,7 +9,7 @@ tags:
   - "tourismus"
   - "umwelt"
   - "wale"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245399/deepwave.org/dolphins-1651975_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245399/deepwave.org/dolphins-1651975_1920.jpg"
 image_caption: "© Pompi / Pixabay"
 author: "deepwave-blog"
 related: 

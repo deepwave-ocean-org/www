@@ -3,7 +3,7 @@ title: "Seegras - Das neue Dämm- und Füllmaterial"
 date: 2020-03-02
 blogs: 
   - "good-news"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244810/deepwave.org/seegras-wird-aus-der-ostsee-gebaggert.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244810/deepwave.org/seegras-wird-aus-der-ostsee-gebaggert.jpg"
 image_caption: "© seegrashandel.de"
 author: "Noemi Merz"
 related: 
@@ -22,7 +22,7 @@ Auch Kristian Dittmann von der [Strand-Manufaktur](https://strand-manufaktur.de/
 
 Indem wir Seegras verwenden, wird uns bewusst, dass etwas, was wir bisher als eine Art natürlichen Müll betrachtet haben, eine kostbare Ressource darstellt. Und besonders da konventionelles Bauen mit einem beträchtlichen Anteil zur Erderhitzung beiträgt, wird Seegras in Zukunft eine wichtige Rolle als Dämmmaterial spielen.
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244813/deepwave.org/leisten-als-lehm-putztr%C3%A4ger-mit-seegrasd%C3%A4mmung.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244813/deepwave.org/leisten-als-lehm-putztr%C3%A4ger-mit-seegrasd%C3%A4mmung.jpg" alt="Getrocknetes Seegras wird als Dämmmaterial der Decke benutzt." caption="© seegrashandel.de" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747244813/deepwave.org/leisten-als-lehm-putztr%C3%A4ger-mit-seegrasd%C3%A4mmung.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747244813/deepwave.org/leisten-als-lehm-putztr%C3%A4ger-mit-seegrasd%C3%A4mmung.jpg" alt="Getrocknetes Seegras wird als Dämmmaterial der Decke benutzt." caption="© seegrashandel.de" >}}
 
 Eine [Dokumentation](https://www.ndr.de/fernsehen/sendungen/die_nordstory/Heu-Ernte-am-Strandufer,sendung905514.html) zum Thema gibt es beim [NDR](https://www.ndr.de/index.html). Wer sehen möchte, wie lebendig und voller Leben Seegraswiesen unter Wasser aussehen, kann dies in der virtuellen Realität [OstseeLIFE](https://www.deepwave.org/erste-virtuelle-realitaet-der-ostsee/) des Nabu.
 

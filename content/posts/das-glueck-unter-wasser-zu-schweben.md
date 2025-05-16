@@ -3,7 +3,7 @@ title: "Das Glück unter Wasser zu schweben"
 date: 2019-08-13
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245020/deepwave.org/Screenshot-2023-12-04-173057.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245020/deepwave.org/Screenshot-2023-12-04-173057.png"
 image_caption: "© Barbara Focke / DEEPWAVE"
 author: "DEEPWAVE"
 ---

@@ -7,7 +7,7 @@ blogs:
 tags: 
   - "meeresforschung"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244185/deepwave.org/Champagne_vent_white_smokers_Wikimedia_Commons.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244185/deepwave.org/Champagne_vent_white_smokers_Wikimedia_Commons.jpg"
 image_caption: "© Public Domain / Wikimedia Commons"
 author: "deepwave-blog"
 related: 

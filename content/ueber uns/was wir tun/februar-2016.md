@@ -7,7 +7,7 @@ date: 2016-02-01
 
 Preisverleihung „Google Impact Challange Award“ an dem wir mit unserer [Blue-Straw-Kampagne](https://www.deepwave.org/bluestraw-kampagne/) erfolgreich teilgenommen haben, Berlin.
 
-![GoogleLogo](http://res.cloudinary.com/deepwave-org/image/upload/v1747245645/deepwave.org/GoogleLogo-1024x46.png)
+![GoogleLogo](https://res.cloudinary.com/deepwave-org/image/upload/v1747245645/deepwave.org/GoogleLogo-1024x46.png)
 
 #### **23\. Februar:**
 

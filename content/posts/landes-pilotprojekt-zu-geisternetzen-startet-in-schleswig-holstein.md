@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244251/deepwave.org/Sass2NetzRestDiv_030.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244251/deepwave.org/Sass2NetzRestDiv_030.jpg"
 image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 02.10.2023, WWF"
 author: "DEEPWAVE"

@@ -1,7 +1,7 @@
 ---
 title: "Weder öde noch leer: Tiefseeboden wimmelt von Leben"
 date: 2024-11-21
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244335/deepwave.org/Tiefsee-Lebewesen_Senckenberg_Arktis.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244335/deepwave.org/Tiefsee-Lebewesen_Senckenberg_Arktis.jpg
 image_caption: Nahaufnahme eines Bewohnsers der Tiefsee der Arktis
 image_alt: © Lydia A. Schmidt &amp; Carolin Uhlir/Senckenberg
 blogs: 

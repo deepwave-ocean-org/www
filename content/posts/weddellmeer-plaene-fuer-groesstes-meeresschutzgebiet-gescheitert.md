@@ -9,7 +9,7 @@ tags:
   - "meeresforschung"
   - "polarmeere"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244040/deepwave.org/antarctica-4500429_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244040/deepwave.org/antarctica-4500429_1920.jpg"
 image_caption: "© Sarah N / Pixabay"
 author: "DEEPWAVE"
 related: 

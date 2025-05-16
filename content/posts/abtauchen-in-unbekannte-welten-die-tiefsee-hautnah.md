@@ -3,7 +3,7 @@ title: "Tiefsee hautnah - Abtauchen in unbekannte Welten"
 date: 2020-09-29
 blogs: 
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244774/deepwave.org/Neal_Agarwal_Deep_Sea-e1600328276986.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244774/deepwave.org/Neal_Agarwal_Deep_Sea-e1600328276986.png"
 image_caption: "© Neal Agarwal"
 author: "DEEPWAVE"
 related: 

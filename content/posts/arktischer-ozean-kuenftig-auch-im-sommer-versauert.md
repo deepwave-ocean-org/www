@@ -4,7 +4,7 @@ date: 2022-10-07
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245158/deepwave.org/eisberg_groenland_annie-spratt-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245158/deepwave.org/eisberg_groenland_annie-spratt-unsplash-scaled.jpg"
 image_caption: "© Annie Spratt / Unsplash"
 source: "Pressemitteilung, 05.10.2022, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "Amalia Klein"

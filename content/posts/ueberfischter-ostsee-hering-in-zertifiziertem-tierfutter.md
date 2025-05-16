@@ -4,7 +4,7 @@ date: 2022-10-07
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244008/deepwave.org/Catch_of_Atlantic_herring.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244008/deepwave.org/Catch_of_Atlantic_herring.jpg"
 image_caption: "© NOAA FishWatch / Wikimedia Commons"
 source: "Pressemitteilung, 06.10.2022, WWF"
 author: "DEEPWAVE"

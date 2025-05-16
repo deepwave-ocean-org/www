@@ -4,7 +4,7 @@ date: 2024-10-10
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244354/deepwave.org/NOAA_tiefsee_quelle_raucher.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244354/deepwave.org/NOAA_tiefsee_quelle_raucher.jpg"
 image_caption: "© <a href='https://oceanexplorer.noaa.gov/okeanos/explorations/ex1605/dailyupdates/dailyupdates.html#cbpi=may2.html'>NOAA Office of Ocean Exploration and Research, 2016 Deepwater Exploration of the Marianas</a>"
 source: "Pressemitteilung, 23.10.2024, MARUM – Zentrum für Marine Umweltwissenschaften"
 author: "Amalia Klein"

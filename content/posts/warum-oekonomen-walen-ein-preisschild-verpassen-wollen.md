@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "klima"
   - "videos-und-audio"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243788/deepwave.org/todd-cravens-QnBrjY-nFUs-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243788/deepwave.org/todd-cravens-QnBrjY-nFUs-unsplash-scaled.jpg"
 image_caption: "© Todd Cravens / Unsplash"
 author: "DEEPWAVE"
 related: 

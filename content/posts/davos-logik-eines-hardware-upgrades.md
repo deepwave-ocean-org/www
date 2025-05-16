@@ -4,7 +4,7 @@ date: 2025-01-21
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244633/deepwave.org/hardware_technik_upgrade_davos_pixabay_moebiusdream.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244633/deepwave.org/hardware_technik_upgrade_davos_pixabay_moebiusdream.jpg"
 image_caption: "© moebiusdream / Pixabay"
 source: "Pressemitteilung, 20.01.2025, NABU"
 author: "Amalia Klein"

@@ -9,7 +9,7 @@ tags:
   - "erderwaermung"
   - "klimawandel"
   - "roter-schnee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244896/deepwave.org/roter_und_gr%C3%BCner_Schnee_Antarktis-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244896/deepwave.org/roter_und_gr%C3%BCner_Schnee_Antarktis-scaled.jpg"
 image_caption: "© Jerzy Strzelecki / Wikimedia Commons (CC-BY-SA-3.0)"
 author: "DEEPWAVE"
 ---
@@ -20,7 +20,7 @@ Der einst weiße Schnee ist nun in ein rotes Gewand gehüllt, und so schön der 
 
 Der rote Schnee der Antarktis ist also eine Auswirkung des Klimawandels, die diesen noch verstärkt. Denn durch das Abschmelzen werden Wassermengen frei, die das Sonnenlicht nicht mehr so gut reflektieren, sondern ebenfalls absorbieren. Das Wasser erwärmt sich und bringt noch mehr Eis zum Schmelzen. Zusätzlich wird die weiße Reflexionsfläche immer kleiner und die Energie des Systems immer höher. Diesen Effekt nennt man positive Rückkopplung, genauer gesagt Eis-Albedo-Rückkopplungseffekt [\[4\]](#JoseLozan).
 
-Weitere Informationen über den Klimawandel und dessen Einfluss auf das marine Ökosystem findet ihr auf unserer Seite unter [_"Wie der Klimawandel unsere Weltmeere verändert"_](http://www.deepwave.org/die-ozeane/klimawandel/) oder auf unserem Factsheet _["Meeresspiegelanstieg und Klimawandel - Infos und Tipps"](http://res.cloudinary.com/deepwave-org/image/upload/v1747242935/deepwave.org/DWfacts_Meeresspiegelanstieg-und-Klimawandel_2016.pdf)._
+Weitere Informationen über den Klimawandel und dessen Einfluss auf das marine Ökosystem findet ihr auf unserer Seite unter [_"Wie der Klimawandel unsere Weltmeere verändert"_](http://www.deepwave.org/die-ozeane/klimawandel/) oder auf unserem Factsheet _["Meeresspiegelanstieg und Klimawandel - Infos und Tipps"](https://res.cloudinary.com/deepwave-org/image/upload/v1747242935/deepwave.org/DWfacts_Meeresspiegelanstieg-und-Klimawandel_2016.pdf)._
 
 ##### Quellen
 

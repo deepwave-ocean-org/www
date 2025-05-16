@@ -4,7 +4,7 @@ date: 2021-07-02
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244489/deepwave.org/coffeetogo-3926395_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244489/deepwave.org/coffeetogo-3926395_1920.jpg"
 image_caption: "© Filmbetrachter / Pixabay"
 source: "Pressemitteilung, 01.07.2021, NABU"
 author: "DEEPWAVE"

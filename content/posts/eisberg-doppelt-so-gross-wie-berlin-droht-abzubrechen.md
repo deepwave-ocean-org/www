@@ -4,7 +4,7 @@ date: 2019-03-01
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244156/deepwave.org/Unbenannt.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244156/deepwave.org/Unbenannt.png"
 image_caption: "© Long Ma / Unsplash"
 author: "DEEPWAVE"
 related: 

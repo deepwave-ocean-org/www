@@ -4,7 +4,7 @@ date: 2023-11-29
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245212/deepwave.org/2023-11-29_RV_Polarstern_in_the_Antarctic_in_2021-2.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245212/deepwave.org/2023-11-29_RV_Polarstern_in_the_Antarctic_in_2021-2.jpg"
 image_caption: "© DLR/NASA/Jess Bunchek / Wikimedia Commons"
 source: "Pressemitteilung, 29.11.2023, gemeinsame Pressemitteilung von AWI, GEOMAR, CAU"
 author: "Anja"

@@ -4,7 +4,7 @@ date: 2022-11-12
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244519/deepwave.org/SO268_StalkOphiuroids_Gestielte-Fauna-mit-mehreren-Schlangensternen-auf-Manganknolle_c_ROV-Team-Kiel-6000_GEOMAR.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244519/deepwave.org/SO268_StalkOphiuroids_Gestielte-Fauna-mit-mehreren-Schlangensternen-auf-Manganknolle_c_ROV-Team-Kiel-6000_GEOMAR.jpg"
 image_caption: "© ROV-Team Kiel 6000/GEOMAR"
 source: "Pressemitteilung, 11.11.22, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

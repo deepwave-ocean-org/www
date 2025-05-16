@@ -5,7 +5,7 @@ blogs:
   - "alternativen-zu-einwegplastik"
   - "good-news"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245173/deepwave.org/refill_station_aufkleber_kostenfrei_trinkwasser.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245173/deepwave.org/refill_station_aufkleber_kostenfrei_trinkwasser.jpg"
 image_caption: "© Refill Deutschland"
 author: "Amalia Klein"
 ---

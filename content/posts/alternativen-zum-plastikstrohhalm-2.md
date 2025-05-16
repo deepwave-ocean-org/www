@@ -10,7 +10,7 @@ tags:
   - "plastikmuell"
   - "recycling"
   - "strohhalm"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244204/deepwave.org/MACCHERONI_von_oben_wie_ein_Seeigel_32-1024x604-1.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244204/deepwave.org/MACCHERONI_von_oben_wie_ein_Seeigel_32-1024x604-1.jpg"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 ---

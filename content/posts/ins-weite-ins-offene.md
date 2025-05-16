@@ -1,7 +1,7 @@
 ---
 title: "Ins Weite, ins Offene"
 date: 2019-06-16
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243799/deepwave.org/VEKTORFELD_DINA_1_klein.png
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243799/deepwave.org/VEKTORFELD_DINA_1_klein.png
 image_caption:
 blogs: 
   - "kultur"
@@ -24,7 +24,7 @@ Vier Instrumente öffnen vielfältige Assoziationsräume: Violine und Cello sind
 
 Polyphonie ist dabei ein zentrales Element: was in der Renaissance eine vertikale Beziehung von Tonhöhen meinte, verbindet sich im Quartett VEKTORFELD zu einem mehrdimensionalen Geflecht von Tönen und Geräuschen. Klänge unterschiedlicher Provenienz tauchen auf, kreuzen sich, gehen temporäre Allianzen ein, um sich dann wieder zu trennen und ihre eigenen Wege durch die skulpturale Tiefe des Klangraums zu beschreiben. Im freien Spiel konstituiert VEKTORFELD einen selbstdefinierten zeitlichen Raum, in dem sich tönende Pfeile wie Vektoren in alle Richtungen bewegen.
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747266943/deepwave.org/heinz-heiss-e1492969034678.jpg)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747266943/deepwave.org/heinz-heiss-e1492969034678.jpg)
 
 **Ulrike Stortz (Stuttgart), Violine**
 
@@ -32,7 +32,7 @@ Konzerte als Solistin sowie in diversen Ensembles, wie [Ensemble Modern](https:/
 
 [http://ulrikestortz.de/](http://ulrikestortz.de/)
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265824/deepwave.org/Ulrike-Brand-by-Ari-Persian-16.png)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747265824/deepwave.org/Ulrike-Brand-by-Ari-Persian-16.png)
 
 **Ulrike Brand (Berlin), Cello**
 
@@ -40,7 +40,7 @@ konzertiert als Solistin auf wichtigen internationalen Festivals für zeitgenös
 
 [http://www.ulrikebrand-cello.com/](http://www.ulrikebrand-cello.com/)
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265827/deepwave.org/frank-paul-schubert-1024x683.jpg)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747265827/deepwave.org/frank-paul-schubert-1024x683.jpg)
 
 **Frank Paul Schubert (Berlin), Sopran- und Altsaxophon**
 
@@ -48,7 +48,7 @@ Der Saxophonist Frank Paul Schubert lebt seit 1999 in Berlin. Seit Beginn der 90
 
 [www.frankpaulschubert.de](http://www.frankpaulschubert.de/)
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265829/deepwave.org/andreas-krennerich-by-jochen-quast-e1560718663167.jpg)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747265829/deepwave.org/andreas-krennerich-by-jochen-quast-e1560718663167.jpg)
 
 **Andreas Krennerich (Stuttgart), Sopranino-, Sopran- und Baritonsaxophon**
 

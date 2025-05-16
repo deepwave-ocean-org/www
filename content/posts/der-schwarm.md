@@ -1,7 +1,7 @@
 ---
 title: "\"Der Schwarm\" von Frank Schätzing"
 date: 2019-06-24
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244540/deepwave.org/Der_scharm_mit-elphi.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244540/deepwave.org/Der_scharm_mit-elphi.jpg
 image_caption:
 image_alt: Das Buch "Der Schwarm" an einer Hafenkante mit Kran und Elbphilarmonie im Hintergrund
 blogs: 

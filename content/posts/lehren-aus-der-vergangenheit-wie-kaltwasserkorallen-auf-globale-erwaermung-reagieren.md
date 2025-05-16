@@ -4,7 +4,7 @@ date: 2022-06-10
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245254/deepwave.org/Lophelia_pertusa_NOAA_Kaltwasserkorallen.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245254/deepwave.org/Lophelia_pertusa_NOAA_Kaltwasserkorallen.jpg"
 image_caption: "© NOAA / Wikimedia Commons (CC BY-SA 2.0)"
 source: "Pressemitteilung, 07. Juni 2022, MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten, Uni­ver­si­tät Bre­men"
 author: "Amalia Klein"

@@ -7,7 +7,7 @@ tags:
   - "bruecke"
   - "fehmarn"
   - "nabu"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244726/deepwave.org/fehmarn-72094_1280.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244726/deepwave.org/fehmarn-72094_1280.jpg"
 image_caption: "© PublicDomainPictures / Pixabay"
 author: "deepwave-blog"
 related: 

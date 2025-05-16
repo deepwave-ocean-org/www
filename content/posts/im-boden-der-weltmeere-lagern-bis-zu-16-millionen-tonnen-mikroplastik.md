@@ -4,7 +4,7 @@ date: 2020-12-12
 blogs: 
   - "forschung"
   - "pplastic-pollution"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244692/deepwave.org/pollution-g362d9e96c_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244692/deepwave.org/pollution-g362d9e96c_1920.jpg"
 image_caption: "© sergeitokmakov / Pixabay"
 author: "DEEPWAVE"
 related: 

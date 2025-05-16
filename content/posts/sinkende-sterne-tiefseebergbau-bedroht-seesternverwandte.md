@@ -3,7 +3,7 @@ title: "Sinkende Sterne: Tiefseebergbau bedroht Seesternverwandte"
 date: 2019-10-24
 blogs: 
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243928/deepwave.org/PM-Sinkende-Sterne-Sinkende-Sterne-22.10.2019-1.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243928/deepwave.org/PM-Sinkende-Sterne-Sinkende-Sterne-22.10.2019-1.jpg"
 image_caption: "© Senckenberg Gesellschaft für Naturforschung"
 source: "Pressemitteilung, Senckenberg Gesellschaft für Naturforschung, 22.10.2019"
 author: "DEEPWAVE"

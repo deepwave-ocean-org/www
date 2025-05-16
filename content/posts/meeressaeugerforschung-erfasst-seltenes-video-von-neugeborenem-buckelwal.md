@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "good-news"
   - "videos-und-audio"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244181/deepwave.org/Buckelwal_Kalb_neugeboren_seltenes-Video-1.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244181/deepwave.org/Buckelwal_Kalb_neugeboren_seltenes-Video-1.jpg"
 image_caption: "© UH Manoa Marine Mammal Research Program, NOAA permit: #20311-01"
 author: "Amalia Klein"
 related: 

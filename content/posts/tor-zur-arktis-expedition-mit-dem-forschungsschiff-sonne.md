@@ -4,7 +4,7 @@ date: 2022-08-13
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244685/deepwave.org/AleutBioBlog-001-FS-Sonne-an-der-Pier-von-Dutch-Harbor_3600x2100-2400x1400-1.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244685/deepwave.org/AleutBioBlog-001-FS-Sonne-an-der-Pier-von-Dutch-Harbor_3600x2100-2400x1400-1.jpg"
 image_caption: "© Thomas Walter / Senckenberg Gesellschaft für Naturforschung"
 source: "Pressemitteilung, 12.08.2022, Senckenberg Gesellschaft für Naturforschung"
 author: "DEEPWAVE"

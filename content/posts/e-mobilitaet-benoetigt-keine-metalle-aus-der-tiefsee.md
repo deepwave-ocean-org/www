@@ -4,7 +4,7 @@ date: 2023-02-21
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244226/deepwave.org/Manganese-nodule-09_hg.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244226/deepwave.org/Manganese-nodule-09_hg.jpg"
 image_caption: "© Philweb / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 20.02.2023, Greenpeace"
 author: "DEEPWAVE"

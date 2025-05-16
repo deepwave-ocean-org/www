@@ -4,7 +4,7 @@ date: 2024-05-30
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245151/deepwave.org/ccs_dinosaurier_jurassic_park_unsplash_engin-akyurt-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245151/deepwave.org/ccs_dinosaurier_jurassic_park_unsplash_engin-akyurt-scaled.jpg"
 image_caption: "© Engin Akyurt / Unsplash"
 source: "Pressemitteilung, BUND, 29.05.2024"
 author: "Amalia Klein"

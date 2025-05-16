@@ -4,7 +4,7 @@ date: 2022-10-12
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244421/deepwave.org/Elphidium_crispum_1_Foraminifera.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244421/deepwave.org/Elphidium_crispum_1_Foraminifera.jpg"
 image_caption: "© Holger Krisp / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 11.10.2022, MARUM"
 author: "DEEPWAVE"

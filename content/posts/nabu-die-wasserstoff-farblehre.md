@@ -4,7 +4,7 @@ date: 2022-11-08
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244522/deepwave.org/Screenshot-2022-12-06-165721.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244522/deepwave.org/Screenshot-2022-12-06-165721.png"
 image_caption: "© Syced / Wikimedia Commons (CC0 1.0)"
 source: "Pressemitteilung, 07.11.22, NABU"
 author: "DEEPWAVE"

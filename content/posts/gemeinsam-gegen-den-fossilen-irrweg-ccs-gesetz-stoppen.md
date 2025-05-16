@@ -4,7 +4,7 @@ date: 2024-11-17
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244784/deepwave.org/Protest_Against_Carbon_Capture_and_Storage_CCS_Wikimedia_Commons.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244784/deepwave.org/Protest_Against_Carbon_Capture_and_Storage_CCS_Wikimedia_Commons.jpg"
 image_caption: "© Wikimedia Commons (<a href='https://creativecommons.org/licenses/by/2.0/deed.en'>Creative Commons Attribution 2.0</a>)"
 source: "Pressemitteilung, 16.11.2024, BUND"
 author: "Amalia Klein"

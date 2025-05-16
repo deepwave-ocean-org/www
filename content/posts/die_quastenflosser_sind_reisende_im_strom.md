@@ -5,7 +5,7 @@ blogs:
   - "forschung"
 tags: 
   - "meeresforschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244802/deepwave.org/Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast_South_Africa_on_22_November_2019.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244802/deepwave.org/Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast_South_Africa_on_22_November_2019.png"
 image_caption: "© CC BY 4.0 / Wikimedia Commons"
 author: "deepwave-blog"
 ---

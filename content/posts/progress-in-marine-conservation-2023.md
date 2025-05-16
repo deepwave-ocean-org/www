@@ -6,7 +6,7 @@ blogs:
   - "politik"
   - "veranstaltungen"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244623/deepwave.org/dd.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244623/deepwave.org/dd.jpg"
 image_caption: "© Victor Micallef / Wikimedia Commons (CC BY-SA 4.0)"
 author: "DEEPWAVE"
 ---

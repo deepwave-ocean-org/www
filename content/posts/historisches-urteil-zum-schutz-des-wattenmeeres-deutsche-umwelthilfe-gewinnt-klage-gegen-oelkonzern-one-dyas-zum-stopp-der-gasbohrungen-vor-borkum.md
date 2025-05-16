@@ -4,7 +4,7 @@ date: 2024-04-19
 blogs: 
   - "good-news"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245420/deepwave.org/Borkum_Klage_gegen_Gasbohrungen_Detmold.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245420/deepwave.org/Borkum_Klage_gegen_Gasbohrungen_Detmold.jpg"
 image_caption: "© Detmold / Pixabay"
 source: "Pressemitteilung, 18.04.2024, Deutsche Umwelthilfe (DUH)"
 author: "DEEPWAVE"

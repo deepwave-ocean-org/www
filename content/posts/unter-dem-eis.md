@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "klima"
   - "videos-und-audio"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244999/deepwave.org/arctic_ice_willian_justen_de_vasconcellos-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244999/deepwave.org/arctic_ice_willian_justen_de_vasconcellos-scaled.jpg"
 image_caption: "© Willian Justen de Vasconcellos / Unsplash"
 author: "DEEPWAVE"
 related: 

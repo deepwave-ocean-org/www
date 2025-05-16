@@ -9,7 +9,7 @@ tags:
   - "klimawandel"
   - "meeresforschung"
   - "umwelt"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244261/deepwave.org/Klimawandel_good_icon_RGB.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244261/deepwave.org/Klimawandel_good_icon_RGB.jpg"
 image_caption: "© Anna Mandel / Meeresfibel"
 author: "DEEPWAVE"
 related: 

@@ -9,7 +9,7 @@ tags:
   - "polarmeer"
   - "roboter"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243796/deepwave.org/Polarstern_awi_Mario_Hoppmann_Arktis-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243796/deepwave.org/Polarstern_awi_Mario_Hoppmann_Arktis-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Mario Hoppmann (CC-BY 4.0)"
 source: "Pressemitteilung, 11.04.2019, MARUM"
 author: "DEEPWAVE"

@@ -4,7 +4,7 @@ date: 2021-09-05
 blogs: 
   - "good-news"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245352/deepwave.org/seagulls-g105f9dedc_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245352/deepwave.org/seagulls-g105f9dedc_1920.jpg"
 image_caption: "© S. Hermann &amp; F. Richter / Pixabay"
 source: "Pressemitteilung, 04.09.2021, NABU"
 author: "DEEPWAVE"

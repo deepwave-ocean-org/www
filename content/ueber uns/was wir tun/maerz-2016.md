@@ -25,8 +25,8 @@ Mehr als elf Jahre nach ihrer Ausweisung sollen die Natura-2000-Gebiete in der A
 
 #### **14\. März:**
 
-[Verbände-Stellungsnahme Nature2000](http://res.cloudinary.com/deepwave-org/image/upload/v1747245606/deepwave.org/Stellungnahme-der-Umweltverb_C3_A4nde-Fischereima_C3_9Fnahmen-N2000-Nordsee_14032016.pdf) zu „Fischerei-Management in nach Natura 2000 geschützten Meeresflächen der deutschen AWZ – Entwurf einer Gemeinsamen Empfehlung für Nordsee-Schutzgebiete“
+[Verbände-Stellungsnahme Nature2000](https://res.cloudinary.com/deepwave-org/image/upload/v1747245606/deepwave.org/Stellungnahme-der-Umweltverb_C3_A4nde-Fischereima_C3_9Fnahmen-N2000-Nordsee_14032016.pdf) zu „Fischerei-Management in nach Natura 2000 geschützten Meeresflächen der deutschen AWZ – Entwurf einer Gemeinsamen Empfehlung für Nordsee-Schutzgebiete“
 
 #### **4\. März:**
 
-[Verbände-Brief an Kanzlerin Merkel](http://res.cloudinary.com/deepwave-org/image/upload/v1747245608/deepwave.org/160303_Brf_BKin-Merkel_Meeresschutz-2016_FINAL_2.pdf) zu Natura 2000: „Drohender Glaubwürdigkeitsverlust Deutschlands im Meeresschutz“
+[Verbände-Brief an Kanzlerin Merkel](https://res.cloudinary.com/deepwave-org/image/upload/v1747245608/deepwave.org/160303_Brf_BKin-Merkel_Meeresschutz-2016_FINAL_2.pdf) zu Natura 2000: „Drohender Glaubwürdigkeitsverlust Deutschlands im Meeresschutz“

@@ -9,7 +9,7 @@ tags:
   - "unterwasserlaerm"
   - "wale"
   - "walschutz"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245017/deepwave.org/whale-630256_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245017/deepwave.org/whale-630256_1920.jpg"
 image_caption: "© Angelo_Giordano / Pixabay"
 author: "DEEPWAVE"
 related: 

@@ -1,6 +1,6 @@
 ---
 title: Lärm
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243598/deepwave.org/Laerm_bad_icon_B_RGB.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243598/deepwave.org/Laerm_bad_icon_B_RGB.jpg
 overlay: rgba(71,73,76,0.45)
 order: 6
 ---

@@ -5,7 +5,7 @@ blogs:
   - "deep-sea"
   - "forschung-en"
   - "politics"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244828/deepwave.org/cNautilus_Minerals.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244828/deepwave.org/cNautilus_Minerals.jpg"
 image_caption: "© Nautilus Minerals"
 author: "DEEPWAVE"
 ---

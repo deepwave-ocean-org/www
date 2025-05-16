@@ -4,7 +4,7 @@ date: 2019-06-25
 blogs: 
   - "kultur"
   - "literatur"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244050/deepwave.org/Sylvia_Earl_1.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244050/deepwave.org/Sylvia_Earl_1.jpg"
 image_caption: "© DEEPWAVE"
 author: "DEEPWAVE"
 ---

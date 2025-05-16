@@ -4,7 +4,7 @@ date: 2023-03-18
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244853/deepwave.org/LNG_terminal_ship_in_the_Wilhelmina_harbour_the_Netherlands-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244853/deepwave.org/LNG_terminal_ship_in_the_Wilhelmina_harbour_the_Netherlands-scaled.jpg"
 image_caption: "© Uberprutser / Wikimedia Commons (CC BY-SA 4.0)"
 source: "Pressemitteilung, 17.03.2023, WWF"
 author: "DEEPWAVE"

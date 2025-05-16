@@ -4,7 +4,7 @@ date: 2021-08-16
 blogs: 
   - "überfischung"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245457/deepwave.org/fish-984299_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245457/deepwave.org/fish-984299_1920.jpg"
 image_caption: "© Free-Photos / Pixabay"
 author: "DEEPWAVE"
 related: 

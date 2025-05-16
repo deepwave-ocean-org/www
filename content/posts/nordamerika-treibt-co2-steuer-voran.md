@@ -11,7 +11,7 @@ tags:
   - "klima"
   - "klimawandel"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244699/deepwave.org/eta-rzOq5UqWWkE-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244699/deepwave.org/eta-rzOq5UqWWkE-unsplash-scaled.jpg"
 image_caption: "© ETA+ / Unsplash"
 author: "DEEPWAVE"
 related: 

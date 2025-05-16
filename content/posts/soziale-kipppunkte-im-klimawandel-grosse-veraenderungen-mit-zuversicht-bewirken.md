@@ -3,7 +3,7 @@ title: "Soziale Kipppunkte im Klimawandel: Große Veränderungen mit Zuversicht 
 date: 2023-02-09
 blogs: 
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244507/deepwave.org/markus-spiske-1AaRGN_vyq0-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244507/deepwave.org/markus-spiske-1AaRGN_vyq0-unsplash-scaled.jpg"
 image_caption: "© Markus Spiske / Unsplash"
 author: "DEEPWAVE"
 related: 

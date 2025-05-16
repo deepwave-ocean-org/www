@@ -4,7 +4,7 @@ date: 2023-09-26
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245452/deepwave.org/Protest_Against_Carbon_Capture_and_Storage_51697301719-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245452/deepwave.org/Protest_Against_Carbon_Capture_and_Storage_51697301719-scaled.jpg"
 image_caption: "© Matt Hrkac / Wikimedia Commons (CC BY 2.0)"
 source: "Pressemitteilung, 25.09.2023, Umweltbundesamt"
 author: "DEEPWAVE"

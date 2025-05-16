@@ -4,7 +4,7 @@ date: 2023-10-25
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244765/deepwave.org/HvitSandBeachLitter_070.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244765/deepwave.org/HvitSandBeachLitter_070.jpg"
 image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 24.10.2023, DUH"
 author: "DEEPWAVE"

@@ -1,6 +1,6 @@
 ---
 title: Überfischung
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747243635/deepwave.org/Ueberfischung_bad_icon_RGB.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243635/deepwave.org/Ueberfischung_bad_icon_RGB.jpg
 overlay: rgba(40,53,53,0.61)
 order: 3
 ---
@@ -39,10 +39,10 @@ Quellen:
 
 #### Factsheets:
 
--   [„Tunfisch -- ein Fisch ohne Zukunft?"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243638/deepwave.org/DWfacts_Thunfisch_2016.pdf)
--   [„Tiefsee-Grundschleppnetze"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243640/deepwave.org/DWfacts_Grundschleppnetzfischerei_2016.pdf)
--   [„Shrimps"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243643/deepwave.org/DWfacts-Shrimps-2016_fin.pdf)
--   [„Gammelfischerei"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243645/deepwave.org/Gammelfischerei_factsheet_deepwave.pdf)
+-   [„Tunfisch -- ein Fisch ohne Zukunft?"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243638/deepwave.org/DWfacts_Thunfisch_2016.pdf)
+-   [„Tiefsee-Grundschleppnetze"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243640/deepwave.org/DWfacts_Grundschleppnetzfischerei_2016.pdf)
+-   [„Shrimps"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243643/deepwave.org/DWfacts-Shrimps-2016_fin.pdf)
+-   [„Gammelfischerei"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243645/deepwave.org/Gammelfischerei_factsheet_deepwave.pdf)
 
 Beifang
 
@@ -105,8 +105,8 @@ Quellen:
 
 #### Factsheets
 
--   [„Zebrahai & Leopardenhai"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243648/deepwave.org/DWfacts_Zebrahai-Leopardenhai_2016.pdf)
--   [„Haie-Die gejagten Räuber"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243651/deepwave.org/DWfacts_Haie_2016_fin.pdf)
+-   [„Zebrahai & Leopardenhai"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243648/deepwave.org/DWfacts_Zebrahai-Leopardenhai_2016.pdf)
+-   [„Haie-Die gejagten Räuber"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243651/deepwave.org/DWfacts_Haie_2016_fin.pdf)
 
 Text: Onno Groß, 2016
 
@@ -117,7 +117,7 @@ Aquakultur
 
 Aquakultur oder Aquafarming ist das aquatische Äquivalent zur landbasierten Landwirtschaft. Im Großen und Ganzen umfasst die Landwirtschaft sowohl die Tierhaltung als auch den Pflanzenanbau (Agronomie, Gartenbau und teilweise Forstwirtschaft). Ebenso umfasst die Aquakultur die Tierhaltung (einschließlich Krustentiere, Fische und Weichtiere) und Pflanzen (einschließlich Algen und Süßwassermakrophyten). Während die Landwirtschaft überwiegend auf der Nutzung von Süßwasser basiert, findet die Aquakultur sowohl im Binnenland (Süßwasser) als auch an der Küste (Brackwasser, Meerwasser) statt.
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747243653/deepwave.org/FAO_fisheries_vs_aquaculture_2018.png)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747243653/deepwave.org/FAO_fisheries_vs_aquaculture_2018.png)
 
 © FAO SOFIA 2018
 
@@ -138,4 +138,4 @@ Yonathan Kibreab für DEEPWAVE
 
 #### Hier unser Factsheet zum Thema Aquakultur
 
--   [„Aquakultur: Nahrungsquelle der Zukunft?"](http://res.cloudinary.com/deepwave-org/image/upload/v1747243656/deepwave.org/DWfacts-Aquakultur_2016_fin.pdf)
+-   [„Aquakultur: Nahrungsquelle der Zukunft?"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243656/deepwave.org/DWfacts-Aquakultur_2016_fin.pdf)

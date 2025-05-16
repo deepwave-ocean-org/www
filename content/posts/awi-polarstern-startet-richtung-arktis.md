@@ -4,7 +4,7 @@ date: 2021-05-22
 blogs: 
   - "good-news"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243925/deepwave.org/AWI_Polarstern_startet_Richtung_Arktis-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243925/deepwave.org/AWI_Polarstern_startet_Richtung_Arktis-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Stefanie Arndt (CC-BY 4.0)"
 source: "Pressemitteilung, 21. Mai 2021, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "Amalia Klein"

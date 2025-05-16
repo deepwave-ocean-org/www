@@ -3,7 +3,7 @@ title: "Forschende warnen vor Tiefsee-Goldrausch"
 date: 2019-06-28
 blogs: 
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244757/deepwave.org/Champ_de_nodules_dans_le_Pacifique_equatorial_nord.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244757/deepwave.org/Champ_de_nodules_dans_le_Pacifique_equatorial_nord.jpg"
 image_caption: "© CC BY-SA 3.0 / Wikimedia Commons"
 source: "Pressemitteilung, 17.08.2018, EurekAlert!"
 author: "DEEPWAVE"
@@ -35,4 +35,4 @@ The study follows a previous paper that suggested seabed mining could do irrever
 
 Das Paper [Seabed mining and approaches to governance of the deep seabed](https://www.frontiersin.org/articles/10.3389/fmars.2018.00480/full) findet ihr bei [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science#).
 
-Auch in Anbetracht der Tatsache, dass die bisher erschlossenen Erdölvorkommen immer kleiner werden, rückt der [Abbau der riesigen Ölfelder](http://res.cloudinary.com/deepwave-org/image/upload/v1747243595/deepwave.org/Tiefsee-Oel.pdf) in der Tiefsee in den Fokus der Unternehmen.
+Auch in Anbetracht der Tatsache, dass die bisher erschlossenen Erdölvorkommen immer kleiner werden, rückt der [Abbau der riesigen Ölfelder](https://res.cloudinary.com/deepwave-org/image/upload/v1747243595/deepwave.org/Tiefsee-Oel.pdf) in der Tiefsee in den Fokus der Unternehmen.

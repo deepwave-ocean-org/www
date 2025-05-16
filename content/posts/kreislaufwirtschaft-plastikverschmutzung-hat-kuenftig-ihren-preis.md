@@ -6,7 +6,7 @@ blogs:
   - "good-news"
   - "pplastic-pollution"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245114/deepwave.org/muelltonne_kenny-eliason-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245114/deepwave.org/muelltonne_kenny-eliason-unsplash-scaled.jpg"
 image_caption: "© Kenny Eliason / Unsplash"
 source: "Pressemitteilung, 02.11.2022, BMUV"
 author: "Amalia Klein"

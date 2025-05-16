@@ -9304,9 +9304,9 @@ var transformation_TransformationBase = /*#__PURE__*/function () {
      * tag = cloudinary.ImageTag.new("sample", {cloud_name: "demo"})
      * // ImageTag {name: "img", publicId: "sample"}
      * tag.toHtml()
-     * // <img src="http://res.cloudinary.com/demo/image/upload/sample">
+     * // <img src="https://res.cloudinary.com/demo/image/upload/sample">
      * tag.transformation().crop("fit").width(300).toHtml()
-     * // <img src="http://res.cloudinary.com/demo/image/upload/c_fit,w_300/sample">
+     * // <img src="https://res.cloudinary.com/demo/image/upload/c_fit,w_300/sample">
      */
     function toHtml() {
       var ref;

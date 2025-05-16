@@ -4,7 +4,7 @@ date: 2023-03-28
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245048/deepwave.org/20150822_PS94_Eisbaer_036_SHendricks-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245048/deepwave.org/20150822_PS94_Eisbaer_036_SHendricks-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Stefan Hendricks (CC-BY 4.0)"
 source: "Pressemitteilung, 27.03.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

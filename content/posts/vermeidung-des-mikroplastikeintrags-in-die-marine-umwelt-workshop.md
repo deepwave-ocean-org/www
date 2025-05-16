@@ -4,7 +4,7 @@ date: 2019-11-28
 blogs: 
   - "pplastic-pollution"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244832/deepwave.org/Microplastic-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244832/deepwave.org/Microplastic-scaled.jpg"
 image_caption: "© Oregon State University / Wikimedia Commons (CC-BY-SA 2.0)"
 author: "Noemi Merz"
 related: 

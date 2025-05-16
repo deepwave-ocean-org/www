@@ -3,7 +3,7 @@ title: "World Ocean Day 2022"
 date: 2022-06-08
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244728/deepwave.org/Screenshot-2023-11-30-170935.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244728/deepwave.org/Screenshot-2023-11-30-170935.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 ---

@@ -6,7 +6,7 @@ blogs:
   - "was-tun"
 tags: 
   - "meeresforschung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245378/deepwave.org/RRS_Charles_Darwin-2.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245378/deepwave.org/RRS_Charles_Darwin-2.jpg"
 image_caption: "© Vanyablue / Wikimedia"
 source: "Pressemitteilung, 26. Mai 2005, Informationsdienst Wissenschaft"
 author: "deepwave-blog"

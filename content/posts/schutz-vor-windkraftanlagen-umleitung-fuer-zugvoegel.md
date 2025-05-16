@@ -3,7 +3,7 @@ title: "Schutz vor Windkraftanlagen: Umleitung für Zugvögel"
 date: 2019-03-20
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243898/deepwave.org/grant-durr-0wcRqQqlwsY-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243898/deepwave.org/grant-durr-0wcRqQqlwsY-unsplash-scaled.jpg"
 image_caption: "© Grant Durr / Unsplash"
 author: "DEEPWAVE"
 related: 

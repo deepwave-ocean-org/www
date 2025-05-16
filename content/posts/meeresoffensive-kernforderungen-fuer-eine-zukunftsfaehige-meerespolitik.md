@@ -1,7 +1,7 @@
 ---
 title: "Kernforderungen für eine zukunftsfähige Meerespolitik"
 date: 2023-05-08
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244974/deepwave.org/david-paschke-unsplash_Seebruecke_Ostsee-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244974/deepwave.org/david-paschke-unsplash_Seebruecke_Ostsee-scaled.jpg
 image_caption: © David Paschke / Unsplash
 image_alt: Meeresoffensive - Seebrücke in der deutschen Ostsee
 blogs: 
@@ -26,4 +26,4 @@ Mit unserem gemeinsamen Kernforderungspapier möchten wir die Erarbeitung der de
 
 Noch können wir gemeinsam die Weichen für eine Zukunft mit den Meeren stellen.
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747265881/deepwave.org/Verbaendepapier_Meeresschutz_Mai2023_final-pdf.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747265884/deepwave.org/Verbaendepapier_Meeresschutz_Mai2023_final.pdf">}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747265881/deepwave.org/Verbaendepapier_Meeresschutz_Mai2023_final-pdf.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747265884/deepwave.org/Verbaendepapier_Meeresschutz_Mai2023_final.pdf">}}

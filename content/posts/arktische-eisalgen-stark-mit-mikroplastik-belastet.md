@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "klima"
   - "pplastic-pollution"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243869/deepwave.org/annie-spratt-Tno1Zd3T6yY-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243869/deepwave.org/annie-spratt-Tno1Zd3T6yY-unsplash-scaled.jpg"
 image_caption: "© Annie Sprat / Unsplash"
 source: "Pressemitteilung, 21.04.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

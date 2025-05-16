@@ -4,7 +4,7 @@ date: 2021-06-24
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244369/deepwave.org/1024px-Sunset_in_the_Arctic_7348953774.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244369/deepwave.org/1024px-Sunset_in_the_Arctic_7348953774.jpg"
 image_caption: "© NASA / Wikimedia Commons (CC BY 2.0)"
 source: "Pressemitteilung, 23.06.2021, Alfred-Wegener-Institut"
 author: "DEEPWAVE"

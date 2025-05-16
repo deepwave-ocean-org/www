@@ -1,7 +1,7 @@
 ---
 title: "Poseidon - Ehemaliges Forschungsschiff wird zur Sea-Watch 4"
 date: 2020-10-02
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244863/deepwave.org/Sea-Watch_4_Im_Einsatz_Chris_Grodotzki_sea-watch-org-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244863/deepwave.org/Sea-Watch_4_Im_Einsatz_Chris_Grodotzki_sea-watch-org-scaled.jpg
 image_caption: © Chris Grodotzki | sea-watch.org
 image_alt: Das ehemalige Forschungschiff Poseidon, dass nun unter dem Namen Sea-Watch 4 Flüchtlinge in Seenot im Mittelmeer rettet ist auf hoher See zu sehen. Das Foto wurde aus einem Schlauchboot aufgenommen. Ein zweites Schlauchboot mit Einsatzkräften in Arbeit ist zu sehen
 blogs: 
@@ -16,7 +16,7 @@ Im Jahr 2008 nahm ich als Fotografin und Filmemacherin an einer Forschungsexpedi
 
 2008 hatte ich das Thema Flüchtlinge noch nicht auf dem Radar. Als diplomierte Foto/Film-Designerin widmete ich mich fotografisch und filmisch dem Thema Meer und landete so auf einer Expeditionsfahrt der [Poseidon](https://www.geomar.de/news/article/tschuess-poseidon/), bei der ich für die Universität Hamburg und den WWF die Forschungsarbeiten an Bord dokumentieren sollte.
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244867/deepwave.org/Bevor_die_Poseidon_zur_Sea-Watch-4_Jonathan_Weinspach_sea-watch-org-scaled.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244867/deepwave.org/Bevor_die_Poseidon_zur_Sea-Watch-4_Jonathan_Weinspach_sea-watch-org-scaled.jpg" alt="Das Forschungsschiff Poseidon am Hafen" caption="© Jonathan Weinspach | sea-watch.org" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747244867/deepwave.org/Bevor_die_Poseidon_zur_Sea-Watch-4_Jonathan_Weinspach_sea-watch-org-scaled.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747244867/deepwave.org/Bevor_die_Poseidon_zur_Sea-Watch-4_Jonathan_Weinspach_sea-watch-org-scaled.jpg" alt="Das Forschungsschiff Poseidon am Hafen" caption="© Jonathan Weinspach | sea-watch.org" >}}
 
 Forschungsthema waren die Seamounts, die Tiefseeberge vor Madeira. Drei Wochen an Bord, von Madeira bis Bremerhaven, einziger Landgang in Lissabon. Ich erlebte hautnah den Alltag von Wissenschaftler:innen und Seeleuten und erhielt so Einblicke in die Meeresforschung und das Leben an Bord, eine Welt für sich. Highlights waren meine morgendlichen Apfelpfannkuchen mit Zimt von unserem Smutje, die mit kleinem Aufzug aus der Kombüse hoch in den Speisesaal gefahren kamen, und die Delfine, die in der Biscaya neben dem Schiff in den Wellen auftauchten und uns eine Weile begleiteten. Und dann ein neues Erleben von Zeit: an Bord vergeht sie manchmal sehr langsam, Smartphones gab es noch nicht und Internet nur für den Notfall. Schließlich vertrieb ich mir die Zeit, indem ich dem 2. Kapitän dabei half, Seekarten zu korrigieren. In den riesigen detaillierten Karten mit dem Bleistift neue See- oder Landmarken einzuzeichnen, gab mir einen weiteren neuen Blickwinkel auf das Meer. Als ich in Lissabon nach 14 Tagen das erste Mal wieder festen Boden unter den Füßen hatte, wurde ich prompt landkrank.
 
@@ -24,7 +24,7 @@ Forschungsthema waren die Seamounts, die Tiefseeberge vor Madeira. Drei Wochen a
 
 So versuche ich nun im Kleinen Sea-Watch zu unterstützen. Und wenn ich selber als Guide mit Gästen meiner Reiseagentur LaMar an Bord von Whale Watching Booten in See steche, trage ich oft das „University of Empathy“ Shirt von Sea-Watch, wodurch sich schon viele Gespräche zur Flüchtlingskrise ergeben haben.
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244872/deepwave.org/Sea-Watch-4_Ruben_Neugebauer-sea-watch-org-scaled.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244872/deepwave.org/Sea-Watch-4_Ruben_Neugebauer-sea-watch-org-scaled.jpg" alt="Die Sea-Watch 4 fährt auf offener See zu einer Flüchtlingsrettungsmission" caption="© Ruben Neugebauer | sea-watch.org" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747244872/deepwave.org/Sea-Watch-4_Ruben_Neugebauer-sea-watch-org-scaled.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747244872/deepwave.org/Sea-Watch-4_Ruben_Neugebauer-sea-watch-org-scaled.jpg" alt="Die Sea-Watch 4 fährt auf offener See zu einer Flüchtlingsrettungsmission" caption="© Ruben Neugebauer | sea-watch.org" >}}
 
 Was für eine Freude zu erfahren, dass „meine“ alte _Poseidon_ nun in den Dienst der „Empathy“ gestellt wurde. Und was für ein Zeichen, dass die Evangelische Kirche maßgeblich am Kauf der _Poseidon_ für die Sea-Watch-Mission beteiligt war. Die Kirche hat viel zu lange zu dem Drama auf dem Mittelmeer geschwiegen. Möge diese Mission der Auftakt sein für ein Umdenken in ganz Europa, in Religion und Politik, damit es irgendwann keine traurigen Nachrichten von untergegangenen Flüchtlingsbooten und brennenden Flüchtlingslagern oder -heimen mehr geben wird!
 

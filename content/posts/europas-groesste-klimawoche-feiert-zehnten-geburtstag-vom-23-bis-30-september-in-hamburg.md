@@ -1,7 +1,7 @@
 ---
 title: "Europas größte Klimawoche feiert zehnten Geburtstag vom 23. bis 30. September in Hamburg"
 date: 2018-09-19
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245429/deepwave.org/Klimawoche_2018-300x225.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245429/deepwave.org/Klimawoche_2018-300x225.jpg
 image_caption: © Hamburger Klimawoche
 blogs: 
   - "klima"

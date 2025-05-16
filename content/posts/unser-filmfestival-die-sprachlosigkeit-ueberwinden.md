@@ -3,7 +3,7 @@ title: "Unser Filmfestival: die Sprachlosigkeit überwinden"
 date: 2022-06-16
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245027/deepwave.org/jkjlk.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245027/deepwave.org/jkjlk.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 

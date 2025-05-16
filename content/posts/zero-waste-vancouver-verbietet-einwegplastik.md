@@ -10,7 +10,7 @@ tags:
   - "plastik"
   - "politik"
   - "zero-waste"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243835/deepwave.org/vancouver-2613994_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243835/deepwave.org/vancouver-2613994_1920.jpg"
 image_caption: "© 12019 / Pixabay  © <a href='https://centerforilpolitics.org/most-controversial-games-canada/'>Games from Canada</a>"
 author: "DEEPWAVE"
 ---

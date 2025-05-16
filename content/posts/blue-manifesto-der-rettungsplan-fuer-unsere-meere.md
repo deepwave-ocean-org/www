@@ -6,7 +6,7 @@ blogs:
   - "presse"
   - "veranstaltungen"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244931/deepwave.org/2020.01.27_Blue_Manifesto_PrintScreen-e1580304121743.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244931/deepwave.org/2020.01.27_Blue_Manifesto_PrintScreen-e1580304121743.png"
 image_caption: "© Seas at Risk"
 author: "Noemi Merz"
 ---

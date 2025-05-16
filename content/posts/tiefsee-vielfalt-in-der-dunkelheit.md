@@ -5,7 +5,7 @@ blogs:
   - kultur
   - tiefsee
 image: >-
-  http://res.cloudinary.com/deepwave-org/image/upload/v1747244132/deepwave.org/Tauchroboter_ROV_KIEL_6000_GEOMAR-scaled.jpg
+  https://res.cloudinary.com/deepwave-org/image/upload/v1747244132/deepwave.org/Tauchroboter_ROV_KIEL_6000_GEOMAR-scaled.jpg
 image_caption: >-
   © Bildkomposition von Christoph Kersten, GEOMAR, unter Verwendung von
   Bildmaterial des MARUM – Zen­trum für Ma­ri­ne Um­welt­wis­sen­schaf­ten,

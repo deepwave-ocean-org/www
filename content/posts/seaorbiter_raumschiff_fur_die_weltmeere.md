@@ -1,7 +1,7 @@
 ---
 title: "SeaOrbiter: Raumschiff für die Weltmeere"
 date: 2005-05-27
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245412/deepwave.org/SeaOrbiter_model-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245412/deepwave.org/SeaOrbiter_model-scaled.jpg
 image_caption: © CC BY-SA 3.0 / Wikimedia Commons
 blogs: 
   - "forschung"

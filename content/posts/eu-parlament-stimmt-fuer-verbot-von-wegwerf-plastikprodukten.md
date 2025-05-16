@@ -1,7 +1,7 @@
 ---
 title: "EU-Parlament stimmt für Verbot von Wegwerf-Plastikprodukten"
 date: 2018-10-25
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747245380/deepwave.org/PlastikSaunaBaender-3-1-1200x675.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245380/deepwave.org/PlastikSaunaBaender-3-1-1200x675.jpg
 blogs: 
   - "bluestraw-news"
   - "good-news"

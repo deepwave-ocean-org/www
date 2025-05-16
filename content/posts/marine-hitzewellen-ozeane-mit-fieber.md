@@ -3,7 +3,7 @@ title: "Marine Hitzewellen: Ozeane mit Fieber"
 date: 2023-08-17
 blogs: 
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243998/deepwave.org/elia-clerici-cUffu10XPj0-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243998/deepwave.org/elia-clerici-cUffu10XPj0-unsplash-scaled.jpg"
 image_caption: "© Elia Clerici / Unsplash"
 source: "Pressemitteilung, 16.08.2023, NABU"
 author: "DEEPWAVE"

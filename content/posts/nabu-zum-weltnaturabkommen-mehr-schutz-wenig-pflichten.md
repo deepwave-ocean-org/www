@@ -3,7 +3,7 @@ title: "NABU zum Weltnaturabkommen: Mehr Schutz, wenig Pflichten"
 date: 2022-12-19
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244838/deepwave.org/chad-peltola-Yoqi404MJ8M-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244838/deepwave.org/chad-peltola-Yoqi404MJ8M-unsplash-scaled.jpg"
 image_caption: "© Chad Peltola / Unsplash"
 source: "Pressemitteilung, 18.12.22, NABU"
 author: "DEEPWAVE"

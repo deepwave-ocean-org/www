@@ -33,7 +33,7 @@ Eines der von uns ausgesuchten Bücher hat den schönen Untertitel "Was du konkr
 
 ### [Vier fürs Klima](/vier-fuers-klima/)
 
-[![Vier fürs Klima Petra Pinzler Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747266814/deepwave.org/Vier-f%C3%BCrs-Klima_Petra_Pinzler_Empfehlung.jpg)](/vier-fuers-klima/)
+[![Vier fürs Klima Petra Pinzler Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747266814/deepwave.org/Vier-f%C3%BCrs-Klima_Petra_Pinzler_Empfehlung.jpg)](/vier-fuers-klima/)
 
 ##### Petra Pinzler, / Günther Wessel, Droemer Knaur
 
@@ -45,7 +45,7 @@ Luisa Münch
 
 ### Und jetzt retten wir die Welt
 
-![Und jetzt retten wir die Welt Ilona Koglin jpg](http://res.cloudinary.com/deepwave-org/image/upload/v1747266817/deepwave.org/Und-jetzt-retten-wir-die-Welt_Ilona_Koglin_jpg.jpg)
+![Und jetzt retten wir die Welt Ilona Koglin jpg](https://res.cloudinary.com/deepwave-org/image/upload/v1747266817/deepwave.org/Und-jetzt-retten-wir-die-Welt_Ilona_Koglin_jpg.jpg)
 
 ##### Ilona Koglin / Marek Rohde, Franckh-Kosmos Verlag
 
@@ -55,7 +55,7 @@ Luisa Münch
 
 ### Das Plastiksparbuch
 
-![Das Plastiksparbuch Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747266819/deepwave.org/Das-Plastiksparbuch_Empfehlung.jpg)
+![Das Plastiksparbuch Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747266819/deepwave.org/Das-Plastiksparbuch_Empfehlung.jpg)
 
 ##### smarticular Verlag
 
@@ -67,7 +67,7 @@ Luisa Münch
 
 ### #Einfach plastikfrei leben
 
-![Charlotte Schüler Einfach plastikfrei leben Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747266822/deepwave.org/Charlotte_Sch%C3%BCler_Einfach_plastikfrei_leben_Empfehlung.jpg)
+![Charlotte Schüler Einfach plastikfrei leben Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747266822/deepwave.org/Charlotte_Sch%C3%BCler_Einfach_plastikfrei_leben_Empfehlung.jpg)
 
 ##### Charlotte Schüler, Südwest Verlag
 
@@ -79,7 +79,7 @@ Luisa Münch
 
 ### Schluss. Mit. Plastik.
 
-![Schluss Mit Plastik Martin Dorey Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747266825/deepwave.org/Schluss_Mit_Plastik_Martin_Dorey_Empfehlung.jpg)
+![Schluss Mit Plastik Martin Dorey Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747266825/deepwave.org/Schluss_Mit_Plastik_Martin_Dorey_Empfehlung.jpg)
 
 ##### Martin Dorey, Heyne, Wilhelm Verlag
 

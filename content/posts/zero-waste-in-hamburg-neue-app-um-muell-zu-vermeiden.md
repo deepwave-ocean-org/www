@@ -5,7 +5,7 @@ blogs:
   - "alternativen-zu-einwegplastik"
   - "pplastic-pollution"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244003/deepwave.org/sara-kurfess-YddMIRck34I-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244003/deepwave.org/sara-kurfess-YddMIRck34I-unsplash-scaled.jpg"
 image_caption: "© Sara Kurfess / Unsplash"
 author: "Noemi Merz"
 related: 

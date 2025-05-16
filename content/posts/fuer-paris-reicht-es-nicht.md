@@ -4,7 +4,7 @@ date: 2019-11-20
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245108/deepwave.org/frederic-paulussen-LWnD8U2OReU-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245108/deepwave.org/frederic-paulussen-LWnD8U2OReU-unsplash-scaled.jpg"
 image_caption: "© Frederic Paulussen / Unsplash"
 author: "DEEPWAVE"
 related: 

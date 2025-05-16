@@ -4,7 +4,7 @@ date: 2020-10-14
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243930/deepwave.org/waldemar-brandt-8NBACfGMFtw-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243930/deepwave.org/waldemar-brandt-8NBACfGMFtw-unsplash-scaled.jpg"
 image_caption: "© Waldemar Brandt / Unsplash"
 author: "DEEPWAVE"
 related: 

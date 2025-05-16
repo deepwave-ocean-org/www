@@ -7,7 +7,7 @@ blogs:
 tags: 
   - "emiliania-huxleyi"
   - "kalk"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245401/deepwave.org/ehuxcells_kailohbeck-geomar.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245401/deepwave.org/ehuxcells_kailohbeck-geomar.jpg"
 image_caption: "© Kai Lohbeck / GEOMAR"
 source: "Pressemitteilung, 11.07.2016, GEOMAR"
 author: "deepwave-blog"

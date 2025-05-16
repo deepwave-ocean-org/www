@@ -3,7 +3,7 @@ title: "Zwischen Sternenhimmel und Meeresleuchten"
 date: 2019-08-11
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244762/deepwave.org/Screenshot-2023-12-04-173307.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244762/deepwave.org/Screenshot-2023-12-04-173307.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 

@@ -5,7 +5,7 @@ blogs:
   - "politik"
   - "tiefsee"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244414/deepwave.org/david_clode_trawler_schleppnetz_grundschleppnetz_boot.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244414/deepwave.org/david_clode_trawler_schleppnetz_grundschleppnetz_boot.jpg"
 image_caption: "© David Clode / Unsplash"
 source: "Pressemitteilung, 23.11.2006, Greenpeace"
 author: "Amalia Klein"

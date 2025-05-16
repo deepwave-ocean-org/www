@@ -4,7 +4,7 @@ date: 2021-06-08
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244144/deepwave.org/freighter-2432936_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244144/deepwave.org/freighter-2432936_1920.jpg"
 image_caption: "© Paul Brennan / Pixabay"
 source: "Pressemitteilung, 07.06.2021, NABU"
 author: "DEEPWAVE"

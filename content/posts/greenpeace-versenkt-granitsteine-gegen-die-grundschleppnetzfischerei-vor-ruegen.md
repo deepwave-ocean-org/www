@@ -4,7 +4,7 @@ date: 2020-07-31
 blogs: 
   - "politik"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244646/deepwave.org/Schleppnetzfischer_Netz-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244646/deepwave.org/Schleppnetzfischer_Netz-scaled.jpg"
 image_caption: "© Eric BARBEAU, Unsplash"
 author: "Lea Teichmann"
 related: 

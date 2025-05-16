@@ -4,7 +4,7 @@ date: 2022-06-27
 blogs: 
   - "politik"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244805/deepwave.org/european_commision_eu_flaggen_guillaume_perigois_unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244805/deepwave.org/european_commision_eu_flaggen_guillaume_perigois_unsplash-scaled.jpg"
 image_caption: "© Guillaume Périgois / Unsplash"
 source: "Pressemitteilung, 24. Juni 2022, Seas at Risk"
 author: "Amalia Klein"

@@ -1,7 +1,7 @@
 ---
 title: "International Coastal Cleanup Day 15.9.2018"
 date: 2018-09-14
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244372/deepwave.org/IMG_1118-1200x1607-765x1024.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244372/deepwave.org/IMG_1118-1200x1607-765x1024.jpg
 image_caption: © DEEPWAVE
 blogs: 
   - "pplastic-pollution"

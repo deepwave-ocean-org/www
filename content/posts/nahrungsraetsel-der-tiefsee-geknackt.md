@@ -4,7 +4,7 @@ date: 2005-06-30
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244162/deepwave.org/The_fauna_of_the_deep_sea_1894_14576840559.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244162/deepwave.org/The_fauna_of_the_deep_sea_1894_14576840559.jpg"
 image_caption: "© Internet Archive Book Images / Wikimedia Commons"
 author: "Amalia Klein"
 ---

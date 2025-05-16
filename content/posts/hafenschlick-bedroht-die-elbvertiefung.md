@@ -3,7 +3,7 @@ title: "Hafenschlick bedroht die Elbvertiefung"
 date: 2021-01-05
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245022/deepwave.org/jonas-tebbe-xwlJbLvWHLo-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245022/deepwave.org/jonas-tebbe-xwlJbLvWHLo-unsplash-scaled.jpg"
 image_caption: "© Jonas Tebbe / Unsplash"
 author: "DEEPWAVE"
 related: 

@@ -4,7 +4,7 @@ date: 2019-07-20
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245371/deepwave.org/antarctica_derek_oyen-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245371/deepwave.org/antarctica_derek_oyen-scaled.jpg"
 image_caption: "© Derek Oyen / Unsplash"
 author: "DEEPWAVE"
 related: 

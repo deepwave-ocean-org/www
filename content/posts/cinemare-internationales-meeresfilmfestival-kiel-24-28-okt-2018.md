@@ -10,7 +10,7 @@ tags:
   - "medien"
   - "meeresschutz"
   - "veranstaltung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244394/deepwave.org/movie-theater-2502213_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244394/deepwave.org/movie-theater-2502213_1920.jpg"
 image_caption: "© Derks24 / Pixabay"
 author: "DEEPWAVE"
 ---

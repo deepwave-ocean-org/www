@@ -1,7 +1,7 @@
 ---
 title: "Britisches Parlament will \"Klima-Notstand\" ausrufen lassen"
 date: 2019-06-16
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244134/deepwave.org/UK_Flagge.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244134/deepwave.org/UK_Flagge.jpg
 image_caption: © Dean Moriarty / Pixabay
 blogs: 
   - "good-news"

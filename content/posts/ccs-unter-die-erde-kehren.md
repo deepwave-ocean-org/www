@@ -5,7 +5,7 @@ blogs:
   - favoriten
   - politik
 image: >-
-  http://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
+  https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
 image_caption: © Ablasshandel im Mittelalter / Wikimedia Commons
 author: nico-czaja
 ---

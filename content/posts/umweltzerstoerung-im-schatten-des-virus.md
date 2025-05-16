@@ -4,7 +4,7 @@ date: 2020-06-09
 blogs: 
   - "pplastic-pollution"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244315/deepwave.org/Mund_Nasen_Maske_als_M%C3%BCll_am_Strand-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244315/deepwave.org/Mund_Nasen_Maske_als_M%C3%BCll_am_Strand-scaled.jpg"
 image_caption: "© Robin Benzrihem / Unsplash"
 author: "Lea Teichmann"
 related: 

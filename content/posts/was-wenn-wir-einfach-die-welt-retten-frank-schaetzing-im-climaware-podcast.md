@@ -5,7 +5,7 @@ blogs:
   - "klima"
   - "videos-und-audio"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243832/deepwave.org/28_Podcast_Cover_2700x2700_FS-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243832/deepwave.org/28_Podcast_Cover_2700x2700_FS-scaled.jpg"
 image_caption: "© Valerie Helbich-Poschacher / Climaware"
 author: "DEEPWAVE"
 related: 

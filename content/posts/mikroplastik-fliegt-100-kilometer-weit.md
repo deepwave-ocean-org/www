@@ -4,7 +4,7 @@ date: 2019-04-30
 blogs: 
   - "forschung"
   - "pplastic-pollution"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244174/deepwave.org/soren-funk-jQuky0VINAI-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244174/deepwave.org/soren-funk-jQuky0VINAI-unsplash-scaled.jpg"
 image_caption: "© Sören Funk / Unsplash"
 author: "DEEPWAVE"
 related: 

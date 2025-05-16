@@ -11,7 +11,7 @@ tags:
   - "plastikmuell"
   - "recycling"
   - "upcycling"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244308/deepwave.org/sigmund-aI4RJ-Mw4I-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244308/deepwave.org/sigmund-aI4RJ-Mw4I-unsplash-scaled.jpg"
 image_caption: "© Sigmund / Unsplash"
 author: "DEEPWAVE"
 ---

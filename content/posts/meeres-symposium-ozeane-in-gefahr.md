@@ -4,7 +4,7 @@ date: 2023-10-28
 blogs: 
   - "veranstaltungen"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244747/deepwave.org/mike-smith-0FijUNA1GiY-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244747/deepwave.org/mike-smith-0FijUNA1GiY-unsplash-scaled.jpg"
 image_caption: "© Mike Smith / Unsplash"
 author: "DEEPWAVE"
 related: 

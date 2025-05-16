@@ -4,7 +4,7 @@ date: 2019-12-20
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244910/deepwave.org/ian-taylor-jOqJbvo1P9g-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244910/deepwave.org/ian-taylor-jOqJbvo1P9g-unsplash-scaled.jpg"
 image_caption: "© Ian Taylor / Unsplash"
 author: "DEEPWAVE"
 related: 

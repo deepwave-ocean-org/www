@@ -4,7 +4,7 @@ date: 2023-07-07
 blogs: 
   - "forschung"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244936/deepwave.org/Austroniscus-brandtae_CLSM_Terue-Kihara.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244936/deepwave.org/Austroniscus-brandtae_CLSM_Terue-Kihara.jpg"
 image_caption: "© Terue Kihara / Senckenberg Gesellschaft für Naturforschung"
 source: "Pressemitteilung, 6.7.2023, Senckenberg Gesellschaft für Naturforschung"
 author: "DEEPWAVE"

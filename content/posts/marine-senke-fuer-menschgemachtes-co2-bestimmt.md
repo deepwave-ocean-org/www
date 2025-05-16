@@ -11,7 +11,7 @@ tags:
   - "ozean"
   - "ozeanversauerung"
   - "versauerung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244330/deepwave.org/ant-rozetsky-q-DJ9XhKkhA-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244330/deepwave.org/ant-rozetsky-q-DJ9XhKkhA-unsplash-scaled.jpg"
 image_caption: "© Ant Rozetsky / Unsplash"
 author: "DEEPWAVE"
 ---

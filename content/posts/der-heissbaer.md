@@ -4,7 +4,7 @@ date: 2023-03-12T00:00:00Z
 blogs:
   - kultur
 image: >-
-  http://res.cloudinary.com/deepwave-org/image/upload/v1747244617/deepwave.org/Cover_DerHeissbaer_Bilderbuch_Kinderbuch_Klimawandel_72fd26e6-fc0b-4fbb-bd93-506ae410dfe1-scaled.jpg
+  https://res.cloudinary.com/deepwave-org/image/upload/v1747244617/deepwave.org/Cover_DerHeissbaer_Bilderbuch_Kinderbuch_Klimawandel_72fd26e6-fc0b-4fbb-bd93-506ae410dfe1-scaled.jpg
 image_caption: © heissbaer.com
 author: DEEPWAVE
 ---

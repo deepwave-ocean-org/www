@@ -4,7 +4,7 @@ date: 2023-10-21
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243980/deepwave.org/49548019758_85f22b3a3e_5k-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243980/deepwave.org/49548019758_85f22b3a3e_5k-scaled.jpg"
 image_caption: "© Nunataryuk project (CC BY-NC-SA 2.0)"
 source: "Pressemitteilung, 20.10.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

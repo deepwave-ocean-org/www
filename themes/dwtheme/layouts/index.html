@@ -14,9 +14,7 @@
             <a href="{{ $item.url }}" {{ if or (hasPrefix $item.url "http://" ) (hasPrefix $item.url "https://" ) }}
                 target="_blank" rel="noopener noreferrer" {{ end }} class="block">
                 <div class="relative group">
-                    <div class="aspect-square rounded-full overflow-hidden group-hover:scale-70 origin-top">
-                        <img src="{{ $item.image }}" alt="{{ $item.title }}" class="w-full h-full object-cover">
-                    </div>
+                    {{ partial "img/img" (dict "src" $item.image "alt" $item.title "class" "" "img_class" "aspect-square rounded-full overflow-hidden group-hover:scale-80 origin-top w-full h-full object-cover") }}
                     <div
                         class="absolute bottom-0 w-full flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100">
                         <h3 class="text-2xl mb-1">{{ $item.title }}</h3>

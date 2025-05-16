@@ -3,7 +3,7 @@ title: "DEEPWAVE Filmfestival zum Schutz der Hoch- und Tiefsee – 20 Jahre DEEP
 date: 2023-05-25
 blogs: 
   - "reflexionen"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243863/deepwave.org/Insta_Filmfestival_Ausschnitt.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243863/deepwave.org/Insta_Filmfestival_Ausschnitt.png"
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "Amalia Klein"
 related: 

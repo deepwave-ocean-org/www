@@ -4,7 +4,7 @@ date: 2023-12-06
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245396/deepwave.org/2023-12-05_Foraminifera_265_36_Various.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245396/deepwave.org/2023-12-05_Foraminifera_265_36_Various.jpg"
 image_caption: "© Foraminifera unter dem Mikroskop Doc. RNDr. Josef Reischig, CSc. / Wikimedia Commons"
 source: "Pressemitteilung, 05.12.2023, MARUM"
 author: "Anja"

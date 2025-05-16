@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "klima"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245284/deepwave.org/qualle_ohrenqualle_arktis_matthias-gotzke-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245284/deepwave.org/qualle_ohrenqualle_arktis_matthias-gotzke-unsplash-scaled.jpg"
 image_caption: "© Unsplash / Matthias Gotzke"
 source: "Pressemitteilung, 15.05.2024, Alfred-Wegner-Institut"
 author: "Amalia Klein"

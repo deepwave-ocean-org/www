@@ -4,7 +4,7 @@ date: 2020-05-16
 blogs: 
   - "politik"
   - "überfischung"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244431/deepwave.org/Schweinswal.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244431/deepwave.org/Schweinswal.jpg"
 image_caption: "© NOAA / Wikimedia Commons"
 source: "Pressemitteilung, 15.05.2020, NABU"
 author: "DEEPWAVE"

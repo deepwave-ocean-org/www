@@ -5,7 +5,7 @@ blogs:
   - "bluestraw"
   - "pplastic-pollution"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244542/deepwave.org/Plastikmuell_TheDigitalArtist_Pixabay.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244542/deepwave.org/Plastikmuell_TheDigitalArtist_Pixabay.jpg"
 image_caption: "© TheDigitalArtist / Pixabay"
 source: "Pressemitteilung, 12.11.2023, WWF"
 author: "Lukas"

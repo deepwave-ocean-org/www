@@ -29,7 +29,7 @@ Auf der Suche nach Empfehlungen sind uns erstaunlich viele Bücher für Kinder e
 
 Daher empfehlen wir auch den Erwachsenen diese Kinderbücher. Denn sie zeigen uns den Schritt, der nach dem Wissen kommt. Das Verinnerlichen, Begreifen, Verstehen. Den Auslöser zum Handeln.
 
-[![Fische Fische überall Britta Teckentrup Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Fische_Fische_überall_Britta_Teckentrup_Empfehlung.jpg)](/fische-fische-ueberall-von-britta-teckentrup/)
+[![Fische Fische überall Britta Teckentrup Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Fische_Fische_überall_Britta_Teckentrup_Empfehlung.jpg)](/fische-fische-ueberall-von-britta-teckentrup/)
 
 
 ### [Fische, Fische überall](https://www.deepwave.org/fische-fische-ueberall-von-britta-teckentrup/)
@@ -42,7 +42,7 @@ Franziska Bils
 
 ##### [Hier findet ihr unsere ausführliche Rezension...](https://www.deepwave.org/fische-fische-ueberall-von-britta-teckentrup/)
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265866/deepwave.org/Ozeane_H%C3%A9l%C3%A8ne_Druvert_Empfehlung.jpg)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747265866/deepwave.org/Ozeane_H%C3%A9l%C3%A8ne_Druvert_Empfehlung.jpg)
 
 ### Ozeane
 
@@ -53,7 +53,7 @@ Gerstenberg Verlag
 
 Anna Mandel, Illustratorin der [Meeresfibel](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/)
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265868/deepwave.org/Herr-Seepferdchen-PopUp_Eric_Carle_Empfehlung.jpg)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747265868/deepwave.org/Herr-Seepferdchen-PopUp_Eric_Carle_Empfehlung.jpg)
 
 ### Herr Seepferdchen Pop-Up Buch
 
@@ -63,7 +63,7 @@ Anna Mandel, Illustratorin der [Meeresfibel](https://www.deepwave.org/projekte/s
 
 Luisa Münch
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265871/deepwave.org/Nick-und-der-Wal_Benji_Daves_Empfehlung.jpg)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747265871/deepwave.org/Nick-und-der-Wal_Benji_Daves_Empfehlung.jpg)
 
 ### Nick und der Wal
 
@@ -73,7 +73,7 @@ Luisa Münch
 
 Anna Mandel
 
-![](http://res.cloudinary.com/deepwave-org/image/upload/v1747265873/deepwave.org/Der_Regenbogenfisch_entdeckt_die_Tiefsee_Empfehlung.jpg)
+![](https://res.cloudinary.com/deepwave-org/image/upload/v1747265873/deepwave.org/Der_Regenbogenfisch_entdeckt_die_Tiefsee_Empfehlung.jpg)
 
 ### Der Regenbogenfisch entdeckt die Tiefsee
 
@@ -83,7 +83,7 @@ Anna Mandel
 
 Anna Groß
 
-![Das Meer Ricardo Henriques Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das_Meer_Ricardo_Henriques_Empfehlung.jpg)
+![Das Meer Ricardo Henriques Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das_Meer_Ricardo_Henriques_Empfehlung.jpg)
 
 
 ### Das Meer - eintauchen, abtauchen, entdecken
@@ -94,7 +94,7 @@ Anna Groß
 
 Anna Groß
 
-![Meereskunde Rainer Crummenerl Was-ist-Was Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Meereskunde_Rainer_Crummenerl_Was-ist-Was_Empfehlung.jpg)
+![Meereskunde Rainer Crummenerl Was-ist-Was Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Meereskunde_Rainer_Crummenerl_Was-ist-Was_Empfehlung.jpg)
 
 ### Was ist Was - Meereskunde
 
@@ -105,7 +105,7 @@ Anna Groß
 Anna Groß
 
 
-![Geheimnis Tiefsee. Leben in ewiger Finsternis Manfred Baur Was-ist-Was Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Geheimnis-Tiefsee.-Leben-in-ewiger-Finsternis_Manfred_Baur_Was-ist-Was_Empfehlung.jpg)
+![Geheimnis Tiefsee. Leben in ewiger Finsternis Manfred Baur Was-ist-Was Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Geheimnis-Tiefsee.-Leben-in-ewiger-Finsternis_Manfred_Baur_Was-ist-Was_Empfehlung.jpg)
 
 ### Was ist Was - Geheimnis Tiefsee
 
@@ -117,7 +117,7 @@ Anna Groß
 
 Anna Groß
 
-![Ocean Bingo Spiel Laurence King Empfehlung](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Ocean_Bingo_Spiel_Laurence_King_Empfehlung.jpg)
+![Ocean Bingo Spiel Laurence King Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Ocean_Bingo_Spiel_Laurence_King_Empfehlung.jpg)
 
 ### Ocean Bingo
 
@@ -130,7 +130,7 @@ Anna Groß
 
 Und natürlich unser eigenes Buch für Kinder und Jugendliche:
 
-[![Meeresfibel Titel](http://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/meeresfibel_titel.jpg)](/projekte/schulkampagne-meeresfibel/)
+[![Meeresfibel Titel](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/meeresfibel_titel.jpg)](/projekte/schulkampagne-meeresfibel/)
 
 ### [Die Meeresfibel](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/)
 

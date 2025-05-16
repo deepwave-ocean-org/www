@@ -4,7 +4,7 @@ date: 2023-01-22
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245233/deepwave.org/Hamburg_Hafen_Kraene_LNG_marius-niveri-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245233/deepwave.org/Hamburg_Hafen_Kraene_LNG_marius-niveri-unsplash-scaled.jpg"
 image_caption: "© Marius Niveri / Unsplash"
 source: "Pressemitteilung, 20.01.2023, BUND"
 author: "Amalia Klein"

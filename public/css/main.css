@@ -912,6 +912,16 @@
       }
     }
   }
+  .group-hover\:scale-80 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-scale-x: 80%;
+        --tw-scale-y: 80%;
+        --tw-scale-z: 80%;
+        scale: var(--tw-scale-x) var(--tw-scale-y);
+      }
+    }
+  }
   .group-hover\:opacity-100 {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {

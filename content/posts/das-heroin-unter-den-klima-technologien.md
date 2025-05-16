@@ -1,7 +1,7 @@
 ---
 title: "Das Heroin unter den Klima-Technologien"
 date: 2023-06-18
-image: http://res.cloudinary.com/deepwave-org/image/upload/v1747244945/deepwave.org/diana-polekhina-ZBstHWt9vLc-unsplash-scaled.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244945/deepwave.org/diana-polekhina-ZBstHWt9vLc-unsplash-scaled.jpg
 image_caption: © Diana Polekhina / Unsplash
 image_alt: Eine Spritze mit gelbem Inhalt wird aufgezogen
 blogs: 

@@ -4,7 +4,7 @@ date: 2022-06-02
 blogs: 
   - "kultur"
   - "literatur"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244561/deepwave.org/Wenn_Haie_leuchten_Julia_Schnetzer.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244561/deepwave.org/Wenn_Haie_leuchten_Julia_Schnetzer.jpg"
 image_caption: "© Lea Teichmann, DEEPWAVE"
 author: "Lea Teichmann"
 ---

@@ -5,7 +5,7 @@ blogs:
   - "forschung"
   - "pplastic-pollution"
   - "tiefsee"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244451/deepwave.org/ramen.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244451/deepwave.org/ramen.jpg"
 image_caption: "© Serena Abel / Senckenberg Gesellschaft für Naturforschung"
 source: "Pressemitteilung, 13.07.2023, Senckenberg Gesellschaft für Naturforschung"
 author: "DEEPWAVE"

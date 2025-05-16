@@ -4,7 +4,7 @@ date: 2023-03-30
 blogs: 
   - "klima"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244433/deepwave.org/Salt_marsh_Georgia_US.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244433/deepwave.org/Salt_marsh_Georgia_US.jpg"
 image_caption: "© Trish Hartmann / Wikimedia Commons (CC BY 2.0)"
 source: "Pressemitteilung, 29.03.2023, BMUV"
 author: "DEEPWAVE"

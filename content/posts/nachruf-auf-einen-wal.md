@@ -9,7 +9,7 @@ tags:
   - "illegale-fischerei"
   - "vaquita"
   - "walfang"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245427/deepwave.org/Phocoena_sinus.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245427/deepwave.org/Phocoena_sinus.jpg"
 image_caption: "© CC BY-SA 4.0 / Wikimedia Commons"
 author: "DEEPWAVE"
 related: 

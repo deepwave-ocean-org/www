@@ -14,7 +14,7 @@ author: "DEEPWAVE"
 
 Am 28. März 2019 bekommt Stefan Rahmstorf in der Kategorie _Wissen_ den ZEIT WISSEN-Preis _Mut zu Nachhaltigkeit 2019_ verliehen.
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747244619/deepwave.org/Stefan_Rahmstorf.jpg" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747244619/deepwave.org/Stefan_Rahmstorf.jpg" alt="Eine Portraitansicht von Stefan Rahmstorf" caption="© Stefan Rahmstorf" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747244619/deepwave.org/Stefan_Rahmstorf.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747244619/deepwave.org/Stefan_Rahmstorf.jpg" alt="Eine Portraitansicht von Stefan Rahmstorf" caption="© Stefan Rahmstorf" >}}
 
 Wir freuen uns sehr, dass Stefan Rahmstorf, DEEPWAVE Vereinsmitglied, für sein Engagement im Wissenstransfer in der Klimaforschung den ZEIT WISSEN-Preis erhält.
 

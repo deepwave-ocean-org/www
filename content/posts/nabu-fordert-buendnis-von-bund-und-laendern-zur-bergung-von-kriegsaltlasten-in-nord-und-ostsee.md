@@ -3,7 +3,7 @@ title: "NABU fordert Bündnis von Bund und Ländern zur Bergung von Kriegsaltlas
 date: 2019-11-14
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243988/deepwave.org/valiant-made-PBwmXCEJWSM-unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243988/deepwave.org/valiant-made-PBwmXCEJWSM-unsplash-scaled.jpg"
 image_caption: "© Viliant Made / Unsplash"
 author: "Amalia Klein"
 related: 

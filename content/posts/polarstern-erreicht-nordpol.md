@@ -4,7 +4,7 @@ date: 2023-09-09
 blogs: 
   - "forschung"
   - "klima"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244005/deepwave.org/20150911_PS94_Arktis_077_MHoppmann-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244005/deepwave.org/20150911_PS94_Arktis_077_MHoppmann-scaled.jpg"
 image_caption: "© Alfred-Wegener-Institut / Mario Hoppmann (CC-BY 4.0)"
 source: "Pressemitteilung, 08.09.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

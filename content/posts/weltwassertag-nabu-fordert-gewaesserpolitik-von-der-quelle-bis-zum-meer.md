@@ -3,7 +3,7 @@ title: "Weltwassertag: NABU fordert Gewässerpolitik von der Quelle bis zum Meer
 date: 2021-03-20
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243871/deepwave.org/sunrise-3744418_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243871/deepwave.org/sunrise-3744418_1920.jpg"
 image_caption: "© Robert Jones / Pixabay"
 source: "Pressemitteilung, 19.03.2021, NABU"
 author: "DEEPWAVE"

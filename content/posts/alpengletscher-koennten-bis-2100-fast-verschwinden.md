@@ -8,7 +8,7 @@ tags:
   - "climate-change"
   - "eisschmelze"
   - "klimawandel"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244590/deepwave.org/glaciers-1148976_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244590/deepwave.org/glaciers-1148976_1920.jpg"
 image_caption: "© Free-Photos / Pixabay"
 author: "DEEPWAVE"
 related: 

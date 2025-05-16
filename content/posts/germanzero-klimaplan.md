@@ -7,7 +7,7 @@ blogs:
   - "klima"
   - "politik"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244480/deepwave.org/German_Zero_Warenwirtschaft_Hamburg_Der_15_Grad_Klimaplan_fuer_Deutschland.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244480/deepwave.org/German_Zero_Warenwirtschaft_Hamburg_Der_15_Grad_Klimaplan_fuer_Deutschland.jpg"
 image_caption: "© GermanZero"
 author: "Amalia Klein"
 ---

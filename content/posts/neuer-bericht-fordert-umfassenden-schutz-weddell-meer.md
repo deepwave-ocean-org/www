@@ -7,7 +7,7 @@ blogs:
 tags: 
   - "antarktis"
   - "wedellmeer"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244055/deepwave.org/66_north_Weddell_Meer_Antarktis_Eisberg-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244055/deepwave.org/66_north_Weddell_Meer_Antarktis_Eisberg-scaled.jpg"
 image_caption: "© 66 North / Unsplash"
 source: "Pressemitteilung, 17.07.2014, WWF"
 author: "deepwave-blog"

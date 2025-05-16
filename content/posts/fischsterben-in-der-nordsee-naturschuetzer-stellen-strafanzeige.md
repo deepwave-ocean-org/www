@@ -3,7 +3,7 @@ title: "Fischsterben in der Nordsee: Naturschützer stellen Strafanzeige"
 date: 2021-01-04
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245072/deepwave.org/dpa-4994__v-1280x720_c-1592996576188.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245072/deepwave.org/dpa-4994__v-1280x720_c-1592996576188.jpg"
 image_caption: "© DPA / Schutzstation Wattenmeer / Rainer Schulz"
 author: "DEEPWAVE"
 related: 

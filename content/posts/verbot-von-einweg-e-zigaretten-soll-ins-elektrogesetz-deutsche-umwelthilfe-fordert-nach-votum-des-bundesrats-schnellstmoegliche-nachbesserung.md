@@ -5,7 +5,7 @@ blogs:
   - "bluestraw"
   - "good-news"
   - "pplastic-pollution"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245422/deepwave.org/vapes_einweg_e_zigaretten_wikimedia_commons-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245422/deepwave.org/vapes_einweg_e_zigaretten_wikimedia_commons-scaled.jpg"
 image_caption: "© Wikimedia Commons (<a class='extiw' title='w:en:Creative Commons' href='https://en.wikipedia.org/wiki/en:Creative_Commons'>Creative Commons</a> <a class='extiw' title='creativecommons:by-sa/4.0/deed.en' href='https://creativecommons.org/licenses/by-sa/4.0/deed.en'>Attribution-Share Alike 4.0 International</a>)"
 source: "Pressemitteilung, 22.11.2024, Deutsche Umwelthilfe"
 author: "Amalia Klein"

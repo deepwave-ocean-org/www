@@ -6,7 +6,7 @@ blogs:
   - "was-tun"
 tags: 
   - "meeresschildkroeten"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243842/deepwave.org/sea-turtle-356125_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243842/deepwave.org/sea-turtle-356125_1920.jpg"
 image_caption: "© 12019 / Pixabay"
 source: "Pressemitteilung, 25. Mai 2005, EuroNatur"
 author: "deepwave-blog"

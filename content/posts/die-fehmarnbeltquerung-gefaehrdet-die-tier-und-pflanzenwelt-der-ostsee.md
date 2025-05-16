@@ -3,7 +3,7 @@ title: "Die Fehmarnbeltquerung gefährdet die Tier- und Pflanzenwelt der Ostsee"
 date: 2020-10-06
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747245269/deepwave.org/200828-nabu-fehmarn-luftbild-volker-gehrmann680.png"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245269/deepwave.org/200828-nabu-fehmarn-luftbild-volker-gehrmann680.png"
 image_caption: "© Volker Gehrmann / NABU"
 author: "DEEPWAVE"
 related: 
@@ -17,7 +17,7 @@ Seit 25 Jahren wird über das Großprojekt, welches Puttgarden auf der Insel Feh
 
 Für die Tiere und Pflanzen in der Ostsee hätte der Tunnelbau fatale Folgen. Dass der Tunnel durch seltene, artenreiche [Korallenriffe](https://www.deepwave.org/die-ozeane/korallen/) führt, ist nur die Spitze des Eisbergs. Das betroffene Gebiet ist der Lebensraum für hochgefährdete Arten wie den [Schweinswal](https://www.deepwave.org/beeinflusst-unterwasserlaerm-schweinswale-19364742/), Deutschlands einzige Walart, und auch die Kegelrobbe, Deutschlands größtes Raubtier, lebt hier. Allein die Bauphase würde die Tiere mehrere Jahre lang beträchtlichem [Lärm](https://www.deepwave.org/die-ozeane/laerm/) aussetzen und  und ihren einmaligen Lebensraum unwiederbringlich zerstören. Besondere Bedeutung für das Verfahren hat allerdings die Tatsache, dass erst durch die Aufarbeitung von Fehlern in der Biotopkartierung festgestellt wurde, dass sich im nahen Umfeld des Tunnelgrabens 25 Prozent mehr streng geschützte Riffe befinden, als ursprünglich angenommen.
 
-{{< figure src="http://res.cloudinary.com/deepwave-org/image/upload/v1747245271/deepwave.org/Fehmarnbeltquerung.png" link="http://res.cloudinary.com/deepwave-org/image/upload/v1747245271/deepwave.org/Fehmarnbeltquerung.png" alt="Eine Übersicht des Meeresschutzgebietes und die dort lebenden Tierarten, wodurch die Fehmarnbeltquerung führen wird." caption="© Torsten Porstmann / NABU" >}}
+{{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747245271/deepwave.org/Fehmarnbeltquerung.png" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747245271/deepwave.org/Fehmarnbeltquerung.png" alt="Eine Übersicht des Meeresschutzgebietes und die dort lebenden Tierarten, wodurch die Fehmarnbeltquerung führen wird." caption="© Torsten Porstmann / NABU" >}}
 
 Doch nicht nur Naturschützer sehen das Projekt als sehr kritisch an. Fährunternehmen fürchten um Arbeitsplätze und die Anwohner rund um die geplante neue Autobahn sorgen sich um künftigen Verkehrslärm. Außerdem stiegen die ursprünglich angedachten Kosten von 800 Millionen Euro im Jahr 2008 auf inzwischen 2 Milliarden Euro im Jahr 2020. Dass die Kosten noch weiter ansteigen, sei es für die Entschädigung von Betroffenen oder für einen ökologischen Ausgleich, ist nicht ausgeschlossen. Diese Summen sind bei der zu erwartenden, niedrigen Verkehrsauslastung von schätzungsweise 5.000 bis 8.000 Fahrzeugen pro Tag nicht annährend berechtigt.
 

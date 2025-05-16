@@ -6,7 +6,7 @@ blogs:
   - "kultur"
   - "musik"
   - "was-tun"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244625/deepwave.org/Mother_and_baby_sperm_whale.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244625/deepwave.org/Mother_and_baby_sperm_whale.jpg"
 image_caption: "© Gabriel Barathieu / Wikimedia Commons (CC BY-SA 2.0)"
 source: "Pressemitteilung, 03.02.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"

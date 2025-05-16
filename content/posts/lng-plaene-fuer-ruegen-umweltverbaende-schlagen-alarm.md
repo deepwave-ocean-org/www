@@ -3,7 +3,7 @@ title: "LNG-Pläne für Rügen: Umweltverbände schlagen Alarm"
 date: 2024-01-17
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244592/deepwave.org/Ruegen_LNG_Daniel_Schuh_Unsplash-scaled.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244592/deepwave.org/Ruegen_LNG_Daniel_Schuh_Unsplash-scaled.jpg"
 image_caption: "© Daniel Schuh / Unsplash"
 source: "Pressemitteilung, 16.01.2024, WWF"
 author: "Lukas"

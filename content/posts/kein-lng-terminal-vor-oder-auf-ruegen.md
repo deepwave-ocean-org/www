@@ -3,7 +3,7 @@ title: "\"Kein LNG-Terminal vor oder auf Rügen\""
 date: 2023-04-06
 blogs: 
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747244752/deepwave.org/coast-g3cddfec8e_1920.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244752/deepwave.org/coast-g3cddfec8e_1920.jpg"
 image_caption: "© Peggychoucair / Pixabay"
 source: "Pressemitteilung, 05.04.2023, WWF"
 author: "DEEPWAVE"

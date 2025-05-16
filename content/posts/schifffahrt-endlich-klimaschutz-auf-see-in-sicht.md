@@ -4,7 +4,7 @@ date: 2023-12-12
 blogs: 
   - "good-news"
   - "politik"
-image: "http://res.cloudinary.com/deepwave-org/image/upload/v1747243976/deepwave.org/2023-12-11_vidar-nordli-mathisen-O_iqdOgPefI-unsplash.jpg"
+image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243976/deepwave.org/2023-12-11_vidar-nordli-mathisen-O_iqdOgPefI-unsplash.jpg"
 image_caption: "© Vidar Nordli-Mathisen / Unsplash"
 source: "Pressemitteilung, 11.12.2023, Pressemitteilung NABU"
 author: "Anja"

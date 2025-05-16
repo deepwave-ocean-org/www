@@ -3,7 +3,7 @@ title: "März 2020"
 date: 2020-03-01
 ---
 
-#### [![](http://res.cloudinary.com/deepwave-org/image/upload/v1747245650/deepwave.org/Meeresoffensive2020-1.png)](https://www.deepwave.org/die-ozeane/meerespolitik/)
+#### [![](https://res.cloudinary.com/deepwave-org/image/upload/v1747245650/deepwave.org/Meeresoffensive2020-1.png)](https://www.deepwave.org/die-ozeane/meerespolitik/)
 
 #### **16\. März**
 
