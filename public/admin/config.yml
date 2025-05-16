@@ -3,16 +3,40 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: deepwave-org
+    api_key: 128449217353833
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'posts'
+    label: 'Posts'
+    folder: 'content/posts'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "image Caption ©", name: "image_caption", widget: "string" }
+      - label: "Categories"
+        name: "blogs"
+        widget: "select"
+        multiple: true
+        options: ["good-news", "forschung", klima", "politik", "kultur", "tiefsee", "reflexionen", "überfischung", "was-tun"]
+      - label: "Author"
+        name: "author"
+        widget: "relation"
+        collection: "authors"
+        search_fields: ["name"]
+        value_field: "{{slug}}"
+  - name: 'authors'
+    label: 'Authors'
+    folder: 'content/authors'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Name', name: 'name', widget: 'string' }

@@ -32,15 +32,7 @@ collections:
         widget: "relation"
         collection: "authors"
         search_fields: ["name"]
-      - label: "Related Posts"
-        name: "related"
-        widget: "list"
-        summary: '{{fields.title}}'
-        field: 
-          label: "Related Post"
-          widget: "relation"
-          collection: "posts"
-          search_fields: ["title"]
+        value_field: "{{slug}}"
   - name: 'authors'
     label: 'Authors'
     folder: 'content/authors'
