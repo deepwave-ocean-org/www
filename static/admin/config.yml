@@ -4,8 +4,8 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'Post'
-    label: 'Blog'
+  - name: 'posts'
+    label: 'Posts'
     folder: 'content/posts'
     create: true
     slug: '{{slug}}'
@@ -14,5 +14,10 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Image", name: "image", widget: "image" }
+    media_library:
+      name: cloudinary
+      config:
+        cloud_name: deepwave-org
+        api_key: d_2byu9e1W0fwCyGDYGtOn0TVRs
