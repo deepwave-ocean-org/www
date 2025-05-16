@@ -1,11 +1,12 @@
 ---
-title: "Abschluss der COP24 in Kattowice"
+title: Abschluss der COP24 in Kattowice
 date: 2018-12-16
-blogs: 
-  - "klima"
-  - "politik"
-  - "no-image"
-author: "DEEPWAVE"
+blogs:
+  - klima
+  - politik
+  - no-image
+author: DEEPWAVE
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747422129/deepwave.org/mathias-reding-yfXhqAW5X0c-unsplash_vkags2.jpg
 ---
 
 Die Verhandlungen des Weltklimagipfels in Kattowice enden mit einem 133-seitigen Regelwerk, das als Umsetzung des Pariser Abkommens von 2015 vorgibt, wie ab 2024 die Staaten der Welt  über ihre Bemühungen zum Klimaschutz zu berichten haben.
