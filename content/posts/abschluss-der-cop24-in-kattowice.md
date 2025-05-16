@@ -7,6 +7,7 @@ blogs:
   - no-image
 author: DEEPWAVE
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1747422129/deepwave.org/mathias-reding-yfXhqAW5X0c-unsplash_vkags2.jpg
+image_caption: © Mathias Reding / Unsplash
 ---
 
 Die Verhandlungen des Weltklimagipfels in Kattowice enden mit einem 133-seitigen Regelwerk, das als Umsetzung des Pariser Abkommens von 2015 vorgibt, wie ab 2024 die Staaten der Welt  über ihre Bemühungen zum Klimaschutz zu berichten haben.
