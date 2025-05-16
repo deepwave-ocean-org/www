@@ -22,4 +22,29 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: "Image", name: "image", widget: "image" }
       - { label: "image Caption ©", name: "image_caption", widget: "string" }
-      
+      - label: "Categories"
+        name: "blogs"
+        widget: "select"
+        multiple: true
+        options: ["good-news", "forschung", klima", "politik", "kultur", "tiefsee", "reflexionen", "überfischung", "was-tun"]
+      - label: "Author"
+        name: "author"
+        widget: "relation"
+        collection: "authors"
+        search_fields: ["name"]
+      - label: "Related Posts"
+        name: "related"
+        widget: "list"
+        summary: '{{fields.title}}'
+        field: 
+          label: "Related Post"
+          widget: "relation"
+          collection: "posts"
+          search_fields: ["title"]
+  - name: 'authors'
+    label: 'Authors'
+    folder: 'content/authors'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Name', name: 'name', widget: 'string' }
