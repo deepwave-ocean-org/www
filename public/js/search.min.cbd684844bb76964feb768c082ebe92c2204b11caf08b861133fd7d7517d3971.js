@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("search-bar");function t(e,t){let n;return function(...s){clearTimeout(n),n=setTimeout(()=>e.apply(this,s),t)}}e.addEventListener("input",t(e=>{n(e)},300));function n(e){const t=e.target.value.trim();console.log(t)}})

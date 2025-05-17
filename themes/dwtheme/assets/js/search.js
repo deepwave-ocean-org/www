@@ -1,26 +1,27 @@
-const search = document.getElementById('search-bar')
+document.addEventListener('DOMContentLoaded', function () {
+    const search = document.getElementById('search-bar')
 
-function debounce(func, wait) {
-      let timeout;
-      return function (...args) {
-        clearTimeout(timeout);
-        timeout = setTimeout(() => func.apply(this, args), wait);
-      };
+    function debounce(func, wait) {
+        let timeout;
+        return function (...args) {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(this, args), wait);
+        };
     }
 
-search.addEventListener('input', debounce(e => {
-    renderSearchResults(e)
-}, 300));
+    search.addEventListener('input', debounce(e => {
+        renderSearchResults(e)
+    }, 300));
 
-function renderSearchResults(e) {
-    const searchTerm = e.target.value.trim();
-    console.log(searchTerm)
+    function renderSearchResults(e) {
+        const searchTerm = e.target.value.trim();
+        console.log(searchTerm)
     // const fuse = new Fuse(searchData, {
     //     keys: ['title', 'content.explanations.text'],
     //     threshold: 0.3
     // });
-}
-
+    }
+})
 // const results = fuse.search(searchTerm);
 // if (results.length > 0) {
 //     console.log(results)
