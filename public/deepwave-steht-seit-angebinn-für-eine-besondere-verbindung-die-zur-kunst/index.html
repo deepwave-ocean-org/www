@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html lang="de">
+<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><html><head>
     
 <meta charset="utf-8">
 <meta http-equiv="delegate-ch"
@@ -73,6 +74,7 @@ Unsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als K
 
 
 
+
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -103,9 +105,7 @@ Unsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als K
         "@type": "WebPage",
         "@id": "http:\/\/localhost:1313\/deepwave-steht-seit-angebinn-f%C3%BCr-eine-besondere-verbindung-die-zur-kunst\/"
     },
-    
     "articleSection": ["Kultur"]
-    
 }
 </script>
 
@@ -135,8 +135,8 @@ Unsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als K
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head><header class="font-sans menu_shadow bg-white">
   <div class="relative">
-    <div class="not_full_width">
-        <div class="h-16 flex flex-col justify-center">
+    <div class="not_full_width px-6 md:px-16">
+      <div class="h-16 hidden md:!flex flex-col justify-center">
           <ul class="flex space-x-4 text-md justify-end">
             
             <li>
@@ -157,7 +157,7 @@ Unsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als K
             
           </ul>
         </div>
-        <div class="h-16 flex items-center justify-between">
+        <div class="h-24 flex items-center justify-between md:h-16">
             <a href="/" class="logo">
             <div class="flex items-center">
     <img
@@ -165,8 +165,13 @@ Unsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als K
       alt="Deepwave Logo" height="100%" width="100%">
   </div>
             </a>
+            <button class="block md:hidden cursor-pointer" id="mobile-menu-button">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+              </svg>
+            </button>
         </div>
-        <div class="h-12 flex flex-col justify-end pb-4 text-sm md:text-lg">
+        <div class="h-12 hidden md:!flex flex-col justify-end pb-4 text-sm md:text-lg">
           <div class="flex justify-between">
             <nav class="">
               <ul class="flex space-x-6 flex-wrap">
@@ -175,106 +180,106 @@ Unsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als K
                 <li class="group">
                   
                   <div
-                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow ">
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-20 flex flex-col justify-center hidden group-hover:!flex hover:!flex sub_menu_shadow ">
                     <div class="not_full_width w-full flex space-x-4">
                       
-                      <a href="/ueber-uns/was-wir-tun/" class="hover:text-deepwave-light-blue">Was wir tun</a>
+                      <a href="http://localhost:1313/ueber-uns/was-wir-tun/" class="hover:text-deepwave-light-blue">Was wir tun</a>
                       
-                      <a href="/ueber-uns/wer-wir-sind/" class="hover:text-deepwave-light-blue">Wer wir sind</a>
+                      <a href="http://localhost:1313/ueber-uns/wer-wir-sind/" class="hover:text-deepwave-light-blue">Wer wir sind</a>
                       
-                      <a href="/ueber-uns/onno-gro%c3%9f/" class="hover:text-deepwave-light-blue">Onno Groß</a>
+                      <a href="http://localhost:1313/ueber-uns/onno-gro%C3%9F/" class="hover:text-deepwave-light-blue">Onno Groß</a>
                       
                     </div>
                   </div>
                   
-                  <a href="/ueber-uns/" class="hover:text-deepwave-light-blue">Über uns</a>
+                  <a href="http://localhost:1313/ueber-uns/" class="hover:text-deepwave-light-blue pb-6">Über uns</a>
                 </li>
                 
                 <li class="group">
                   
-                  <a href="/blogs/reflexionen" class="hover:text-deepwave-light-blue">Reflexionen</a>
+                  <a href="http://localhost:1313/blogs/reflexionen" class="hover:text-deepwave-light-blue pb-6">Reflexionen</a>
                 </li>
                 
                 <li class="group">
                   
                   <div
-                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow ">
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-20 flex flex-col justify-center hidden group-hover:!flex hover:!flex sub_menu_shadow ">
                     <div class="not_full_width w-full flex space-x-4">
                       
                       <a href="https://klartext.deepwave.org" class="hover:text-deepwave-light-blue">KLARTEXT Meerespolitik</a>
                       
                       <a href="https://tiefsee.deepwave.org" class="hover:text-deepwave-light-blue">NO DEEP SEA MINING - NEVER</a>
                       
-                      <a href="projekte/filmfestival/" class="hover:text-deepwave-light-blue">Filmfestival</a>
+                      <a href="http://localhost:1313/projekte/filmfestival/" class="hover:text-deepwave-light-blue">Filmfestival</a>
                       
-                      <a href="projekte/meeresfibel/" class="hover:text-deepwave-light-blue">Die Meeresfibel</a>
+                      <a href="http://localhost:1313/projekte/meeresfibel/" class="hover:text-deepwave-light-blue">Die Meeresfibel</a>
                       
-                      <a href="projekte/mangrovenprojekt/" class="hover:text-deepwave-light-blue">MANGREEN</a>
+                      <a href="http://localhost:1313/projekte/mangrovenprojekt/" class="hover:text-deepwave-light-blue">MANGREEN</a>
                       
                     </div>
                   </div>
                   
-                  <a href="/projekte/" class="hover:text-deepwave-light-blue">Projekte</a>
+                  <a href="http://localhost:1313/projekte/" class="hover:text-deepwave-light-blue pb-6">Projekte</a>
                 </li>
                 
                 <li class="group">
                   
                   <div
-                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow ">
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-20 flex flex-col justify-center hidden group-hover:!flex hover:!flex sub_menu_shadow ">
                     <div class="not_full_width w-full flex space-x-4">
                       
-                      <a href="/die-ozeane/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+                      <a href="http://localhost:1313/die-ozeane/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
                       
-                      <a href="/die-ozeane/die-tiefsee/" class="hover:text-deepwave-light-blue">Die Tiefsee</a>
+                      <a href="http://localhost:1313/die-ozeane/die-tiefsee/" class="hover:text-deepwave-light-blue">Die Tiefsee</a>
                       
-                      <a href="/die-ozeane/%c3%bcberfischung/" class="hover:text-deepwave-light-blue">Überfischung</a>
+                      <a href="http://localhost:1313/die-ozeane/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">Überfischung</a>
                       
-                      <a href="/die-ozeane/meerespolitik/" class="hover:text-deepwave-light-blue">Meerespolitik</a>
+                      <a href="http://localhost:1313/die-ozeane/meerespolitik/" class="hover:text-deepwave-light-blue">Meerespolitik</a>
                       
-                      <a href="/die-ozeane/k%c3%bcstenschutz/" class="hover:text-deepwave-light-blue">Küstenschutz</a>
+                      <a href="http://localhost:1313/die-ozeane/k%C3%BCstenschutz/" class="hover:text-deepwave-light-blue">Küstenschutz</a>
                       
-                      <a href="/die-ozeane/l%c3%a4rm/" class="hover:text-deepwave-light-blue">Lärm</a>
+                      <a href="http://localhost:1313/die-ozeane/l%C3%A4rm/" class="hover:text-deepwave-light-blue">Lärm</a>
                       
-                      <a href="/die-ozeane/klima/" class="hover:text-deepwave-light-blue">Klima</a>
+                      <a href="http://localhost:1313/die-ozeane/klima/" class="hover:text-deepwave-light-blue">Klima</a>
                       
-                      <a href="/die-ozeane/verschmutzung/" class="hover:text-deepwave-light-blue">Verschmutzung</a>
+                      <a href="http://localhost:1313/die-ozeane/verschmutzung/" class="hover:text-deepwave-light-blue">Verschmutzung</a>
                       
-                      <a href="/die-ozeane/korallen/" class="hover:text-deepwave-light-blue">Korallen</a>
+                      <a href="http://localhost:1313/die-ozeane/korallen/" class="hover:text-deepwave-light-blue">Korallen</a>
                       
                     </div>
                   </div>
                   
-                  <a href="/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+                  <a href="http://localhost:1313/die-ozeane/" class="hover:text-deepwave-light-blue pb-6">Die Ozeane</a>
                 </li>
                 
                 <li class="group">
                   
                   <div
-                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow ">
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-20 flex flex-col justify-center hidden group-hover:!flex hover:!flex sub_menu_shadow ">
                     <div class="not_full_width w-full flex space-x-4">
                       
-                      <a href="/blogs/good-news/" class="hover:text-deepwave-light-blue">Good News</a>
+                      <a href="http://localhost:1313/blogs/good-news/" class="hover:text-deepwave-light-blue">Good News</a>
                       
-                      <a href="/blogs/politik/" class="hover:text-deepwave-light-blue">Politik</a>
+                      <a href="http://localhost:1313/blogs/politik/" class="hover:text-deepwave-light-blue">Politik</a>
                       
-                      <a href="/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+                      <a href="http://localhost:1313/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
                       
-                      <a href="/blogs/klima/" class="hover:text-deepwave-light-blue">Klima</a>
+                      <a href="http://localhost:1313/blogs/klima/" class="hover:text-deepwave-light-blue">Klima</a>
                       
-                      <a href="/blogs/tiefsee/" class="hover:text-deepwave-light-blue">Tiefsee</a>
+                      <a href="http://localhost:1313/blogs/tiefsee/" class="hover:text-deepwave-light-blue">Tiefsee</a>
                       
-                      <a href="/blogs/%c3%bcberfischung/" class="hover:text-deepwave-light-blue">Überfischung</a>
+                      <a href="http://localhost:1313/blogs/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">Überfischung</a>
                       
-                      <a href="/blogs/forschung/" class="hover:text-deepwave-light-blue">Forschung</a>
+                      <a href="http://localhost:1313/blogs/forschung/" class="hover:text-deepwave-light-blue">Forschung</a>
                       
-                      <a href="/blogs/kultur/" class="hover:text-deepwave-light-blue">Kultur</a>
+                      <a href="http://localhost:1313/blogs/kultur/" class="hover:text-deepwave-light-blue">Kultur</a>
                       
-                      <a href="/blogs/was-tun/" class="hover:text-deepwave-light-blue">Was tun?</a>
+                      <a href="http://localhost:1313/blogs/was-tun/" class="hover:text-deepwave-light-blue">Was tun?</a>
                       
                     </div>
                   </div>
                   
-                  <a href="/blogs/" class="hover:text-deepwave-light-blue">Blogs</a>
+                  <a href="http://localhost:1313/blogs/" class="hover:text-deepwave-light-blue pb-6">Blogs</a>
                 </li>
                 
               </ul>
@@ -283,24 +288,204 @@ Unsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als K
               <ul class="flex space-x-4 flex-wrap">
                 
                 <li class="relative group">
-                  <a href="/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+                  <a href="http://localhost:1313/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
                 </li>
                 
               </ul>
             </nav>
           </div>
-          <button class="hidden" id="mobile-menu-button">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-            </svg>
-          </button>
         </div>
-      </div>
-    </div>
-    
-    <div class="hidden" id="mobile-menu">
-      
-    </div>
+        </div>
+        </div>
+        
+        <div class="hidden" id="mobile-menu">
+          <div class="fixed overflow-scroll inset-0 w-screen h-screen bg-white z-900">
+            <div class="flex h-24 not_full_width px-6 justify-end items-center">
+              <button id="mobile-menu-close" class="text-2xl font-bold">
+                ✕
+              </button>
+            </div>
+            <nav class="not_full_width px-6 text-2xl">
+              <ul class="flex space-x-6 flex-wrap flex-col mb-4">
+                
+                <li class="group">
+          
+                  
+                  <span class="dropdown-toggle">Über uns
+                    <button class="ml-1 focus:outline-none">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 dropdown-arrow" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button></span>
+                  <div class="flex flex-col pl-6 hidden">
+                    
+                    <a href="http://localhost:1313/ueber-uns/was-wir-tun/" class="hover:text-deepwave-light-blue">Was wir tun</a>
+                    
+                    <a href="http://localhost:1313/ueber-uns/wer-wir-sind/" class="hover:text-deepwave-light-blue">Wer wir sind</a>
+                    
+                    <a href="http://localhost:1313/ueber-uns/onno-gro%C3%9F/" class="hover:text-deepwave-light-blue">Onno Groß</a>
+                    
+                  </div>
+                  
+                </li>
+                
+                <li class="group">
+          
+                  
+                  <a href="http://localhost:1313/blogs/reflexionen" class="hover:text-deepwave-light-blue pb-6">Reflexionen</a>
+                  
+                </li>
+                
+                <li class="group">
+          
+                  
+                  <span class="dropdown-toggle">Projekte
+                    <button class="ml-1 focus:outline-none">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 dropdown-arrow" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button></span>
+                  <div class="flex flex-col pl-6 hidden">
+                    
+                    <a href="https://klartext.deepwave.org" class="hover:text-deepwave-light-blue">KLARTEXT Meerespolitik</a>
+                    
+                    <a href="https://tiefsee.deepwave.org" class="hover:text-deepwave-light-blue">NO DEEP SEA MINING - NEVER</a>
+                    
+                    <a href="http://localhost:1313/projekte/filmfestival/" class="hover:text-deepwave-light-blue">Filmfestival</a>
+                    
+                    <a href="http://localhost:1313/projekte/meeresfibel/" class="hover:text-deepwave-light-blue">Die Meeresfibel</a>
+                    
+                    <a href="http://localhost:1313/projekte/mangrovenprojekt/" class="hover:text-deepwave-light-blue">MANGREEN</a>
+                    
+                  </div>
+                  
+                </li>
+                
+                <li class="group">
+          
+                  
+                  <span class="dropdown-toggle">Die Ozeane
+                    <button class="ml-1 focus:outline-none">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 dropdown-arrow" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button></span>
+                  <div class="flex flex-col pl-6 hidden">
+                    
+                    <a href="http://localhost:1313/die-ozeane/die-ozeane/" class="hover:text-deepwave-light-blue">Die Ozeane</a>
+                    
+                    <a href="http://localhost:1313/die-ozeane/die-tiefsee/" class="hover:text-deepwave-light-blue">Die Tiefsee</a>
+                    
+                    <a href="http://localhost:1313/die-ozeane/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">Überfischung</a>
+                    
+                    <a href="http://localhost:1313/die-ozeane/meerespolitik/" class="hover:text-deepwave-light-blue">Meerespolitik</a>
+                    
+                    <a href="http://localhost:1313/die-ozeane/k%C3%BCstenschutz/" class="hover:text-deepwave-light-blue">Küstenschutz</a>
+                    
+                    <a href="http://localhost:1313/die-ozeane/l%C3%A4rm/" class="hover:text-deepwave-light-blue">Lärm</a>
+                    
+                    <a href="http://localhost:1313/die-ozeane/klima/" class="hover:text-deepwave-light-blue">Klima</a>
+                    
+                    <a href="http://localhost:1313/die-ozeane/verschmutzung/" class="hover:text-deepwave-light-blue">Verschmutzung</a>
+                    
+                    <a href="http://localhost:1313/die-ozeane/korallen/" class="hover:text-deepwave-light-blue">Korallen</a>
+                    
+                  </div>
+                  
+                </li>
+                
+                <li class="group">
+          
+                  
+                  <span class="dropdown-toggle">Blogs
+                    <button class="ml-1 focus:outline-none">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 dropdown-arrow" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button></span>
+                  <div class="flex flex-col pl-6 hidden">
+                    
+                    <a href="http://localhost:1313/blogs/good-news/" class="hover:text-deepwave-light-blue">Good News</a>
+                    
+                    <a href="http://localhost:1313/blogs/politik/" class="hover:text-deepwave-light-blue">Politik</a>
+                    
+                    <a href="http://localhost:1313/blogs/reflexionen/" class="hover:text-deepwave-light-blue">Reflexionen</a>
+                    
+                    <a href="http://localhost:1313/blogs/klima/" class="hover:text-deepwave-light-blue">Klima</a>
+                    
+                    <a href="http://localhost:1313/blogs/tiefsee/" class="hover:text-deepwave-light-blue">Tiefsee</a>
+                    
+                    <a href="http://localhost:1313/blogs/%C3%BCberfischung/" class="hover:text-deepwave-light-blue">Überfischung</a>
+                    
+                    <a href="http://localhost:1313/blogs/forschung/" class="hover:text-deepwave-light-blue">Forschung</a>
+                    
+                    <a href="http://localhost:1313/blogs/kultur/" class="hover:text-deepwave-light-blue">Kultur</a>
+                    
+                    <a href="http://localhost:1313/blogs/was-tun/" class="hover:text-deepwave-light-blue">Was tun?</a>
+                    
+                  </div>
+                  
+                </li>
+                
+              </ul>
+              <ul class="flex space-x-6 flex-wrap flex-col mb-4">
+                
+                <li>
+                  <a href="/newsletter/" class="hover:text-deepwave-light-blue">Newsletter</a>
+                </li>
+                
+                <li>
+                  <a href="/ozeanb%c3%bccher/" class="hover:text-deepwave-light-blue">Bücher</a>
+                </li>
+                
+                <li>
+                  <a href="/podcast/" class="hover:text-deepwave-light-blue">Podcasts</a>
+                </li>
+                
+                <li>
+                  <a href="https://deepwave.shop/" class="hover:text-deepwave-light-blue">Shop</a>
+                </li>
+                
+              </ul>
+              <ul class="flex space-x-6 flex-wrap flex-col mb-4">
+                
+                <li class="relative group">
+                  <a href="http://localhost:1313/etwas-tun/spenden/" class="hover:text-deepwave-light-blue">Spenden</a>
+                </li>
+                
+              </ul>
+            </nav>
+          </div>
+          </div>
+      <script>
+        const mobileMenuButton = document.getElementById('mobile-menu-button');
+        const mobileMenu = document.getElementById('mobile-menu');
+        const mobileMenuClose = document.getElementById('mobile-menu-close');
+        const dropdownToggles = document.querySelectorAll('.dropdown-toggle');
+
+        mobileMenuButton.addEventListener('click', () => {
+          mobileMenu.classList.remove('hidden');
+        });
+        mobileMenuClose.addEventListener('click', () => {
+          mobileMenu.classList.add('hidden');
+        });
+        dropdownToggles.forEach(function (toggle) {
+          toggle.addEventListener('click', function (e) {
+            const submenu = this.closest('.group').querySelector('.flex.flex-col');
+            const arrow = this.querySelector('.dropdown-arrow');
+
+            
+            submenu.classList.toggle('hidden');
+
+            
+            arrow.classList.toggle('rotate-180');
+          });
+        });
+      </script>
   </header>
     
     <body>

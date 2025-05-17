@@ -1,7 +1,7 @@
 <header class="font-sans menu_shadow bg-white">
   <div class="relative">
-    <div class="not_full_width">
-        <div class="h-16 flex flex-col justify-center">
+    <div class="not_full_width px-6 md:px-16">
+      <div class="h-16 hidden md:!flex flex-col justify-center">
           <ul class="flex space-x-4 text-md justify-end">
             {{ range site.Data.menu.service }}
             <li>
@@ -10,12 +10,17 @@
             {{ end }}
           </ul>
         </div>
-        <div class="h-16 flex items-center justify-between">
+        <div class="h-24 flex items-center justify-between md:h-16">
             <a href="/" class="logo">
             {{ partial "logo.html" . }}
             </a>
+            <button class="block md:hidden cursor-pointer" id="mobile-menu-button">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+              </svg>
+            </button>
         </div>
-        <div class="h-12 flex flex-col justify-end pb-4 text-sm md:text-lg">
+        <div class="h-12 hidden md:!flex flex-col justify-end pb-4 text-sm md:text-lg">
           <div class="flex justify-between">
             <nav class="">
               <ul class="flex space-x-6 flex-wrap">
@@ -24,15 +29,15 @@
                 <li class="group">
                   {{ if .sublinks }}
                   <div
-                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-10 flex flex-col justify-center hidden group-hover:!flex sub_menu_shadow {{ if eq $sec .section }}!flex{{ end }}">
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-20 flex flex-col justify-center hidden group-hover:!flex hover:!flex sub_menu_shadow {{ if eq $sec .section }}!flex{{ end }}">
                     <div class="not_full_width w-full flex space-x-4">
                       {{ range .sublinks }}
-                      <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                      <a href="{{ .url | absURL}}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
                       {{ end }}
                     </div>
                   </div>
                   {{ end }}
-                  <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                  <a href="{{ .url | absURL }}" class="hover:text-deepwave-light-blue pb-6">{{ .title }}</a>
                 </li>
                 {{ end }}
               </ul>
@@ -41,22 +46,87 @@
               <ul class="flex space-x-4 flex-wrap">
                 {{ range site.Data.menu.secondary }}
                 <li class="relative group">
-                  <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                  <a href="{{ .url | absURL }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
                 </li>
                 {{ end }}
               </ul>
             </nav>
           </div>
-          <button class="hidden" id="mobile-menu-button">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-            </svg>
-          </button>
         </div>
-      </div>
-    </div>
-    
-    <div class="hidden" id="mobile-menu">
-      {{ partial "nav/mobile.html" . }}
-    </div>
+        </div>
+        </div>
+        
+        <div class="hidden" id="mobile-menu">
+          <div class="fixed overflow-scroll inset-0 w-screen h-screen bg-white z-900">
+            <div class="flex h-24 not_full_width px-6 justify-end items-center">
+              <button id="mobile-menu-close" class="text-2xl font-bold">
+                ✕
+              </button>
+            </div>
+            <nav class="not_full_width px-6 text-2xl">
+              <ul class="flex space-x-6 flex-wrap flex-col mb-4">
+                {{ range site.Data.menu.main }}
+                <li class="group">
+          
+                  {{ if .sublinks }}
+                  <span class="dropdown-toggle">{{ .title }}
+                    <button class="ml-1 focus:outline-none">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 dropdown-arrow" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button></span>
+                  <div class="flex flex-col pl-6 hidden">
+                    {{ range .sublinks }}
+                    <a href="{{ .url | absURL }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                    {{ end }}
+                  </div>
+                  {{ else }}
+                  <a href="{{ .url | absURL }}" class="hover:text-deepwave-light-blue pb-6">{{ .title }}</a>
+                  {{ end }}
+                </li>
+                {{ end }}
+              </ul>
+              <ul class="flex space-x-6 flex-wrap flex-col mb-4">
+                {{ range site.Data.menu.service }}
+                <li>
+                  <a href="{{ .url }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                </li>
+                {{ end }}
+              </ul>
+              <ul class="flex space-x-6 flex-wrap flex-col mb-4">
+                {{ range site.Data.menu.secondary }}
+                <li class="relative group">
+                  <a href="{{ .url | absURL }}" class="hover:text-deepwave-light-blue">{{ .title }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </nav>
+          </div>
+          </div>
+      <script>
+        const mobileMenuButton = document.getElementById('mobile-menu-button');
+        const mobileMenu = document.getElementById('mobile-menu');
+        const mobileMenuClose = document.getElementById('mobile-menu-close');
+        const dropdownToggles = document.querySelectorAll('.dropdown-toggle');
+
+        mobileMenuButton.addEventListener('click', () => {
+          mobileMenu.classList.remove('hidden');
+        });
+        mobileMenuClose.addEventListener('click', () => {
+          mobileMenu.classList.add('hidden');
+        });
+        dropdownToggles.forEach(function (toggle) {
+          toggle.addEventListener('click', function (e) {
+            const submenu = this.closest('.group').querySelector('.flex.flex-col');
+            const arrow = this.querySelector('.dropdown-arrow');
+
+            // Toggle dropdown visibility
+            submenu.classList.toggle('hidden');
+
+            // Rotate arrow
+            arrow.classList.toggle('rotate-180');
+          });
+        });
+      </script>
   </header>
