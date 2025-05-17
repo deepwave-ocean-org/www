@@ -1,0 +1,1 @@
+const search=document.getElementById("search-bar");function debounce(e,t){let n;return function(...s){clearTimeout(n),n=setTimeout(()=>e.apply(this,s),t)}}search.addEventListener("input",debounce(e=>{renderSearchResults(e)},300));function renderSearchResults(e){const t=e.target.value.trim();console.log(t)}
