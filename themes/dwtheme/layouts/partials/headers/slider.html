@@ -28,7 +28,8 @@
       <div class="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
         <h2 class="text-5xl text-shadow mb-6 mx-6">{{ $slider.title }}</h2>
         {{ if and $slider.button_text $slider.link }}
-        <a href="{{ $slider.link }}" class="px-8 py-3 text-xl bg-slate-900/60 text-white rounded-md border-2 border-white hover:bg-gray-100 hover:text-gray-800 hover:border-2 hover:border-gray-100 font-sans">
+        <a href="{{ $slider.link }}"
+          class="px-8 py-3 text-xl text-white rounded-md border-2 border-white hover:bg-gray-100 hover:text-gray-800 hover:border-2 hover:border-gray-100 font-sans">
           {{ $slider.button_text }}   
         </a>
         {{ end }}

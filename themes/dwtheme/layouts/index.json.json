@@ -1,0 +1,12 @@
+{{- $list := slice -}}
+
+{{- range site.RegularPages.ByPublishDate.Reverse -}}
+  {{- $item := dict
+  "title" .Title
+  "content" .Content
+  "url" .RelPermalink -}}
+
+  {{- $list = $list | append $item -}}
+{{- end -}}
+
+{{- $list | jsonify -}}
