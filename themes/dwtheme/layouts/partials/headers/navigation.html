@@ -30,7 +30,7 @@
                 <li class="group">
                   {{ if .sublinks }}
                   <div
-                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-20 flex flex-col justify-center hidden group-hover:!flex hover:!flex sub_menu_shadow {{ if eq $sec .section }}!flex{{ end }}">
+                    class="absolute inset-0 w-full h-16 left-0 top-44 bg-white z-20 flex flex-col justify-center hidden group-hover:!flex hover:!flex sub_menu_shadow {{ if eq $sec (.url | strings.TrimPrefix "/" | strings.TrimSuffix "/") }}!flex{{ end }}">
                     <div class="not_full_width w-full flex space-x-4">
                       {{ range .sublinks }}
                       <a href="{{ .url | absURL}}" class="hover:text-deepwave-light-blue">{{ .title }}</a>

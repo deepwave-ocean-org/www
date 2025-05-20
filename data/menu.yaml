@@ -1,7 +1,6 @@
 main:
   - title: "Über uns"
     url: "/ueber-uns/"
-    section: "ueber-uns"
     sublinks:
     - title: "Was wir tun"
       url: "/ueber-uns/was-wir-tun/"
@@ -13,7 +12,6 @@ main:
     url: "/blogs/reflexionen"
   - title: "Projekte"
     url: "/projekte/"
-    section: "projekte"
     sublinks:
     - title: "KLARTEXT Meerespolitik"
       url: "https://klartext.deepwave.org"
