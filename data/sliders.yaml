@@ -32,6 +32,7 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747245593/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57-1.jpg
   overlay_color:
+  button_overlay: "#14414b"
 - title: DEEPWAVE geht einen Schritt weiter
   button_text: Unser Kooperationspartner Montemero
   link: https://www.deepwave.org/giving-tuesday-2022

@@ -17,8 +17,14 @@
             </video>
       {{ else }}
           <!-- Image background -->
-          <div class="absolute inset-0 w-full h-full bg-cover bg-center"
-              style="background-image: url('{{ $background }}');"></div>
+          <div class="absolute inset-0 w-full h-full bg-cover bg-center">
+            {{ if eq $index 0 }}
+            <link rel="preload" href="{{ $background }}" as="image" fetchpriority="high">
+            <img src='{{ partial "img/src" $background }}' class="object-cover h-full w-full" />
+            {{ else }}
+            <img data-src='{{ partial "img/src" $background }}' class="cld-responsive object-cover h-full w-full" />
+            {{ end }}
+          </div>
       {{ end }}
       
       <!-- Overlay with configurable color -->
