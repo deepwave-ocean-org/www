@@ -12,7 +12,7 @@
     {{ with .PrevInSection }}
     {{ partial "card" .}}
     <div hx-get="{{ .RelPermalink }}" hx-trigger="revealed" hx-target="#content" hx-swap="beforeend"
-        hx-select="#content-area" hx-push-url="true">
+        hx-select="#content-area" hx-push-url="true" hx:on>
     </div>
     {{ end }}
 </div>
