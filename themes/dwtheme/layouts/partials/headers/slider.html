@@ -22,14 +22,16 @@
       {{ end }}
       
       <!-- Overlay with configurable color -->
-      <div class="absolute inset-0 opacity-50" style="background-color: {{ $slider.overlay_color | default "#43494b" }}"></div>
+      <div class="absolute inset-0 opacity-50"
+        style='background: linear-gradient(90deg, transparent, rgb(0 0 0 / 60%) 30%, rgb(0 0 0 / 60%) 70%, transparent); background-color: {{ $slider.overlay_color | default "#43494b" }}'>
+      </div>
       
       <!-- Content -->
       <div class="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
         <h2 class="text-5xl text-shadow mb-6 mx-6">{{ $slider.title }}</h2>
         {{ if and $slider.button_text $slider.link }}
         <a href="{{ $slider.link }}"
-          class="px-8 py-3 text-xl text-white rounded-md border-2 border-white hover:bg-gray-100 hover:text-gray-800 hover:border-2 hover:border-gray-100 font-sans">
+          class="px-8 py-3 text-xl text-white rounded-md border-2 border-white hover:!bg-gray-100 hover:text-gray-800 hover:border-2 hover:border-gray-100 font-sans" style='background-color: {{ $slider.button_overlay | default "transparent" }}'>
           {{ $slider.button_text }}   
         </a>
         {{ end }}

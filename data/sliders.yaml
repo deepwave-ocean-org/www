@@ -24,7 +24,8 @@
   link: https://www.deepwave.org/ccs-unter-die-erde-kehren/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
-  overlay_color:
+  overlay_color: "#000"
+  button_overlay: "#18191a"
 - title: Spielend die Meere erkunden
   button_text: die App zur Meeresfibel
   link: https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel
@@ -42,13 +43,15 @@
     Czaja
   link: https://www.deepwave.org/ueber-die-wolken/
   background_image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267222/deepwave.org/Wolken_fuer_Slider.jpg
-  overlay_color:
+  overlay_color: "#000"
+  button_overlay: "#18191a"
 - title: Kennt ihr schon unsere Trinkhalm-Alternativen-Vergleichstabelle?
   button_text: No Straw is the Best Straw
   link: https://www.deepwave.org/bluestraw-kampagne/trinkhalm-vergleichstabelle/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267225/deepwave.org/MACCHERONI_von_oben_wie_ein_Seeigel-scaled.jpg
   overlay_color:
+  button_overlay: "#31120dd9"
 - title: DEEPWAVE Filmfestival
   button_text: 'Save the Date: 20.6.2025'
   link: https://www.deepwave.org/projekte/deepwave-filmfestival/

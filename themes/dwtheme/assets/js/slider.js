@@ -17,12 +17,13 @@ document.addEventListener('DOMContentLoaded', function() {
     // Auto slide function
     function autoSlide() {
       const nextIndex = (currentIndex + 1) % itemCount;
+      // console.log('Auto slide to index:', nextIndex);
       moveToSlide(nextIndex);
     }
     
     // Move to specific slide
     function moveToSlide(index) {
-        console.log('Moving to slide:', index);
+      // console.log('Moving to slide:', index);
       // Hide current slide
       sliderItems[currentIndex].classList.remove('opacity-100');
       sliderItems[currentIndex].classList.add('opacity-0');
@@ -98,18 +99,19 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Reset timer function
     function resetAutoSlideTimer() {
-        console.log('Resetting auto slide timer', slideInterval);
+      // console.log('Resetting auto slide timer', slideInterval);
         clearInterval(slideInterval);
         slideInterval = setInterval(autoSlide, autoSlideInterval);
     }
     
     // Pause auto slide on hover
-    sliderContainer.addEventListener('mouseenter', () => {
+  sliderContainer.addEventListener('mouseenter', () => {
+    // console.log('Mouse entered slider container');
         clearInterval(slideInterval);
     });
     
-    sliderContainer.addEventListener('mouseleave', () => {
-        slideInterval = setInterval(autoSlide, autoSlideInterval);
+  sliderContainer.addEventListener('mouseleave', () => {
+    resetAutoSlideTimer()
     });
     
     // Add keyboard navigation
