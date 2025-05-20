@@ -3,7 +3,7 @@ title: Die Ozeane
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243582/deepwave.org/Die_Ozeane_bad_icon_B_RGB.jpg
 overlay: rgba(19,39,71,0.29)
 order: 1
-alias: ['die-ozeane/ozeane-in-gefahr/']
+aliases: ['/die-ozeane/ozeane-in-gefahr']
 ---
 
 ## Bedrohung
