@@ -2,6 +2,27 @@
 {{ end }}
 <article class="">
   <div class="not_full_width min-h-screen mt-12">
+    <div
+      class="flex flex-col md:flex-row justify-center items-center gap-4 md:gap-12"
+    >
+      <div class="w-full md:w-1/2">
+        {{ .Content }}{{ with .Params.details.image }} {{ partial "img/img"
+        (dict "src" .)}}{{ end }}
+      </div>
+      <div class="w-1/2 text-center text-xl">
+        {{ with .Params.details }}
+        <img
+          src="https://res.cloudinary.com/deepwave-org/image/upload/v1748889398/deepwave.org/pin-icon-lg_u8tiwh.png"
+          class="w-24 mx-auto"
+        />
+
+        {{ .datum }}<br />
+        {{ .location }}<br />
+        {{ .adresse }}<br />
+        {{ .einlass }}<br />
+        {{ .begin }} {{ end }}
+      </div>
+    </div>
     {{ partial "divider" . }} {{ range $index, $item :=.Params.films }} {{ if
     .break }} {{ partial "divider" . }}
     <div class="flex flex-col items-center">
