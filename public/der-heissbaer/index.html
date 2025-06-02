@@ -610,9 +610,14 @@ Die in der Ostseeschutzallianz MV...</p>
         </div>
         </div>
         <script type="text/javascript">
-            console.log("Cloudinary JS loaded");
-            var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
-            cl.responsive();
+                function initCdl() {
+                    var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
+                    cl.responsive();
+                }
+                initCdl();
+                document.body.addEventListener('htmx:afterSwap', function (event) {
+                    initCdl();
+                });
         </script>
     </body><footer class="bg-deepwave-dark-blue text-deepwave-light-blue py-24 mt-12"
     style="box-shadow: inset 0px 12px 18px -6px rgba(0,0,0,0.3)">

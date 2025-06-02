@@ -81,7 +81,7 @@ Unsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als K
     "@type": "BlogPosting",
     "headline": "DEEPWAVE steht seit Angebinn für eine besondere Verbindung: die zur Kunst.",
     "url": "http:\/\/localhost:1313\/deepwave-steht-seit-angebinn-f%C3%BCr-eine-besondere-verbindung-die-zur-kunst\/",
-    "description": "\u003cdiv style=\u0022position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\u0022\u003e\n      \u003ciframe allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 loading=\u0022eager\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 src=\u0022https:\/\/www.youtube.com\/embed\/dl0v1BitSQI?autoplay=0\u0026amp;controls=1\u0026amp;end=0\u0026amp;loop=0\u0026amp;mute=0\u0026amp;start=0\u0022 style=\u0022position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\u0022 title=\u0022YouTube video\u0022\u003e\u003c\/iframe\u003e\n    \u003c\/div\u003e\n\n\u003cp\u003eVom 9. bis 11. März 2022 fand das 4. Ocean Decade Laboratory zum Thema “A Healthy and Resilient Ocean” statt – ausgerichtet vom Bundesministerium für Bildung und Forschung in Partnerschaft mit der Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO).\u003c\/p\u003e\n\u003cp\u003eUnsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als Künstlerin, als Anna Mandel, mit dem erklärten Auftrag, Wissenschaftler:innen und engagierten Laien die Wege vorzustellen, mit denen Kunst Türen öffnen kann, um für den Meeresschutz zu begeistern und um aus dem Wissen ins Handeln zu kommen.\u003c\/p\u003e",
+    "description": "\u003cdiv style=\u0022position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\u0022\u003e\n      \u003ciframe allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen\u0022 loading=\u0022eager\u0022 referrerpolicy=\u0022strict-origin-when-cross-origin\u0022 src=\u0022https:\/\/www.youtube.com\/embed\/dl0v1BitSQI?autoplay=0\u0026amp;controls=1\u0026amp;end=0\u0026amp;loop=0\u0026amp;mute=0\u0026amp;start=0\u0022 style=\u0022position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\u0022 title=\u0022YouTube video\u0022\u003e\u003c\/iframe\u003e\n    \u003c\/div\u003e\n\n\u003cp\u003eVom 9. bis 11. März 2022 fand das 4. Ocean Decade Laboratory zum Thema “A Healthy and Resilient Ocean” statt – ausgerichtet vom Bundesministerium für Bildung und Forschung in Partnerschaft mit der Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO).\u003c\/p\u003e\n\u003cp\u003eUnsere CEO Anna Groß war Invited Speakerin – und zwar in ihrer Funktion als Künstlerin, als Anna Mandel, mit dem erklärten Auftrag, Wissenschaftler:innen und engagierten Laien die Wege vorzustellen, mit denen Kunst Türen öffnen kann, um für den Meeresschutz zu begeistern und um aus dem Wissen ins Handeln zu kommen.\u003c\/p\u003e",
     
     "image": ["https:\/\/res.cloudinary.com\/deepwave-org\/deepwave.org\/Screenshot_2025-05-15_215007_k7jyyo.png"],
     
@@ -521,7 +521,7 @@ Mär 13, 2022</time>
   </section>
 <article class="not_full_width mt-12 max-w-4xl">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dl0v1BitSQI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dl0v1BitSQI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
     </div>
 
 <p>Vom 9. bis 11. März 2022 fand das 4. Ocean Decade Laboratory zum Thema “A Healthy and Resilient Ocean” statt – ausgerichtet vom Bundesministerium für Bildung und Forschung in Partnerschaft mit der Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO).</p>
@@ -537,6 +537,8 @@ Mär 13, 2022</time>
     
         
             
+            
+                
             
                 
             
@@ -2116,9 +2118,14 @@ Mär 13, 2022</time>
         </div>
         </div>
         <script type="text/javascript">
-            console.log("Cloudinary JS loaded");
-            var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
-            cl.responsive();
+                function initCdl() {
+                    var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
+                    cl.responsive();
+                }
+                initCdl();
+                document.body.addEventListener('htmx:afterSwap', function (event) {
+                    initCdl();
+                });
         </script>
     </body><footer class="bg-deepwave-dark-blue text-deepwave-light-blue py-24 mt-12"
     style="box-shadow: inset 0px 12px 18px -6px rgba(0,0,0,0.3)">

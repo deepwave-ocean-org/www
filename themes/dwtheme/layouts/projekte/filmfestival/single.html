@@ -1,0 +1,39 @@
+{{ define "main" }} {{ if .Title }} {{ partial "headers/default_parallax" . }}
+{{ end }}
+<article class="">
+  <div class="not_full_width min-h-screen mt-12">
+    {{ partial "divider" . }} {{ range $index, $item :=.Params.films }} {{ if
+    .break }} {{ partial "divider" . }}
+    <div class="flex flex-col items-center">
+      <h3 class="text-xl font-semibold mb-2">Pause - {{ .duration }} min</h3>
+    </div>
+    {{ partial "divider" . }} {{ else}}
+    <div class="flex flex-col md:flex-row items-center gap-4 md:gap-8 mb-8">
+      {{ with .image }}
+      <div
+        class="w-full md:w-1/2 md:order-{{ if modBool $index 2 }}2{{ else }}1{{ end }}"
+      >
+        {{ partial "img/img" (dict "src" .) }}
+      </div>
+      {{ end }}
+
+      <div
+        class="max-w-2xl mx-auto w-full flex flex-col justifiy-center md:w-1/2 md:order-{{ if modBool $index 2 }}1{{ else }}2{{ end }}"
+      >
+        <h2 class="text-xl font-semibold mb-2">{{ .title }}</h2>
+        {{ with .description }}
+        <p class="text-gray-700">{{ .}}</p>
+        {{ end }} {{ with .duration}}
+        <p class="bg-green-100">
+          <img
+            class="inline px-2 py-1"
+            src="https://www.deepwave.org/wp-content/uploads/2021/07/Icon_ICRS_Clock.png"
+          />{{.}} min
+        </p>
+        {{end}}
+      </div>
+    </div>
+    {{ end }} {{ end }}
+  </div>
+</article>
+{{ end }}

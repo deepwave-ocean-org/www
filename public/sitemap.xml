@@ -35,6 +35,15 @@
     <loc>http://localhost:1313/blogs/politik/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projekte/filmfestival/2025/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projekte/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projekte/filmfestival/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/guter-fisch-zum-weihnachtsfest/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -234,12 +243,6 @@
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projekte/filmfestival/2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projekte/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projekte/filmfestival/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/zukunft-der-ostseefischerei-leitbildkommission-beendet-arbeit/</loc>

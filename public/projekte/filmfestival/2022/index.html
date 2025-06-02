@@ -474,9 +474,7 @@ Weitere Filme zeigen das Leben und Überleben als Fischer, inklusive einer Disku
   </header>
     
     <body>
-        <div id="content">
-
-    <section class="relative overflow-hidden w-full">
+        <div id="content">  <section class="relative overflow-hidden w-full">
     
     <link rel="preload" href="https://res.cloudinary.com/deepwave-org/c_fill,w_auto,g_auto,q_auto,dpr_auto/f_auto/v1747243775/deepwave.org/DEEPWAVE_Filmfestival_2022_Plakat.jpg" as="image" fetchpriority="high">
     <div class="absolute inset-0 w-full h-full bg-cover bg-top bg-no-repeat bg-fixed"
@@ -493,27 +491,23 @@ Weitere Filme zeigen das Leben und Überleben als Fischer, inklusive einer Disku
   </section>
 
 <article class="">
-    <div class="not_full_width min-h-screen mt-12 max-w-4xl">
-        <p>Ewige Nacht in der Arktis, träumende Korallenriffe, Fischerdörfer gegen Industrietrawler und ein rätselhaftes Wesen aus der Tiefsee: auf dem DEEPWAVE Festival treffen internationale Kurzfilme auf Gäste aus Wissenschaft und Meeresschutz.</p>
-<p>Als Eröffnung läuft dieses Jahr eine Premiere von Philipp Grieß, der Kurzfilm „Above and Below the Ice“ mit noch nie gezeigten Aufnahmen der MOSAiC Arktisexpedition. Der Regisseur ist im Anschluss live vor Ort.
-Weitere Filme zeigen das Leben und Überleben als Fischer, inklusive einer Diskussionsrunde mit u.a. Dr. Sebastian Rakers vom Hamburger Start-Up BLUU Seafood.</p>
-<p><strong>DEEPWAVE  Filmfestival zum Schutz der Meere</strong>
-<strong>Termin</strong>: Freitag, 10. Juni 2022
-<strong>Einlass</strong>: 17:30 Uhr
-<strong>Beginn</strong>: 18:00 Uhr
-<strong>Ort</strong>: Lichtmess-Kino, Gaußstraße 25, 22765 Hamburg
-<strong>Eintritt, inklusive veganem Catering, ist frei!</strong></p>
-
-    </div>
-    </article>
+  <div class="not_full_width min-h-screen mt-12">
+    
+  </div>
+</article>
 
         <div class="not_full_width">
         </div>
         </div>
         <script type="text/javascript">
-            console.log("Cloudinary JS loaded");
-            var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
-            cl.responsive();
+                function initCdl() {
+                    var cl = cloudinary.Cloudinary.new({ cloud_name: "deepwave-org" });
+                    cl.responsive();
+                }
+                initCdl();
+                document.body.addEventListener('htmx:afterSwap', function (event) {
+                    initCdl();
+                });
         </script>
     </body><footer class="bg-deepwave-dark-blue text-deepwave-light-blue py-24 mt-12"
     style="box-shadow: inset 0px 12px 18px -6px rgba(0,0,0,0.3)">
