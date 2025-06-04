@@ -1,3 +1,15 @@
+- title: Wir sind auf der UN Ocean Conference!
+  button_text: Unser Side Event
+  link: https://www.deepwave.org/unser-un-ocean-conference-side-event/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/NO_DEEP_SEA_MINING_T-Shirt_blauer_dhrbjz.jpg
+  overlay_color:
+- title: NO DEEP SEA MINING - NEVER
+  button_text: Unsere Kampagne gegen Tiefseebergbau
+  link: https://tiefsee.deepwave.org
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747244825/deepwave.org/Screenshot-2023-11-26-112920.png
+  overlay_color: '#0c3b5c'
 - title: KLARTEXT Meerespolitik
   button_text: 'Wie funktioniert das? '
   link: https://klartext.deepwave.org
@@ -9,16 +21,11 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267199/deepwave.org/Heye_schwimmt.png
   overlay_color: '#142836'
-- title: NO DEEP SEA MINING - NEVER
-  button_text: Unsere Kampagne gegen Tiefseebergbau
-  link: https://tiefsee.deepwave.org
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747244825/deepwave.org/Screenshot-2023-11-26-112920.png
-  overlay_color: '#0c3b5c'
 - title: DEEPWAVE zu Gast beim Podcast "Tee mit G."
   button_text: Wie geht es dem Tiefseebergbau? Und uns?
   link: https://www.podcast.de/podcast/2604913/tee-mit-g
-  background_image: /uploads/img-20231026-123948-1.jpg
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/Fotos_für_die_WAND_2_ug7aqo.jpg
   overlay_color:
 - title: Alle reden von CCS - wir auch
   button_text: Unser Longread von Nico Czaja
@@ -67,10 +74,4 @@
   link: https://www.deepwave.org/etwas-tun/mitglied-werden/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267232/deepwave.org/Ice_Background_Philipp_Griess.jpg
-  overlay_color:
-- title: Wir sind auf der UN Ocean Conference!
-  button_text: Unser Side Event
-  link: https://www.deepwave.org/unser-un-ocean-conference-side-event/
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/deepwave.org/NO_DEEP_SEA_MINING_T-Shirt_blauer_dhrbjz.jpg
   overlay_color:
