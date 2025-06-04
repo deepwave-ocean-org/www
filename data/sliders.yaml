@@ -33,13 +33,6 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/Schreibtisch_mit_Dünen2_jlr1g4.jpg
   overlay_color:
-- title: Spielend die Meere erkunden
-  button_text: die App zur Meeresfibel
-  link: https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747245593/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57-1.jpg
-  overlay_color:
-  button_overlay: '#14414b'
 - title: Alle reden von CCS - wir auch
   button_text: Unser Longread von Nico Czaja
   link: https://www.deepwave.org/ccs-unter-die-erde-kehren/
@@ -56,6 +49,13 @@
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267222/deepwave.org/Wolken_fuer_Slider.jpg
   overlay_color: '#000'
   button_overlay: '#18191a'
+- title: Spielend die Meere erkunden
+  button_text: die App zur Meeresfibel
+  link: https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747245593/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57-1.jpg
+  overlay_color:
+  button_overlay: '#14414b'
 - title: DEEPWAVE geht einen Schritt weiter
   button_text: Unser Kooperationspartner Montemero
   link: https://www.deepwave.org/giving-tuesday-2022
