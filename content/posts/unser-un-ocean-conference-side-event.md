@@ -10,8 +10,8 @@ image_caption: ©DEEPWAVE e.V.
 author: DEEPWAVE
 source:
 related:
-  - Tiefseebergbau für Einsteiger:innen
   - DEEPWAVE Filmfestival zum Schutz der Hoch- und Tiefsee – 20 Jahre DEEPWAVE
+  - Tiefseebergbau für Einsteiger:innen
 ---
 Wir sind auf der UN Ocean Conference!
 
