@@ -12,7 +12,7 @@ source:
 related:
   -
 ---
-![Invitation UNOC Side Event](https://res.cloudinary.com/deepwave-org/deepwave.org/DEEPWAVE_Invitation_UNOC_Side_Event_Deep_Sea_Mining_ohscls.jpg "Invitation UNOC Side Event")Wir sind auf der UN Ocean Conference!
+Wir sind auf der UN Ocean Conference!
 
 Vom 9. - 13. Juni treffen sich Tausende von Menschen in Nizza, um gemeinsam den Schutz der Meere voranzubringen. <br>Auf höchster Ebene im UN Plenum und in kleinen Gruppen in unzähligen Side-Events. Mit strengen Zugangsbeschränkungen oder offen für alle.
 
