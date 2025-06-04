@@ -4,6 +4,12 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/NO_DEEP_SEA_MINING_T-Shirt_blauer_dhrbjz.jpg
   overlay_color:
+- title: DEEPWAVE Filmfestival
+  button_text: 'Save the Date: 20.6.2025'
+  link: https://www.deepwave.org/projekte/filmfestival/2025/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747267229/deepwave.org/Plakat_Saving_Corals-min-1.png
+  overlay_color:
 - title: NO DEEP SEA MINING - NEVER
   button_text: Unsere Kampagne gegen Tiefseebergbau
   link: https://tiefsee.deepwave.org
@@ -63,12 +69,6 @@
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267225/deepwave.org/MACCHERONI_von_oben_wie_ein_Seeigel-scaled.jpg
   overlay_color:
   button_overlay: '#31120dd9'
-- title: DEEPWAVE Filmfestival
-  button_text: 'Save the Date: 20.6.2025'
-  link: https://www.deepwave.org/projekte/deepwave-filmfestival/
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747267229/deepwave.org/Plakat_Saving_Corals-min-1.png
-  overlay_color:
 - title: Gemeinsam die Meere schützen
   button_text: Werde Mitglied, Patron oder Förder:in!
   link: https://www.deepwave.org/etwas-tun/mitglied-werden/
