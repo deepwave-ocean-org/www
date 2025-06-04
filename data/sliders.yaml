@@ -6,7 +6,8 @@
 - title: Was wir tun
   button_text: Unser Logbuch
   link: https://www.deepwave.org/ueber-uns/woher-wir-kommen/
-  background_image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267199/deepwave.org/Heye_schwimmt.png
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747267199/deepwave.org/Heye_schwimmt.png
   overlay_color: '#142836'
 - title: NO DEEP SEA MINING - NEVER
   button_text: Unsere Kampagne gegen Tiefseebergbau
@@ -24,35 +25,37 @@
   link: https://www.deepwave.org/ccs-unter-die-erde-kehren/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
-  overlay_color: "#000"
-  button_overlay: "#18191a"
+  overlay_color: '#000'
+  button_overlay: '#18191a'
 - title: Spielend die Meere erkunden
   button_text: die App zur Meeresfibel
   link: https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747245593/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57-1.jpg
   overlay_color:
-  button_overlay: "#14414b"
+  button_overlay: '#14414b'
 - title: DEEPWAVE geht einen Schritt weiter
   button_text: Unser Kooperationspartner Montemero
   link: https://www.deepwave.org/giving-tuesday-2022
-  background_image: https://res.cloudinary.com/deepwave-org/video/upload/v1747267217/deepwave.org/montemero_2030sec.mp4
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/video/upload/v1747267217/deepwave.org/montemero_2030sec.mp4
   overlay_color:
 - title: Über die Wolken
   button_text: >-
     Wie man sie macht und ob man es lieber lassen sollte - Ein Longread von Nico
     Czaja
   link: https://www.deepwave.org/ueber-die-wolken/
-  background_image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267222/deepwave.org/Wolken_fuer_Slider.jpg
-  overlay_color: "#000"
-  button_overlay: "#18191a"
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747267222/deepwave.org/Wolken_fuer_Slider.jpg
+  overlay_color: '#000'
+  button_overlay: '#18191a'
 - title: Kennt ihr schon unsere Trinkhalm-Alternativen-Vergleichstabelle?
   button_text: No Straw is the Best Straw
   link: https://www.deepwave.org/bluestraw-kampagne/trinkhalm-vergleichstabelle/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267225/deepwave.org/MACCHERONI_von_oben_wie_ein_Seeigel-scaled.jpg
   overlay_color:
-  button_overlay: "#31120dd9"
+  button_overlay: '#31120dd9'
 - title: DEEPWAVE Filmfestival
   button_text: 'Save the Date: 20.6.2025'
   link: https://www.deepwave.org/projekte/deepwave-filmfestival/
@@ -64,4 +67,10 @@
   link: https://www.deepwave.org/etwas-tun/mitglied-werden/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267232/deepwave.org/Ice_Background_Philipp_Griess.jpg
+  overlay_color:
+- title: Wir sind auf der UN Ocean Conference!
+  button_text: Unser Side Event
+  link: https://www.deepwave.org/unser-un-ocean-conference-side-event/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/NO_DEEP_SEA_MINING_T-Shirt_blauer_dhrbjz.jpg
   overlay_color:
