@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/</loc>
-    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/deepwave/</loc>
-    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
+    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/reflexionen/</loc>
+    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/unser-un-ocean-conference-side-event/</loc>
+    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/deepwave-geht-einen-schritt-weiter/</loc>
     <lastmod>2025-05-15T21:37:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/good-news/</loc>
-    <lastmod>2025-05-15T21:37:12+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-05-15T21:37:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/amalia-klein/</loc>
@@ -237,9 +243,6 @@
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/der-meeresschutz-kommt-unter-die-raeder/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/reflexionen/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projekte/filmfestival/2024/</loc>
