@@ -9,10 +9,11 @@ find . -type f -exec grep -l "https://www\.deepwave\.org/wp-content/uploads/" {}
     # Extract all matching URLs from the file
     grep -o "https://www\.deepwave\.org/wp-content/uploads/[^ \"'<>)]*" "$file" | while read -r url; do
         echo "  Found URL: $url"
-        
+        dev_url="${url/www./dev.}"
+
         # Upload to Cloudinary
         echo "  Uploading to Cloudinary..."
-        upload_result=$(cld uploader upload "$url" folder=deepwave.org use_filename="true" unique_filename="false")
+        upload_result=$(cld uploader upload "$dev_url" folder=deepwave.org use_filename="true" unique_filename="false")
         
         # Extract the url (not secure_url) from the JSON response
         new_url=$(echo "$upload_result" | grep -o '"url": "[^"]*"' | cut -d '"' -f 4)
