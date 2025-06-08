@@ -1,6 +1,6 @@
 ---
 title: Dezember  2024
-date: 2024-12-31T00:00:00Z
+date: 2024-12-01T00:00:00Z
 ---
 &nbsp;
 
