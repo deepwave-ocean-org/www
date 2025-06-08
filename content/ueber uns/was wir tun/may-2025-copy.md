@@ -2,7 +2,13 @@
 title: Mai 2025
 date: 2025-05-31T00:00:00+01:00
 ---
-&nbsp;
+#### ab 9. Mai
+
+Vorbereitungen für unsere Teilnahme an der **UN Ocean Conference** in Nizza:
+
+Kampagen T-Shirts
+
+![Deep Sea Mining Never T-Shirt](https://res.cloudinary.com/deepwave-org/deepwave.org/1000075025_rf1b6o.jpg)
 
 #### **6\. / 7. Mai**
 
