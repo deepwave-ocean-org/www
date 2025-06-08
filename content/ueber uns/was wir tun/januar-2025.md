@@ -1,5 +1,5 @@
 ---
-title: Januar  2025
+title: Ja 2025
 date: 2025-01-31T00:00:00Z
 ---
 #### **31\. Januar**
