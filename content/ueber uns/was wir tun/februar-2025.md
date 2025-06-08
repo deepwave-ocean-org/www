@@ -1,5 +1,5 @@
 ---
-title: Mar2025
+title: Februar 2025
 date: 2025-02-28T00:00:00Z
 ---
 #### **27\. Februar**
