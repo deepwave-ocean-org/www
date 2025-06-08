@@ -2,22 +2,10 @@
 title: Mai 2025
 date: 2025-05-31T00:00:00+01:00
 ---
-#### **ab 24. April**
+&nbsp;
 
-Arbeit mit Sebastian Fischbeck am <a href="https://youtu.be/hCDAjBKL_Bg" target="_blank" rel="noopener"><strong>Video</strong></a> zu unserem KLARTEXT Meerespolitik für die Nationale Meereskonferenz
+#### **6\. / 7. Mai**
 
-#### **18\. April**
+Teilnahme an der ersten **Nationalen Meereskonferenz** in Berlin. Infostand zu unseren Aktivitäten im Bereich **Ocean Literacy**. Sehr intensive emotionale Veranstaltung: Abschiedsrede von Steffie Lemke, die mit Standing Ovations und Tränen verabschiedet wird, letzter Auftritt des Meeresbeauftragten Sebastian Unger, während der UN Sonderbeauftragte für die Ozeane spricht, fällt Merz durch den ersten Wahlgang, und nachdem er gewählt wurde, ist die erste Amtshandlung des neuen Kabinetts abends den Meeresbeauftragten abzuschaffen. Das konnten wir nicht unkommentiert lassen:
 
-Die Folge mit Anna Groß im Podcast "Tee mit G." wird im TIDE Radio ausgestrahlt.
-
-#### **17\. April**
-
-Launch unserer neuen umfangreichen Kampagnenseite <a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">DEEP SEA MIMING - NEVER</a>
-
-#### **ab 8. April**
-
-Unsere **Website** wird technisch komplett neu aufgesetzt.
-
-#### **3\. April**
-
-**Boy's and Girl's Day:**  Zwei wissbegierige Zwölfjährige besuchen uns und erabeiten auf eigenen Wunsch ein Papier zum Thema Ozeanversauerung für ihre Altersgruppe.
+![Banner der dt.  Meeresschutz NGOs: Wir brauchen unseren Meeresbeauftragten](https://res.cloudinary.com/deepwave-org/deepwave.org/1000071509_daeagg.jpg)
