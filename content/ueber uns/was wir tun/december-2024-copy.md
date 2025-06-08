@@ -2,11 +2,13 @@
 title: Dezember  2024
 date: 2024-12-31T00:00:00Z
 ---
-####
+#### **14\. Dezember**
+
+Jährliche **Mitgliederversammlung**, auf der besonders deutlich wird, wie viel wir im letzten Jahr meerespolitisch aktiv waren.
 
 #### **11\. Dezember**
 
-Feierliche Übergabe der HASPA Förderung an zivilgesellschaftliche Organisationen. Wir können damit einen Standbildschirm für unsere Infostände finanzieren. R2D2, wie wir ihn nennen, eignet sich besonders gut, um unser Tool KLARTEXT Meerespolitik vorzustellen.
+Feierliche Übergabe der **HASPA Förderung** an zivilgesellschaftliche  Organisationen. Wir können damit einen Standbildschirm für unsere Infostände finanzieren. R2D2, wie wir ihn nennen, eignet sich besonders gut, um unser Tool KLARTEXT Meerespolitik vorzustellen.
 
 #### **3\. Dezember**
 
