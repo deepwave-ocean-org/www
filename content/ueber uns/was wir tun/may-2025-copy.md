@@ -2,13 +2,21 @@
 title: Mai 2025
 date: 2025-05-31T00:00:00+01:00
 ---
-#### ab 9. Mai
-
 Vorbereitungen für unsere Teilnahme an der **UN Ocean Conference** in Nizza:
+
+Organisation unseres Side-Events auf der Vaka Okeanos **"Narrative Shifting in the Deep Sea Mining Debate: Why we don’t need the minerals of the deep"**
+
+Produktion der ersten Prototypen des PopUps zur NO DEEP SEA MINING - NEVER Kamapgne: Illustrationen Anna  Mandel, Paperengineering Jens Gollnow
+
+![Fleischfressender Tiefseeschwamm in Form eines Kandelabers](https://res.cloudinary.com/deepwave-org/deepwave.org/1000075419_co8rtd.jpg)
 
 Kampagen T-Shirts
 
-![Deep Sea Mining Never T-Shirt](https://res.cloudinary.com/deepwave-org/deepwave.org/1000075025_rf1b6o.jpg)
+![Deep Sea Mining Never T-Shirt](https://res.cloudinary.com/deepwave-org/deepwave.org/1000075418_nsd5ve.jpg)
+
+#### **26\. Mai**
+
+**Jurysitzung** für unser diesjähriges DEEPWAVE Filmfestival zum Schutz der Meere am 20. Juni
 
 #### **6\. / 7. Mai**
 
