@@ -2,6 +2,12 @@
 title: Dezember  2024
 date: 2024-12-31T00:00:00Z
 ---
+&nbsp;
+
+#### **16\./ 17. Dezember**
+
+UBA Workshop zum Tiefseebergbau in Bremen, Vorbereitungen zum Test Mining Prozedere bei der International Seabed Authority. Die neu gewählte Secretary General **Leticia Carvalho** gibt uns persönlich die Ehre.
+
 #### **14\. Dezember**
 
 Jährliche **Mitgliederversammlung**, auf der besonders deutlich wird, wie viel wir im letzten Jahr meerespolitisch aktiv waren.
