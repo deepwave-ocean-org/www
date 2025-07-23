@@ -20,7 +20,7 @@ Innerhalb der beiden Delfinarien haben die Tiere nicht annähernd ausreichend Pl
 
 [FREI: mein Zuhause hat keine Wände](https://de.whales.org/wdc-ziele/delfinarien-schliessen/freiheit-delfine-deutschland/)  lautet die aktuelle Kampagne des [Whale and Dolphin Conservation Deutschland](https://de.whales.org/). Sie fordert, dass die Delfine in Nürnberg und Duisburg die letzten gefangenen Delfine in Deutschland sind. Zusätzlich soll der Transport sowie das Züchten der Tiere beendet werden, um ein leidvolles Leben der Tiere zu verhindern. Um die Gefangenschaft von Delfinen in deutschen Delfinarien zu beenden, müssen wir uns für die Freiheit der Meeressäuger einsetzen.
 
-https://www.youtube.com/watch?v=zbHd16z6-3I&feature=youtu.be
+{{< youtube id="zbHd16z6-3I" >}}
 
 Quelle: [WDC Deutschland](https://youtu.be/zbHd16z6-3I) auf YouTube
 

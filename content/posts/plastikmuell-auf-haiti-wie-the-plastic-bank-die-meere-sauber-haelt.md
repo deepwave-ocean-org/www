@@ -23,7 +23,7 @@ Die Plastiksammler:innen erhalten von der Plastik-Bank Bargeld, verschiedene Die
 
 Dieses Video bringt die Beweggründe und die Funktionsweise von "The Plastic Bank" näher:
 
-https://www.youtube.com/watch?v=SdLQLaZO10U
+{{< youtube id="SdLQLaZO10U" >}}
 
 Quelle: [Plastic Bank](https://www.youtube.com/watch?v=SdLQLaZO10U) auf YouTube
 

@@ -5,15 +5,13 @@ blogs:
   - "filme"
   - "kultur"
   - "musik"
-  - "no-image"
+image: https://img.youtube.com/vi/jFeoInAR8Dw/maxresdefault.jpg
 tags: 
   - "musik"
 author: "DEEPWAVE"
 ---
 
-https://www.youtube.com/watch?v=jFeoInAR8Dw&feature=youtu.be
-
- 
+{{< youtube id="jFeoInAR8Dw" >}}
 
 Tigran Hamasyan's _Markos and Markos_ from his 2017 album _An Ancient Observer._ Video by Naira Muradyan.
 

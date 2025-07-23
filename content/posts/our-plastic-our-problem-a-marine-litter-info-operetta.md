@@ -6,7 +6,7 @@ blogs:
   - "musik"
   - "pplastic-pollution"
   - "videos-und-audio"
-  - "no-image"
+image: https://img.youtube.com/vi/0g_lpmcOyWk/maxresdefault.jpg
 author: "Amalia Klein"
 related: 
   - "/bundesregierung-will-internationales-exportverbot-fuer-unsortierten-plastikmuell/"
@@ -16,7 +16,7 @@ related:
 
 Hier eine kleine Info-Operette für alle Plastik-und Musikliebhaber! Sie zeigt, warum sich in der Gesellschaft und in der Politik im Thema [Plastik](https://www.deepwave.org/bundesregierung-will-internationales-exportverbot-fuer-unsortierten-plastikmuell/) so schnell wie möglich etwas verändern muss:
 
-https://www.youtube.com/watch?v=0g\_lpmcOyWk
+{{< youtube id="0g_lpmcOyWk" >}}
 
 Quelle: [Seas at Risk](https://youtu.be/0g_lpmcOyWk) auf YouTube
 

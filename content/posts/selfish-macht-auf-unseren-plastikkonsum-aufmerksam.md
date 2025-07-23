@@ -6,7 +6,7 @@ blogs:
   - "kultur"
   - "pplastic-pollution"
   - "videos-und-audio"
-  - "no-image"
+image: https://img.youtube.com/vi/bvtVbzPE1UY/maxresdefault.jpg
 author: "DEEPWAVE"
 related: 
   - "/vermeidung-des-mikroplastikeintrags-in-die-marine-umwelt-workshop/"
@@ -23,7 +23,7 @@ Auch für den Menschen hat der zunehmende Plastikkonsum und die unachtsame Entso
 
 Wir alle können durch unser Konsumverhalten und eine bewussten Lebensweise dazu beitragen, dass sich die Begebenheiten in den Meeren verbessern. Letztlich profitieren auch wir davon. Wenn wir an Stränden entlang spazieren können und unter unseren Füßen Sand und nichts als Sand spüren. Mit seinem Video ruft Chen Po zu mehr Achtsamkeit auf und möchte Menschen in Sachen Plastikkonsum sensibiliseren.
 
-https://www.youtube.com/watch?v=bvtVbzPE1UY
+{{< youtube id="bvtVbzPE1UY" >}}
 
 Quelle: [Chen Po 3D](https://www.youtube.com/channel/UCeiOdXK8-m3geGSwjTsQuzA) auf YouTube
 

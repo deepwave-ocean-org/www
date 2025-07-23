@@ -18,9 +18,7 @@ related:
 
 Viele Menschen bezeichnen Delfine als ihre Lieblingstiere. Kein Wunder, denn die Meeressäuger mit dem freundlichen Lächeln sind enorm intelligent und haben ein komplexes Sozialverhalten und Kommunikationsvermögen. Wie im folgenden Video zu sehen ist, wurden auch schon Sichtungen dokumentiert, in denen Delfine Schwämme oder Schneckenschalen als Werkzeuge benutzen, um beispielsweise an Nahrung an scharfkantigen Spalten zu gelangen. Diese Fähigkeiten bringen sie sich untereinander in ihren Lebensgemeinschaften bei, meistens von Mutter zu Tochter.
 
-https://www.youtube.com/watch?v=5MmBN\_E3qDo
-
- 
+{{< youtube id="5MmBN_E3qDo" >}}
 
 Nun untersuchte ein internationales Forschungsteam in Ägypten eine weitere interessante Eigenschaft der Delfine, die zeigt, wie clever diese Säugetiere sind. Mithilfe von Korallenschleim und Schwämmen scheinen sich Indopazifische Große Tümmler selbst zu verarzten.
 

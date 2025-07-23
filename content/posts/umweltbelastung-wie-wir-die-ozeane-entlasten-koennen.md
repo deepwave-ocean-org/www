@@ -20,6 +20,4 @@ Unsere Meere werden nicht nur durch jährlich 9 Millionen Tonnen [Plastikmüll](
 
 Wie genau Lösungen für diese Probleme aussehen können, erfahrt ihr in dem Film "[How We Can Keep Plastics Out of Our Oceans](https://www.youtube.com/watch?v=HQTUWK7CM-Y)" vom [National Geographic](https://www.nationalgeographic.de/) auf [YouTube](https://www.youtube.com/).
 
-https://www.youtube.com/watch?v=HQTUWK7CM-Y
-
-Quelle: https://www.youtube.com/watch?v=HQTUWK7CM-Y
+{{< youtube id="HQTUWK7CM-Y" >}}

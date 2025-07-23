@@ -6,11 +6,11 @@ blogs:
   - "kultur"
   - "musik"
   - "videos-und-audio"
-  - "no-image"
 author: "Noemi Merz"
+image: https://img.youtube.com/vi/pvuN_WvF1to/maxresdefault.jpg
 ---
 
-https://www.youtube.com/watch?time\_continue=431&v=pvuN\_WvF1to&feature=emb\_title
+{{< youtube id="pvuN_WvF1to" >}}
 
 Quelle: [Lil Dicky](https://youtu.be/pvuN_WvF1to) auf YouTube
 

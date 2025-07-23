@@ -20,9 +20,7 @@ Im folgenden Video erklärt Derya Akkaynak genauer, wie das Verfahren des "Sea-T
 
 #### "This researcher created an algorithm that removes the water from underwater images"
 
-https://www.youtube.com/watch?time\_continue=35&v=ExOOElyZ2Hk&feature=emb\_logo
-
-Quelle: https://www.youtube.com/watch?time\_continue=35&v=ExOOElyZ2Hk&feature=emb\_logo
+{{< youtube id="ExOOElyZ2Hk" >}}
 
 Das gesamte Paper des "Sea-Tru" findet ihr [hier](http://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf).
 

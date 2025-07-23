@@ -20,7 +20,7 @@ author: "DEEPWAVE"
 
 "This is a hidden crisis falling on silent shores"
 
-https://www.youtube.com/watch?v=wwMh9Y\_xxhw
+{{< youtube id="wwMh9Y_xxhw" >}}
 
 Quelle: [Madman Films](https://youtu.be/wwMh9Y_xxhw) auf YouTube
 

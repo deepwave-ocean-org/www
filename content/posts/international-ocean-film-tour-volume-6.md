@@ -1,12 +1,12 @@
 ---
 title: "International OCEAN FILM TOUR Volume 6"
 date: 2019-03-16
+image: https://img.youtube.com/vi/itNAVRJdSS8/maxresdefault.jpg
 blogs: 
   - "filme"
   - "kultur"
   - "veranstaltungen"
   - "was-tun"
-  - "no-image"
 tags: 
   - "haie"
   - "ocean-film-tour"
@@ -23,7 +23,7 @@ Die "international OCEAN FILM TOUR" geht in die 6. Runde und kommt zwischen dem 
 
 Ein spannendes Event für alle, die das Meer lieben!
 
-https://www.youtube.com/watch?v=itNAVRJdSS8
+{{< youtube id="itNAVRJdSS8" >}}
 
 Quelle: [https://de.oceanfilmtour.com/de/trailer](https://de.oceanfilmtour.com/de/trailer)
 

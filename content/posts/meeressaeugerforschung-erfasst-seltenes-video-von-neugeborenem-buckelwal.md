@@ -20,7 +20,7 @@ Quelle: [EurekAlter!](https://eurekalert.org/pub_releases/2019-01/uoha-umm013119
 
 Das Video könnt ihr euch hier ansehen:
 
-https://www.youtube.com/watch?v=LeeCqGHFYM4
+{{< youtube id="JsA0emd2FNw" >}}
 
 Quelle: [University of Hawai‘i News](https://www.youtube.com/watch?v=LeeCqGHFYM4) auf YouTube
 

@@ -18,7 +18,7 @@ Die Schalen werden getrocknet, gemahlen und mit Polymilchsäure gemischt. Der da
 
 Hier könnt ihr euch den gesamten Prozess der Maschine ansehen:
 
-https://www.youtube.com/watch?time\_continue=61&v=Bx9missz73A
+{{< youtube id="Bx9missz73A" >}}
 
 Quelle: [Carlo Ratti Associati](https://youtu.be/Bx9missz73A) auf YouTube
 

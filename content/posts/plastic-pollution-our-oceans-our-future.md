@@ -5,7 +5,7 @@ blogs:
   - "pplastic-pollution"
   - "videos-und-audio"
   - "was-tun"
-  - "no-image"
+image: https://img.youtube.com/vi/YGBpHYLNtRA/maxresdefault.jpg
 tags: 
   - "hawaii"
   - "marine-litter"
@@ -18,8 +18,6 @@ author: "bluestraw"
 
 Ein Video aus Hawaii. Auch wenn wir alles zu wissen meinen: diese Bilder zeigen eindrücklich, was wir tagtäglich verdrängen.  Unser Plastikkonsum hier beeinflusst mehr als nur uns, es trifft alle. Die Plastikgabel, die ich irgendwann einmal hier am Strand liegengelassen habe, sammelt vielleicht in diesem Moment ein hawaiianisches Kind an seinem Strand auf.
 
-https://www.youtube.com/watch?time\_continue=5&v=YGBpHYLNtRA
-
- 
+{{< youtube id="YGBpHYLNtRA" >}}
 
 Das Originalvideo _MAHALO_ und weitere Informationen findet ihr [hier](https://www.youtube.com/watch?time_continue=5&v=YGBpHYLNtRA).

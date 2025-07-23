@@ -25,6 +25,6 @@ Ben Zolno transportiert in seiner Parodie des Songs _Empire State of Mind_ die k
 
 Die Sängerin Jenni Perenz und der Rapper AshEl Eldridge verdeutlichen, dass uns unsere Bequemlichkeit letztendlich töten wird, denn bereits Babys tragen Schadstoffe in sich und wir nehmen weiteres Plastik täglich mit unserer [Nahrung](https://www.deepwave.org/selfish-macht-auf-unseren-plastikkonsum-aufmerksam/) und durch die Luft auf. Zudem wenden sich die Künstler:innen an jede:n einzelne:n, da wir nämlich Plastik durch [bewussten Konsum](https://www.deepwave.org/bund-einkalufsliste-zur-vermeidung-von-mikroplastik/) vermeiden können.
 
-https://www.youtube.com/watch?v=koETnR0NgLY
+{{< youtube id="koETnR0NgLY" >}}
 
-Quelle[:Ben Zolno](https://www.youtube.com/watch?v=koETnR0NgLY) auf YouTube
+Quelle: [Ben Zolno](https://www.youtube.com/watch?v=koETnR0NgLY) auf YouTube

@@ -5,7 +5,7 @@ blogs:
   - "good-news"
   - "veranstaltungen"
   - "was-tun"
-  - "no-image"
+image: https://img.youtube.com/vi/7AX1TByXTpQ/maxresdefault.jpg
 author: "DEEPWAVE"
 related: 
   - "/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/"
@@ -18,16 +18,12 @@ Die Verleihung der Oscars in Hollywood zieht jedes Jahr aufs Neue große Aufmerk
 
 Dieses Jahr ist unter anderem Kerstin Forsberg und ihre Meeresschutzorganisation [Planeta Océano](http://www.planetaoceano.org/) in Peru unter den Preisträger:innen. Forsberg setzt sich unter Einbeziehung der lokalen Fischer:innen erfolgreich dafür ein, dass der Fang, Verzehr oder Verkauf von Mantarochen in Peru für illegal erklärt wird.
 
-https://www.youtube.com/watch?v=7AX1TByXTpQ
-
-Quelle: https://www.youtube.com/watch?v=7AX1TByXTpQ
+{{< youtube id="7AX1TByXTpQ" >}}
 
 #### Pablo Borboroglu: [Global Penguin Society (GPS)](https://www.globalpenguinsociety.org/#vmo)
 
 Pablo Borboroglu und seine Organisation [Global Penguin Society (GPS)](https://www.globalpenguinsociety.org/#vmo) wurden ausgezeichnet für ihre bisher erzielten Erfolge im Pinguinschutz. Über die Hälfte der globalen Pinguinarten sind vom Aussterben bedroht. Die Global Penguin Society hat 125 Organisationen aus Wissenschaft, Bildung und Fischereimanagment zusammengebracht, die sich auf verschiedenen Ebenen und in unterschiedlichen Regionen der Welt für den Schutz der Pinguine einsetzen.
 
-https://www.youtube.com/watch?v=aRID0kkwYF8&t=60s
-
-Quelle: https://www.youtube.com/watch?v=aRID0kkwYF8&t=60s
+{{< youtube id="aRID0kkwYF8" >}}
 
 UPDATE: Forscher:innen haben nun Belege dafür, dass [Unterwasserlärm nicht nur Delfine und Wale schädigt](https://www.deepwave.org/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/). Auch Pinguinen wird durch [Schiffsmotoren und seismische Airguns](https://www.deepwave.org/die-ozeane/laerm/) geschadet. Dies gewinnt Bedeutung, da die Antarktis zunehmend ins [Blickfeld wirtschaftlicher Interessen](https://www.deepwave.org/klimakrise-in-der-arktis-wie-der-laerm-unter-wasser-die-wale-bedroht/) rückt und deshalb mit mehr Lärm in dieser Region zu rechnen ist.
