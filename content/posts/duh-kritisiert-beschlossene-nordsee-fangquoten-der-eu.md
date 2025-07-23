@@ -6,7 +6,7 @@ blogs:
   - "überfischung"
 image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245112/deepwave.org/2023-12-12_fengyou-wan-L2E584RsxPY-unsplash.jpg"
 image_caption: "© Fengyou Wan / Unsplash"
-source: "Pressemitteilung, 12.12.2023, Pressemitteilung DUH"
+source: "Pressemitteilung, 12.12.2023, DUH"
 author: "Anja"
 related: 
   - "/eu-entscheidung-zu-ostsee-fangquoten-deutsche-umwelthilfe-kritisiert-beschluesse-als-unzureichend/"

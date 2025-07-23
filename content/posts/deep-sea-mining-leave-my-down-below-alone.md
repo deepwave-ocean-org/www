@@ -6,10 +6,11 @@ blogs:
   - kultur
   - tiefsee
   - videos-und-audio
-  - no-image
+image: https://img.youtube.com/vi/JsA0emd2FNw/maxresdefault.jpg
 author: Amalia Klein
 related:
   - /our-plastic-our-problem-a-marine-litter-info-operetta/
+  - /e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/
 ---
 Die Organisation [Seas at Risk](https://seas-at-risk.org/) zeigt mit ihrem Cartoon-Video: "Deep sea mining!? Leave my down below alone!" auf humorvoll provokante Weise die Bedrohung durch den international geplanten Tiefseebergbau.
 
