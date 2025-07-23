@@ -11,7 +11,7 @@ author: DEEPWAVE
 source:
 related:
   - /tiefseebergbau-fuer-einsteigerinnen/
-  - tiefseegraben-muellhalde-am-meeresgrund/
+  - /tiefseegraben-muellhalde-am-meeresgrund/
 ---
 Wir sind auf der UN Ocean Conference!
 
