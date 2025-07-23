@@ -13,7 +13,7 @@ collections_config:
     disable_file_actions: false
   data:
     path: data
-    name: Data
+    name: Slider u.a.
     icon: data_usage
     disable_url: true
     disable_add: true

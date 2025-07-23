@@ -28,7 +28,9 @@
                     <h3 class="text-lg font-semibold text-gray-900">{{ .LinkTitle }}</h3>
                 </div>
             </div>
-
+            {{ with .Params.source }}
+            <p class="text-gray-400 text-sm">{{ . }}</p>
+            {{ end }}
             {{ with .Params.blurb }}
             <p class="text-gray-600 text-sm">{{ . }}</p>
             {{ else }}

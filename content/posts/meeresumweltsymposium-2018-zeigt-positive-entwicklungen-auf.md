@@ -6,12 +6,10 @@ blogs:
   - "good-news"
   - "veranstaltungen"
   - "was-tun"
-  - "no-image"
-source: "Pressemitteilung [Bundesamt für Seeschifffahrt und Hydrographie](https://www.bsh.de/DE/Home/home_node.html) (BSH)"
+image: https://images.unsplash.com/photo-1509390874189-d75fd22f19f7?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+source: "Pressemitteilung BSH, Hamburg 22.06.2018"
 author: "DEEPWAVE"
 ---
-
-Hamburg 22.06.2018
 
 Die Entwicklungen zum Schutz der Meeresumwelt haben in den letzten Jahren erhebliche Fortschritte gezeigt.
 

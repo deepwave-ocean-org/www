@@ -6,7 +6,7 @@ blogs:
   - "kultur"
   - "veranstaltungen"
   - "was-tun"
-  - "no-image"
+image: https://img.youtube.com/vi/wwMh9Y_xxhw/sddefault.jpg
 tags: 
   - "blauer-planet"
   - "dokumentation"
