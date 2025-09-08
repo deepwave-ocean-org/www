@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Der DEEPWAVE Newsletter on Wir gebem dem Meer eine Stimme</title>
-    <link>http://localhost:41655/newsletter/</link>
+    <link>http://localhost:1313/newsletter/</link>
     <description>Recent content in Der DEEPWAVE Newsletter on Wir gebem dem Meer eine Stimme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41655/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/newsletter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:41655/newsletter/1_dec/</link>
+      <link>http://localhost:1313/newsletter/12_juni_2025/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/newsletter/12_juni_2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/newsletter/1_dec/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41655/newsletter/1_dec/</guid>
+      <guid>http://localhost:1313/newsletter/1_dec/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:41655/newsletter/28_may/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41655/newsletter/28_may/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:41655/newsletter/27_nov_23/</link>
+      <link>http://localhost:1313/newsletter/27_nov_23/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41655/newsletter/27_nov_23/</guid>
+      <guid>http://localhost:1313/newsletter/27_nov_23/</guid>
       <description></description>
     </item>
   </channel>
