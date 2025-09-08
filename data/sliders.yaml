@@ -1,3 +1,9 @@
+- title: Unser Logbuch frisch jeden 2.  Samstag!
+  button_text: in eurem Postfach
+  link: https://www.deepwave.org/newsletter/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
+  overlay_color:
 - title: DEEPWAVE auf der UN Ocean Conference!
   button_text: Unser Side Event
   link: https://www.deepwave.org/unser-un-ocean-conference-side-event/
@@ -22,7 +28,7 @@
   background_image: /uploads/deepwave-flagge.jpeg
   overlay_color: '#1a4353'
 - title: Was wir tun
-  button_text: Unser Logbuch
+  button_text: seit 2003
   link: https://www.deepwave.org/ueber-uns/woher-wir-kommen/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267199/deepwave.org/Heye_schwimmt.png
