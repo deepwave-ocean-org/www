@@ -5,7 +5,7 @@ image: >-
 overlay: rgba(8,27,73,0.61)
 datum: in 10 deutschsprachigen Universitätsstädten
 saveTheDate:
-    start: coming soon
+    start:
     end:
     description:
     location:
