@@ -3,12 +3,12 @@ title: Unser Filmfestival geht auf Tour! Stay tuned!
 image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747243773/deepwave.org/13_biodiversity_coral_reefs_shaun-low-unsplash.jpg
 overlay: rgba(8,27,73,0.61)
-datum: Freitag, der 20. Juni
+datum: in 10 deutschsprachigen Universitätsstädten
 saveTheDate:
-    start: 20-06-2025 18:00:00
-    end: 20-06-2025 23:00:00
-    description: zum Schutz der Meere
-    location: Lichtmess-Kino, Gaußstraße 25, Hamburg
+    start:
+    end:
+    description:
+    location:
 aliases:
     - /filmfestival/
 ---
