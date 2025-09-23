@@ -34,7 +34,7 @@ botschafter:
     name: Frederik Götz
     role: Schauspieler
   - image: >-
-      https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Felix_ft1fzt.jpg
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Felix_Ausschnitt_nlhfpa.jpg
     name: Felix
     role: (13)
 team:
