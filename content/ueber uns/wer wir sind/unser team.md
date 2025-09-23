@@ -64,31 +64,31 @@ team:
     role: Stud. der Marine Ecosystem and Fisheries Sciences MSc, Hamburg
 praktikanten:
   - image: >-
-      https://res.cloudinary.com/deepwave-org/image/upload/v1747245519/deepwave.org/Teamfoto_Amel_Ausschnitt1-480x480.jpg
-    name: Amel Messaadi
-    role: Stud. der Biologie, Zürich
-  - image: >-
-      https://res.cloudinary.com/deepwave-org/image/upload/v1747245521/deepwave.org/Johanna_Perschthaler_Portrait_Ausschnitt-480x480.jpg
-    name: Johanna Perschthaler
-    role: Stud. der Biologie, Schottland
-  - image: >-
-      https://res.cloudinary.com/deepwave-org/image/upload/v1747245523/deepwave.org/Johan_Teamfoto_Aussschnitt_vor_Welle-480x480.jpg
-    name: Johan Busse von Colbe
-    role: Stud. der Umweltwissenschaften, Leuphana
-  - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245525/deepwave.org/Portrait-Lukas-Kahler-480x480.jpg
-    name: Lukas Kahler
+    name: Lukas Kahler (2024)
     role: >-
       Stud. der International Relations and International Organization,
       Groningen
   - image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747245521/deepwave.org/Johanna_Perschthaler_Portrait_Ausschnitt-480x480.jpg
+    name: Johanna Perschthaler (2021)
+    role: Stud. der Biologie, Schottland
+  - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245527/deepwave.org/DW_Noemi_Merz-480x480.jpg
-    name: Noemi Merz
+    name: Noemi Merz (2019)
     role: Stud. der Biologie, Hamburg
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245529/deepwave.org/Yonathan_Platzhalter-480x480.jpg
-    name: Yonathan Kibreab
+    name: Yonathan Kibreab (2019)
     role: BSc Biologie, Eritrea
+  - image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747245523/deepwave.org/Johan_Teamfoto_Aussschnitt_vor_Welle-480x480.jpg
+    name: Johan Busse von Colbe (2018)
+    role: Stud. der Umweltwissenschaften, Leuphana
+  - image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747245519/deepwave.org/Teamfoto_Amel_Ausschnitt1-480x480.jpg
+    name: Amel Messaadi (2017)
+    role: Stud. der Biologie, Zürich
 support:
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245531/deepwave.org/uuuPortait-480x512.jpg
