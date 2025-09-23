@@ -34,7 +34,7 @@ botschafter:
     name: Frederik Götz
     role: Schauspieler
   - image: >-
-      https://res.cloudinary.com/deepwave-org/image/upload/v1747245500/deepwave.org/Felix_Botschafter_Quadrat-480x479.jpg
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Felix_ft1fzt.jpg
     name: Felix
     role: (13)
 team:
@@ -59,17 +59,9 @@ team:
     name: Svenja Heckler
     role: Marine Ecosystem and Fisheries Sciences MSc
   - image: >-
-      https://res.cloudinary.com/deepwave-org/image/upload/v1747245513/deepwave.org/DW_Lea_Teichmann-480x480.jpg
-    name: Lea Teichmann
-    role: Texterin, Apnoetaucherin
-  - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Moritz_in_der_Arktis_vpog5m.jpg
     name: Moritz Aehle
     role: Stud. der Marine Ecosystem and Fisheries Sciences MSc, Hamburg
-  - image: >-
-      https://res.cloudinary.com/deepwave-org/image/upload/v1747245517/deepwave.org/Doethe_Themann_Team-1-480x496.jpg
-    name: Dörte Themann
-    role: Doktorandin Umwelt- und Politikwissenschaften
 praktikanten:
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245519/deepwave.org/Teamfoto_Amel_Ausschnitt1-480x480.jpg
