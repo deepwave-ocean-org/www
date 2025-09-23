@@ -63,7 +63,7 @@ team:
     name: Lea Teichmann
     role: Texterin, Apnoetaucherin
   - image: >-
-      https://res.cloudinary.com/deepwave-org/image/upload/v1747245515/deepwave.org/Moritz_Aehle_Teamseite_heller-1024x984-3-e1675362870796.jpg
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Moritz_in_der_Arktis_vpog5m.jpg
     name: Moritz Aehle
     role: Stud. der Marine Ecosystem and Fisheries Sciences MSc, Hamburg
   - image: >-
