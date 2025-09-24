@@ -62,6 +62,10 @@ team:
       https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Moritz_in_der_Arktis_vpog5m.jpg
     name: Moritz Aehle
     role: Stud. der Marine Ecosystem and Fisheries Sciences MSc, Hamburg
+  - image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Nco_Czaja_Ausschnitt_axezpz.jpg
+    name: Nico Czaja
+    role: Autor
 praktikanten:
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245525/deepwave.org/Portrait-Lukas-Kahler-480x480.jpg
