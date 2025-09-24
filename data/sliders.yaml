@@ -10,12 +10,18 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/NO_DEEP_SEA_MINING_T-Shirt_blauer_dhrbjz.jpg
   overlay_color:
-- title: DEEPWAVE Filmfestival
-  button_text: geht auf Tour!
-  link: https://www.deepwave.org/projekte/filmfestival/
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747267229/deepwave.org/Plakat_Saving_Corals-min-1.png
+- title: 'Änderung des Kohlendioxid-Speicherungsgesetzes '
+  button_text: Offener Brief
+  link: https://www.deepwave.org/new-post/
+  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/CCS_Bild_fcle8b.jpg
   overlay_color:
+- title: Alle reden von CCS - wir auch
+  button_text: Unser Longread von Nico Czaja
+  link: https://www.deepwave.org/ccs-unter-die-erde-kehren/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
+  overlay_color: '#000'
+  button_overlay: '#18191a'
 - title: NO DEEP SEA MINING - NEVER
   button_text: Unsere Kampagne gegen Tiefseebergbau
   link: https://tiefsee.deepwave.org
@@ -33,19 +39,18 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267199/deepwave.org/Heye_schwimmt.png
   overlay_color: '#142836'
+- title: DEEPWAVE Filmfestival
+  button_text: geht auf Tour!
+  link: https://www.deepwave.org/projekte/filmfestival/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747267229/deepwave.org/Plakat_Saving_Corals-min-1.png
+  overlay_color:
 - title: DEEPWAVE zu Gast beim Podcast "Tee mit G."
   button_text: Wie geht es dem Tiefseebergbau? Und uns?
   link: https://www.podcast.de/podcast/2604913/tee-mit-g
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/Schreibtisch_mit_Dünen2_jlr1g4.jpg
   overlay_color:
-- title: Alle reden von CCS - wir auch
-  button_text: Unser Longread von Nico Czaja
-  link: https://www.deepwave.org/ccs-unter-die-erde-kehren/
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
-  overlay_color: '#000'
-  button_overlay: '#18191a'
 - title: Über die Wolken
   button_text: >-
     Wie man sie macht und ob man es lieber lassen sollte - Ein Longread von Nico
