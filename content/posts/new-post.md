@@ -1,6 +1,6 @@
 ---
 _schema: blog_post
-title:
+title: 'Offener Brief zur Änderung des Kohlendioxid-Speicherungsgesetzes '
 date: 2025-09-24T11:01:16+01:00
 blogs:
   - Politik
