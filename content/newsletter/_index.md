@@ -1,7 +1,7 @@
 ---
 title: Das DEEPWAVE Logbuch
 image: >-
-  https://res.cloudinary.com/deepwave-org/image/upload/v1747245460/deepwave.org/Newsletter_Barbara.jpg
+  https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt1_girnb7.jpg
 overlay: rgba(52,110,124,0.41)
 ---
 ## Interessiert an Neuigkeiten zum Meeresschutz?
