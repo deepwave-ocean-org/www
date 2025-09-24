@@ -5,7 +5,7 @@ date: 2025-09-24T11:01:16+01:00
 blogs:
   - Politik
 image: https://res.cloudinary.com/deepwave-org/deepwave.org/CCS_Bild_fcle8b.jpg
-image_caption: © DEEPWAVE e.V.
+image_caption: © DEEPWAVE e.V. / Anna Mandel
 author: DEEPWAVE
 source:
 related:
