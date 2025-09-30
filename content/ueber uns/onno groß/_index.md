@@ -9,11 +9,13 @@ order: 3
 
 ![Wellen](https://res.cloudinary.com/deepwave-org/deepwave.org/Die_Zukunft_von_DEEPWAVE_iyrpt1.jpg)
 
-## Die Zukunft von DEEPWAVE
+# Die Zukunft von DEEPWAVE
 
-#### Nachricht vom 17. Oktober 2017
+## Nachricht vom 17. Oktober 2017
 
-Wie es weitergeht.<br>Wo wir stehen.<br>Wer wir sind.
+Wie es weitergeht.
+Wo wir stehen.
+Wer wir sind.
 
 In den letzten Monaten hat sich DEEPWAVE neu erfinden müssen und<br>ist nun auf dem Weg zu der Form, in der wir seine Aufgabe weiterführen werden.
 
@@ -69,7 +71,7 @@ Hamburg, 17. Oktober 2017
 
 # Die Nacht ist das Meer des Tages.
 
-#### Nachricht vom 16. Oktober 2016
+## Nachricht vom 16. Oktober 2016
 
 Onno Groß ist in der Nacht des 3. Oktober bei einem Verkehrsunfall in Budapest tödlich verunglückt.
 
