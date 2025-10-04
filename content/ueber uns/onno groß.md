@@ -13,8 +13,8 @@ order: 3
 
 ## Nachricht vom 17. Oktober 2017
 
-Wie es weitergeht.
-Wo wir stehen.
+Wie es weitergeht.<br>
+Wo wir stehen.<br>
 Wer wir sind.
 
 In den letzten Monaten hat sich DEEPWAVE neu erfinden müssen und<br>ist nun auf dem Weg zu der Form, in der wir seine Aufgabe weiterführen werden.
@@ -66,9 +66,11 @@ Heye Groß,<br>1\. Vorsitzender, Student der Nanowissenschaften B. Sc.
 Barbara Focke,<br>Stellvertretende Vorsitzende, Foto/Film-Designerin und Gründerin der maritimen Reiseagentur LaMar
 
 Hamburg, 17. Oktober 2017
+<hr>
+<br>
+
 
 ![Meer](https://res.cloudinary.com/deepwave-org/deepwave.org/Die_Nacht_ist_das_Meer_des_Tages_gw9lsj.jpg)
-
 # Die Nacht ist das Meer des Tages.
 
 ## Nachricht vom 16. Oktober 2016
