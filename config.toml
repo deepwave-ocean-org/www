@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "Wir gebem dem Meer eine Stimme"
 theme = "dwtheme"
 
-
+[markup.goldmark.renderer]
+  unsafe = true
 
 [taxonomies]
   category = "blogs"

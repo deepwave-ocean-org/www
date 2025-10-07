@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Wir gebem dem Meer eine Stimme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 11:01:16 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Politik</title>
+      <link>http://localhost:1313/blogs/politik/</link>
+      <pubDate>Wed, 24 Sep 2025 11:01:16 +0100</pubDate>
+      <guid>http://localhost:1313/blogs/politik/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Reflexionen</title>
       <link>http://localhost:1313/blogs/reflexionen/</link>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/blogs/klima/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/klima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Politik</title>
-      <link>http://localhost:1313/blogs/politik/</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/politik/</guid>
       <description></description>
     </item>
     <item>

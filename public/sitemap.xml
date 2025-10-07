@@ -3,25 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/</loc>
+    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/deepwave/</loc>
+    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/new-post/</loc>
+    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/politik/</loc>
+    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/20-september-2025/</loc>
+    <lastmod>2025-09-20T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/</loc>
+    <lastmod>2025-09-20T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/9-september-2025/</loc>
+    <lastmod>2025-09-06T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/23-august-2025/</loc>
+    <lastmod>2025-08-23T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/8-august-2025/</loc>
+    <lastmod>2025-08-09T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/27-juli-2025/</loc>
+    <lastmod>2025-07-27T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/11_juni_2025/</loc>
     <lastmod>2025-06-12T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/newsletter/12_juni_2025/</loc>
     <lastmod>2025-06-12T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/newsletter/</loc>
-    <lastmod>2025-06-12T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/</loc>
-    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/deepwave/</loc>
-    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/reflexionen/</loc>
     <lastmod>2025-06-04T00:00:00+01:00</lastmod>
@@ -63,9 +87,6 @@
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/klima/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/politik/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projekte/filmfestival/2025/</loc>
