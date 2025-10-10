@@ -1,27 +1,26 @@
 ---
-title: "Zehn Kinderbücher, die uns für die Meere begeistern"
-date: 2019-10-25
-blogs: 
-  - "bildung"
-  - "kultur"
-  - "literatur-collection"
-image: https://www.deepwave.org/wp-content/uploads/2019/10/Nick-und-der-Wal_Benji_Daves_Empfehlung.jpg
+title: Zehn Kinderbücher, die uns für die Meere begeistern
+date: 2019-10-25T00:00:00Z
+blogs:
+  - bildung
+  - kultur
+  - literatur-collection
+image: >-
+  https://www.deepwave.org/wp-content/uploads/2019/10/Nick-und-der-Wal_Benji_Daves_Empfehlung.jpg
 image_caption: © Aladin / Benji Davies
-summary: Kinderbücher erinnern uns an eine Zeit, in der die Meere uns noch ungebrochen begeistert haben, in der wir voller Freude all die Schönheit und Komplexität in uns aufsogen, ein Buch nach dem anderen …
-author: "DEEPWAVE"
-related: 
-  - "/ozeanbuecher/"
-  - "/fische-fische-ueberall-von-britta-teckentrup/"
-  - "/der-schwarm/"
+summary: >-
+  Kinderbücher erinnern uns an eine Zeit, in der die Meere uns noch ungebrochen
+  begeistert haben, in der wir voller Freude all die Schönheit und Komplexität
+  in uns aufsogen, ein Buch nach dem anderen …
+author: DEEPWAVE
+related:
+  - /ozeanbuecher/
+  - /fische-fische-ueberall-von-britta-teckentrup/
+  - /der-schwarm/
 ---
+*Edit (10.10.25):*
 
-_Edit (14.03.2023): Wenn euch die Bücher ausgegangen sind, haben wir einige Empfehlungen für euch. Bestellt diese aber nicht bei den großen Unternehmen, sondern nutzt die Gelegenheit, um eine lokale Buchhandlung ausfindig zu machen - [buchhandlung-finden.de](https://www.buchhandlung-finden.de/) und [genialokal.de](https://www.genialokal.de/) helfen euch dabei. Dort könnt ihr oft auch online bestellen, E-Books erwerben oder telefonisch eine Abholung vereinbaren und so denjenigen Buchhändler:innen helfen, die es eh schon schwer genug haben. Und wer weiß, vielleicht entwickeln sich ja durch Gespräche über gute Bücher Freundschaften, die wir jetzt in dieser Krise brauchen - und danach. Unter_ hier bestellen _haben wir unsere lokale Buchhändlerin verlinkt - stellvertretend für diesen Gedanken._
-
-Nach unser erfolgreichen Aktion ["Ozeanbücher"](https://www.deepwave.org/ozeanbuecher/) diesen Sommer, wurden wir von der [Buchhandelskooperation MENSCH](http://www.mensch-buchhandlungen.de/) gefragt, welche Bücher uns bewegen, uns begeistern, zum Staunen bringen und zum Handeln anregen. Die persönlichen Empfehlungen unseres Teams findet ihr hier.
-
-**[1\. Zehn Kinderbücher, die uns für die Meere begeistern](https://www.deepwave.org/blogs/kultur/#post-20805677)**  
-[2\. Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken](https://www.deepwave.org/blogs/kultur/#post-20805700)  
-[3\. Bereit zu handeln? Fünf Bücher zum Anpacken](https://www.deepwave.org/blogs/kultur/#post-20805722)
+[**1\. Zehn Kinderbücher, die uns für die Meere begeistern**](https://www.deepwave.org/blogs/kultur/#post-20805677)<br> [2\. Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken](https://www.deepwave.org/blogs/kultur/#post-20805700)<br> [3\. Bereit zu handeln? Fünf Bücher zum Anpacken](https://www.deepwave.org/blogs/kultur/#post-20805722)
 
 Alle, die sich heute mit DEEPWAVE für die Meere einsetzen, haben einen Moment erlebt, an dem die Faszination für die wundersame Welt der Ozeane angefangen hat. Auch wenn wir uns nicht mehr erinnern, wie dieser aussah, sind wir uns sicher, dass ein Kinderbuch dabei eine große Rolle spielte.
 
@@ -29,8 +28,7 @@ Auf der Suche nach Empfehlungen sind uns erstaunlich viele Bücher für Kinder e
 
 Daher empfehlen wir auch den Erwachsenen diese Kinderbücher. Denn sie zeigen uns den Schritt, der nach dem Wissen kommt. Das Verinnerlichen, Begreifen, Verstehen. Den Auslöser zum Handeln.
 
-[![Fische Fische überall Britta Teckentrup Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Fische_Fische_überall_Britta_Teckentrup_Empfehlung.jpg)](/fische-fische-ueberall-von-britta-teckentrup/)
-
+[![Fische Fische überall Britta Teckentrup Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Fische_Fische_%C3%BCberall_Britta_Teckentrup_Empfehlung.jpg)](/fische-fische-ueberall-von-britta-teckentrup/)
 
 ### [Fische, Fische überall](https://www.deepwave.org/fische-fische-ueberall-von-britta-teckentrup/)
 
@@ -46,7 +44,8 @@ Franziska Bils
 
 ### Ozeane
 
-##### Hélène Druvert / Emmanuelle Grundmann,  
+##### Hélène Druvert / Emmanuelle Grundmann,
+
 Gerstenberg Verlag
 
 "Dieses Buch entlockt mir bei jedem Umblättern aufs neue staunende Bewunderung. Filigrane meisterhafte Papercuts und ausklappbare Zeichnungen ermöglichen das Begreifen der Zusammenhänge im Meer auf mehreren Ebenen. Eine Buch, das wir allen Meeresliebhaber:innen jedweden Alters wünschen!"
@@ -85,7 +84,6 @@ Anna Groß
 
 ![Das Meer Ricardo Henriques Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Das_Meer_Ricardo_Henriques_Empfehlung.jpg)
 
-
 ### Das Meer - eintauchen, abtauchen, entdecken
 
 ##### Ricardo Henriques, Knesebeck Verlag
@@ -104,7 +102,6 @@ Anna Groß
 
 Anna Groß
 
-
 ![Geheimnis Tiefsee. Leben in ewiger Finsternis Manfred Baur Was-ist-Was Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747245222/deepwave.org/Geheimnis-Tiefsee.-Leben-in-ewiger-Finsternis_Manfred_Baur_Was-ist-Was_Empfehlung.jpg)
 
 ### Was ist Was - Geheimnis Tiefsee
@@ -121,7 +118,8 @@ Anna Groß
 
 ### Ocean Bingo
 
-##### mit Illustrationen von Holly Exley, Englisch  
+##### mit Illustrationen von Holly Exley, Englisch
+
 Gesellschaftsspiel für 1-6 Spieler, Laurence King Verlag
 
 "Wer Bingo mag, spielt Bingo, alle anderen erfreuen sich an den herrlichen Zeichnungen und der Formenvielfalt, die die Meereslebewesen zu bieten haben, und lernen nebenbei viel Wissenswertes - und englisch."
@@ -136,12 +134,10 @@ Und natürlich unser eigenes Buch für Kinder und Jugendliche:
 
 ##### Unser Blauer Planet gestern – heute – morgen
 
-##### Onno Groß / Anna Mandel, DEEPWAVE e.V. - [hier bestellen](https://www.deepwave.org/impressum/kontakt/)
+##### Onno Groß / Anna Mandel, DEEPWAVE e.V. - [hier&nbsp;bestellen](https://www.deepwave.org/impressum/kontakt/)
 
 "Ich hoffe das Buch regt jeden von Euch an, sich mit den Wundern unter Wasser zu beschäftigen und sich für den Schutz der Meere einzusetzen."
 
-Frank Schätzing,  
-Autor des internationalen Bestsellers ["Der Schwarm"](https://www.deepwave.org/der-schwarm/)
+Frank Schätzing,<br> Autor des internationalen Bestsellers ["Der Schwarm"](https://www.deepwave.org/der-schwarm/)
 
-##### [Hier könnt ihr einen Blick in unsere Fibel werfen...](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/) 
-
+##### [Hier könnt ihr einen Blick in unsere Fibel werfen...](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/)
