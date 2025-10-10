@@ -1,6 +1,6 @@
 ---
 title: Bereit zu handeln? Fünf Bücher zum Anpacken
-date: 2019-10-21T00:00:00Z
+date: 2025-10-10T00:00:00+01:00
 blogs:
   - alternativen-zu-einwegplastik
   - bildung
@@ -19,7 +19,7 @@ related:
   - /vier-fuers-klima/
   - /vier-fuers-klima/
 ---
-*Edit (10.10.2025):*
+&nbsp;
 
 [1\. Zehn Kinderbücher, die uns für die Meere begeistern](https://www.deepwave.org/blogs/kultur/#post-20805677)<br> [2\. Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken](https://www.deepwave.org/blogs/kultur/#post-20805700)<br> [**3\. Bereit zu handeln? Fünf Bücher zum Anpacken**](https://www.deepwave.org/blogs/kultur/#post-20805722)
 
