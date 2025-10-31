@@ -10,7 +10,7 @@ aliases:
 ---
 Wir finanzieren uns ausschließlich über **Mitgliedsbeiträge** und **Spenden**.
 
-Wenn ihr **Mitglied** werden möchtet, könnt ihr den <a href="https://res.cloudinary.com/deepwave-org/deepwave.org/MITGLIEDSANTRAG_DEEPWAVE_NEU_2017_ickvzm.pdf" target="_blank" rel="noopener">Mitgliedsantrag</a> ausdrucken und uns als PDF <a href="mailto:info@deepwave.org" target="_blank" rel="noopener">per mail</a> oder <a href="https://www.deepwave.org/impressum/" target="_blank" rel="noopener">per Post</a> schicken.
+Wenn ihr **Mitglied** werden möchtet, könnt ihr den <a href="https://res.cloudinary.com/deepwave-org/deepwave.org/MITGLIEDSANTRAG_DEEPWAVE_NEU_2025_vanyff.pdf" target="_blank" rel="noopener">Mitgliedsantrag</a> ausdrucken und uns als PDF <a href="mailto:info@deepwave.org" target="_blank" rel="noopener">per mail</a> oder <a href="https://www.deepwave.org/impressum/" target="_blank" rel="noopener">per Post</a> schicken.
 
 **Wichtiger Hinweis zu Spendenbescheinigungen**
 
