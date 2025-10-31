@@ -8,6 +8,10 @@ layout: spenden
 aliases:
     - /etwas-tun/spenden
 ---
+Wir finanzieren uns ausschließlich über **Mitgliedsbeiträge** und **Spenden**.
+
+Wenn ihr **Mitglied** werden möchtet, könnt ihr den <a href="https://www.deepwave.org/wp-content/uploads/2018/06/MITGLIEDSANTRAG_DEEPWAVE_NEU_2017.pdf" target="_blank" rel="noopener">Mitgliedsantrag</a> ausdrucken und uns als PDF <a href="mailto:info@deepwave.org" target="_blank" rel="noopener">per mail</a> oder <a href="https://www.deepwave.org/impressum/" target="_blank" rel="noopener">per Post</a> schicken.
+
 **Wichtiger Hinweis zu Spendenbescheinigungen**
 
 DEEPWAVE e.V. ist vom Finanzamt Hamburg Nord als gemeinnützig anerkannt. Hier findet sich der&nbsp;[aktuelle Freistellungsbescheid](https://www.deepwave.org/wp-content/uploads/2024/07/Freistellungsbescheid_DEEPWAVE_15_07_2024.pdf)&nbsp;vom 15.07.2024. Für Spenden auf unser Bankkonto können wir Spendenbescheinigungen ausstellen. Spenden an DEEPWAVE e.V. sind steuerlich absetzbar und zwar bis zur Höhe von 20 Prozent der persönlichen Einkünfte
