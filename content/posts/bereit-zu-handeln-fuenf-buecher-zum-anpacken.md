@@ -1,31 +1,29 @@
 ---
-title: "Bereit zu handeln? Fünf Bücher zum Anpacken"
-date: 2019-10-21
-blogs: 
-  - "alternativen-zu-einwegplastik"
-  - "bildung"
-  - "kultur"
-  - "literatur-collection"
-image: https://www.deepwave.org/wp-content/uploads/2019/10/Und-jetzt-retten-wir-die-Welt_Ilona_Koglin_jpg.jpg
+title: Bereit zu handeln? Fünf Bücher zum Anpacken
+date: 2025-10-10T00:00:00+01:00
+blogs:
+  - alternativen-zu-einwegplastik
+  - bildung
+  - kultur
+  - literatur-collection
+image: >-
+  https://www.deepwave.org/wp-content/uploads/2019/10/Und-jetzt-retten-wir-die-Welt_Ilona_Koglin_jpg.jpg
 image_caption: © Kosmos Verlag / Ilona Koglin
 summary: >-
-  Eines der  Bücher hat den schönen Untertitel „Was du konkret tun kannst, um den Wahnsinn zu stoppen“. Und genau darum geht es in all den folgenden Empfehlungen: um praktische Anleitungen.
-author: "DEEPWAVE"
-related: 
-  - "/ozeanbuecher/"
-  - "/vier-fuers-klima/"
-  - "/vier-fuers-klima/"
+  Eines der  Bücher hat den schönen Untertitel „Was du konkret tun kannst, um
+  den Wahnsinn zu stoppen“. Und genau darum geht es in all den folgenden
+  Empfehlungen: um praktische Anleitungen.
+author: DEEPWAVE
+related:
+  - /ozeanbuecher/
+  - /vier-fuers-klima/
+  - /vier-fuers-klima/
 ---
+&nbsp;
 
-_Edit (14.03.2023): Wenn euch die Bücher ausgegangen sind, haben wir einige Empfehlungen für euch. Bestellt diese aber nicht bei den großen Unternehmen, sondern nutzt die Gelegenheit, um eine lokale Buchhandlung ausfindig zu machen - [buchhandlung-finden.de](https://www.buchhandlung-finden.de/) und [genialokal.de](https://www.genialokal.de/) helfen euch dabei. Dort könnt ihr oft auch online bestellen, E-Books erwerben oder telefonisch eine Abholung vereinbaren und so denjenigen Buchhändler:innen helfen, die es eh schon schwer genug haben. Und wer weiß, vielleicht entwickeln sich ja durch Gespräche über gute Bücher Freundschaften, die wir jetzt in dieser Krise brauchen - und danach. Unter_ hier bestellen _haben wir unsere lokale Buchhändlerin verlinkt - stellvertretend für diesen Gedanken._
+[1\. Zehn Kinderbücher, die uns für die Meere begeistern](https://www.deepwave.org/blogs/kultur/#post-20805677)<br> [2\. Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken](https://www.deepwave.org/blogs/kultur/#post-20805700)<br> [**3\. Bereit zu handeln? Fünf Bücher zum Anpacken**](https://www.deepwave.org/blogs/kultur/#post-20805722)
 
-Nach unser erfolgreichen Aktion ["Ozeanbücher"](https://www.deepwave.org/ozeanbuecher/) diesen Sommer, wurden wir von der [Buchhandelskooperation MENSCH](http://www.mensch-buchhandlungen.de/) gefragt, welche Bücher uns bewegen, uns begeistern, zum Staunen bringen und zum Handeln anregen. Die persönlichen Empfehlungen unseres Teams findet ihr hier.
-
-[1\. Zehn Kinderbücher, die uns für die Meere begeistern](https://www.deepwave.org/blogs/kultur/#post-20805677)  
-[2\. Zwölf Bücher für die Ozeane – Staunen und kritisches Nachdenken](https://www.deepwave.org/blogs/kultur/#post-20805700)  
-**[3\. Bereit zu handeln? Fünf Bücher zum Anpacken](https://www.deepwave.org/blogs/kultur/#post-20805722)**
-
-Wer bereits verinnerlicht hat, was auf dem Spiel steht, wenn wir uns nicht verändern, der fragt sich: Was kann ich tun? Wie soll ich zu der Veränderung werden, die ich mir wünsche und für notwendig halte?
+Wer bereits verinnerlicht hat, was auf dem Spiel steht, wenn wir uns nicht verändern, fragt sich: Was kann ich tun? Wie soll ich zu der Veränderung werden, die ich mir wünsche und für notwendig halte?
 
 Eines der von uns ausgesuchten Bücher hat den schönen Untertitel "Was du konkret tun kannst, um den Wahnsinn zu stoppen". Und genau darum geht es in all den folgenden Empfehlungen: um praktische Anleitungen. Um das, was wir unternehmen können, um uns wieder wie ein achtsamer Gast auf diesem Planeten zu verhalten.
 
@@ -65,13 +63,13 @@ Aber wie klappt es nun mit dem Plastiksparen? Zu Beginn jedes dieser Kapitels li
 
 Luisa Münch
 
-### #Einfach plastikfrei leben
+### \#Einfach plastikfrei leben
 
 ![Charlotte Schüler Einfach plastikfrei leben Empfehlung](https://res.cloudinary.com/deepwave-org/image/upload/v1747266822/deepwave.org/Charlotte_Sch%C3%BCler_Einfach_plastikfrei_leben_Empfehlung.jpg)
 
 ##### Charlotte Schüler, Südwest Verlag
 
-"Mit ihrem Einzug in die erste eigene Wohnung hat sich Bloggerin und Influencerin Charlotte Schüler für ein plastikfreies Leben entschieden. Wie genau das gelingt, zeigt sie in ihrem Buch #Einfach plastikfrei leben. Was ich beim Lesen besonders mag ist der positive Umgang der Autorin mit dem Thema. Denn statt mit erhobenem Zeigefinger gibt sie Tipps, die gut umzusetzen sind und betont, dass man auch plastikfrei bei weitem nicht auf alles verzichten muss. So nimmt sie viel Druck aus dem großen Ziel, das eigene Leben plastikfrei zu gestalten und macht das Vorhaben damit viel unbeschwerter. Denn auch, wenn es irgendwo mal Ausnahmen gibt, zeigt sie, dass das nicht dramatisch sein muss – denn am Ende kommt es darauf an, so wenig Plastik wie möglich zu verbrauchen. Gleichzeitig setzt sie sich auch kritisch mit Themen auseinander, wie etwa der Alternative Bioplastik, und erklärt anschaulich, was es mit solchen Alternativen eigentlich auf sich hat.
+"Mit ihrem Einzug in die erste eigene Wohnung hat sich Bloggerin und Influencerin Charlotte Schüler für ein plastikfreies Leben entschieden. Wie genau das gelingt, zeigt sie in ihrem Buch \#Einfach plastikfrei leben. Was ich beim Lesen besonders mag ist der positive Umgang der Autorin mit dem Thema. Denn statt mit erhobenem Zeigefinger gibt sie Tipps, die gut umzusetzen sind und betont, dass man auch plastikfrei bei weitem nicht auf alles verzichten muss. So nimmt sie viel Druck aus dem großen Ziel, das eigene Leben plastikfrei zu gestalten und macht das Vorhaben damit viel unbeschwerter. Denn auch, wenn es irgendwo mal Ausnahmen gibt, zeigt sie, dass das nicht dramatisch sein muss – denn am Ende kommt es darauf an, so wenig Plastik wie möglich zu verbrauchen. Gleichzeitig setzt sie sich auch kritisch mit Themen auseinander, wie etwa der Alternative Bioplastik, und erklärt anschaulich, was es mit solchen Alternativen eigentlich auf sich hat.
 
 In den vier Schritten zum plastikfreien Leben stecken neben den vielen Tipps auch Do-it-yourself-Anleitungen, die man ganz einfach ausprobieren kann. Und plötzlich wird klar: So schwer ist es eigentlich gar nicht, ein Bienenwachstuch, Zahnpasta oder Reinigungsmittel selbst herzustellen. Was ich an Schülers Buch außerdem mag ist die liebevolle Gestaltung – von außen wie von innen. Man spürt, dass das Thema der Autorin wirklich am Herzen liegt und sie an andere weitergeben will, welche Ansätze in ihrem eigenen Alltag funktionieren."
 
