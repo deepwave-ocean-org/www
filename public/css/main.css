@@ -534,6 +534,24 @@
   .max-w-md {
     max-width: var(--container-md);
   }
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
+  .min-w-\[200px\] {
+    min-width: 200px;
+  }
+  .flex-1 {
+    flex: 1;
+  }
+  .flex-shrink {
+    flex-shrink: 1;
+  }
+  .basis-\[500px\] {
+    flex-basis: 500px;
+  }
+  .basis-auto {
+    flex-basis: auto;
+  }
   .origin-bottom-right {
     transform-origin: bottom right;
   }
@@ -601,6 +619,9 @@
   }
   .justify-end {
     justify-content: flex-end;
+  }
+  .gap-2 {
+    gap: calc(var(--spacing) * 2);
   }
   .gap-4 {
     gap: calc(var(--spacing) * 4);
@@ -712,6 +733,9 @@
   }
   .bg-deepwave-dark-blue {
     background-color: var(--color-deepwave-dark-blue);
+  }
+  .bg-deepwave-light-blue {
+    background-color: var(--color-deepwave-light-blue);
   }
   .bg-gray-200 {
     background-color: var(--color-gray-200);
