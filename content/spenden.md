@@ -3,8 +3,7 @@ title: Auf eure Spende kommt es an!
 subtitle: >-
   Ihr seid unsere Unabhängigkeit. Werdet Patron, Mitglied oder spendet
   regelmäßig.
-image: >-
-  https://res.cloudinary.com/deepwave-org/image/upload/v1747243781/deepwave.org/Buchempfehlung_Aktion_Meer_Meer_Weniger_Plastik_Ausschnitt_2.jpg
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/1rot_mq7h5k.jpg
 overlay: rgb(34 38 48 / 61%)
 links:
   - title: Patreon
