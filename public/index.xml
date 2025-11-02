@@ -6,8 +6,29 @@
     <description>Recent content on Wir gebem dem Meer eine Stimme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Sep 2025 11:01:16 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/newsletter/18-october-2025/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/newsletter/18-october-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/newsletter/12-october-2025/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/newsletter/12-october-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bereit zu handeln? Fünf Bücher zum Anpacken</title>
+      <link>http://localhost:1313/bereit-zu-handeln-fuenf-buecher-zum-anpacken/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/bereit-zu-handeln-fuenf-buecher-zum-anpacken/</guid>
+      <description>Eines der  Bücher hat den schönen Untertitel „Was du konkret tun kannst, um den Wahnsinn zu stoppen“. Und genau darum geht es in all den folgenden Empfehlungen: um praktische Anleitungen.</description>
+    </item>
     <item>
       <title>Offener Brief zur Änderung des Kohlendioxid-Speicherungsgesetzes </title>
       <link>http://localhost:1313/new-post/</link>
@@ -2949,13 +2970,6 @@
       <description>Wir sind mit dem Meer verbunden und dieses Gefühl der Verbundenheit ist Teil unserer Kultur. Der Beweis dafür findet sich in jedem Bücherregal.</description>
     </item>
     <item>
-      <title>Bereit zu handeln? Fünf Bücher zum Anpacken</title>
-      <link>http://localhost:1313/bereit-zu-handeln-fuenf-buecher-zum-anpacken/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bereit-zu-handeln-fuenf-buecher-zum-anpacken/</guid>
-      <description>Eines der  Bücher hat den schönen Untertitel „Was du konkret tun kannst, um den Wahnsinn zu stoppen“. Und genau darum geht es in all den folgenden Empfehlungen: um praktische Anleitungen.</description>
-    </item>
-    <item>
       <title>&#34;Fische, Fische überall&#34; von Britta Teckentrup</title>
       <link>http://localhost:1313/fische-fische-ueberall-von-britta-teckentrup/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
@@ -4860,6 +4874,13 @@
       <description></description>
     </item>
     <item>
+      <title>Auf eure Spende kommt es an!</title>
+      <link>http://localhost:1313/spenden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/spenden/</guid>
+      <description>&lt;p&gt;Wir finanzieren uns ausschließlich über &lt;strong&gt;Mitgliedsbeiträge&lt;/strong&gt; und &lt;strong&gt;Spenden&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Wenn ihr &lt;strong&gt;Mitglied&lt;/strong&gt; werden möchtet, könnt ihr den &lt;a href=&#34;https://res.cloudinary.com/deepwave-org/deepwave.org/MITGLIEDSANTRAG_DEEPWAVE_NEU_2025_vanyff.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mitgliedsantrag&lt;/a&gt; ausdrucken und uns als PDF &lt;a href=&#34;mailto:info@deepwave.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;per mail&lt;/a&gt; oder &lt;a href=&#34;https://www.deepwave.org/impressum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;per Post&lt;/a&gt; schicken.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wichtiger Hinweis zu Spendenbescheinigungen&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;DEEPWAVE e.V. ist vom Finanzamt Hamburg Nord als gemeinnützig anerkannt. Hier findet sich der &lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2024/07/Freistellungsbescheid_DEEPWAVE_15_07_2024.pdf&#34;&gt;aktuelle Freistellungsbescheid&lt;/a&gt; vom 15.07.2024. Für Spenden auf unser Bankkonto können wir Spendenbescheinigungen ausstellen. Spenden an DEEPWAVE e.V. sind steuerlich absetzbar und zwar bis zur Höhe von 20 Prozent der persönlichen Einkünfte&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Das DEEPWAVE Logo</title>
       <link>http://localhost:1313/ueber-uns/wer-wir-sind/unser-logo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4934,14 +4955,7 @@
       <link>http://localhost:1313/ozeanb%C3%BCcher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ozeanb%C3%BCcher/</guid>
-      <description>&lt;p&gt;Bücher spielen bei DEEPWAVE schon immer eine heimliche Hauptrolle. Wer unser Büro betritt, ist von ihnen umgeben: Ozeanbücher in allen Formen, Farben, Größen. Vergriffene Raritäten, Neuerscheinungen, Bildbände, Forschungberichte, Bestimmunsgbücher, Literaturklassiker und völlig Unerwartetes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Als Anregung haben wir hier einige Empfehlungen für euch, ausgewählt und sehr persönlich vorgestellt von unseren Teammitgliedern. Holt sie euch bei eurer lokalen Buchhandlung und falls die euch zu weit weg sein sollte: dort könnt ihr inzwischen auch fast immer online bestellen und falls ihr kein Papier nutzen wollt, E-Books erwerben. Ihr unterstützt damit nicht nur die Buchhändler:innen, sondern bekommt Beratung von Menschen, die Bücher genauso lieben wie ihr.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spendet jetzt!</title>
-      <link>http://localhost:1313/spenden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/spenden/</guid>
-      <description>&lt;p&gt;Wichtiger Hinweis zu Spendenquittungen&lt;/p&gt;&#xA;&lt;p&gt;DEEPWAVE e.V. ist vom Finanzamt Hamburg Nord als gemeinnützig anerkannt. Hier findet sich der &lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2024/07/Freistellungsbescheid_DEEPWAVE_15_07_2024.pdf&#34;&gt;aktuelle Freistellungsbescheid&lt;/a&gt; vom 15.07.2024. Für Spenden auf unser Bankkonto können wir Spendenbescheinigungen ausstellen. Spenden an DEEPWAVE e.V. sind steuerlich absetzbar und zwar bis zur Höhe von 20 Prozent der persönlichen Einkünfte.&lt;/p&gt;&#xA;&lt;p&gt;SPENDEN BIS 300 EURO&lt;/p&gt;&#xA;&lt;p&gt;(Vereinfachter Spendennachweis ohne Spendenquittung)&lt;/p&gt;&#xA;&lt;p&gt;Spenden bis zu 300 Euro können Sie ohne amtliche Spendenquittung mit dem Einzahlungsbeleg der Überweisung beim Finanzamt einreichen.&lt;br&gt;&#xA;Für den vereinfachten Spendennachweis bis zu 300 Euro ( § 50 Abs. 2 Nr. 2 Buchst.b EStDV) an DEEPWAVE e.V. wird ein &lt;a href=&#34;https://www.deepwave.org/wp-content/uploads/2024/07/Bestaetigung_ueber_Zuwendung_fuer_das_Finanzamt_2024-2.pdf&#34;&gt;Beleg für das Finanzamt&lt;/a&gt; benötigt.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bücher spielen bei DEEPWAVE schon immer eine heimliche Hauptrolle. Wer unser Büro betritt, ist von ihnen umgeben: Ozeanbücher in allen Formen, Farben, Größen. Vergriffene Raritäten, Neuerscheinungen, Bildbände, Forschungsberichte, Bestimmungsbücher, Literaturklassiker und völlig Unerwartetes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Als Anregung haben wir hier einige Empfehlungen für euch, ausgewählt und sehr persönlich vorgestellt von unseren Teammitgliedern. Holt sie euch bei eurer lokalen Buchhandlung und falls die euch zu weit weg sein sollte: dort könnt ihr inzwischen auch fast immer online bestellen und falls ihr kein Papier nutzen wollt, E-Books erwerben. Ihr unterstützt damit nicht nur die Buchhändler:innen, sondern bekommt Beratung von Menschen, die Bücher genauso lieben wie ihr.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Überfischung</title>

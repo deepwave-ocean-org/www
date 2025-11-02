@@ -3,16 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+    <lastmod>2025-10-18T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/18-october-2025/</loc>
+    <lastmod>2025-10-18T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/</loc>
+    <lastmod>2025-10-18T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newsletter/12-october-2025/</loc>
+    <lastmod>2025-10-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/alternativen-zu-einwegplastik/</loc>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/</loc>
-    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bereit-zu-handeln-fuenf-buecher-zum-anpacken/</loc>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/bildung/</loc>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/deepwave/</loc>
-    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/kultur/</loc>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/literatur-collection/</loc>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-10T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/new-post/</loc>
     <lastmod>2025-09-24T11:01:16+01:00</lastmod>
@@ -20,13 +47,7 @@
     <loc>http://localhost:1313/blogs/politik/</loc>
     <lastmod>2025-09-24T11:01:16+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-24T11:01:16+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/newsletter/20-september-2025/</loc>
-    <lastmod>2025-09-20T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/newsletter/</loc>
     <lastmod>2025-09-20T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/newsletter/9-september-2025/</loc>
@@ -92,10 +113,10 @@
     <loc>http://localhost:1313/projekte/filmfestival/2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projekte/</loc>
+    <loc>http://localhost:1313/projekte/filmfestival/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projekte/filmfestival/</loc>
+    <loc>http://localhost:1313/projekte/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/guter-fisch-zum-weihnachtsfest/</loc>
@@ -253,9 +274,6 @@
   </url><url>
     <loc>http://localhost:1313/energiekrise-bei-ostdorsch-und-co-wie-ueberduengung-und-klimawandel-die-nahrungsnetze-der-ostsee-veraendern/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/kultur/</loc>
-    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ethikrat-lasten-im-kampf-gegen-den-klimawandel-gerecht-verteilen/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
@@ -559,9 +577,6 @@
   </url><url>
     <loc>http://localhost:1313/lemke-mit-natuerlichem-klimaschutz-oekosysteme-staerken-und-gegen-klimakrise-angehen/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/alternativen-zu-einwegplastik/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nostraw-shop-no-straw-is-the-best-straw/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
@@ -1382,12 +1397,6 @@
     <loc>http://localhost:1313/plastikverschmutzung-im-marianengraben/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/bildung/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/literatur-collection/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/zehn-kinderbuecher-die-uns-fuer-die-meere-begeistern/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -1396,9 +1405,6 @@
   </url><url>
     <loc>http://localhost:1313/zwoelf-buecher-fuer-die-ozeane-zum-lernen-staunen-und-kritischen-nachdenken/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bereit-zu-handeln-fuenf-buecher-zum-anpacken/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fische-fische-ueberall-von-britta-teckentrup/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
@@ -2229,6 +2235,8 @@
   </url><url>
     <loc>http://localhost:1313/video/klartext/</loc>
   </url><url>
+    <loc>http://localhost:1313/spenden/</loc>
+  </url><url>
     <loc>http://localhost:1313/ueber-uns/wer-wir-sind/unser-logo/</loc>
   </url><url>
     <loc>http://localhost:1313/projekte/meeresfibel/</loc>
@@ -2252,8 +2260,6 @@
     <loc>http://localhost:1313/ozeanb%C3%BCcher/</loc>
   </url><url>
     <loc>http://localhost:1313/reflektierter-optimismus/</loc>
-  </url><url>
-    <loc>http://localhost:1313/spenden/</loc>
   </url><url>
     <loc>http://localhost:1313/die-ozeane/%C3%BCberfischung/</loc>
   </url><url>
