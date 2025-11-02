@@ -14,7 +14,7 @@ links:
     - title: NoStraw Shop
       url: https://deepwave.shop/
     - title: Mitglied werden
-      url: https://dev.deepwave.org/etwas-tun/mitglied-werden/
+      url: https://form.campai.com/QR1UZUF16Ynw
 layout: spenden
 aliases:
     - /etwas-tun/spenden

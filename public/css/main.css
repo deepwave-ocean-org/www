@@ -531,14 +531,17 @@
   .max-w-5xl {
     max-width: var(--container-5xl);
   }
+  .max-w-\[250px\] {
+    max-width: 250px;
+  }
   .max-w-md {
     max-width: var(--container-md);
   }
   .min-w-0 {
     min-width: calc(var(--spacing) * 0);
   }
-  .min-w-\[200px\] {
-    min-width: 200px;
+  .min-w-\[150px\] {
+    min-width: 150px;
   }
   .flex-1 {
     flex: 1;
@@ -784,6 +787,9 @@
   }
   .p-2 {
     padding: calc(var(--spacing) * 2);
+  }
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
   }
   .p-4 {
     padding: calc(var(--spacing) * 4);
