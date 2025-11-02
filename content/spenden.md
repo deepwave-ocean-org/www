@@ -1,23 +1,24 @@
 ---
 title: Auf eure Spende kommt es an!
 subtitle: >-
-    Ihr seid unsere Unabhängigkeit. Werdet Patron, Mitglied oder spendet
-    regelmäßig.
+  Ihr seid unsere Unabhängigkeit. Werdet Patron, Mitglied oder spendet
+  regelmäßig.
 image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747243781/deepwave.org/Buchempfehlung_Aktion_Meer_Meer_Weniger_Plastik_Ausschnitt_2.jpg
+  https://res.cloudinary.com/deepwave-org/image/upload/v1747243781/deepwave.org/Buchempfehlung_Aktion_Meer_Meer_Weniger_Plastik_Ausschnitt_2.jpg
 overlay: rgb(34 38 48 / 61%)
 links:
-    - title: Patreon
-      url: https://www.patreon.com/DEEPWAVEeV
-    - title: PayPal
-      url: https://www.paypal.com/DE/fundraiser/charity/4670354
-    - title: NoStraw Shop
-      url: https://deepwave.shop/
-    - title: Mitglied werden
-      url: https://form.campai.com/QR1UZUF16Ynw
+  - title: Patreon
+    url: https://www.patreon.com/DEEPWAVEeV
+  - title: PayPal
+    url: https://www.paypal.com/DE/fundraiser/charity/4670354
+  - title: NoStraw Shop
+    url: https://deepwave.shop/
+  - title: Mitglied werden
+    url: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/MITGLIEDSANTRAG_DEEPWAVE_NEU_2025_vanyff.pdf
 layout: spenden
 aliases:
-    - /etwas-tun/spenden
+  - /etwas-tun/spenden
 ---
 Wir finanzieren uns ausschließlich über **Mitgliedsbeiträge** und **Spenden**.
 
