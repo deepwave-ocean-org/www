@@ -4,12 +4,29 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
   overlay_color:
+- title: Plankton und Popcorn
+  button_text: Das DEEPWAVE Filmfestival geht auf Tour!
+  link: https://www.deepwave.org/projekte/filmfestival/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747267229/deepwave.org/Plakat_Saving_Corals-min-1.png
+  overlay_color:
+- title: KLARTEXT Meerespolitik
+  button_text: 'Wie funktioniert das? '
+  link: https://klartext.deepwave.org
+  background_image: /uploads/deepwave-flagge.jpeg
+  overlay_color: '#1a4353'
 - title: DEEPWAVE auf der UN Ocean Conference!
   button_text: Unser Side Event
   link: https://www.deepwave.org/unser-un-ocean-conference-side-event/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/NO_DEEP_SEA_MINING_T-Shirt_blauer_dhrbjz.jpg
   overlay_color:
+- title: NO DEEP SEA MINING - NEVER
+  button_text: Unsere Kampagne gegen Tiefseebergbau
+  link: https://tiefsee.deepwave.org
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747244825/deepwave.org/Screenshot-2023-11-26-112920.png
+  overlay_color: '#0c3b5c'
 - title: 'Änderung des Kohlendioxid-Speicherungsgesetzes '
   button_text: Offener Brief
   link: https://www.deepwave.org/new-post/
@@ -22,35 +39,6 @@
     https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
   overlay_color: '#000'
   button_overlay: '#18191a'
-- title: NO DEEP SEA MINING - NEVER
-  button_text: Unsere Kampagne gegen Tiefseebergbau
-  link: https://tiefsee.deepwave.org
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747244825/deepwave.org/Screenshot-2023-11-26-112920.png
-  overlay_color: '#0c3b5c'
-- title: KLARTEXT Meerespolitik
-  button_text: 'Wie funktioniert das? '
-  link: https://klartext.deepwave.org
-  background_image: /uploads/deepwave-flagge.jpeg
-  overlay_color: '#1a4353'
-- title: Was wir tun
-  button_text: seit 2003
-  link: https://www.deepwave.org/ueber-uns/woher-wir-kommen/
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747267199/deepwave.org/Heye_schwimmt.png
-  overlay_color: '#142836'
-- title: DEEPWAVE Filmfestival
-  button_text: geht auf Tour!
-  link: https://www.deepwave.org/projekte/filmfestival/
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747267229/deepwave.org/Plakat_Saving_Corals-min-1.png
-  overlay_color:
-- title: DEEPWAVE zu Gast beim Podcast "Tee mit G."
-  button_text: Wie geht es dem Tiefseebergbau? Und uns?
-  link: https://www.podcast.de/podcast/2604913/tee-mit-g
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/deepwave.org/Schreibtisch_mit_Dünen2_jlr1g4.jpg
-  overlay_color:
 - title: Über die Wolken
   button_text: >-
     Wie man sie macht und ob man es lieber lassen sollte - Ein Longread von Nico
@@ -67,12 +55,6 @@
     https://res.cloudinary.com/deepwave-org/image/upload/v1747245593/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57-1.jpg
   overlay_color:
   button_overlay: '#14414b'
-- title: DEEPWAVE geht einen Schritt weiter
-  button_text: Unser Kooperationspartner Montemero
-  link: https://www.deepwave.org/giving-tuesday-2022
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/video/upload/v1747267217/deepwave.org/montemero_2030sec.mp4
-  overlay_color:
 - title: 'No Straw is the Best Straw '
   button_text: unsere Trinkhalm-Alternativen-Vergleichstabelle
   link: https://www.deepwave.org/bluestraw-kampagne/trinkhalm-vergleichstabelle/
@@ -80,6 +62,12 @@
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267225/deepwave.org/MACCHERONI_von_oben_wie_ein_Seeigel-scaled.jpg
   overlay_color:
   button_overlay: '#31120dd9'
+- title: Was wir tun
+  button_text: seit 2003
+  link: https://www.deepwave.org/ueber-uns/woher-wir-kommen/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747267199/deepwave.org/Heye_schwimmt.png
+  overlay_color: '#142836'
 - title: Gemeinsam die Meere schützen
   button_text: Werde Mitglied, Patron oder Förder:in!
   link: /spenden/
