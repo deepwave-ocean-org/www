@@ -91,27 +91,21 @@ films:
   - title: Popcorn und Austausch
     description:
 details:
-  datum:
-  location:
-  adresse:
-  einlass:
-  begin:
+  datum: Tübingen Kino Museum, Stadtgrabenstraße 2.  26.11.25, 20 Uhr
+  location: Halle  Puschkino, Kardinal-Albrecht-Straße 6  1.12.25, 20 Uhr
+  adresse: Berlin  Rollberg Kino, Rollbergstraße 70  2.12.25 20 Uhr
+  einlass: Konstanz  Zebrakino, Joseph-Belli-Weg 5  9.12.2025, 18:30
+  begin: Zürich  ETH green floor  10.12.25
   image:
 ---
 ##
 
 Lichtdurchflutete Wälder unter Wellen, die unsere Zukunft retten. Korallen, die mit uns sprechen. Lebensformen in extremer Tiefe, mit denen wir mehr verbunden sind, als wir ahnen. Und Menschen, die von den ozeanischen Ökosystemen lernen und ihr Wissen nutzen, um sie zu schützen.
 
-Unser DEEPWAVE Filmfestival geht als ***Plankton & Popcorn*** auf Tour! Ein Kurzfilmabend mit den Highlights unserer Filmfestivals, Popcorn und Podiumsgesprächen.
+Unser DEEPWAVE Filmfestival geht als ***Plankton & Popcorn*** auf Tour! Ein Kurzfilmabend mit den Highlights unserer Filmfestivals, Popcorn und Podiumsgesprächen. In Graz, Basel, Wien, Tübingen, Zürich, Münster, Heidelberg, Konstanz, Halle und Berlin.
 
 Organisiert von ECOPs (Early Career Ocean Professionals) und anderen engagierten Meeresschützer:innen. Mitgeschnitten und wissenschaftlich begleitet vom <a href="https://www.wellenbrecher.live/" target="_blank" rel="noopener">Wellenbrecher Podcast</a>. Die ideale Chance, sich auch in Städten weitab vom Meer auszutauschen und mit Gleichgesinnten zu vernetzen.
 
 Eintritt und Popcorn sind frei.
-
-&nbsp;
-
-<table><tbody><tr><td><p>Graz</p></td><td><p>Uni Graz</p></td><td><p>24.10.25, 18 Uhr</p></td></tr><tr><td><p>Basel</p></td><td><p>Uni Basel</p></td><td><p>29.10.25, 17 Uhr</p></td></tr><tr><td><p>Wien</p></td><td><p>Uni Wien</p></td><td><p>7.11.25, 17 Uhr</p></td></tr><tr><td><p>Tübingen</p></td><td><p>Kino Museum, Stadtgrabenstraße 2</p></td><td><p>26.11.25, 20 Uhr</p></td></tr><tr><td><p>Halle</p></td><td><p>Puschkino, Kardinal-Albrecht-Straße 6</p></td><td><p>1.12.25, 20 Uhr</p></td></tr><tr><td><p>Berlin</p></td><td><p>Rollberg Kino, Rollbergstraße 70</p></td><td><p>2.12.25 20 Uhr</p></td></tr><tr><td><p>Konstanz</p></td><td><p>Zebrakino, Joseph-Belli-Weg 5</p></td><td><p>9.12.2025, 18:30</p></td></tr><tr><td><p>Zürich</p></td><td><p>ETH green floor</p></td><td><p>10.12.25</p></td></tr><tr><td><p>Heidelberg</p></td><td><p>Geo Hörsaal</p></td><td><p>noch offen</p></td></tr><tr><td><p>Münster</p></td><td><p>noch offen</p></td><td><p>noch offen</p></td></tr></tbody></table>
-
-&nbsp;
 
 Das Projekt *Plankton & Popcorn* wird mit Unterstützung der EU4Ocean-Koalition durchgeführt, das durch die Europäische Kommission finanziert wird.
