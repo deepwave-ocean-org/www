@@ -40,9 +40,8 @@ films:
 
       Englisch 
   - title: Podiumsdiskussion
-    description: |-
+    description: |
       mit Expert:innen, Filmemacher:innen und Vertreter:innen von DEEPWAVE
-      Details entnehmt ihr bitte den Social Media
     duration: 25
   - title: White Sharks
     image: >-
