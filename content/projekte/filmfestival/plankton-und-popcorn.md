@@ -13,7 +13,7 @@ films:
   - title: For the Love of The Sea
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/s23-mpa-neumeier_a_0004_givoii.jpg
-    duration: 18
+    duration: 12
     description: >-
       Patagonia Films begleitet Câr-y-Môr, die erste regenerative Meeresfarm in
       Wales, die von einem Zusammenschluss von Bürger:innen betrieben wird.
@@ -21,6 +21,10 @@ films:
       Zero-Input-Techniken zeigt die Familie Haines, wie der Ozean dazu
       beitragen kann, uns bei der Bewältigung der Klimakrise zu unterstützen und
       gleichzeitig Menschen gesund und nachhaltig zu ernähren.
+
+      Regie Arthur Neumeier
+
+      Englisch
   - title: Immersive
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_141202_aks7bh.png
@@ -28,31 +32,36 @@ films:
     description: >-
       Abtauchen in die Tiefsee, dorthin, wo verborgene Prozesse den Energiefluss
       steuern, der das Leben im Ozean und auf der Erde im Gleichgewicht hält.
+
+      In die Tiefen, die vom geplanten Tiefseebergbau bedroht sind.
+
+
+      Regie Rohan Thomas
+
+      Englisch 
   - title: Podiumsdiskussion
     description: |-
       mit Expert:innen, Filmemacher:innen und Vertreter:innen von DEEPWAVE
       Details entnehmt ihr bitte den Social Media
     duration: 25
-  - title: Who has known the ocean?
+  - title: White Sharks
     image: >-
-      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_160856_uivrvy.png
-    duration: 10
-    description: >-
-      Mit einem einfachen Planktonnetz und einem philosophischen Blick erkundet
-      diese künstlerisch-wissenschaftliche Arbeit das Unsichtbare im Ozean:
-      Plankton – kleinste, aber zentrale Akteure globaler Kreisläufe. In einer
-      dreikanaligen Video-Installation wird das Sammeln und Beobachten dieser
-      Mikroorganismen als eine Praxis der Aufmerksamkeit und Verbundenheit
-      inszeniert – zwischen Forschung und Imagination, Technik und Körper.
-  - title: Coexistence
-    image: >-
-      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_161917_eo9hkw.png
-    duration: 16
-    description: >-
-      Apnoetaucherin Anne-Sophie Mouraud begibt sich mit einem Team von
-      Aktivist:innen auf die Spur des Blauhais – der am stärksten befischten
-      Haiart weltweit. Die Begegnung mit den Haien in ihrem eigenen Lebensraum
-      verändert jeden an Bord.
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0004_Great_White_Sharks_Copyright_Lakan_Duskin_qyqiap.jpg
+    duration: 0
+    description: >
+      Lakan Duskin hat den Stop-Motion-Stil mit Lego bereits mit 10 Jahren
+      perfektioniert. Er erklärt uns, warum wir den Weißen Hai schützen müssen,
+      wie all seine Flossen heißen und was mit den Meeren geschieht, wenn wir
+      ihn jagen.
+
+      Spätestens wenn wir realisieren, wie er das Geräusch aufgenommen hat, wenn
+      der Hai seiner Aufgabe nachkommt, für die Gesundheit der Meere zu sorgen,
+      avanciert der Film zu unserem Lieblingshaifilm.
+
+
+      Regie Lakan Duskin
+
+      Englisch
   - title: Phefumla
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Phefumla_Copyright_NEWF-Congress_d1yud3.jpg
@@ -65,16 +74,30 @@ films:
       Angst, ihrer Überwindung und seiner tiefgehenden Begegnung mit einer Welt,
       die seiner Kultur fremd ist, und seiner Dankbarkeit, sich für sie
       einsetzen zu können.
+  - title: The Coral Guardian
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0000_The_Coral_Guardian_Copyright_David_Dincer_xkrrvj.jpg
+    duration: 0
+    description: >-
+      Ein Helmtaucher erwacht in der Tiefe, erneut zum Leben erweckt von einer
+      Stimme. Spricht das Korallenriff selbst zu ihm? Eine Geschichte über die
+      Schönheit und Verletzlichkeit der Unterwasserwelt, sowie unsere
+      Vergangenheit und vor allem unsere Zukunft mit ihr. Die surrealen
+      Aufnahmen, die vollkommen ohne Animation produziert wurden, sind ein
+      Meisterwerk der Filmkunst.
+
+      Regie David I. Dinçer
+
+      Englisch 
   - title: Popcorn und Austausch
     description:
 details:
-  datum: Freitag, 20. Juni 2025
-  location: Lichtmess-Kino
-  adresse: Gaußstraße 25, 22765 Hamburg
-  einlass: 'Einlass: 17:30'
-  begin: 'Beginn: 18:00'
-  image: >-
-    https://dev.deepwave.org/wp-content/uploads/2023/02/Kopie-von-Deepwave_FilmFest_HH__FotoJQuast_469-1280x854.jpg
+  datum:
+  location:
+  adresse:
+  einlass:
+  begin:
+  image:
 ---
 ##
 
