@@ -5,15 +5,22 @@ image: >-
   https://res.cloudinary.com/deepwave-org/deepwave.org/Plankton_und_Popcorn_Tübingen_h01iih.jpg
 link: /projekte/filmfestival/2025/
 films:
-  - title: Begrüßung
-    description: Andrea Gerhard
   - title: Hier
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-06-17_at_21-18-49_Deepwave-Opener_Grading-Preview_v2.mp4_-_Grading-Preview_-_Frame.io_dmss0j.png
     duration: 4
     description: Ein Film von Adam Ziebarth und Sebastian Fischbeck und  DEEPWAVE
-  - title: Eröffnungsrede
-    description: Frederik Götz
+  - title: For the Love of The Sea
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/s23-mpa-neumeier_a_0004_givoii.jpg
+    duration: 18
+    description: >-
+      Patagonia Films begleitet Câr-y-Môr, die erste regenerative Meeresfarm in
+      Wales, die von einem Zusammenschluss von Bürger:innen betrieben wird.
+      Durch den Anbau vielseitig verwendbarer Pflanzen wie Kelp mit
+      Zero-Input-Techniken zeigt die Familie Haines, wie der Ozean dazu
+      beitragen kann, uns bei der Bewältigung der Klimakrise zu unterstützen und
+      gleichzeitig Menschen gesund und nachhaltig zu ernähren.
   - title: Immersive
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_141202_aks7bh.png
@@ -21,52 +28,11 @@ films:
     description: >-
       Abtauchen in die Tiefsee, dorthin, wo verborgene Prozesse den Energiefluss
       steuern, der das Leben im Ozean und auf der Erde im Gleichgewicht hält.
-  - title: Cosmogony
-    image: >-
-      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_143255_qst7ju.png
-    duration: 5
-    description: >-
-      Weit entfernt vom Riff liegt die pelagische Welt voller seltsamer
-      Kreaturen in für uns unwahrscheinlichen Lebensgemeinschaften, denen man
-      nur begegnet, wenn man nachts mit der Strömung treibt.
-  - title: Sonic Sea
-    image: https://res.cloudinary.com/deepwave-org/deepwave.org/Airgun_06_rdlruc.jpg
-    duration: 18
-    regie: IFAW
-    language: english
-    description: 'Die 18 min Fassung des ikonischen Films zum Lärm im Meer.  '
   - title: Podiumsdiskussion
-    description: mit Martin Webeler, EJF, und Anna Groß, DEEPWAVE
+    description: |-
+      mit Expert:innen, Filmemacher:innen und Vertreter:innen von DEEPWAVE
+      Details entnehmt ihr bitte den Social Media
     duration: 25
-  - break: true
-    duration: 25
-  - title: 'Adrift: Senegal’s coastal crisis and the deadly route to Europe'
-    image: >-
-      https://res.cloudinary.com/deepwave-org/deepwave.org/SEN24R7166_eiy7mx.webp
-    duration: 10
-    description: >-
-      Ein Film über den Zusammenang von Flucht und unserem europäischem
-      Fischkonsum. Abdou floh 2020 in einem kleinen Boot von Senegal nach
-      Teneriffa – auf einer tödlichen Route, die immer mehr Menschen aus Not
-      wählen. Der Grund: Überfischung durch internationale Fangflotten, die die
-      Lebensgrundlage ganzer Küstengemeinden zerstört.
-  - title: Green Ocean Gold
-    image: >-
-      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_162828_s3rnyc.png
-    duration: 16
-    description: >-
-      Drei Küstenbewohner:innen stellen sich der Bedrohung ihres Lebensraums –
-      und finden Hoffnung in einer gemeinsam gestalteten Zukunft mit Algen.
-  - title: Pyrifera
-    image: >-
-      https://res.cloudinary.com/deepwave-org/deepwave.org/_LMR1768-1_copia_fykaag.jpg
-    duration: 11
-    description: >-
-      An den Küsten von Santa Cruz (Argentinien) begleitet ein Forschungsteam
-      die Rückkehr des Lebens in den Kelpwäldern von Monte León. Unter harschen
-      Bedingungen tauchen Meeresbiolog:innen und Fotograf:innen in die kalten
-      Gewässer Patagoniens, um Arten zu identifizieren und auf die Bedeutung
-      mariner Schutzgebiete aufmerksam zu machen.
   - title: Who has known the ocean?
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_160856_uivrvy.png
@@ -78,11 +44,6 @@ films:
       dreikanaligen Video-Installation wird das Sammeln und Beobachten dieser
       Mikroorganismen als eine Praxis der Aufmerksamkeit und Verbundenheit
       inszeniert – zwischen Forschung und Imagination, Technik und Körper.
-  - title: Podiumsdiskussion
-    description: Mit Anthea Oestreicher, Filmemacherin, und Dr. Franziska Bils, OSPAR
-    duration: 25
-  - break: true
-    duration: 20
   - title: Coexistence
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_161917_eo9hkw.png
@@ -92,8 +53,6 @@ films:
       Aktivist:innen auf die Spur des Blauhais – der am stärksten befischten
       Haiart weltweit. Die Begegnung mit den Haien in ihrem eigenen Lebensraum
       verändert jeden an Bord.
-  - title: Dank und Schlusswort
-    description: Andrea Gerhard
   - title: Phefumla
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Phefumla_Copyright_NEWF-Congress_d1yud3.jpg
@@ -106,6 +65,8 @@ films:
       Angst, ihrer Überwindung und seiner tiefgehenden Begegnung mit einer Welt,
       die seiner Kultur fremd ist, und seiner Dankbarkeit, sich für sie
       einsetzen zu können.
+  - title: Popcorn und Austausch
+    description:
 details:
   datum: Freitag, 20. Juni 2025
   location: Lichtmess-Kino
