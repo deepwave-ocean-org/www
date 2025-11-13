@@ -88,7 +88,7 @@ details:
 
 Lichtdurchflutete Wälder unter Wellen, die unsere Zukunft retten. Korallen, die mit uns sprechen. Lebensformen in extremer Tiefe, mit denen wir mehr verbunden sind, als wir ahnen. Und Menschen, die von den ozeanischen Ökosystemen lernen und ihr Wissen nutzen, um sie zu schützen.
 
-Unser DEEPWAVE Filmfestival geht als ***Plankton & Popcorn*** auf Tour! Ein Kurzfilmabend mit den Highlights unserer Filmfestivals, Popcorn und Podiumsgesprächen. In Graz, Basel, Wien, Tübingen, Zürich, Münster, Heidelberg, Konstanz, Halle und Berlin.
+Unser DEEPWAVE Filmfestival geht als ***Plankton & Popcorn*** auf Tour! Ein Kurzfilmabend mit unseren Highlights, Popcorn und Podiumsgesprächen. In Graz, Basel, Wien, Tübingen, Zürich, Münster, Heidelberg, Konstanz, Halle und Berlin.
 
 Organisiert von ECOPs (Early Career Ocean Professionals) und anderen engagierten Meeresschützer:innen. Mitgeschnitten und wissenschaftlich begleitet vom <a href="https://www.wellenbrecher.live/" target="_blank" rel="noopener">Wellenbrecher Podcast</a>. Die ideale Chance, sich auch in Städten weitab vom Meer auszutauschen und mit Gleichgesinnten zu vernetzen.
 
