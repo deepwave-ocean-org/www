@@ -20,10 +20,8 @@ films:
       Durch den Anbau vielseitig verwendbarer Pflanzen wie Kelp mit
       Zero-Input-Techniken zeigt die Familie Haines, wie der Ozean dazu
       beitragen kann, uns bei der Bewältigung der Klimakrise zu unterstützen und
-      gleichzeitig Menschen gesund und nachhaltig zu ernähren.
-
-
-      Regie Arthur Neumeier | englisch
+      gleichzeitig Menschen gesund und nachhaltig zu ernähren.   | Regie Arthur
+      Neumeier | englisch
   - title: Immersive
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_141202_aks7bh.png
@@ -32,12 +30,8 @@ films:
       Abtauchen in die Tiefsee, dorthin, wo verborgene Prozesse den Energiefluss
       steuern, der das Leben im Ozean und auf der Erde im Gleichgewicht hält.
 
-      In die Tiefen, die vom geplanten Tiefseebergbau bedroht sind.
-
-
-      Regie Rohan Thomas
-
-      Englisch 
+      In die Tiefen, die vom geplanten Tiefseebergbau bedroht sind.   | Regie
+      Rohan Thomas | englisch 
   - title: Podiumsdiskussion
     description: |
       mit Expert:innen, Filmemacher:innen und Vertreter:innen von DEEPWAVE
@@ -54,24 +48,20 @@ films:
 
       Spätestens wenn wir realisieren, wie er das Geräusch aufgenommen hat, wenn
       der Hai seiner Aufgabe nachkommt, für die Gesundheit der Meere zu sorgen,
-      avanciert der Film zu unserem Lieblingshaifilm.
-
-
-      Regie Lakan Duskin
-
-      Englisch
+      avanciert der Film zu unserem Lieblingshaifilm.   | Regie Lakan Duskin |
+      englisch
   - title: Phefumla
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Phefumla_Copyright_NEWF-Congress_d1yud3.jpg
     duration: 10
     regie: Maishe Mosala
-    language: Xhosa mit englischen Untertiteln
+    language: ' Xhosa mit englischen Untertiteln'
     description: >-
       Was hält uns zurück, wenn, wie er selbst sagt, ein “Kid from
       Khayelitisha”  Meeresbiologe werden kann? Loyiso Dungo erzählt von seiner
       Angst, ihrer Überwindung und seiner tiefgehenden Begegnung mit einer Welt,
       die seiner Kultur fremd ist, und seiner Dankbarkeit, sich für sie
-      einsetzen zu können.
+      einsetzen zu können. | Regie Maishe Mosala | 
   - title: The Coral Guardian
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0000_The_Coral_Guardian_Copyright_David_Dincer_xkrrvj.jpg
@@ -82,11 +72,7 @@ films:
       Schönheit und Verletzlichkeit der Unterwasserwelt, sowie unsere
       Vergangenheit und vor allem unsere Zukunft mit ihr. Die surrealen
       Aufnahmen, die vollkommen ohne Animation produziert wurden, sind ein
-      Meisterwerk der Filmkunst.
-
-      Regie David I. Dinçer
-
-      Englisch 
+      Meisterwerk der Filmkunst.   | Regie David I. Dinçer | englisch 
   - title: Popcorn und Austausch
     description:
 details:
