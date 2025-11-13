@@ -14,7 +14,7 @@ films:
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/s23-mpa-neumeier_a_0004_givoii.jpg
     duration: 12
-    description: >-
+    description: >
       Patagonia Films begleitet Câr-y-Môr, die erste regenerative Meeresfarm in
       Wales, die von einem Zusammenschluss von Bürger:innen betrieben wird.
       Durch den Anbau vielseitig verwendbarer Pflanzen wie Kelp mit
@@ -22,9 +22,8 @@ films:
       beitragen kann, uns bei der Bewältigung der Klimakrise zu unterstützen und
       gleichzeitig Menschen gesund und nachhaltig zu ernähren.
 
-      Regie Arthur Neumeier
 
-      Englisch
+      Regie Arthur Neumeier | englisch
   - title: Immersive
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_141202_aks7bh.png
