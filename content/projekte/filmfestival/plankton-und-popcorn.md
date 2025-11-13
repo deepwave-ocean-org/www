@@ -61,7 +61,8 @@ films:
       Khayelitisha”  Meeresbiologe werden kann? Loyiso Dungo erzählt von seiner
       Angst, ihrer Überwindung und seiner tiefgehenden Begegnung mit einer Welt,
       die seiner Kultur fremd ist, und seiner Dankbarkeit, sich für sie
-      einsetzen zu können. | Regie Maishe Mosala | 
+      einsetzen zu können. | Regie Maishe Mosala | Xhosa mit englischen
+      Untertiteln
   - title: The Coral Guardian
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0000_The_Coral_Guardian_Copyright_David_Dincer_xkrrvj.jpg
