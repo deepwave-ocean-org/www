@@ -15,6 +15,13 @@
   link: https://klartext.deepwave.org
   background_image: /uploads/deepwave-flagge.jpeg
   overlay_color: '#1a4353'
+- title: Spielend die Meere erkunden
+  button_text: die App zur Meeresfibel, jetzt neu auch auf Apfel Geräten spielbar!
+  link: https://apps.apple.com/de/app/unser-blauer-planet/id6753896006?l=en-GB
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/image/upload/v1747245593/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57-1.jpg
+  overlay_color:
+  button_overlay: '#14414b'
 - title: DEEPWAVE auf der UN Ocean Conference!
   button_text: Unser Side Event
   link: https://www.deepwave.org/unser-un-ocean-conference-side-event/
@@ -48,13 +55,6 @@
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267222/deepwave.org/Wolken_fuer_Slider.jpg
   overlay_color: '#000'
   button_overlay: '#18191a'
-- title: Spielend die Meere erkunden
-  button_text: die App zur Meeresfibel
-  link: https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/image/upload/v1747245593/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57-1.jpg
-  overlay_color:
-  button_overlay: '#14414b'
 - title: 'No Straw is the Best Straw '
   button_text: unsere Trinkhalm-Alternativen-Vergleichstabelle
   link: https://www.deepwave.org/bluestraw-kampagne/trinkhalm-vergleichstabelle/
