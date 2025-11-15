@@ -14,7 +14,7 @@ aliases:
 
 [Hier geht es zum kostenlosen Android Download](https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel)
 
-<a href="https://apps.apple.com/de/app/unser-blauer-planet/id6753896006?l=en-GB" target="_blank" rel="noopener">Hier geht es zum </a>[kostenlosen](https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel) <a href="https://apps.apple.com/de/app/unser-blauer-planet/id6753896006?l=en-GB" target="_blank" rel="noopener">Apple Download</a>
+<a href="https://apps.apple.com/de/app/unser-blauer-planet/id6753896006?l=en-GB" target="_blank" rel="noopener">Hier geht es zum </a>[kostenlosen](https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel) <a href="https://apps.apple.com/de/app/unser-blauer-planet/id6753896006?l=en-GB" target="_blank" rel="noopener">iOS Download</a>
 
 Taucht ein in die Meere und findet heraus, wie sie waren, sind und sein können! Von unseren Küsten vor der Haustür bis zu den unendlichen Weiten der Hochsee, von den eisigen Polargebieten bis zu den Tropen voller Korallen, Mangroven und Haie, vom Watt bis in das tiefste Dunkel der Tiefsee.
 
