@@ -8,12 +8,12 @@ films:
   - title: Hier
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-06-17_at_21-18-49_Deepwave-Opener_Grading-Preview_v2.mp4_-_Grading-Preview_-_Frame.io_dmss0j.png
-    duration: 4
+    duration: 0
     description: Ein Film von Adam Ziebarth und Sebastian Fischbeck und  DEEPWAVE
   - title: For the Love of The Sea
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/s23-mpa-neumeier_a_0004_givoii.jpg
-    duration: 12
+    duration: 0
     description: >
       Patagonia Films begleitet Câr-y-Môr, die erste regenerative Meeresfarm in
       Wales, die von einem Zusammenschluss von Bürger:innen betrieben wird.
@@ -25,7 +25,7 @@ films:
   - title: Immersive
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_141202_aks7bh.png
-    duration: 18
+    duration: 0
     description: >-
       Abtauchen in die Tiefsee, dorthin, wo verborgene Prozesse den Energiefluss
       steuern, der das Leben im Ozean und auf der Erde im Gleichgewicht hält.
@@ -53,7 +53,7 @@ films:
   - title: Phefumla
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Phefumla_Copyright_NEWF-Congress_d1yud3.jpg
-    duration: 10
+    duration: 0
     regie: Maishe Mosala
     language: ' Xhosa mit englischen Untertiteln'
     description: >-
