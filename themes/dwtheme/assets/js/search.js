@@ -21,7 +21,21 @@ document.addEventListener('DOMContentLoaded', function () {
             timeout = setTimeout(() => func.apply(this, args), wait);
         };
     }
-    
+    document.addEventListener('keydown', function(e) {
+        if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+            e.preventDefault();
+            search.focus();
+            // Optionally select all text in the search bar
+            search.select();
+        }
+        if (e.key === 'Escape') {
+          if (document.activeElement === search) {
+            search.blur(); // Remove focus
+            search.value = '';
+	    renderSearchResults(e);
+        }
+    }
+    });
     search.addEventListener('input', debounce(e => {
         renderSearchResults(e);
     }, 300));
@@ -47,13 +61,25 @@ document.addEventListener('DOMContentLoaded', function () {
         });
         
         const results = fuse.search(searchTerm);
-        
+           
+        const ul = document.createElement('ul');
+        ul.className = 'search-results-list';
+	const header = document.createElement('h2');
+	header.className = 'h-8 my-8 text-sm md:text-lg';
+	header.textContent = "Suchergebnisse";
+	searchResults.appendChild(header)
+	
+	if (results.length == 0) {
+		console.log("no result");
+		const li = document.createElement('li');
+		const h = document.createElement('h3');
+		h.textContent = 'Keine Ergebnisse gefunden';
+		li.appendChild(h);
+		ul.appendChild(li);
+		console.log(ul)
+	}
+
         if (results.length > 0) {
-            console.log('Results found:', results);
-            
-            const ul = document.createElement('ul');
-            ul.className = 'search-results-list mt-24';
-            
             results.forEach(result => {
     const li = document.createElement('li');
     li.className = 'search-result-item';
@@ -120,7 +146,7 @@ document.addEventListener('DOMContentLoaded', function () {
     ul.appendChild(li);
 });
             
-            searchResults.appendChild(ul);
         }
+            searchResults.appendChild(ul);
     }
 });

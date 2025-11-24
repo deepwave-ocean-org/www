@@ -1,6 +1,6 @@
 {{- $list := slice -}}
 
-{{- range site.RegularPages.ByPublishDate.Reverse -}}
+{{- range site.Pages.ByPublishDate.Reverse -}}
   {{- $item := dict
   "title" .Title
   "content" .Content
