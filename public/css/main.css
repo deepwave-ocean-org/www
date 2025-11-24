@@ -562,6 +562,9 @@
   .flex-shrink {
     flex-shrink: 1;
   }
+  .flex-grow {
+    flex-grow: 1;
+  }
   .basis-\[500px\] {
     flex-basis: 500px;
   }

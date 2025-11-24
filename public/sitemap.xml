@@ -2239,6 +2239,8 @@
   </url><url>
     <loc>http://localhost:1313/die-ozeane/</loc>
   </url><url>
+    <loc>http://localhost:1313/giving-tuesday/2025/</loc>
+  </url><url>
     <loc>http://localhost:1313/video/klartext/</loc>
   </url><url>
     <loc>http://localhost:1313/spenden/</loc>
@@ -2250,6 +2252,8 @@
     <loc>http://localhost:1313/die-ozeane/die-ozeane/</loc>
   </url><url>
     <loc>http://localhost:1313/die-ozeane/die-tiefsee/</loc>
+  </url><url>
+    <loc>http://localhost:1313/giving-tuesday/</loc>
   </url><url>
     <loc>http://localhost:1313/ueber-uns/onno-gro%C3%9F/</loc>
   </url><url>
