@@ -6,6 +6,7 @@
     <!-- hx-boost="true" hx-push-url="true" hx-on:htmx:responseError="window.location.href = this.getAttribute('href')" -->
     
     <body>
+	{{- partial "search_results.html" . -}}
         <div id="content">
         {{- block "main" . }}{{- end }}
         <div class="not_full_width">

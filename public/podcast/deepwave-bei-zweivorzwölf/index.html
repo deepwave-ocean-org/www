@@ -110,11 +110,13 @@ Hier eine kleine Übersicht der Themen, über die die beiden gesprochen haben:">
         href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
         rel="stylesheet">
     <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
     
     <script src="/js/cloudinary-core-shrinkwrap.min.js"></script>
     
-    <script src="/js/search.min.cbd684844bb76964feb768c082ebe92c2204b11caf08b861133fd7d7517d3971.js"></script>
-</head><header class="font-sans menu_shadow bg-white">
+    <script src="/js/search.min.70dc69c202e42462f5632ae0e7d3dae8e534eb114e6f6735f5c892ed1e6f8797.js"></script>
+</head>
+<header class="font-sans menu_shadow bg-white">
   <div class="relative">
     <div class="not_full_width px-6 md:px-16">
       <div class="h-16 hidden md:!flex flex-col justify-center">
@@ -148,7 +150,15 @@ Hier eine kleine Übersicht der Themen, über die die beiden gesprochen haben:">
 </div>
 
             </a>
-            
+            <div class="relative">
+              <input id="search-bar" type="text" placeholder="Ctrl + K" class="w-full pr-10 rounded-md border-gray-300 shadow-sm focus:border-blue-300 focus:ring focus:ring-blue-200 focus:ring-opacity-50" />
+              <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <circle cx="11" cy="11" r="8" />
+                  <line x1="21" y1="21" x2="16.65" y2="16.65" />
+                </svg>
+              </div>
+            </div>
             <button class="block md:hidden cursor-pointer" id="mobile-menu-button">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -471,9 +481,10 @@ Hier eine kleine Übersicht der Themen, über die die beiden gesprochen haben:">
         });
       </script>
   </header>
+
     
-    <body>
-        <div id="content">
+    <body><div id="search-results" class="not_full_width max-w-4xl"></div>
+<div id="content">
 <section class="relative overflow-hidden w-full px-16">
 
     
