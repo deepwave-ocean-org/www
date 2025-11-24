@@ -2,6 +2,32 @@ document.addEventListener('DOMContentLoaded', function () {
     const search = document.getElementById('search-bar');
     const searchResults = document.getElementById('search-results'); 
     const content = document.getElementById('content');
+    const mobileQuery = window.matchMedia('(max-width: 768px)');
+    const logo = document.getElementById('logo');
+    const mobMenu = document.getElementById('mobile-menu-button');
+
+    search.addEventListener('focus', function() {
+        if (mobileQuery.matches) {
+            logo.classList.add('hidden');
+            mobMenu.classList.add('hidden');
+	    search.placeholder = '';
+        }
+    });
+    
+    search.addEventListener('blur', function() {
+        logo.classList.remove('hidden');
+        mobMenu.classList.remove('hidden');
+    });
+    mobileQuery.addEventListener('change', function(e) {
+        if (!e.matches) {
+            logo.classList.remove('hidden');
+            mobMenu.classList.remove('hidden');
+        } else if (document.activeElement === search) {
+            logo.classList.add('hidden');
+            mobMenu.classList.add('hhidden');
+        }
+    });
+
     // Initialize searchData - this should be loaded from your index.json
     let searchData = [];
     
