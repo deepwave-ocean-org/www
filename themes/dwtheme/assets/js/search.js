@@ -89,11 +89,14 @@ document.addEventListener('DOMContentLoaded', function () {
         const results = fuse.search(searchTerm);
            
         const ul = document.createElement('ul');
-        ul.className = 'search-results-list';
-	const header = document.createElement('h2');
-	header.className = 'h-8 my-8 text-sm md:text-lg';
-	header.textContent = "Suchergebnisse";
-	searchResults.appendChild(header)
+        ul.className = 'search-results-list mt-8';
+
+        if (!mobileQuery.matches) {
+		const header = document.createElement('h2');
+		header.className = 'h-8 mb-8 text-sm md:text-lg';
+		header.textContent = "Suchergebnisse";
+		searchResults.appendChild(header)
+	}
 	
 	if (results.length == 0) {
 		console.log("no result");
