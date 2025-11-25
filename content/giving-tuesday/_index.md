@@ -137,7 +137,7 @@ zeugen:
           die Ozeane.
         name: Rebecca von Hellfeld
         title: >-
-          Doktor der Aquatischer Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
+          Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
 Gemeinsam mit 16 weiteren Organisationen haben wir 2020 eine “Meeresoffensive” von der Bundesregierung gefordert - und nun, mehr als ein Jahr später, finden wir uns im Koalitionsvertrag wieder.
