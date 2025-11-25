@@ -497,6 +497,11 @@
         #spenden .inner #deepwave-info-container{
             flex-basis: 25%;
         }
+	.et_pb_image_1 {
+		border-radius: 0.4em;
+		padding: 1em;
+		background-color: white;
+	}
         .st_ueberweisung,
         .st_ueberweisung_info{
             background-color: white;
@@ -584,12 +589,12 @@
 </style>
    
 </head>
-    
 <div id="logo">
-        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="LOGO von Deepwave e.V." data-src="https://www.deepwave.org/wp-content/uploads/2022/11/LOGO_DEEPWAVE_2022_white.svg" decoding="async" class="lazyload" /><noscript><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://www.deepwave.org/wp-content/uploads/2022/11/LOGO_DEEPWAVE_2022_white.svg" alt="LOGO von Deepwave e.V." data-eio="l" /></noscript>
-    </div>
-   <section id="intro">
+        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747267322/deepwave.org/LOGO_DEEPWAVE_2022_white.svg" alt="LOGO von Deepwave e.V."/></div>
+   <section id="intro">    
+
     <div class="inner">
+	
         <div>
    		{{ .Content }}
 		<button class="cta is-align-center"><a href="#spenden">Spenden</a></button> 
@@ -630,7 +635,7 @@
         <div class="slider">
             {{ range .slides }}
             <div class="slide">
-		<div style="background-image: url({{.image}})" ></div>
+					<div style="background-image: url({{.image}}); background-position: {{ .image_style | safeHTML }};" ></div>
                 <figure>
                     <blockquote>„{{ .quote | safeHTML }}“</blockquote>
                     <p>{{ .name | safeHTML }}
@@ -686,8 +691,7 @@
         
         <div id="deepwave-info-container">
             <div class="et_pb_column et_pb_column_1_4 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				<div class="et_pb_module et_pb_image et_pb_image_1">
-				    <span class="et_pb_image_wrap "><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABKcAAANKAQAAAAB3hhACAAAAAnRSTlMAAHaTzTgAAACRSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4Me1rAAGzEpr/AAAAAElFTkSuQmCC" alt="" title=""   class="wp-image-866 lazyload" width="1191" height="842" style="border-radius:0.4em;" data-src="https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c.jpg" decoding="async" data-srcset="https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c.jpg 1191w, https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c-300x212.jpg 300w, https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c-768x543.jpg 768w, https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c-1024x724.jpg 1024w" data-sizes="auto" data-eio-rwidth="1191" data-eio-rheight="842"><noscript><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201191%20842'%3E%3C/svg%3E" data-src="https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c.jpg" alt="" title="" data-srcset="https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c.jpg 1191w, https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c-300x212.jpg 300w, https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c-768x543.jpg 768w, https://www.deepwave.org/wp-content/uploads/2016/02/deepwave_logo_de_4c-1024x724.jpg 1024w" data-sizes="(max-width: 1191px) 100vw, 1191px" class="wp-image-866 lazy" width="1191" height="842" style="border-radius:0.4em;" data-eio="l"></noscript></span>
+		<div class="et_pb_module et_pb_image et_pb_image_1">			<img src="https://res.cloudinary.com/deepwave-org/image/upload/v1764011453/deepwave_logo_de_4c_dhpjsk.jpg">
                 </div>
                 <div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light">
                     <div class="et_pb_text_inner">

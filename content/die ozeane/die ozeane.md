@@ -1,6 +1,7 @@
 ---
 title: Die Ozeane
-image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243582/deepwave.org/Die_Ozeane_bad_icon_B_RGB.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1764079443/Die_Ozeane_good_icon_RGB_yh1pq3.jpg
+hover: https://res.cloudinary.com/deepwave-org/image/upload/v1747243582/deepwave.org/Die_Ozeane_bad_icon_B_RGB.jpg
 overlay: rgba(19,39,71,0.29)
 order: 1
 aliases: ['/die-ozeane/ozeane-in-gefahr']

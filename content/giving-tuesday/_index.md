@@ -33,7 +33,7 @@ zeugen:
     next_id: "next"
     slides:
       - image: "http://res.cloudinary.com/deepwave-org/image/upload/v1764009343/deepwave.org/Antje_Boetius_AWI-min.jpg"
-        image_style: "background-position:30%;"
+        image_style: "30%"
         quote: "Fakt ist: Wir Menschen brauchen das Meer, und das Meer braucht Menschen, die für seine Rechte eintreten, wie auch für Regeln für einen besseren Umgang mit dem Ozean. Bei DEEPWAVE finde ich solche Menschen."
         name: "Antje Boetius"
         title: "Leiterin des Alfred-Wegner-Institutes,<br>Förderin, Vorbild und Inspiration für DEEPWAVE"
@@ -43,8 +43,8 @@ zeugen:
         name: "Frank Schätzing"
         title: "Intern. Bestseller Autor,<br>Förderer von DEEPWAVE"
       
-      - image: "https://res.cloudinary.com/deepwave-org/image/upload/c_crop,w_1106,x_-360/v1764009347/deepwave.org/05_G_C3_B6tz_Frederik__C2_A9_Jacob_Scholer_2.jpg"
-        image_style: "background-position:22%;"
+      - image: "https://res.cloudinary.com/deepwave-org/image/upload/v1764009347/deepwave.org/05_G_C3_B6tz_Frederik__C2_A9_Jacob_Scholer_2.jpg"
+        image_style: "22%"
         quote: "Ich finde es ist wichtig, sich nicht alleine zu fühlen in dem Drang etwas ändern zu wollen. DEEPWAVE gibt mir die Möglichkeit dazu."
         name: "Frederik Götz"
         title: "Schauspieler,<br>Botschafter für DEEPWAVE"

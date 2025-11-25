@@ -1,6 +1,7 @@
 ---
 title: Korallen
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243661/deepwave.org/Tropen_Hintergrund.jpg
+hover: https://res.cloudinary.com/deepwave-org/image/upload/v1764081374/Tropen_bleaching_bad_icon_x4ened.jpg
 overlay: rgba(38,58,49,0.58)
 order: 9
 ---

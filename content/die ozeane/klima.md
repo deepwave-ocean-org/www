@@ -1,6 +1,7 @@
 ---
 title: Klima
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244261/deepwave.org/Klimawandel_good_icon_RGB.jpg
+hover: https://res.cloudinary.com/deepwave-org/image/upload/v1747245659/deepwave.org/Klimawandel_bad_icon_RGB.jpg
 overlay: rgba(24,104,117,0.4)
 order: 7
 ---

@@ -1,6 +1,7 @@
 ---
 title: Verschmutzung
-image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243585/deepwave.org/Meeresverschmutzung_bad_icon_RGB.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1764081175/Meeresverschmutzung_good_icon_RGB_pbrm2k.jpg
+hover: https://res.cloudinary.com/deepwave-org/image/upload/v1747243585/deepwave.org/Meeresverschmutzung_bad_icon_RGB.jpg
 overlay: rgba(46,76,68,0.38)
 order: 8
 ---

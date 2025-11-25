@@ -1,6 +1,7 @@
 ---
 title: Meerespolitik
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243659/deepwave.org/Meerespolitik_good_icon_RGB.jpg
+hover: https://res.cloudinary.com/deepwave-org/image/upload/v1764080913/Meerespolitik_bad_icon_RGB_t7f8e4.jpg
 overlay: rgba(43,39,32,0.49)
 order: 4
 ---
