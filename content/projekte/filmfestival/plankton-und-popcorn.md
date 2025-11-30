@@ -8,12 +8,12 @@ films:
   - title: Hier
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-06-17_at_21-18-49_Deepwave-Opener_Grading-Preview_v2.mp4_-_Grading-Preview_-_Frame.io_dmss0j.png
-    duration: 0
+    duration: 4
     description: Ein Film von Adam Ziebarth und Sebastian Fischbeck und  DEEPWAVE
   - title: For the Love of The Sea
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/s23-mpa-neumeier_a_0004_givoii.jpg
-    duration: 0
+    duration: 12
     description: >
       Patagonia Films begleitet Câr-y-Môr, die erste regenerative Meeresfarm in
       Wales, die von einem Zusammenschluss von Bürger:innen betrieben wird.
@@ -25,7 +25,7 @@ films:
   - title: Immersive
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-05-31_141202_aks7bh.png
-    duration: 0
+    duration: 18
     description: >-
       Abtauchen in die Tiefsee, dorthin, wo verborgene Prozesse den Energiefluss
       steuern, der das Leben im Ozean und auf der Erde im Gleichgewicht hält.
@@ -39,7 +39,7 @@ films:
   - title: White Sharks
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0004_Great_White_Sharks_Copyright_Lakan_Duskin_qyqiap.jpg
-    duration: 0
+    duration: 3.22
     description: >
       Lakan Duskin hat den Stop-Motion-Stil mit Lego bereits mit 10 Jahren
       perfektioniert. Er erklärt uns, warum wir den Weißen Hai schützen müssen,
@@ -53,7 +53,7 @@ films:
   - title: Phefumla
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Phefumla_Copyright_NEWF-Congress_d1yud3.jpg
-    duration: 0
+    duration: 10
     regie: Maishe Mosala
     language: ' Xhosa mit englischen Untertiteln'
     description: >-
@@ -66,7 +66,7 @@ films:
   - title: The Coral Guardian
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0000_The_Coral_Guardian_Copyright_David_Dincer_xkrrvj.jpg
-    duration: 0
+    duration: 10.45
     description: >-
       Ein Helmtaucher erwacht in der Tiefe, erneut zum Leben erweckt von einer
       Stimme. Spricht das Korallenriff selbst zu ihm? Eine Geschichte über die
