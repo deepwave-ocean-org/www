@@ -60,7 +60,7 @@ zeugen:
     prev_id: prev
     next_id: next
     slides:
-     -  image: >-
+      - image: >-
           http://res.cloudinary.com/deepwave-org/image/upload/v1764009343/deepwave.org/Antje_Boetius_AWI-min.jpg
         image_style: background-position:30%;
         quote: >-
@@ -72,7 +72,7 @@ zeugen:
         title: >-
           Leiterin des Alfred-Wegner-Institutes,<br>Förderin, Vorbild und
           Inspiration für DEEPWAVE
-     -  image: >-
+      - image: >-
           http://res.cloudinary.com/deepwave-org/image/upload/v1764009345/deepwave.org/Frank_Schaetzing_DW-scaled.jpg
         quote: >-
           Meeresschutz beginnt damit, Zusammenhänge zu verstehen. Wie alles
@@ -83,7 +83,7 @@ zeugen:
           größten Ökosystems unserer Erde nachhaltig beitragen kann.
         name: Frank Schätzing
         title: Intern. Bestseller Autor,<br>Förderer von DEEPWAVE
-     -  image: >-
+      - image: >-
           https://res.cloudinary.com/deepwave-org/image/upload/c_crop,w_1106,x_-360/v1764009347/deepwave.org/05_G_C3_B6tz_Frederik__C2_A9_Jacob_Scholer_2.jpg
         image_style: background-position:22%;
         quote: >-
@@ -91,7 +91,7 @@ zeugen:
           etwas ändern zu wollen. DEEPWAVE gibt mir die Möglichkeit dazu.
         name: Frederik Götz
         title: Schauspieler,<br>Botschafter für DEEPWAVE
-     -  image: >-
+      - image: >-
           https://res.cloudinary.com/deepwave-org/image/upload/v1764009350/deepwave.org/Rahmstorf_Sydney_2015_Quote-scaled.jpg
         quote: >-
           Die Zukunft der Menschheit hängt an der Gesundheit der Ozeane. Sie
@@ -102,8 +102,8 @@ zeugen:
           DEEPWAVE heute so wichtig.
         name: Stefan Rahmstorf
         title: Klima- und Meeresforscher,<br>Mitglied bei DEEPWAVE
-  -  id: zeugen2
-     slides:
+  - id: zeugen2
+    slides:
       - image: >-
           https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Felix_Ausschnitt_nlhfpa.jpg
         quote: >-
@@ -140,8 +140,16 @@ zeugen:
           Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
-Gemeinsam mit 16 weiteren Organisationen haben wir 2020 eine “Meeresoffensive” von der Bundesregierung gefordert - und nun, mehr als ein Jahr später, finden wir uns im Koalitionsvertrag wieder.
+Aus der Tiefsee entspringt alles Leben (soweit wir wissen). Wir verstehen fast nichts von dem, was in der Tiefe geschieht. Und jetzt bekommen wir zum ersten Mal in unserer menschlichen Geschichte die Möglichkeit, nah heran zu kommen. So nah wie noch nie. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören.
 
-Auch wenn es viele Details in diesem Vertrag gibt, die sich kritisieren lassen, und es am Ende auf die Umsetzung ankommt: Wir wollen diesen Moment nutzen, um uns zu bedanken. Bei all unseren Kolleg:innen, die schon seit Jahrzehnten im Hintergrund für die Meere kämpfen, allen die in den letzten Jahren auf die Straßen gegangen sind und so diese Koalition möglich gemacht haben und all unseren Unterstützer:innen.
+Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.
 
-Denn nur durch die vielen kleinen und großen Spenden der letzten beiden *Giving Tuesdays* konnten wir zu diesem Erfolg beitragen - und können nun auf dieses eine für die Ozeane entscheidende Jahrzehnt schauen.
+Warum? Weil in der Tiefsee Mineralien liegen, deren Metalle wir in unseren modernen Techniken nutzen. Allerdings haben wir davon schon mehr als genug. Niemand muss das Ökosystem Tiefsee zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende. NO DEEP SEA MINING - NEVER
+
+Ignoriert wird, dass alles, was auf dem Meeresboden als mögliche Ressource herumliegt, uns allen gehört. Jedem und jeder Einzelnen. *Heritage of Human Kind.* Was auch übersehen wird: Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.
+
+Warum also? Weil die Welt so funktioniert. Wo mit Profit gewedelt wird, zählen Natur und Vernunft nichts.
+
+Aber: Es gibt ihn noch nicht. Wir können ihn noch verhindern. Wie? Indem wir wissen und unser Wissen teilen. Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
+
+<a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a>
