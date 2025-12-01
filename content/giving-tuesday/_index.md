@@ -140,13 +140,11 @@ zeugen:
           Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
-Aus der Tiefsee entspringt alles Leben (soweit wir wissen). Wir verstehen fast nichts von dem, was in der Tiefe geschieht. Und jetzt bekommen wir zum ersten Mal in unserer menschlichen Geschichte die Möglichkeit, nah heran zu kommen. So nah wie noch nie. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören.
+Aus der Tiefsee entspringt alles Leben (soweit wir wissen). Und jetzt bekommen wir zum ersten Mal in unserer menschlichen Geschichte die Möglichkeit, nah heran zu kommen. So nah wie noch nie. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören.
 
 Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.
 
-Warum? Weil in der Tiefsee Mineralien liegen, deren Metalle wir in unseren modernen Techniken nutzen. Allerdings haben wir davon schon mehr als genug. Niemand muss das Ökosystem Tiefsee zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende. NO DEEP SEA MINING - NEVER
-
-Ignoriert wird, dass alles, was auf dem Meeresboden als mögliche Ressource herumliegt, uns allen gehört. Jedem und jeder Einzelnen. *Heritage of Human Kind.* Was auch übersehen wird: Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.
+Warum? Weil in der Tiefsee Mineralien liegen, deren Metalle wir in unseren modernen Techniken nutzen. Allerdings haben wir davon schon mehr als genug. Niemand muss das Ökosystem Tiefsee zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende. Ignoriert wird auch, dass alles, was auf dem Meeresboden als mögliche Ressource herumliegt, uns allen gehört. Jedem und jeder Einzelnen. *Heritage of Human Kind.* Was auch übersehen wird: Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.
 
 Warum also? Weil die Welt so funktioniert. Wo mit Profit gewedelt wird, zählen Natur und Vernunft nichts.
 
