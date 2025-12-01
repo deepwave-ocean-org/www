@@ -140,7 +140,7 @@ zeugen:
           Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
-Die Tiefsee  ist der Urspsung des Lebens. Zum ersten Mal in unserer menschlichen Geschichte haben wir die Möglichkeit, nah heran zu kommen. So nah wie noch nie. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören.
+Die Tiefsee  ist der Ursprung des Lebens. Zum ersten Mal in unserer menschlichen Geschichte haben wir die Möglichkeit, nah heran zu kommen. So nah wie noch nie. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören.
 
 Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.
 
