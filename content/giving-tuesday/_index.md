@@ -8,7 +8,7 @@ f_eis: 1.44
 f_eis_g: 19.6
 f_art: 0.034
 f_art_g: 0.936
-video: https://youtu.be/ijP8oJQYk2I
+video: https://youtu.be/TTvLqUCDrbE
 section:
   - id: muell
     heading: Lastwagen Müll im Meer entladen
@@ -140,14 +140,12 @@ zeugen:
           Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
-Aus der Tiefsee entspringt alles Leben (soweit wir wissen). Und jetzt bekommen wir zum ersten Mal in unserer menschlichen Geschichte die Möglichkeit, nah heran zu kommen. So nah wie noch nie. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören.
+Die Tiefsee  ist der Urspsung des Lebens. Zum ersten Mal in unserer menschlichen Geschichte haben wir die Möglichkeit, nah heran zu kommen. So nah wie noch nie. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören.
 
 Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.
 
-Warum? Weil in der Tiefsee Mineralien liegen, deren Metalle wir in unseren modernen Techniken nutzen. Allerdings haben wir davon schon mehr als genug. Niemand muss das Ökosystem Tiefsee zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende. Ignoriert wird auch, dass alles, was auf dem Meeresboden als mögliche Ressource herumliegt, uns allen gehört. Jedem und jeder Einzelnen. *Heritage of Human Kind.* Was auch übersehen wird: Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.
+Warum? Weil in der Tiefsee Mineralien liegen, deren Metalle wir in unseren modernen Techniken nutzen. Allerdings haben wir davon schon mehr als genug. Niemand muss das Ökosystem Tiefsee zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende.<br><br>Alles, was auf dem Meeresboden als mögliche Ressource herumliegt, gehört uns allen gehört. Jedem und jeder Einzelnen. *Heritage of Human Kind.* <br><br>Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.
 
-Warum also? Weil die Welt so funktioniert. Wo mit Profit gewedelt wird, zählen Natur und Vernunft nichts.
-
-Aber: Es gibt ihn noch nicht. Wir können ihn noch verhindern. Wie? Indem wir wissen und unser Wissen teilen. Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
+Warum also? Weil die Welt so funktioniert. Aber: Es gibt ihn noch nicht. Wir können ihn noch verhindern. Wie? Indem wir wissen und unser Wissen teilen. Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
 
 <a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a>
