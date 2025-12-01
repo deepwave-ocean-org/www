@@ -8,7 +8,7 @@ f_eis: 1.44
 f_eis_g: 19.6
 f_art: 0.034
 f_art_g: 0.936
-video: https://www.youtube.com/embed/oo2r-4bZK9c?rel=0&amp;modestbranding
+video: https://youtu.be/ijP8oJQYk2I
 section:
   - id: muell
     heading: Lastwagen Müll im Meer entladen
