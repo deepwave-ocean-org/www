@@ -266,8 +266,7 @@
 
         /* LOGO */
         #logo{
-            position: absolute;
-            top: 0;
+	    padding-bottom: 40px;
             width: 100%;
             text-align: center;
         }
@@ -303,7 +302,7 @@
         /* INTRO */
         #intro {
             background-image: url('https://www.deepwave.org/wp-content/uploads/2019/12/ST_Problem-min-scaled.jpg');
-            padding: 100px 0;
+            padding: 20px 0 100px 0;
         }
         #intro div.inner div{
             margin: auto;
@@ -589,18 +588,16 @@
 </style>
    
 </head>
-<div id="logo">
-        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747267322/deepwave.org/LOGO_DEEPWAVE_2022_white.svg" alt="LOGO von Deepwave e.V."/></div>
-   <section id="intro">    
 
+   <section id="intro">    
     <div class="inner">
-	
         <div>
+				<div id="logo">
+        <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747267322/deepwave.org/LOGO_DEEPWAVE_2022_white.svg" alt="LOGO von Deepwave e.V."/></div>
+		<iframe id="yt-iframe" width="100%" style="aspect-ratio: 16/9" 1 title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" modestbranding="" src="{{ .Params.video }}"></iframe>
    		{{ .Content }}
 		<button class="cta is-align-center"><a href="#spenden">Spenden</a></button> 
-        </div>
-        <div>
-		<iframe id="yt-iframe" width="auto" height="600"  title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" modestbranding="" src="{{ .Params.video }}"></iframe>
+        
         </div>
     </div>
 </section>
