@@ -1,3 +1,9 @@
+- title: Heute ist GIVING TUESDAY!
+  button_text: Alle eure Spenden werden verdoppelt
+  link: https://www.deepwave.org/giving-tuesday/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/AnnaMandel_LostInPlastic_1.png
+  overlay_color:
 - title: Unser Logbuch frisch jeden 2.  Samstag!
   button_text: in eurem Postfach
   link: https://www.deepwave.org/newsletter/
