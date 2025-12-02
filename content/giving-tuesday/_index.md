@@ -140,12 +140,12 @@ zeugen:
           Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
-Die Tiefsee  ist der Ursprung des Lebens. Zum ersten Mal in unserer menschlichen Geschichte haben wir die Möglichkeit, nah heran zu kommen. So nah wie noch nie. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören.
+Die Tiefsee  ist der Ursprung des Lebens. Wir können zum ersten Mal in unserer menschlichen Geschichte nah an sie heran. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören. Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.
 
-Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.
+Warum?  In der Tiefsee liegen Mineralien, deren Metalle wir in unseren modernen Techniken nutzen. Was spricht dagegen, sie abzubauen? Einiges. Was erfahrt  ihr in unserer Kampagne <a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a>
 
-Warum? Weil in der Tiefsee Mineralien liegen, deren Metalle wir in unseren modernen Techniken nutzen. Allerdings haben wir davon schon mehr als genug. Niemand muss das Ökosystem Tiefsee zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende.<br><br>Alles, was auf dem Meeresboden als mögliche Ressource herumliegt, gehört uns allen gehört. Jedem und jeder Einzelnen. *Heritage of Human Kind.* <br><br>Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.
+Wir haben davon schon mehr als genug. Niemand muss das letzte unberührte Ökosytem dieses Planeten zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende.<br><br>Alles, was auf dem Meeresboden als mögliche Ressource herumliegt, gehört uns allen. Jedem und jeder Einzelnen. *Heritage of Human Kind.* <br><br>Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.
 
-Warum also? Weil die Welt so funktioniert. Aber: Es gibt ihn noch nicht. Wir können ihn noch verhindern. Wie? Indem wir wissen und unser Wissen teilen. Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
+Das Entscheidende: Es gibt noch keinen Tiefseebergbau. Noch können wir ihn verhindern. Wie? Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
 
-<a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a>
+&nbsp;
