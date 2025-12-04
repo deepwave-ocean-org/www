@@ -140,6 +140,48 @@ collections_config:
     new_preview_url:
     schemas:
     schema_key:
+  newsletter:
+    path: /content/newsletter
+    glob:
+    name:
+    singular_name:
+    icon: notes
+    url:
+    disable_url: false
+    include_developer_files:
+    documentation:
+    description: ''
+    preview:
+    sort:
+      key: date
+      order: desc
+    sort_options:
+    _editables:
+    _enabled_editors:
+    _inputs:
+      image:
+        type: image
+        cascade: true
+      date:
+        type: date
+        options:
+          timezone:
+          empty_type:
+        instance_value: NOW
+        cascade: true
+      id:
+        type: text
+        cascade: true
+    _select_data:
+    _structures:
+    add_options:
+    create:
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    new_preview_url:
+    schemas:
+    schema_key:
 _select_data:
   Categories: []
 _snippets_imports:
