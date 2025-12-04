@@ -170,7 +170,7 @@ collections_config:
         instance_value: NOW
         cascade: true
       id:
-        type: text
+        type: number
         cascade: true
     _select_data:
     _structures:
