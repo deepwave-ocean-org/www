@@ -15,7 +15,7 @@ links:
     url: https://deepwave.shop/
   - title: Mitglied werden
     url: >-
-      https://res.cloudinary.com/deepwave-org/deepwave.org/MITGLIEDSANTRAG_DEEPWAVE_NEU_2025_vanyff.pdf
+      https://res.cloudinary.com/deepwave-org/deepwave.org/MITGLIEDSANTRAG_DEEPWAVE_NEU_2025_tb77xz.pdf
 layout: spenden
 aliases:
   - /etwas-tun/spenden
