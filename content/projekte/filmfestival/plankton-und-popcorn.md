@@ -77,11 +77,13 @@ films:
   - title: Popcorn und Austausch
     description:
 details:
-  datum: Tübingen Kino Museum | Stadtgrabenstraße 2 | 26.11.25 | 20 Uhr
-  location: Halle  Puschkino | Kardinal-Albrecht-Straße 6 | 1.12.25 | 20 Uhr
-  adresse: Berlin  Rollberg Kino | Rollbergstraße 70 |  2.12.25 | 20 Uhr
-  einlass: Konstanz  Zebrakino | Joseph-Belli-Weg 5 | 9.12.2025 | 18:30 Uhr
-  begin: Zürich  | ETH green floor  | 10.12.25
+  datum: >-
+    Tübingen Kino Museum , 26.11. |  Halle  Puschkino, 1.12.  | Berlin  Rollberg
+    Kino, 2.12.
+  location: Münster, Schlossplatz 4, Raum 201   |  8.12.  |  18:00 Uhr
+  adresse: Konstanz  Zebrakino | 9.12. | 18:00 Uhr
+  einlass: Zürich  | ETH green floor  | 10.12.25  | 1 9:00Uhr
+  begin: Heidelberg, Im Neuenheimer Feld 235, Großer Hörsaal  | 10.12. | 17 Uhr
   image:
 ---
 ##
