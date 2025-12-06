@@ -83,7 +83,7 @@ details:
   location: Münster, Schlossplatz 4, Raum 201   |  8.12.  |  18:00 Uhr
   adresse: Konstanz  Zebrakino | 9.12. | 18:00 Uhr
   einlass: Zürich  | ETH green floor  | 10.12.25  | 1 9:00Uhr
-  begin: Heidelberg, Im Neuenheimer Feld 235, Großer Hörsaal  | 10.12. | 17 Uhr
+  begin:
   image:
 ---
 ##
