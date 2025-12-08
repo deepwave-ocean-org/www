@@ -1,5 +1,5 @@
 ---
-title:
+title: 'Logbuch #2 – In 60 Meter Tiefe'
 image: >-
   https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt1_bsqqbf.jpg
 date: 2025-08-09T00:00:00+01:00
