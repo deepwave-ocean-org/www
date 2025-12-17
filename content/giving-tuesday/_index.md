@@ -27,7 +27,7 @@ section:
       counter_plastik_mg"></span> mg Plastik über die Nahrung zu dir genommen.
       </p> 
   - id: eis
-    heading: Millionen Tonnen  Eismeer geschmolzen
+    heading: Seit Mittenacht sind ... Millionen Tonnen Eismeer geschmolzen
     gif: >-
       http://res.cloudinary.com/deepwave-org/video/upload/v1764009337/deepwave.org/Eisbaer_comp.webm
     text: >-
