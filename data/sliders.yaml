@@ -59,8 +59,8 @@
   link: https://www.deepwave.org/ueber-die-wolken/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267222/deepwave.org/Wolken_fuer_Slider.jpg
-  overlay_color: '#000'
-  button_overlay: '#18191a'
+  overlay_color: '#000000'
+  button_overlay: '#aba79b'
 - title: 'No Straw is the Best Straw '
   button_text: unsere Trinkhalm-Alternativen-Vergleichstabelle
   link: https://www.deepwave.org/bluestraw-kampagne/trinkhalm-vergleichstabelle/
