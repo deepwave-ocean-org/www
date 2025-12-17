@@ -40,7 +40,7 @@ section:
       uns allein heute etwa <span class="counter counter_eis_g"></span> g CO2
       ausgestoßen hat.</p>
   - id: arten
-    heading: Neue Arten entdeckt
+    heading: Seit Mitternacht hätten wir ... neue Arten entdeckt
     gif: >-
       http://res.cloudinary.com/deepwave-org/video/upload/v1764009339/deepwave.org/Fische_comp.webm
     text: >-
