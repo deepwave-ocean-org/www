@@ -51,7 +51,7 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
   overlay_color: '#000000'
-  button_overlay: '#18191a'
+  button_overlay: '#aba79b'
 - title: Über die Wolken
   button_text: >-
     Wie man sie macht und ob man es lieber lassen sollte - Ein Longread von Nico
