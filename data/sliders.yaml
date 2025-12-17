@@ -1,5 +1,5 @@
-- title: GIVING TUESDAY  Week!
-  button_text: Alle eure Spenden werden bis zum 7.12.verdoppelt!!!
+- title: GIVING MONTH
+  button_text: Wie ihr uns unterstützen könnt
   link: https://www.deepwave.org/giving-tuesday/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/AnnaMandel_LostInPlastic_1.png
@@ -51,7 +51,7 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
   overlay_color: '#000000'
-  button_overlay: '#aba79b'
+  button_overlay: '#b3bbbd'
 - title: Über die Wolken
   button_text: >-
     Wie man sie macht und ob man es lieber lassen sollte - Ein Longread von Nico
@@ -60,7 +60,7 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267222/deepwave.org/Wolken_fuer_Slider.jpg
   overlay_color: '#000000'
-  button_overlay: '#aba79b'
+  button_overlay: '#b3bbbd'
 - title: 'No Straw is the Best Straw '
   button_text: unsere Trinkhalm-Alternativen-Vergleichstabelle
   link: https://www.deepwave.org/bluestraw-kampagne/trinkhalm-vergleichstabelle/
@@ -77,5 +77,6 @@
 - title: Gemeinsam die Meere schützen
   button_text: Werde Mitglied, Patron oder Förder:in!
   link: /spenden/
-  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/1rot_mq7h5k.jpg
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/WhatsApp_Image_2025-09-30_at_17.59.31_1_kpjdsz.jpg
   overlay_color:
