@@ -11,7 +11,7 @@ f_art_g: 0.936
 video: https://www.youtube.com/embed/TTvLqUCDrbE?si=U1gEcdAjLQitI2-c
 section:
   - id: muell
-    heading: Lastwagen Müll im Meer entladen
+    heading: Seit Mitternacht haben wir ... Lastwagen Müll im Meer entladen
     gif: >-
       http://res.cloudinary.com/deepwave-org/video/upload/v1764009333/deepwave.org/Lastwagen_comp.webm
     text: >-
@@ -140,12 +140,6 @@ zeugen:
           Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
-Die Tiefsee  ist der Ursprung des Lebens. Wir können zum ersten Mal in unserer menschlichen Geschichte nah an sie heran. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören. Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.
-
-Warum?  In der Tiefsee liegen Mineralien, deren Metalle wir in unseren modernen Techniken nutzen. Was spricht dagegen, sie abzubauen? Einiges. Was, erfahrt  ihr in unserer Kampagne <a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a>
-
-Wir haben von diesen Metallen schon mehr als genug. Niemand muss das letzte unberührte Ökosytem dieses Planeten zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende.<br><br>Alles, was auf dem Meeresboden als mögliche Ressource herumliegt, gehört uns allen. Jedem und jeder Einzelnen. *Heritage of Human Kind.* <br><br>Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.
-
-Das Entscheidende: Es gibt noch keinen Tiefseebergbau. Noch können wir ihn verhindern. Wie? Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
+Die Tiefsee  ist der Ursprung des Lebens. Wir können zum ersten Mal in unserer menschlichen Geschichte nah an sie heran. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören. Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.<br>Warum?  In der Tiefsee liegen Mineralien, deren Metalle wir in unseren modernen Techniken nutzen. Was spricht dagegen, sie abzubauen? Einiges. Was, erfahrt  ihr in unserer Kampagne <br><a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a><br>Wir haben von diesen Metallen schon mehr als genug. Niemand muss das letzte unberührte Ökosytem dieses Planeten zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende.<br>Alles, was auf dem Meeresboden als mögliche Ressource herumliegt, gehört uns allen. Jedem und jeder Einzelnen. *Heritage of Human Kind.* <br>Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.<br>Das Entscheidende: Es gibt noch keinen Tiefseebergbau. Noch können wir ihn verhindern. Wie? Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
 
 &nbsp;
