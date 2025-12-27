@@ -7,7 +7,8 @@
 - title: 'Thread N°1 '
   button_text: alles zum Tiefseebergbau in 44 sec
   link: https://youtu.be/TTvLqUCDrbE
-  background_image: https://youtu.be/TTvLqUCDrbE
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_20251218-023402_2_yxdfq2.jpg
   overlay_color:
 - title: Unser Logbuch frisch jeden 2.  Samstag!
   button_text: in eurem Postfach
