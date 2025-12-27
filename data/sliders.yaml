@@ -16,6 +16,12 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
   overlay_color:
+- title: Die Eröffnungsrede von Frederik Götz
+  button_text: zur Plankton & Popcorn Filmtour
+  link: https://youtu.be/CIZ_b0OTDcI
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-12-21_at_16-07-57_Deepwave_Filmtour_Opener_Lang_-_YouTube_d7jvh8.png
+  overlay_color:
 - title: Plankton und Popcorn
   button_text: Unser DEEPWAVE Filmfestival auf Tour
   link: https://www.deepwave.org/projekte/filmfestival/
