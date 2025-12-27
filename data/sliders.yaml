@@ -10,12 +10,6 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_20251218-023407_2_l8nric.jpg
   overlay_color:
-- title: Unser Logbuch frisch jeden 2.  Samstag!
-  button_text: in eurem Postfach
-  link: https://www.deepwave.org/newsletter/
-  background_image: >-
-    https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
-  overlay_color:
 - title: Die Eröffnungsrede von Frederik Götz
   button_text: zur Plankton & Popcorn Filmtour
   link: https://youtu.be/CIZ_b0OTDcI
@@ -27,6 +21,12 @@
   link: https://www.deepwave.org/projekte/filmfestival/
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/Plankton_und_Popcorn_Halle_Ausschnitt_vsiceg.jpg
+  overlay_color:
+- title: Unser Logbuch frisch jeden 2.  Samstag!
+  button_text: in eurem Postfach
+  link: https://www.deepwave.org/newsletter/
+  background_image: >-
+    https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
   overlay_color:
 - title: KLARTEXT Meerespolitik
   button_text: 'Wie funktioniert das? '
