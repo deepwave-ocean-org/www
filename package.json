@@ -24,6 +24,7 @@
     "tailwindcss": "^4.1.13"
   },
   "dependencies": {
+    "hugo": "^0.0.3",
     "tailwind": "^4.0.0"
   }
 }
