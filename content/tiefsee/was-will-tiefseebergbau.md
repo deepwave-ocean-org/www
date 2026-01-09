@@ -1,7 +1,7 @@
 ---
 title: "Was will Tiefseebergbau?"
 weight: 2
-heroimage: "was-will-tiefseebergbau.jpg"
+heroimage: "https://res.cloudinary.com/deepwave-org/image/upload/v1767918462/was-will-der-tiefseebergbau_iqbhcg.jpg"
 layout: "tiefsee"
 links:
   - url: "https://www.deepwave.org/tiefseebergbau-fuer-einsteigerinnen/"

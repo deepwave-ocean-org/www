@@ -18,7 +18,7 @@ footer {
     <section class="flex flex-col lg:flex-row gap-10 mt-12 w-full">
       {{/* Text Block */}}
       <div class="flex-[2] min-w-[40svw] text-[#8e8e8a] font-serif leading-relaxed">
-        <h1 class="font-sans text-xl lg:text-2xl pb-2 leading-tight">{{ .Title }}</h1>
+        <h1 class="font-sans text-4xl pb-2">{{ .Title }}</h1>
         <div class="prose prose-invert prose-p:text-[#8e8e8a] prose-p:text-lg lg:prose-p:text-sm prose-p:leading-relaxed lg:prose-p:leading-normal prose-p:pb-4 prose-p:last:pb-0 prose-strong:font-extrabold prose-em:italic prose-a:text-[#2298a5] prose-a:no-underline max-w-none">
           {{ .Content }}
         </div>
@@ -32,7 +32,7 @@ footer {
         <div class="mb-12 lg:mb-0 lg:mt-12 text-[#8e8e8a]">
           {{ range . }}
           <p class="p-4 bg-[#262626] mb-3 font-serif text-sm leading-normal">
-            <a href="{{ .url }}" target="_blank" class="text-[#2298a5] no-underline hover:underline font-sans font-bold text-base leading-normal">{{ .text }}</a>
+            <a href="{{ .url }}" target="_blank" class="text-[#2298a5] no-underline hover:underline font-sans">{{ .text }}</a>
             {{ with .source }}<span class="block text-sm text-[#8e8e8a] font-serif font-normal mt-1">{{ . }}</span>{{ end }}
           </p>
           {{ end }}
@@ -45,7 +45,7 @@ footer {
             {{ $currentPage := . }}
             {{ range $currentPage.Parent.Pages.ByWeight }}
               {{ if ne .RelPermalink $currentPage.RelPermalink }}
-              <li class="p-4 pt-0 first:pt-4 bg-[#262626] font-bold text-lg lg:text-base leading-snug">
+              <li class="p-4 pt-0 first:pt-4 bg-[#262626] font-bold text-[28px]">
                 <a href="{{ .RelPermalink }}" class="text-[#2298a5] no-underline hover:underline">{{ .Title }}</a>
               </li>
               {{ end }}

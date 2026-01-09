@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Wir gebem dem Meer eine Stimme"
 theme = "dwtheme"
 
+[outputs]
+  home = ["HTML", "JSON"]
+
 [markup.goldmark.renderer]
   unsafe = true
 

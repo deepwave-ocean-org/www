@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (!mobileQuery.matches) {
 		const header = document.createElement('h2');
-		header.className = 'h-8 mb-8 text-sm md:text-lg';
+		header.className = 'h-8 mt-16 mb-8 text-sm md:text-lg';
 		header.textContent = "Suchergebnisse";
 		searchResults.appendChild(header)
 	}
