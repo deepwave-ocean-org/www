@@ -45,7 +45,7 @@ footer {
             {{ $currentPage := . }}
             {{ range $currentPage.Parent.Pages.ByWeight }}
               {{ if ne .RelPermalink $currentPage.RelPermalink }}
-              <li class="p-4 pt-0 first:pt-4 bg-[#262626] font-bold text-[28px]">
+              <li class="p-4 pt-0 first:pt-4 bg-[#262626] font-bold text-[22px]">
                 <a href="{{ .RelPermalink }}" class="text-[#2298a5] no-underline hover:underline">{{ .Title }}</a>
               </li>
               {{ end }}
