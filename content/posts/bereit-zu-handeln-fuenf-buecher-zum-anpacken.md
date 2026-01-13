@@ -1,6 +1,6 @@
 ---
 title: Bereit zu handeln? Fünf Bücher zum Anpacken
-date: 2025-10-10T00:00:00+01:00
+date:
 blogs:
   - alternativen-zu-einwegplastik
   - bildung
