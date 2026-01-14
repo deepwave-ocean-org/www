@@ -28,9 +28,9 @@ footer {
       <div class="flex flex-col lg:flex-col-reverse self-start flex-1 min-w-[20vw]">
         <aside class="font-sans">
           <ul class="list-none p-0 m-0">
-            {{ range .RegularPages.ByWeight }}
+            {{ range .Params.subpages }}
             <li class="p-4 pt-0 first:pt-4 bg-[#262626] font-bold text-[22px]">
-              <a href="{{ .RelPermalink }}" class="text-[#2298a5] no-underline hover:underline">{{ .Title }}</a>
+              <a href="{{ .url }}" class="text-[#2298a5] no-underline hover:underline">{{ .title }}</a>
             </li>
             {{ end }}
           </ul>
