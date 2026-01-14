@@ -51,7 +51,7 @@ footer {
               </li>
               {{ end }}
             {{ end }}
-            {{ if $currentPage.Parent }}
+            {{ if not .Params.subpages }}
             <li class="bg-transparent text-right p-1 mb-8 text-base lg:text-sm leading-normal">
               <a href="{{ .Parent.RelPermalink }}" class="text-[#2298a5] no-underline hover:underline font-sans font-bold">... Zurück zur Startseite</a>
             </li>
