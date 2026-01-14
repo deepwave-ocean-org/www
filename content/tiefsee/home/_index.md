@@ -9,7 +9,7 @@ subpages:
     title: "Was will Tiefseebergbau?"
   - url: "/tiefsee/home/wem-gehoren-die-mineralien-in-der-tiefsee/"
     title: "Wem gehören die Mineralien in der Tiefsee?"
-  - url: "/tiefsee/home/brauchen-wir-die-mineralien-aus-der-tiefsee/"
+  - url: "/tiefsee/home/brauchen-wir-die-mineralien-aus-der-tiefe/"
     title: "Brauchen wir die Mineralien aus der Tiefe?"
   - url: "/tiefsee/home/was-konnen-wir-tun/"
     title: "Was können wir tun?"
