@@ -2,7 +2,6 @@
 title: "Was können wir tun?"
 weight: 5
 heroimage: "https://res.cloudinary.com/deepwave-org/image/upload/v1767916265/was-koennen-wir-tun_y7ohsc.jpg"
-layout: "tiefsee"
 links:
   - url: "https://youtu.be/JsA0emd2FNw?si=EIQi7jGYLSZm0EX2"
     text: "Deep sea mining!? Leave my down below alone!"

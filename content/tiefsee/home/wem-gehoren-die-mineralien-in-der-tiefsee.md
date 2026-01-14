@@ -2,7 +2,6 @@
 title: "Wem gehören die Mineralien in der Tiefsee?"
 weight: 3
 heroimage: "https://res.cloudinary.com/deepwave-org/image/upload/v1767916294/wem-gehoeren-die-mineralien_mexzsj.jpg"
-layout: "tiefsee"
 links:
   - url: "https://www.deepwave.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/"
     text: "Deutschland unterstützt bis auf Weiteres keinen Tiefseebergbau"

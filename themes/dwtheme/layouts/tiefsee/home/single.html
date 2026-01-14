@@ -42,20 +42,16 @@ footer {
         {{/* Sibling Navigation */}}
         <aside class="font-sans">
           <ul class="list-none p-0 m-0">
-            {{ $currentPage := . }}
-            {{ $subpages := .Params.subpages | default .Parent.Params.subpages }}
-            {{ range $subpages }}
-              {{ if ne .url $currentPage.RelPermalink }}
+            {{ range .Parent.RegularPages.ByWeight }}
+              {{ if ne .RelPermalink $.RelPermalink }}
               <li class="p-4 pt-0 first:pt-4 bg-[#262626] font-bold text-[22px]">
-                <a href="{{ .url }}" class="text-[#2298a5] no-underline hover:underline">{{ .title }}</a>
+                <a href="{{ .RelPermalink }}" class="text-[#2298a5] no-underline hover:underline">{{ .Title }}</a>
               </li>
               {{ end }}
             {{ end }}
-            {{ if not .Params.subpages }}
             <li class="bg-transparent text-right p-1 mb-8 text-base lg:text-sm leading-normal">
               <a href="{{ .Parent.RelPermalink }}" class="text-[#2298a5] no-underline hover:underline font-sans font-bold">... Zurück zur Startseite</a>
             </li>
-            {{ end }}
           </ul>
         </aside>
       </div>

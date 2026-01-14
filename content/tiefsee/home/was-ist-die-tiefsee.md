@@ -2,7 +2,6 @@
 title: "Was ist die Tiefsee?"
 weight: 1
 heroimage: "https://res.cloudinary.com/deepwave-org/image/upload/v1767916250/was-ist-die-tiefsee_h9nf9e.jpg"
-layout: "tiefsee"
 links:
   - url: "https://www.deepwave.org/die-ozeane/die-tiefsee/"
     text: "Die Tiefsee"

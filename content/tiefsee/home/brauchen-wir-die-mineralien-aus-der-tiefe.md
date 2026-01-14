@@ -2,7 +2,6 @@
 title: "Brauchen wir die Mineralien aus der Tiefe?"
 weight: 4
 heroimage: "https://res.cloudinary.com/deepwave-org/image/upload/v1767916037/brauchen-wir-die-mineralien_na9qcb.jpg"
-layout: "tiefsee"
 links:
   - url: "https://www.forumue.de/wp-content/uploads/2023/03/ArgumenteGegenTiefseebergbau2Auflage2023-2.pdf"
     text: "Argumente gegen den Tiefseebergbau der AG Tiefseebergbau"
