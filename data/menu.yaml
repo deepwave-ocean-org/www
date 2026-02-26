@@ -1,145 +1,145 @@
 main:
-  - title: "Über uns"
-    url: "/ueber-uns/"
+  - title: Über uns
+    url: /ueber-uns/
     sublinks:
-    - title: "Was wir tun"
-      url: "/ueber-uns/was-wir-tun/"
-    - title: "Wer wir sind"
-      url: "/ueber-uns/wer-wir-sind/"
-    - title: "Onno Groß"
-      url: "/ueber-uns/onno-groß/"
-  - title: "Reflexionen"
-    url: "/blogs/reflexionen"
-  - title: "Projekte"
-    url: "/projekte/"
+      - title: Was wir tun
+        url: /ueber-uns/was-wir-tun/
+      - title: Wer wir sind
+        url: /ueber-uns/wer-wir-sind/
+      - title: Onno Groß
+        url: /ueber-uns/onno-groß/
+  - title: Reflexionen
+    url: /blogs/reflexionen
+  - title: Projekte
+    url: /projekte/
     sublinks:
-    - title: "KLARTEXT Meerespolitik"
-      url: "https://klartext.deepwave.org"
-    - title: "NO DEEP SEA MINING - NEVER"
-      url: "https://tiefsee.deepwave.org"
-    - title: "Filmfestival"
-      url: "projekte/filmfestival/"
-    - title: "Die Meeresfibel"
-      url: "projekte/meeresfibel/"
-    - title: "MANGREEN"
-      url: "projekte/mangrovenprojekt/"
-  - title: "Die Ozeane"
-    url: "/die-ozeane/"
+      - title: KLARTEXT Meerespolitik
+        url: https://klartext.deepwave.org
+      - title: NO DEEP SEA MINING - NEVER
+        url: https://tiefsee.deepwave.org
+      - title: Filmfestival
+        url: projekte/filmfestival/
+      - title: Die Meeresfibel
+        url: projekte/meeresfibel/
+  - title: Die Ozeane
+    url: /die-ozeane/
     sublinks:
-    - title: "Die Ozeane"
-      url: "/die-ozeane/die-ozeane/"
-    - title: "Die Tiefsee"
-      url: "/die-ozeane/die-tiefsee/"
-    - title: "Überfischung"
-      url: "/die-ozeane/überfischung/"
-    - title: "Meerespolitik"
-      url: "/die-ozeane/meerespolitik/"
-    - title: "Küstenschutz"
-      url: "/die-ozeane/küstenschutz/"
-    - title: "Lärm"
-      url: "/die-ozeane/lärm/"
-    - title: "Klima"
-      url: "/die-ozeane/klima/"
-    - title: "Verschmutzung"
-      url: "/die-ozeane/verschmutzung/"
-    - title: "Korallen"
-      url: "/die-ozeane/korallen/"
-  - title: "Blogs"
-    url: "/blogs/"
+      - title: Die Ozeane
+        url: /die-ozeane/die-ozeane/
+      - title: Die Tiefsee
+        url: /die-ozeane/die-tiefsee/
+      - title: Überfischung
+        url: /die-ozeane/überfischung/
+      - title: Meerespolitik
+        url: /die-ozeane/meerespolitik/
+      - title: Küstenschutz
+        url: /die-ozeane/küstenschutz/
+      - title: Lärm
+        url: /die-ozeane/lärm/
+      - title: Klima
+        url: /die-ozeane/klima/
+      - title: Verschmutzung
+        url: /die-ozeane/verschmutzung/
+      - title: Korallen
+        url: /die-ozeane/korallen/
+  - title: Blogs
+    url: /blogs/
     sublinks:
-    - title: "Good News"
-      url: "/blogs/good-news/"
-    - title: "Politik"
-      url: "/blogs/politik/"
-    - title: "Reflexionen"
-      url: "/blogs/reflexionen/"
-    - title: "Klima"
-      url: "/blogs/klima/"
-    - title: "Tiefsee"
-      url: "/blogs/tiefsee/"
-    - title: "Überfischung"
-      url: "/blogs/überfischung/"
-    - title: "Forschung"
-      url: "/blogs/forschung/"
-    - title: "Kultur"
-      url: "/blogs/kultur/"
-    - title: "Was tun?"
-      url: "/blogs/was-tun/"
+      - title: Good News
+        url: /blogs/good-news/
+      - title: Politik
+        url: /blogs/politik/
+      - title: Reflexionen
+        url: /blogs/reflexionen/
+      - title: Klima
+        url: /blogs/klima/
+      - title: Tiefsee
+        url: /blogs/tiefsee/
+      - title: Überfischung
+        url: /blogs/überfischung/
+      - title: Forschung
+        url: /blogs/forschung/
+      - title: Kultur
+        url: /blogs/kultur/
+      - title: Was tun?
+        url: /blogs/was-tun/
 secondary:
-  - title: "Spenden"
-    url: "/etwas-tun/spenden/"
+  - title: Spenden
+    url: /etwas-tun/spenden/
 service:
-  - title: "Newsletter"
-    url: "/newsletter/"
-  # - title: "Factsheets"
-  #   url: "/die-ozeane/factsheets/"
-  - title: "Bücher"
-    url: "/ozeanbücher/"
-  # - title: "Bilder"
-  #   url: "/die-ozeane/bilder/"
-  - title: "Podcasts"
-    url: "/podcast/"
-  - title: "Shop"
-    url: "https://deepwave.shop/"
+  - title: Newsletter
+    url: /newsletter/
+  - title: Bücher
+    url: /ozeanbücher/
+  - title: Podcasts
+    url: /podcast/
+  - title: Shop
+    url: https://deepwave.shop/
 home:
   - title: Über uns
     subtitle: Unsere NGO, unser Gründer Onno Groß und unsere Zukunft
     url: /ueber-uns/
-    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267235/deepwave.org/Heye_im_Wasser_Quadrat-scaled.jpg
+    image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747267235/deepwave.org/Heye_im_Wasser_Quadrat-scaled.jpg
   - title: Highlights
     subtitle: Unsere Kampagnen, Kooperation, Filmfestivals ...
     url: /highlights/
-    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267238/deepwave.org/Highlights2-480x480.png
+    image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747267238/deepwave.org/Highlights2-480x480.png
   - title: Reflexionen
     subtitle: Gedanken, Sichtungen, Hintergründe
     url: https://www.instagram.com/deepwave_ocean_org/
-    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267241/deepwave.org/Ueberfischung_Quadrat.png
+    image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747267241/deepwave.org/Ueberfischung_Quadrat.png
   - title: Die Ozeane
     subtitle: Unsere Texte über Tiefsee, Klimakrise, Überfischung, Lärm u.v.m.
     url: /die-ozeane/
-    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267244/deepwave.org/ozeane_5-768x768.png
+    image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747267244/deepwave.org/ozeane_5-768x768.png
   - title: Projekte
     subtitle: Unsere Hotspots des Meeresschutzes
     url: /projekte/
-    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267247/deepwave.org/Projekte_Quadratisch-480x480.png
+    image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747267247/deepwave.org/Projekte_Quadratisch-480x480.png
   - title: Blogs
     subtitle: Unsere 9 thematischen Newsblogs
     url: /blogs/
-    image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267250/deepwave.org/blog_2.png
+    image: >-
+      https://res.cloudinary.com/deepwave-org/image/upload/v1747267250/deepwave.org/blog_2.png
 footer:
   ueber-uns:
-    - name: "Woher wir kommen"
-      url: "/ueber-uns/woher-wir-kommen/"
-    - name: "Wer wir sind"
-      url: "/ueber-uns/wer-wir-sind/"
-    - name: "Wohin wir gehen"
-      url: "/projekte/"
-    - name: "Onno Groß"
-      url: "/ueber-uns/onno-gross/"
+    - name: Woher wir kommen
+      url: /ueber-uns/woher-wir-kommen/
+    - name: Wer wir sind
+      url: /ueber-uns/wer-wir-sind/
+    - name: Wohin wir gehen
+      url: /projekte/
+    - name: Onno Groß
+      url: /ueber-uns/onno-gross/
   projekte:
-    - name: "BLUE STRAW"
-      url: "/deep-sea/bluestraw-kampagne/"
-    - name: "DEEP SEA"
-      url: "/"
-    - name: "MANGREEN"
-      url: "/projekte/mangrovenprojekt/"
-    - name: "UNSER BLAUER PLANET"
-      url: "/projekte/schulkampagne-meeresfibel/"
+    - name: BLUE STRAW
+      url: /deep-sea/bluestraw-kampagne/
+    - name: DEEP SEA
+      url: /
+    - name: MANGREEN
+      url: /projekte/mangrovenprojekt/
+    - name: UNSER BLAUER PLANET
+      url: /projekte/schulkampagne-meeresfibel/
   lesen:
-    - name: "Die Ozeane"
-      url: "/die-ozeane/"
-    - name: "Factsheets"
-      url: "/die-ozeane/factsheets/"
-    - name: "News Blog"
-      url: "/blogs/"
-    - name: "Bücher"
-      url: "/ozeanbuecher/"
+    - name: Die Ozeane
+      url: /die-ozeane/
+    - name: Factsheets
+      url: /die-ozeane/factsheets/
+    - name: News Blog
+      url: /blogs/
+    - name: Bücher
+      url: /ozeanbuecher/
   kontakt:
-    - name: "Mitarbeit"
-      url: "/etwas-tun/mitarbeit/"
-    - name: "Mitglied werden"
-      url: "/etwas-tun/mitglied-werden/"
-    - name: "Kontaktformular"
-      url: "/impressum/kontakt/"
-    - name: "Presse"
-      url: "/impressum/presse/"
+    - name: Mitarbeit
+      url: /etwas-tun/mitarbeit/
+    - name: Mitglied werden
+      url: /etwas-tun/mitglied-werden/
+    - name: Kontaktformular
+      url: /impressum/kontakt/
+    - name: Presse
+      url: /impressum/presse/
