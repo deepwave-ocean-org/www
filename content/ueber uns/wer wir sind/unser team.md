@@ -61,11 +61,11 @@ team:
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Moritz_in_der_Arktis_vpog5m.jpg
     name: Moritz Aehle
-    role: Stud. der Marine Ecosystem and Fisheries Sciences MSc, Hamburg
+    role: Marine Ecosystem and Fisheries Sciences MSc, Hamburg
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/WhatsApp_Image_2026-02-15_at_18.52.07_rtgnin.jpg
     name: Gabriela Garcia
-    role: M.Sc. Global Change Management
+    role: MSc. Global Change Management
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Jascha_Macdonald_ivldyj.jpg
     name: Dr. Jascha Macdonald
