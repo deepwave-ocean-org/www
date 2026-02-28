@@ -45,7 +45,7 @@ team:
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245505/deepwave.org/Rebecca_Portrait_Ausschnitt-480x480.jpg
     name: Dr. Rebecca von Hellfeld
-    role: Aquatische Toxikologie
+    role: 'Aquatische Toxikologie   '
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245507/deepwave.org/Antonia_Portrait_Ausschnitt-480x480.jpg
     name: Dr. Antonia Ahme
