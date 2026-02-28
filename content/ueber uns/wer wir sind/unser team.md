@@ -45,15 +45,15 @@ team:
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245505/deepwave.org/Rebecca_Portrait_Ausschnitt-480x480.jpg
     name: Dr. Rebecca von Hellfeld
-    role: Aquatische Toxikologin
+    role: Aquatische Toxikologie
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245507/deepwave.org/Antonia_Portrait_Ausschnitt-480x480.jpg
     name: Dr. Antonia Ahme
-    role: Mikroplankton-Ökologie, AWI Bremerhaven
+    role: 'Mikroplankton-Ökologie, AWI '
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245509/deepwave.org/DW_Amalia_Klein-480x480.jpg
     name: Amalia Klein
-    role: Stud. der Marine Ecosystem and Fisheries Sciences MSc, Hamburg
+    role: Stud. der Marine Ecosystem and Fisheries Sciences MSc
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245511/deepwave.org/Svenja_Team_Bild-480x479.jpg
     name: Svenja Heckler
@@ -61,11 +61,11 @@ team:
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Moritz_in_der_Arktis_vpog5m.jpg
     name: Moritz Aehle
-    role: Marine Ecosystem and Fisheries Sciences MSc, Hamburg
+    role: Marine Ecosystem and Fisheries Sciences MSc
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/WhatsApp_Image_2026-02-15_at_18.52.07_rtgnin.jpg
     name: Gabriela Garcia
-    role: MSc. Global Change Management
+    role: 'MSc. Global Change Management MSc '
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Jascha_Macdonald_ivldyj.jpg
     name: Dr. Jascha Macdonald
