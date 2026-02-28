@@ -49,7 +49,7 @@ team:
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245507/deepwave.org/Antonia_Portrait_Ausschnitt-480x480.jpg
     name: Dr. Antonia Ahme
-    role: 'Mikroplankton-Ökologie, AWI '
+    role: Mikroplankton-Ökologie, AWI
   - image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747245509/deepwave.org/DW_Amalia_Klein-480x480.jpg
     name: Amalia Klein
