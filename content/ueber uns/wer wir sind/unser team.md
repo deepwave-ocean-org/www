@@ -65,7 +65,7 @@ team:
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/WhatsApp_Image_2026-02-15_at_18.52.07_rtgnin.jpg
     name: Gabriela Garcia
-    role: 'MSc. Global Change Management MSc '
+    role: 'Global Change Management MSc '
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Jascha_Macdonald_ivldyj.jpg
     name: Dr. Jascha Macdonald
