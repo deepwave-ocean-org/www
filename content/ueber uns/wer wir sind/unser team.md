@@ -61,7 +61,7 @@ team:
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Profilbild_Moritz_in_der_Arktis_vpog5m.jpg
     name: Moritz Aehle
-    role: 'PhD Student Planktonökologie und EvolutionSciences  '
+    role: 'PhD Student Planktonökologie und Evolution  '
   - image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/WhatsApp_Image_2026-02-15_at_18.52.07_rtgnin.jpg
     name: Gabriela Garcia
