@@ -8,19 +8,6 @@ main:
         url: /ueber-uns/wer-wir-sind/
       - title: Onno Groß
         url: /ueber-uns/onno-groß/
-  - title: Reflexionen
-    url: /blogs/reflexionen
-  - title: Projekte
-    url: /projekte/
-    sublinks:
-      - title: KLARTEXT Meerespolitik
-        url: https://klartext.deepwave.org
-      - title: NO DEEP SEA MINING - NEVER
-        url: https://tiefsee.deepwave.org
-      - title: Filmfestival
-        url: projekte/filmfestival/
-      - title: Die Meeresfibel
-        url: projekte/meeresfibel/
   - title: Die Ozeane
     url: /die-ozeane/
     sublinks:
@@ -42,27 +29,19 @@ main:
         url: /die-ozeane/verschmutzung/
       - title: Korallen
         url: /die-ozeane/korallen/
-  - title: Blogs
-    url: /blogs/
+  - title: Projekte
+    url: /projekte/
     sublinks:
-      - title: Good News
-        url: /blogs/good-news/
-      - title: Politik
-        url: /blogs/politik/
-      - title: Reflexionen
-        url: /blogs/reflexionen/
-      - title: Klima
-        url: /blogs/klima/
-      - title: Tiefsee
-        url: /blogs/tiefsee/
-      - title: Überfischung
-        url: /blogs/überfischung/
-      - title: Forschung
-        url: /blogs/forschung/
-      - title: Kultur
-        url: /blogs/kultur/
-      - title: Was tun?
-        url: /blogs/was-tun/
+      - title: KLARTEXT Meerespolitik
+        url: https://klartext.deepwave.org
+      - title: NO DEEP SEA MINING - NEVER
+        url: https://tiefsee.deepwave.org
+      - title: Filmfestival
+        url: projekte/filmfestival/
+      - title: Die Meeresfibel
+        url: projekte/meeresfibel/
+  - title: Reflexionen
+    url: /blogs/reflexionen
 secondary:
   - title: Spenden
     url: /etwas-tun/spenden/
