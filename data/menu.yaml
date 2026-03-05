@@ -70,11 +70,6 @@ home:
     url: /projekte/
     image: >-
       https://res.cloudinary.com/deepwave-org/image/upload/v1747267247/deepwave.org/Projekte_Quadratisch-480x480.png
-  - title: Reflexionen
-    subtitle: Gedanken, Sichtungen, Hintergründe
-    url: https://www.instagram.com/deepwave_ocean_org/
-    image: >-
-      https://res.cloudinary.com/deepwave-org/image/upload/v1747267241/deepwave.org/Ueberfischung_Quadrat.png
 footer:
   ueber-uns:
     - name: Woher wir kommen
