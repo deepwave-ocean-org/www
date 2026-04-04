@@ -1,16 +1,14 @@
 ---
-title: Plankton und Popcorn
+title: SAVE THE DATE
 image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747243773/deepwave.org/13_biodiversity_coral_reefs_shaun-low-unsplash.jpg
 overlay: rgba(8,27,73,0.61)
-datum: >-
-    Unser Filmfestivalformat geht auf Tour in Graz, Basel, Wien, Tübingen,
-    Zürich, Münster, Heidelberg, Konstanz, Halle und Berlin.
+datum: Unser DEEPWAVE Filmfestival am 12. Juni im Lichtmesskino in Hamburg
 saveTheDate:
-    start:
-    end:
-    description:
-    location:
+    start: 12. Juni 18 Uhr
+    end: 12. Juni 23 Uhr
+    description: DEEPWAVE Filmfestival zum Schutz der Meere
+    location: Lichtmesskino, Hamburg
 aliases:
     - /filmfestival/
 ---
