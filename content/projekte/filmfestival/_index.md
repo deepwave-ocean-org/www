@@ -6,7 +6,7 @@ overlay: rgba(8,27,73,0.61)
 datum: Unser DEEPWAVE Filmfestival am 12. Juni im Lichtmesskino in Hamburg
 saveTheDate:
     start: 12. Juni
-    end: 12. Juni
+    end:
     description: DEEPWAVE Filmfestival zum Schutz der Meere
     location: Lichtmesskino, Hamburg
 aliases:
