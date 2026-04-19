@@ -7,7 +7,7 @@ hover: >-
 overlay: rgba(26,26,38,0.49)
 order: 2
 ---
-**Onno Groß  2016**
+#### Onno Groß  2016
 
 Ewige Nacht, hoher Druck und gleichbleibende Kälte sind die wenig einladenden Bedingungen der Tiefsee. Die Tiefsee galt daher früher als lebensfeindlich. Doch diese Bedingungen haben einen Vorteil: Sie bleiben stets gleich. Die Dunkelheit ist so vollständig, der Druck so gewaltig, dass die Geschöpfe, die sich dem Leben in der Tiefe angepasst haben, in einer Weise spezialisiert sind, die sich im Flachwasser kaum findet. Und die Tiefsee hat eine ungeheure Flächenausdehnung: Mehr als die Hälfte der Erdoberfläche (53,6 Prozent) besitzt Tiefen zwischen 3.000 und 6.000 Meter, und 1 % enthällt auf Tiefen über 6.000 Meter. Der Rest von 0 bis 3000 Metern nimmt 16,2 % ein, daran ist der Schelf allein mit 5,5 % beteiligt. Die mittlere Tiefe des Weltmeeres beträgt 3.790 Meter. Die Tiefsee ist der größte Lebensraum unseres Planeten -- ein riesiges Reich faszinierender Spezialisten.
 
