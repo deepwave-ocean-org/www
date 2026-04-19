@@ -5,7 +5,7 @@ image: >-
   https://res.cloudinary.com/deepwave-org/deepwave.org/Plakat_2026_Platzhalter_b0xmwg.jpg
 link: /projekte/filmfestival/deepwave-filmfestival-2026/
 films:
-  - title: to be announced
+  - title: The jury is in session
     image:
     duration: 0
     regie:
@@ -22,6 +22,10 @@ details:
 ---
 ##
 
-Auch im Jahr 2026 laden wir euch zu unserem **DEEPWAVE Filmfestival zum Schutz der Meere** ein. Am 12. Juni im Lichtmesskino in Hamburg-Altona könnt ihr euch auf Filme rund um das Thema Meeresschutz freuen sowie auf ausführliche Podiumsdiskussionen mit Expert:innen und Filmemacher:innen. Über 300 internationale Einreichungen haben uns erreicht, aus denen wir euch ein Programm aus Arthouse-, Kunst-, Dokumentar- und Meeresschutzprojektfilmen zusammenstellen. Zum Catering gibt es dieses Jahr aus besonderem Anlass Erdbeerkuchen für alle.
+Auch im Jahr 2026 laden wir euch zu unserem **DEEPWAVE Filmfestival zum Schutz der Meere** ein. Am 12. Juni im Lichtmesskino in Hamburg-Altona könnt ihr euch auf Filme rund um das Thema Meeresschutz freuen sowie auf ausführliche Podiumsdiskussionen mit Expert:innen und Filmemacher:innen.
+
+Über 300 internationale Einreichungen haben uns erreicht, aus denen wir euch ein Programm aus Arthouse-, Kunst-, Dokumentar- und Meeresschutzprojektfilmen zusammenstellen.
+
+Zum Catering gibt es dieses Jahr aus besonderem Anlass Erdbeerkuchen für alle.
 
 Der Eintritt ist frei. Wir freuen uns über Spenden.
