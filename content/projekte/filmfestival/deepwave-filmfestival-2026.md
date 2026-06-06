@@ -11,7 +11,8 @@ films:
     language:
     description: Andrea Gerhard
   - title: Opener We are One
-    image:
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/opener_Screenshot_fa5wrp.png
     duration: 1
     regie:
     language:
