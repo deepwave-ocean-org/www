@@ -20,12 +20,20 @@ details:
   image: >-
     https://dev.deepwave.org/wp-content/uploads/2023/02/Kopie-von-Deepwave_FilmFest_HH__FotoJQuast_469-1280x854.jpg
 ---
-##
+Kelpgärten, die gemeinschaftlich gepflegt und geerntet werden, Korallenaufforstung und Korallenkunst, Korallenschutz dank Citizen Science, Tiefseebergbau, Whale Fall, Lärm im Ozean, Arktis und Öl, Shark Trivia, fliegende Mantarochen. Unser diesjähriges Kurzfilmfestival stellt die Frage: WIE kommunizieren wir die Themen des Meeresschutzes? Dazu laden wir unser Publikum zu einer Fishbowl ein, um die verschiedenen Möglichkeiten mit uns zu diskutieren.
 
-Auch im Jahr 2026 laden wir euch zu unserem **DEEPWAVE Filmfestival zum Schutz der Meere** ein. Am 12. Juni im Lichtmesskino in Hamburg-Altona könnt ihr euch auf Filme rund um das Thema Meeresschutz freuen sowie auf ausführliche Podiumsdiskussionen mit Expert:innen und Filmemacher:innen.
+Das Meer als Politischer Raum ist Thema der Expertenrunde mit Nico Czaja und Tim-Frederik Hahn sowie anhand des Kernthemas von DEEPWAVE, dem potentiellen Tiefseebergbau, die Frage, was hinter dem derzeitigen geopolitischen Framing ökologischer Narrative steckt.
 
-Über 300 internationale Einreichungen haben uns erreicht, aus denen wir euch ein Programm aus Arthouse-, Kunst-, Dokumentar- und Meeresschutzprojektfilmen zusammenstellen.
+Unser Opener ist auch dieses Jahr eine Eigenproduktion, das Motto des Festivals und unserer Arbeit: *We are one.*
 
-Zum Catering gibt es dieses Jahr aus besonderem Anlass Erdbeerkuchen für alle.
+Und aus besonderem Anlass gibt es diesmal zur Stärkung nicht nur Herzhaftes, sondern Erdbeerkuchen für alle.
 
-Der Eintritt ist frei. Wir freuen uns über Spenden.
+&nbsp;
+
+**DEEPWAVE Filmfestival zum Schutz der Meere** <br>Freitag, 12. Juni 2026 <br>**Einlass**: 17:30 Uhr **Beginn**: 18:00 Uhr **Ort**: Lichtmess-Kino, Gaußstraße 25, Hamburg Altona. <br>Filme entweder mit englischen Untertiteln oder auf Englisch ohne Untertitel.<br>**Eintritt, inklusive veganem Catering, ist frei!** Wir freuen uns über Spenden.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
