@@ -1,8 +1,7 @@
 ---
 title: DEEPWAVE Filmfestival 2026
 date: 2026-04-19T00:00:00+01:00
-image: >-
-  https://res.cloudinary.com/deepwave-org/deepwave.org/Plakat_2026_Platzhalter_b0xmwg.jpg
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/Plakat_2026_uyqvja.jpg
 link: /projekte/filmfestival/deepwave-filmfestival-2026/
 films:
   - title: The jury is in session
