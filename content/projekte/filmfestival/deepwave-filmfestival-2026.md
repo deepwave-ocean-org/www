@@ -36,6 +36,60 @@ films:
       „Flor Do Mar“, wie eine Gemeinde dank Meeresalgen ihre Zukunft neu
       gestalten kann … und dabei dem Ozean hilft, von dem unser eigenes Leben
       abhängt.
+  - title: ONE CORAL AT A TIME
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-06-07_at_00-41-51_ONE_CORAL_AT_A_TIME_-_FilmFreeway_g6gemy.png
+    duration: 8
+    regie:
+    language:
+    description: >+
+      Auf einer kleinen Insel auf den Malediven arbeitet ein junges Paar daran,
+      Korallenriffe Stück für Stück wiederherzustellen.
+
+      Ein intimes Porträt von Fürsorge, Ausdauer und der Verbindung des Menschen
+      zum Meer.
+
+  - title: Podiumsdiskussion
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: >-
+      mit Nico Czaja, Autor des KLARTEXT Meerespolitik, und Tim-Frederik Hahn,
+      Doktorrand, Globale Resourcenpolitik am Institut für Interkulturelle und
+      Internationale Studien, Universität Bremen
+  - title: Pause
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: Veganes Buffet und Erdbeerkuchen
+  - title: Fishbowl
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: WIE kommunizieren wir die Themen des Meeresschutzes?
+  - title: 'Dank und Schlusswort  '
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: Andrea Gerhard
+  - title: For the Love of The Sea
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/s23-mpa-neumeier_a_0004_givoii_rjj5dh.webp
+    duration: 12
+    regie:
+    language:
+    description: >-
+      Patagonia Films begleitet Câr-y-Môr, die erste regenerative Meeresfarm in
+      Wales, die von einem Zusammenschluss von Bürger:innen betrieben wird.
+      Durch den Anbau vielseitig verwendbarer Pflanzen wie Kelp mit
+      Zero-Input-Techniken zeigt die Familie Haines, wie der Ozean dazu
+      beitragen kann, uns bei der Bewältigung der Klimakrise zu unterstützen und
+      gleichzeitig Menschen gesund und nachhaltig zu ernähren. | Regie Arthur
+      Neumeier | englisch 
 details:
   datum: Freitag, 12. Juni 2026
   location: Lichtmess-Kino
