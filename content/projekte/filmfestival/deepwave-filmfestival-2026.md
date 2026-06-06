@@ -35,7 +35,8 @@ films:
       Von der Meeresfarm in Cumuruxatiba bis zu den Labors in São Paulo zeigt
       „Flor Do Mar“, wie eine Gemeinde dank Meeresalgen ihre Zukunft neu
       gestalten kann … und dabei dem Ozean hilft, von dem unser eigenes Leben
-      abhängt.
+      abhängt. | Regie Roxane Perrot und Ugo Isoard | portugiesisch mit
+      englischen Untertiteln 
   - title: ONE CORAL AT A TIME
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-06-07_at_00-41-51_ONE_CORAL_AT_A_TIME_-_FilmFreeway_g6gemy.png
@@ -47,35 +48,8 @@ films:
       Korallenriffe Stück für Stück wiederherzustellen.
 
       Ein intimes Porträt von Fürsorge, Ausdauer und der Verbindung des Menschen
-      zum Meer.
+      zum Meer. | Regie Gabriele Castellani | englisch und italienisch
 
-  - title: Podiumsdiskussion
-    image: ''
-    duration: 0
-    regie:
-    language:
-    description: >-
-      mit Nico Czaja, Autor des KLARTEXT Meerespolitik, und Tim-Frederik Hahn,
-      Doktorrand, Globale Resourcenpolitik am Institut für Interkulturelle und
-      Internationale Studien, Universität Bremen
-  - title: Pause
-    image: ''
-    duration: 0
-    regie:
-    language:
-    description: Veganes Buffet und Erdbeerkuchen
-  - title: Fishbowl
-    image: ''
-    duration: 0
-    regie:
-    language:
-    description: WIE kommunizieren wir die Themen des Meeresschutzes?
-  - title: 'Dank und Schlusswort  '
-    image: ''
-    duration: 0
-    regie:
-    language:
-    description: Andrea Gerhard
   - title: For the Love of The Sea
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/s23-mpa-neumeier_a_0004_givoii_rjj5dh.webp
@@ -90,6 +64,101 @@ films:
       beitragen kann, uns bei der Bewältigung der Klimakrise zu unterstützen und
       gleichzeitig Menschen gesund und nachhaltig zu ernähren. | Regie Arthur
       Neumeier | englisch 
+  - title: Trinkpause
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: ''
+  - title: NO DEEP SEA MINING - NEVER
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_20251218-023431_2_wczjqv.png
+    duration: 1
+    regie:
+    language:
+    description: >-
+      Alles zum Tiefseebergbau in 44 sec. Das Video zu unserer Kampagne. |
+      Regie, Schnitt und Musik Sebastian Fischbeck 
+  - title: >-
+      Towards the Abyss: How the rush to deep-sea mining threatens people and
+      our planet
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-06-07_at_01-17-38_Towards_the_abyss_How_the_rush_to_deep-sea_mining_threatens_people_and_our_planet_-_YouTube_scsz7x.png
+    duration: 4
+    regie:
+    language:
+    description: >-
+      Eine kurze Einführung in die Problematik des geplanten Tiefseebergbaus. 
+      Environmental Justice Foundation | englisch 
+  - title: Podiumsdiskussion
+    image: ''
+    duration: 45
+    regie:
+    language:
+    description: >-
+      mit Nico Czaja, Autor des KLARTEXT Meerespolitik, und Tim-Frederik Hahn,
+      Doktorrand, Globale Resourcenpolitik am Institut für Interkulturelle und
+      Internationale Studien, Universität Bremen
+  - title: Pause
+    image: ''
+    duration: 25
+    regie:
+    language:
+    description: Veganes Buffet und Erdbeerkuchen
+  - title: Whale fall
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: ohne Worte
+  - title: Deafened Giants
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: ohne Worte
+  - title: Coral in Focus
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: '| Regie Quentin Van Den Bossche | englisch'
+  - title: uki
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: ohne Worte
+  - title: Great White Sharks
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0004_Great_White_Sharks_Copyright_Lakan_Duskin_jysyjh.jpg
+    duration: 3
+    regie:
+    language:
+    description: >
+      Der zehn Jahre alte Regisseur Lakan Duskin hat den Stop-Motion-Stil mit
+      Lego bereits perfektioniert. Er zeigt uns, warum wir den Weißen Hai
+      schützen müssen, wie das Aufzählen aller Haiflossen unterhaltsam sein kann
+      und was das Knabbern von Chips mit Seehunden zu tun hat. | Regie Lakan
+      Duskin | englisch
+  - title: Fishbowl
+    image: ''
+    duration: 45
+    regie:
+    language:
+    description: WIE kommunizieren wir die Themen des Meeresschutzes?
+  - title: 'Dank und Schlusswort  '
+    image: ''
+    duration: 0
+    regie:
+    language:
+    description: Andrea Gerhard
+  - title: Where Devils Return
+    image: https://res.cloudinary.com/deepwave-org/deepwave.org/Mantas_2_f7mpwr.png
+    duration: 0
+    regie:
+    language:
+    description: '| Regie | englisch'
 details:
   datum: Freitag, 12. Juni 2026
   location: Lichtmess-Kino
