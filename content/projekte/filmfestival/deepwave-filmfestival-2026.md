@@ -10,7 +10,13 @@ films:
     regie:
     language:
     description: Andrea Gerhard
-  - title: Opener We are One
+  - title: Eröffnungsrede
+    image:
+    duration: 0
+    regie:
+    language:
+    description: Anna Groß, CEO DEEPWAVE
+  - title: 'Opener: We are One'
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/opener_Screenshot_fa5wrp.png
     duration: 1
@@ -19,6 +25,17 @@ films:
     description: >-
       Ein Film von Ivy Jelisavac (Regie und Schnitt) und Sebastian Fischbeck
       (Musik)
+  - title: Flor Do Mar
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Flor_do_Mar_4Frauen_im_Meer_b7b03t.jpg
+    duration: 21
+    regie:
+    language:
+    description: >-
+      Von der Meeresfarm in Cumuruxatiba bis zu den Labors in São Paulo zeigt
+      „Flor Do Mar“, wie eine Gemeinde dank Meeresalgen ihre Zukunft neu
+      gestalten kann … und dabei dem Ozean hilft, von dem unser eigenes Leben
+      abhängt.
 details:
   datum: Freitag, 12. Juni 2026
   location: Lichtmess-Kino
