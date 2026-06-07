@@ -173,10 +173,16 @@ films:
     description: Andrea Gerhard
   - title: Where Devils Return
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Mantas_2_f7mpwr.png
-    duration: 0
+    duration: 13
     regie:
     language:
-    description: '| Regie | englisch'
+    description: >-
+      Gedreht auf den Azoren, einem der wenigen Orte auf der Erde, an denen sich
+      die vom Aussterben bedrohten Sichelflossen-Teufelsrochen saisonal in
+      Gruppen versammeln. Was bedeutet es, nicht nur eine Art, sondern eine
+      Beziehung – zwischen Menschen, Wissenschaft und dem Meer – zu schützen?
+
+      | Regie Jasmine Corbett | englisch
 details:
   datum: Freitag, 12. Juni 2026
   location: Lichtmess-Kino
