@@ -106,29 +106,47 @@ films:
     language:
     description: Veganes Buffet und Erdbeerkuchen
   - title: Whale fall
-    image: ''
-    duration: 0
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-02-11_at_20-54-39_whale_fall_paper_cut_video_-_Google_Suche_scmyqc.png
+    duration: 4
     regie:
     language:
-    description: ohne Worte
+    description: >-
+      Aus gegebenem Anlass ein Paper-Cut Video zum Walsturz | Regie Sharon
+      Shattuck and Flora Lichtman | ohne Worte
   - title: Deafened Giants
-    image: ''
-    duration: 0
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Photo_5_1_-_8_exheqn.jpg
+    duration: 3
     regie:
     language:
-    description: ohne Worte
+    description: >-
+      Wie bedrohlich der Lärm in den Ozeanen ist, ist uns Landebewesen schwer zu
+      vermitteln. Dieser Film hat einen Weg gefunden und zeigt, wie es sich
+      anfühlt, in einem Meer aus Lärm zu ertrinken. | Regie Anastasia Konovalova
+      | ohne Worte
   - title: Coral in Focus
-    image: ''
-    duration: 0
+    image: >-
+      https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-06-07_at_02-00-36_Coral_In_Focus_-_FilmFreeway_v0nfio.png
+    duration: 18
     regie:
     language:
-    description: '| Regie Quentin Van Den Bossche | englisch'
-  - title: uki
-    image: ''
-    duration: 0
+    description: >-
+      "If we can see it, we can save it." Wie eine neue Handykameratechnik
+      Korallenschutz möglich macht, der allen zugänglich ist.  | Regie Quentin
+      Van Den Bossche | englisch
+  - title: Uki
+    image: https://res.cloudinary.com/deepwave-org/deepwave.org/Uki_2_vnr90y.jpg
+    duration: 6
     regie:
     language:
-    description: ohne Worte
+    description: >-
+      Die indigenen Gemeinschaften in den Polarregionen sind nach wie vor auf
+      das Meer als ihre wichtigste Nahrungsquelle angewiesen. Was passiert, wenn
+      eine weitere Ölkatastrophe durch einen Tankerunfall die Nahrungsgrundlage
+      für unzählige Menschen und Tiere zerstört und nichts mehr zu essen übrig
+      bleibt? Ein Albtraum als Knetanimation. | Regie George Warren und Ieuan
+      Lewis | ohne Worte
   - title: Great White Sharks
     image: >-
       https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0004_Great_White_Sharks_Copyright_Lakan_Duskin_jysyjh.jpg
