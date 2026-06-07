@@ -202,7 +202,7 @@ Und aus besonderem Anlass gibt es diesmal zur Stärkung nicht nur Herzhaftes, so
 
 &nbsp;
 
-**DEEPWAVE Filmfestival zum Schutz der Meere** <br>Freitag, 12. Juni 2026 <br>**Einlass**: 17:30 Uhr **Beginn**: 18:00 Uhr **Ort**: Lichtmess-Kino, Gaußstraße 25, Hamburg Altona. <br>Filme mit englischen Untertiteln oder auf Englisch ohne Untertitel.<br>**Eintritt, inklusive veganem Catering, ist frei!** Wir freuen uns über Spenden.
+**DEEPWAVE Filmfestival zum Schutz der Meere** <br>Freitag, 12. Juni 2026 <br>**Einlass**: 17:30 Uhr **Beginn**: 18:00 Uhr **Ort**: Lichtmess-Kino, Gaußstraße 25, Hamburg Altona. <br>Filme mit englischen Untertiteln oder auf Englisch ohne Untertitel.<br>**Eintritt, inklusive veganem Catering, ist frei!** <br>Wir freuen uns über Spenden.
 
 &nbsp;
 
