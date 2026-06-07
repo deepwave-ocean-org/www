@@ -4,7 +4,7 @@ date: 2026-04-19T00:00:00+01:00
 image: https://res.cloudinary.com/deepwave-org/deepwave.org/Plakat_2026_uyqvja.jpg
 link: /projekte/filmfestival/deepwave-filmfestival-2026/
 films:
-  - title: Begrüßung
+  - title: Begrüßung und  Moderation
     image:
     duration: 0
     regie:
@@ -96,9 +96,9 @@ films:
     regie:
     language:
     description: >-
-      mit Nico Czaja, Autor des KLARTEXT Meerespolitik, und Tim-Frederik Hahn,
-      Doktorrand, Globale Resourcenpolitik am Institut für Interkulturelle und
-      Internationale Studien, Universität Bremen
+      mit Nico Czaja, Planet Narratives, Autor des KLARTEXT Meerespolitik, und
+      Tim-Frederik Hahn, Doktorrand, Globale Resourcenpolitik am Institut für
+      Interkulturelle und Internationale Studien, Universität Bremen
   - title: Pause
     image: ''
     duration: 25
@@ -194,7 +194,7 @@ details:
 ---
 Kelpgärten, die gemeinschaftlich gepflegt und geerntet werden, Korallenaufforstung und Korallenkunst, Korallenschutz dank Citizen Science, Tiefseebergbau, Whale Fall, Lärm im Ozean, Arktis und Öl, Shark Trivia, fliegende Mantarochen. Unser diesjähriges Kurzfilmfestival stellt die Frage: WIE kommunizieren wir die Themen des Meeresschutzes? Dazu laden wir unser Publikum zu einer Fishbowl ein, um die verschiedenen Möglichkeiten mit uns zu diskutieren.
 
-Das Meer als Politischer Raum ist Thema der Expertenrunde mit Nico Czaja und Tim-Frederik Hahn sowie anhand des Kernthemas von DEEPWAVE, dem potentiellen Tiefseebergbau, die Frage, was hinter dem derzeitigen geopolitischen Framing ökologischer Narrative steckt.
+Das Meer als Politischer Raum ist Thema der Expertenrunde mit Nico Czaja und Tim-Frederik Hahn sowie anhand des Kernthemas von DEEPWAVE, dem potentiellen Tiefseebergbau, die Frage, was hinter dem derzeitigen geopolitischen Framing ökologischer Narrative steckt. <br>Moderation: Andrea Gerhard.
 
 Unser Opener ist auch dieses Jahr eine Eigenproduktion, das Motto des Festivals und unserer Arbeit: *We are one.*
 
