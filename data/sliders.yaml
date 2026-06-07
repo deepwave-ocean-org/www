@@ -73,11 +73,6 @@
     https://res.cloudinary.com/deepwave-org/image/upload/v1747267222/deepwave.org/Wolken_fuer_Slider.jpg
   overlay_color: '#000000'
   button_overlay: '#b3bbbd'
-- title: ''
-  button_text: ''
-  link: ''
-  background_image: ''
-  overlay_color:
 - title: Was wir tun
   button_text: seit 2003
   link: https://www.deepwave.org/ueber-uns/was-wir-tun/
