@@ -97,7 +97,7 @@ films:
     language:
     description: >-
       mit Nico Czaja, Planet Narratives, Autor des KLARTEXT Meerespolitik, und
-      Tim-Frederik Hahn, Doktorrand, Globale Resourcenpolitik am Institut für
+      Tim-Frederik Hahn, Doktorrand, Globale Ressourcenpolitik am Institut für
       Interkulturelle und Internationale Studien, Universität Bremen
   - title: Pause
     image: ''
