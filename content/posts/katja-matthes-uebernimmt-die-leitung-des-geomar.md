@@ -1,16 +1,15 @@
 ---
-title: "Katja Matthes übernimmt die Leitung des GEOMAR"
-date: 2020-10-03
-blogs: 
-  - "good-news"
-image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244400/deepwave.org/KM_picturealliance_dpa_AxelHeimken-scaled.jpg"
-image_caption: "© picture alliance/dpa/Axel Heimken"
-author: "DEEPWAVE"
-related: 
-  - "/rov-kiel-6000-entdeckt-klare-raucher-vor-island/"
-  - "/studie-des-geomar-wirkungsloser-schutz-fuer-die-meere/"
+title: Katja Matthes übernimmt die Leitung des GEOMAR
+date: 2020-10-03T00:00:00Z
+blogs:
+  - good-news
+image:
+image_caption: © picture alliance/dpa/Axel Heimken
+author: DEEPWAVE
+related:
+  - /rov-kiel-6000-entdeckt-klare-raucher-vor-island/
+  - /studie-des-geomar-wirkungsloser-schutz-fuer-die-meere/
 ---
-
 Pressemittelung, GEOMAR Helmholtz-Zentrum für Ozeanforschung, 02.10.2020
 
 **Unserer Welt ist der Ozean**
