@@ -44,10 +44,10 @@
 
 <div style="font-family:'Manrope',sans-serif;color:#e8f3f3;">
 
-  <div class="header-hero" style="background:linear-gradient(180deg,#1f5470 0%,#12324a 55%,#0a2131 100%);padding:100px 24px 40px;position:relative;">
+  <div class="header-hero" style="background:linear-gradient(180deg,#1f5470 0%,#12324a 55%,#0a2131 100%);padding:100px 24px 90px;position:relative;">
     <div style="max-width:1040px;margin:0 auto;position:relative;z-index:1;">
       <div style="display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:18px;">
-        <img src="assets/LOGO_DEEPWAVE_neu_white.svg" alt="Deepwave Logo" style="height:44px;">
+        <img src="assets/LOGO_DEEPWAVE_neu_white.svg" alt="Deepwave Logo" style="height:64px;">
         <span style="display:inline-flex;align-items:center;background:#fff;border:1px solid #cfe4e6;padding:5px 14px;border-radius:999px;font-size:11px;letter-spacing:.04em;text-transform:uppercase;font-weight:600;color:#0a2131;box-shadow:0 1px 4px rgba(6,16,26,0.2);">Beta</span>
       </div>
       <h1 style="margin:0 0 10px;font-family:'Source Serif 4',serif;font-weight:700;font-size:56px;line-height:1.08;max-width:760px;color:#fff;text-shadow:0 2px 6px rgba(4,10,18,0.8),0 6px 26px rgba(4,10,18,0.55);">Meeresschutz-Pfadfinder</h1>
@@ -56,6 +56,9 @@
       <p style="max-width:640px;font-size:16px;line-height:1.6;color:#fff;text-shadow:0 1px 5px rgba(4,10,18,0.8),0 4px 20px rgba(4,10,18,0.5);margin:0 0 26px;">Hier stellen dir Menschen ganz persönlich ihre Wege vor, die sie in die Forschung, auf Schiffe und Polarstationen, in Korallenriffe und Kelpwälder, an die Uni und in die meerespolitische und praktische Projektarbeit gebracht haben. Als Anleitung, Inspiration und zum Nachfragen.</p>
       <div style="display:inline-block;background:#fff;border:1px solid #cfe4e6;border-radius:10px;padding:10px 16px;font-size:13px;color:#1c3040;box-shadow:0 1px 6px rgba(6,16,26,0.25);">Dies ist ein Klick-Prototyp mit Beispieldaten.</div>
     </div>
+    <svg viewBox="0 0 1440 90" preserveAspectRatio="none" style="position:absolute;left:0;right:0;bottom:-1px;width:100%;height:64px;display:block;">
+      <path d="M0,45 C240,90 480,0 720,40 C960,80 1200,10 1440,50 L1440,90 L0,90 Z" fill="#397891"></path>
+    </svg>
   </div>
 
   <div style="background:linear-gradient(180deg,#397891 0%,#3f7089 18%,#12324a 55%,#0a2131 100%);">
@@ -518,7 +521,7 @@ class Component extends DCLogic {
 
     const profiles = this.profiles
       .map((p, idx) => ({ p, idx }))
-      .filter(({ p }) => active.size === 0 || [...active].every(t => p.schwerpunkte.includes(t)))
+      .filter(({ p }) => active.size === 0 || [...active].some(t => p.schwerpunkte.includes(t)))
       .map(({ p, idx }) => {
         const isOpen = this.state.openIdx === idx;
         const heroImg = this.heroImage(p);
