@@ -1,13 +1,8 @@
-- title: DEEPWAVE Filmfestival
-  button_text: ' 12. Juni Lichtmesskino Hamburg'
-  link: https://www.deepwave.org/projekte/filmfestival/deepwave-filmfestival-2026/
-  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/Kelp1_d5jw6x.jpg
-  overlay_color:
-- title: Die Eröffnungsrede von Frederik Götz
-  button_text: zur Plankton & Popcorn Filmtour
-  link: https://youtu.be/CIZ_b0OTDcI
+- title: Unser Logbuch hält euch auf Kurs
+  button_text: aktuelle Ausgabe
+  link: https://www.deepwave.org/newsletter/logbuch-16-vorschau/
   background_image: >-
-    https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-12-21_at_16-07-57_Deepwave_Filmtour_Opener_Lang_-_YouTube_d7jvh8.png
+    https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
   overlay_color:
 - title: 'Threat N°1 '
   button_text: alles zum Tiefseebergbau in 44 sec
@@ -21,11 +16,16 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747244825/deepwave.org/Screenshot-2023-11-26-112920.png
   overlay_color: '#0c3b5c'
-- title: Unser Logbuch hält euch auf Kurs
-  button_text: aktuelle Ausgabe
-  link: https://www.deepwave.org/newsletter/logbuch-16-vorschau/
+- title: DEEPWAVE Filmfestival
+  button_text: ' 12. Juni Lichtmesskino Hamburg'
+  link: https://www.deepwave.org/projekte/filmfestival/deepwave-filmfestival-2026/
+  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/Kelp1_d5jw6x.jpg
+  overlay_color:
+- title: Die Eröffnungsrede von Frederik Götz
+  button_text: zur Plankton & Popcorn Filmtour
+  link: https://youtu.be/CIZ_b0OTDcI
   background_image: >-
-    https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
+    https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2025-12-21_at_16-07-57_Deepwave_Filmtour_Opener_Lang_-_YouTube_d7jvh8.png
   overlay_color:
 - title: KLARTEXT Meerespolitik
   button_text: 'Wie funktioniert das? '
