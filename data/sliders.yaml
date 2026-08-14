@@ -4,6 +4,11 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
   overlay_color:
+- title: DEEPWAVE Filmfestival zum Schutz der Meere
+  button_text: ' Jedes Jahr im Sommer in Hamburg'
+  link: https://www.deepwave.org/projekte/filmfestival/
+  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/Ausschnitt_qphmp9.jpg
+  overlay_color:
 - title: 'Threat N°1 '
   button_text: alles zum Tiefseebergbau in 44 sec
   link: https://youtu.be/TTvLqUCDrbE
@@ -16,11 +21,6 @@
   background_image: >-
     https://res.cloudinary.com/deepwave-org/image/upload/v1747244825/deepwave.org/Screenshot-2023-11-26-112920.png
   overlay_color: '#0c3b5c'
-- title: DEEPWAVE Filmfestival zum Schutz der Meere
-  button_text: ' Jedes Jahr im Sommer in Hamburg'
-  link: https://www.deepwave.org/projekte/filmfestival/
-  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/Ausschnitt_qphmp9.jpg
-  overlay_color:
 - title: Die Eröffnungsrede von Frederik Götz
   button_text: zur Plankton & Popcorn Filmtour
   link: https://youtu.be/CIZ_b0OTDcI
