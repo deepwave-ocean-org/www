@@ -21,7 +21,7 @@
 <meta name="ext-resource-dependency" content="assets/header-illustration.jpg" data-resource-id="header-illustration" />
 <script src="./support.js"></script>
 <template id="__bundler_thumbnail">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect width="200" height="200" fill="#12324a" data-bg-color="#12324a"/><path d="M20 130 C50 110 80 150 110 130 C140 110 170 150 190 130" stroke="#4fd6d1" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M20 155 C50 135 80 175 110 155 C140 135 170 175 190 155" stroke="#c31f5d" stroke-width="6" fill="none" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect width="200" height="200" fill="#12324a" data-bg-color="#12324a"/><path d="M20 130 C50 110 80 150 110 130 C140 110 170 150 190 130" stroke="#4fd6d1" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M20 155 C50 135 80 175 110 155 C140 135 170 175 190 155" stroke="#e2725b" stroke-width="6" fill="none" stroke-linecap="round"/></svg>
 </template>
 </head>
 <body>
@@ -44,10 +44,10 @@
 
 <div style="font-family:'Manrope',sans-serif;color:#e8f3f3;">
 
-  <div class="header-hero" style="background-image:url(assets/header-illustration.jpg);background-size:cover;background-repeat:no-repeat;padding:420px 24px 40px;position:relative;">
+  <div class="header-hero" style="background:linear-gradient(180deg,#1f5470 0%,#12324a 55%,#0a2131 100%);padding:100px 24px 40px;position:relative;">
     <div style="max-width:1040px;margin:0 auto;position:relative;z-index:1;">
       <div style="display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:18px;">
-        <img src="assets/deepwave-logo.svg" alt="Deepwave Logo" style="height:44px;filter:invert(1) drop-shadow(0 2px 6px rgba(4,10,18,0.75)) drop-shadow(0 0 14px rgba(4,10,18,0.5));">
+        <img src="assets/LOGO_DEEPWAVE_neu_white.svg" alt="Deepwave Logo" style="height:44px;">
         <span style="display:inline-flex;align-items:center;background:#fff;border:1px solid #cfe4e6;padding:5px 14px;border-radius:999px;font-size:11px;letter-spacing:.04em;text-transform:uppercase;font-weight:600;color:#0a2131;box-shadow:0 1px 4px rgba(6,16,26,0.2);">Beta</span>
       </div>
       <h1 style="margin:0 0 10px;font-family:'Source Serif 4',serif;font-weight:700;font-size:56px;line-height:1.08;max-width:760px;color:#fff;text-shadow:0 2px 6px rgba(4,10,18,0.8),0 6px 26px rgba(4,10,18,0.55);">Meeresschutz-Pfadfinder</h1>
@@ -78,7 +78,7 @@
                 <img src="{{ p.avatarSrc }}" alt="Foto von {{ p.name }}" style="width:100%;height:100%;display:block;object-fit:cover;object-position:{{ p.objectPosition }};">
               </div>
               <sc-if value="{{ p.hasVideo }}">
-                <span style="position:absolute;bottom:-2px;right:-2px;width:26px;height:26px;border-radius:50%;background:#c31f5d;border:2.5px solid #fff;display:flex;align-items:center;justify-content:center;box-shadow:0 1px 4px rgba(0,0,0,0.25);">
+                <span style="position:absolute;bottom:-2px;right:-2px;width:26px;height:26px;border-radius:50%;background:#e2725b;border:2.5px solid #fff;display:flex;align-items:center;justify-content:center;box-shadow:0 1px 4px rgba(0,0,0,0.25);">
                   <svg viewBox="0 0 12 12" fill="#fff" style="width:9px;height:9px;margin-left:1px;"><path d="M2 1.5 L10 6 L2 10.5 Z"></path></svg>
                 </span>
               </sc-if>
@@ -121,12 +121,12 @@
               </div>
               <sc-if value="{{ p.canScrollLeft }}">
                 <button onclick="{{ p.scrollLeftClick }}" style="position:absolute;left:-2px;top:9px;width:20px;height:20px;border-radius:50%;background:#fff;border:1px solid #cfe4e6;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2;box-shadow:0 1px 4px rgba(10,33,49,0.15);" style-hover="border-color:#4fd6d1;">
-                  <svg viewBox="0 0 8 12" fill="none" style="width:6px;height:9px;"><path d="M7 1L2 6L7 11" stroke="#c31f5d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+                  <svg viewBox="0 0 8 12" fill="none" style="width:6px;height:9px;"><path d="M7 1L2 6L7 11" stroke="#e2725b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>
                 </button>
               </sc-if>
               <sc-if value="{{ p.canScrollRight }}">
                 <button onclick="{{ p.scrollRightClick }}" style="position:absolute;right:-2px;top:9px;width:20px;height:20px;border-radius:50%;background:#fff;border:1px solid #cfe4e6;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2;box-shadow:0 1px 4px rgba(10,33,49,0.15);" style-hover="border-color:#4fd6d1;">
-                  <svg viewBox="0 0 8 12" fill="none" style="width:6px;height:9px;"><path d="M1 1L6 6L1 11" stroke="#c31f5d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+                  <svg viewBox="0 0 8 12" fill="none" style="width:6px;height:9px;"><path d="M1 1L6 6L1 11" stroke="#e2725b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>
                 </button>
               </sc-if>
             </div>
@@ -136,28 +136,25 @@
             <div style="border-top:1px solid #eef3f2;padding:20px 22px 24px;background:#f2f8f8;">
               <div style="display:flow-root;">
                 <sc-if value="{{ p.heroImg }}">
-                  <div onclick="{{ p.openLightbox }}" style="position:relative;float:left;width:220px;aspect-ratio:4/5;margin:0 20px 14px 0;border-radius:16px;overflow:hidden;background:#0a2131;cursor:{{ p.heroCursor }};">
+                  <div onclick="{{ p.openLightbox }}" style="position:relative;float:left;width:220px;aspect-ratio:4/5;margin:0 20px 14px 0;border-radius:16px;overflow:hidden;background:#0a2131;cursor:{{ p.heroCursor }};outline:none;-webkit-tap-highlight-color:transparent;">
                     <img src="{{ p.heroImg }}" alt="Foto von {{ p.name }}" style="width:100%;height:100%;object-fit:cover;object-position:{{ p.objectPosition }};display:block;">
-                    <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,33,49,0) 32%,rgba(10,33,49,0.9) 100%);"></div>
                     <sc-if value="{{ p.hasVideo }}">
+                      <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,33,49,0) 55%,rgba(10,33,49,0.55) 100%);"></div>
                       <div style="position:absolute;top:38%;left:50%;transform:translate(-50%,-50%);width:46px;height:46px;border-radius:50%;background:rgba(255,255,255,0.94);display:flex;align-items:center;justify-content:center;box-shadow:0 2px 10px rgba(0,0,0,0.3);">
                         <svg viewBox="0 0 12 12" fill="#0a2131" style="width:15px;height:15px;margin-left:2px;"><path d="M2 1.5 L10 6 L2 10.5 Z"></path></svg>
                       </div>
                       <div style="position:absolute;top:10px;left:10px;background:rgba(10,33,49,0.75);color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;">{{ p.videoDuration }}</div>
                     </sc-if>
-                    <p style="position:absolute;left:16px;right:16px;bottom:14px;color:#fff;font-size:15px;font-weight:600;font-style:italic;line-height:1.4;margin:0;text-shadow:0 1px 4px rgba(0,0,0,0.45);font-family:'Source Serif 4',serif;">„{{ p.teaser }}“</p>
                   </div>
                 </sc-if>
-                <sc-if value="{{ p.noHeroImg }}">
-                  <p style="font-family:'Source Serif 4',serif;font-size:17px;font-weight:600;font-style:italic;line-height:1.5;color:#12324a;background:#fff;border-left:3px solid #c31f5d;padding:14px 18px;border-radius:0 12px 12px 0;margin:0 0 16px;max-width:560px;">„{{ p.teaser }}“</p>
-                </sc-if>
+                <p style="font-family:'Source Serif 4',serif;font-size:18px;font-weight:600;font-style:italic;line-height:1.5;color:#12324a;border-left:3px solid #e2725b;padding:1px 0 1px 18px;margin:14px 0 22px;max-width:560px;">„{{ p.teaser }}“</p>
 
                 <sc-if value="{{ p.hasExpertise }}">
                   <div style="margin-top:2px;margin-bottom:18px;">
                     <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:#5c8aa0;margin-bottom:8px;font-weight:600;">Expertise</span>
                     <div style="display:flex;flex-wrap:wrap;gap:8px;">
                       <sc-for list="{{ p.expertise }}" as="ex" hint-placeholder-count="2">
-                        <span style="font-size:12.5px;background:#fff;color:#9c1850;border:1px solid #c31f5d;border-radius:8px;padding:6px 12px;">{{ ex }}</span>
+                        <span style="font-size:12.5px;background:#fff;color:#b84a35;border:1px solid #e2725b;border-radius:8px;padding:6px 12px;">{{ ex }}</span>
                       </sc-for>
                     </div>
                   </div>
@@ -165,7 +162,7 @@
 
                 <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:18px;">
                   <sc-if value="{{ p.ansprechbar }}">
-                    <a href="#" style="display:inline-block;padding:10px 18px;border-radius:999px;font-size:13px;font-weight:700;text-decoration:none;background:#c31f5d;color:#fff;" style-hover="background:#9c1850;">Frag {{ p.firstName }} direkt</a>
+                    <a href="#" style="display:inline-block;padding:10px 18px;border-radius:999px;font-size:13px;font-weight:700;text-decoration:none;background:#e2725b;color:#fff;" style-hover="background:#c65a44;">Frag {{ p.firstName }} direkt</a>
                   </sc-if>
                   <sc-if value="{{ p.hasStory }}">
                     <a href="#" onclick="{{ p.openStory }}" style="display:inline-block;padding:10px 18px;border-radius:999px;font-size:13px;font-weight:700;text-decoration:none;background:#fff;color:#12324a;border:1.5px solid #5c8aa0;" style-hover="border-color:#157e79;color:#157e79;">Ganze Geschichte lesen</a>
@@ -180,7 +177,10 @@
 
     <div style="margin-top:40px;background:#fff;border-radius:20px;border:1px solid #e6f0f0;padding:26px 28px;">
       <h2 style="font-family:'Source Serif 4',serif;font-size:20px;margin:0 0 8px;color:#0a2131;display:flex;align-items:center;gap:8px;">
-        <svg viewBox="0 0 40 12" style="width:32px;height:10px;"><path d="M0 6 C10 0 30 12 40 6" stroke="#4fd6d1" stroke-width="2.5" fill="none"></path></svg>
+        <svg viewBox="0 0 40 18" style="width:36px;height:16px;flex-shrink:0;">
+          <path d="M2 13 C8 9 14 9 20 13 C26 17 32 17 38 13" stroke="#12324a" stroke-width="1.8" fill="none" stroke-linecap="round" opacity="0.4"></path>
+          <path d="M2 7 C8 3 14 3 20 7 C26 11 32 11 38 7" stroke="#4fd6d1" stroke-width="2.4" fill="none" stroke-linecap="round"></path>
+        </svg>
         Relevante Studiengänge
       </h2>
       <ul style="columns:2;-webkit-columns:2;margin:16px 0 0;padding-left:18px;font-size:13.5px;line-height:1.55;color:#0c2230;">
@@ -200,7 +200,10 @@
 
     <div style="margin-top:22px;background:#fff;border-radius:20px;border:1px solid #e6f0f0;padding:26px 28px;">
       <h2 style="font-family:'Source Serif 4',serif;font-size:20px;margin:0 0 8px;color:#0a2131;display:flex;align-items:center;gap:8px;">
-        <svg viewBox="0 0 40 12" style="width:32px;height:10px;"><path d="M0 6 C10 0 30 12 40 6" stroke="#c31f5d" stroke-width="2.5" fill="none"></path></svg>
+        <svg viewBox="0 0 40 18" style="width:36px;height:16px;flex-shrink:0;">
+          <path d="M2 13 C8 9 14 9 20 13 C26 17 32 17 38 13" stroke="#12324a" stroke-width="1.8" fill="none" stroke-linecap="round" opacity="0.4"></path>
+          <path d="M2 7 C8 3 14 3 20 7 C26 11 32 11 38 7" stroke="#e2725b" stroke-width="2.4" fill="none" stroke-linecap="round"></path>
+        </svg>
         Wie geht's konkret weiter? Jobs, Praktika &amp; Freiwilligenarbeit
       </h2>
       <p style="font-size:13px;color:#5c8aa0;margin:0 0 20px;">Auswahl an Seiten, auf denen Stellen und Freiwilligenprojekte im Natur- und Meeresschutz ausgeschrieben werden.</p>
@@ -260,7 +263,7 @@
                 <p style="font-family:'Manrope',sans-serif;font-size:16px;line-height:1.7;color:#12324a;margin:0 0 20px;">{{ b.text }}</p>
               </sc-if>
               <sc-if value="{{ b.isQuote }}">
-                <p style="font-family:'Source Serif 4',serif;font-size:17px;font-weight:600;font-style:italic;line-height:1.5;color:#12324a;background:#fff;border-left:3px solid #c31f5d;padding:14px 18px;border-radius:0 12px 12px 0;margin:0 0 20px;">{{ b.text }}</p>
+                <p style="font-family:'Source Serif 4',serif;font-size:17px;font-weight:600;font-style:italic;line-height:1.5;color:#12324a;background:#fff;border-left:3px solid #e2725b;padding:14px 18px;border-radius:0 12px 12px 0;margin:0 0 20px;">{{ b.text }}</p>
               </sc-if>
               <sc-if value="{{ b.isImage }}">
                 <figure style="margin:0 0 22px;">
@@ -337,7 +340,7 @@ class Component extends DCLogic {
       steps:[{label:"Schule",value:"Abitur"},{label:"Gap Year",value:"Belize"},{label:"Bachelor",value:"Marine Ökosystem- & Fischereiwissenschaft (MarSys)"},{label:"Ausland",value:"Semester Sydney"},{label:"Master",value:"Marine Ecosystem and Fisheries Science (MarSys)"},{label:"Praktikum/Ehrenamt",value:"Deepwave"},{label:"Nebenjob",value:"Hiwi Universität Hamburg & Thünen-Institut"}] },
     { name:"Jascha Macdonald", avatar:{ bg:"#f7dce8", skin:"#eab98f", hair:"#2b2b2b", style:"headwrap" },
       photo:(window.__resources && window.__resources["foto-jascha"]) || "assets/foto-jascha.jpg", mediaPosition:"50% 15%", ansprechbar:true,
-      teaser:"Vom Schulpraktikum im Aquazoo über Reisforschung auf den Philippinen bis zur Nachhaltigkeitsforschung in Exeter.",
+      teaser:"Ich untersuche die Welt des ganz Kleinem im Meer, um das große Ganze zu entschlüsseln.",
       schwerpunkte:["Meereslebewesen","Biodiversität","Praktischer Meeresschutz"], expertise:["Marine Bakterien","Stoffkreisläufe","Ressourcen aus dem Meer"],
       steps:[{label:"Schule",value:"Abitur"},{label:"Schulpraktikum",value:"Aquazoo Löbbecke Museum Düsseldorf"},{label:"Bachelor",value:"Biologie"},{label:"Master",value:"Marine Ecosystem and Fisheries Science (MarSys)"},{label:"Praktika",value:"International Rice Research Institute (Philippinen) · University of Exeter (UK)"},{label:"Ehrenamt",value:"Deepwave"},{label:"Promotion",value:"Biotechnologisches Potenzial mariner Bakterien"}] },
     { name:"Markus Olsson", avatar:{ bg:"#e0f0f7", skin:"#eab98f", hair:"#c9962e", style:"glasses" },
@@ -498,7 +501,9 @@ class Component extends DCLogic {
 
   renderVals() {
     const active = new Set(this.state.activeFilters);
-    const allSchwerpunkte = [...new Set(this.profiles.flatMap(p => p.schwerpunkte))].sort();
+    const extraSchwerpunkte = ["Klimagerechtigkeit", "Tiefsee", "Internationales Seerecht", "Plastik"];
+    const existingSchwerpunkte = [...new Set(this.profiles.flatMap(p => p.schwerpunkte))].sort();
+    const allSchwerpunkte = [...existingSchwerpunkte, ...extraSchwerpunkte.filter(t => !existingSchwerpunkte.includes(t))];
 
     const filters = allSchwerpunkte.map(tag => {
       const isActive = active.has(tag);
@@ -530,7 +535,6 @@ class Component extends DCLogic {
           steps: p.steps,
           teaser: p.teaser,
           heroImg: heroImg,
-          noHeroImg: !heroImg,
           heroCursor: p.video ? "pointer" : "default",
           expertise: p.expertise || [],
           hasExpertise: !!(p.expertise && p.expertise.length),
