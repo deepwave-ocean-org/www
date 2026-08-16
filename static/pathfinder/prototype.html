@@ -70,7 +70,7 @@
       </sc-for>
     </div>
     <p style="font-size:12px;color:#bcd8da;margin:0 0 28px;">Mehrfachauswahl möglich · Filter zurücksetzen mit erneutem Klick</p>
-    <div style="display:inline-block;background:#fff;border:1px solid #cfe4e6;border-radius:10px;padding:10px 16px;font-size:13px;color:#1c3040;font-weight:600;margin:0 0 16px;">{{ resultsCountText }}</div>
+    <p style="font-size:16px;margin:0 0 16px;color:#eaf6f6;font-weight:600;">{{ resultsCountText }}</p>
 
     <div>
       <sc-for list="{{ profiles }}" as="p" hint-placeholder-count="3">
@@ -165,7 +165,7 @@
 
                 <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:18px;">
                   <sc-if value="{{ p.ansprechbar }}">
-                    <a href="#" style="display:inline-block;padding:10px 18px;border-radius:999px;font-size:13px;font-weight:700;text-decoration:none;background:#e2725b;color:#fff;" style-hover="background:#c65a44;">Frag {{ p.firstName }} direkt</a>
+                    <a href="{{ p.mailtoHref }}" style="display:inline-block;padding:10px 18px;border-radius:999px;font-size:13px;font-weight:700;text-decoration:none;background:#e2725b;color:#fff;" style-hover="background:#c65a44;">Frag {{ p.firstName }} direkt</a>
                   </sc-if>
                   <sc-if value="{{ p.hasStory }}">
                     <a href="#" onclick="{{ p.openStory }}" style="display:inline-block;padding:10px 18px;border-radius:999px;font-size:13px;font-weight:700;text-decoration:none;background:#fff;color:#12324a;border:1.5px solid #5c8aa0;" style-hover="border-color:#157e79;color:#157e79;">Ganze Geschichte lesen</a>
@@ -304,7 +304,7 @@ class Component extends DCLogic {
   profiles = [
     { name:"Antonia Ahme", avatar:{ bg:"#cfeee9", skin:"#eab98f", hair:"#3d2b1f", style:"bun" },
       video:{ src:(window.__resources && window.__resources["video-antonia"]) || "assets/video-antonia.mp4", poster:(window.__resources && window.__resources["poster-antonia"]) || "assets/poster-antonia.jpg", duration:"1:46" }, ansprechbar:true, mediaPosition:"50% 22%",
-      teaser:"Man kann auf vielen Wegen zum Meer kommen...",
+      teaser:"Meine Begeisterung für die Meere führte mich zum Phytoplankton der Polarregionen – Ökosysteme, die besonders stark vom Klimawandel betroffen sind.",
       schwerpunkte:["Meereslebewesen","Klima","Biodiversität"], expertise:["Polares Phytoplankton","Marine Molekularbiologie","Folgen des Klimawandels"],
       steps:[{label:"Schule",value:"Abitur"},{label:"Gap Year",value:"Barcelona"},{label:"Bachelor",value:"Biologie"},{label:"Ausland",value:"Semester Nottingham"},{label:"Master",value:"MRes Marine Biology"},{label:"2. Weg",value:"Staatsexamen Bio/Geo Lehramt"},{label:"Praktika",value:"diverse (Ausland)"},{label:"Promotion",value:"Temperatureffekte auf Einzeller"},{label:"Postdoc",value:"Eigenes Projekt der Deutschen Forschungsgemeinschaft, Universität Hamburg/Alfred-Wegener-Institut"}] },
     { name:"Svenja Heckler", avatar:{ bg:"#e4e9fc", skin:"#8a5a3a", hair:"#151515", style:"curly" },
@@ -348,7 +348,7 @@ class Component extends DCLogic {
       steps:[{label:"Schule",value:"Abitur"},{label:"Schulpraktikum",value:"Aquazoo Löbbecke Museum Düsseldorf"},{label:"Bachelor",value:"Biologie"},{label:"Master",value:"Marine Ecosystem and Fisheries Science (MarSys)"},{label:"Praktika",value:"International Rice Research Institute (Philippinen) · University of Exeter (UK)"},{label:"Ehrenamt",value:"Deepwave"},{label:"Promotion",value:"Biotechnologisches Potenzial mariner Bakterien"}] },
     { name:"Markus Olsson", avatar:{ bg:"#e0f0f7", skin:"#eab98f", hair:"#c9962e", style:"glasses" },
       photo:(window.__resources && window.__resources["foto-markus"]) || "assets/foto-markus.jpg", mediaPosition:"50% 15%", ansprechbar:true,
-      teaser:"Von der Meeresschildkröten-Rettung in Malaysia über Mikrobiologie und Plankton bis zur Promotion über Tiefseebergbau in der Ostsee.",
+      teaser:"Meine Begeisterung für Meeressschildkröten führte mich über die Mikrobiologie und Planktonbestimmung zum Meeresbodenbergbau in der Ostsee.",
       schwerpunkte:["Meereslebewesen","Biodiversität","Praktischer Meeresschutz"], expertise:["Makrofauna-Analyse","Mikrobiologische Methoden","Zooplankton-Bestimmung"],
       steps:[{label:"Schule",value:"A-Levels"},{label:"Gap Year",value:"Malaysia"},{label:"Bachelor",value:"Marine Biology (Stockholm)"},{label:"Master",value:"Marine Biology (Stockholm)"},{label:"Praktikum",value:"Aquacosm+ Planktotrons"},{label:"Weiterbildung",value:"CoastClim Research School"},{label:"Promotion",value:"Tiefseebergbau in der Ostsee"},{label:"Ehrenamt",value:"Trash Diving · Meeresschildkröten-Schutz (Malaysia)"},{label:"Nebenjob",value:"Tutor bei Feldkursen, Betreuung von Abschlussarbeiten"}] },
     { name:"Alston D'Souza", avatar:{ bg:"#fff1cf", skin:"#8a5a3a", hair:"#1c1c1c", style:"short" },
@@ -549,6 +549,7 @@ class Component extends DCLogic {
           openLightbox: () => this.openLightbox(idx),
           hasStory: !!p.story,
           openStory: () => this.openStory(idx),
+          mailtoHref: `mailto:info@deepwave.org?subject=${encodeURIComponent("Frag " + p.name.split(" ")[0] + " direkt")}`,
           stepsElId: "steps-" + idx,
           canScrollLeft: flags.left,
           canScrollRight: flags.right,
@@ -560,7 +561,7 @@ class Component extends DCLogic {
 
     const visibleCount = profiles.length;
     const resultsCountText = active.size === 0
-      ? `${this.profiles.length} Wege zum Stöbern`
+      ? `Hier zeigen dir sieben Meeresschützer:innen ihren Weg`
       : `${visibleCount} von ${this.profiles.length} Wegen passen zu deiner Auswahl`;
 
     const glossaryItems = Object.keys(this.studiengangInfo).sort().map(d => {
