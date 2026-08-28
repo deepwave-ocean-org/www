@@ -4,8 +4,7 @@ date: 2023-03-01T00:00:00Z
 blogs:
   - favoriten
   - politik
-image: >-
-  https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243972/deepwave.org/Ablasshandel_Holzschnitt_CCS.jpg
 image_caption: © Ablasshandel im Mittelalter / Wikimedia Commons
 author: nico-czaja
 ---
