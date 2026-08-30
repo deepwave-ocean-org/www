@@ -1,6 +1,6 @@
 ---
 title: 'Die Tiefsee  '
-image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243601/deepwave.org/Tiefsee_good_icon_A_RGB.jpg
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/Staatsqualle_Marrus_orthocanna_wrbsn4.jpg
 hover: https://res.cloudinary.com/deepwave-org/image/upload/v1764080819/Tiefsee_bad_icon_RGB_pwjyqd.jpg
 overlay: rgba(26,26,38,0.49)
 order: 2
