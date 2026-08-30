@@ -1,13 +1,13 @@
 ---
 title: 'Die Tiefsee  '
-image: >-
-  https://res.cloudinary.com/deepwave-org/image/upload/v1747243601/deepwave.org/Tiefsee_good_icon_A_RGB.jpg
-hover: >-
-  https://res.cloudinary.com/deepwave-org/image/upload/v1764080819/Tiefsee_bad_icon_RGB_pwjyqd.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243601/deepwave.org/Tiefsee_good_icon_A_RGB.jpg
+hover: https://res.cloudinary.com/deepwave-org/image/upload/v1764080819/Tiefsee_bad_icon_RGB_pwjyqd.jpg
 overlay: rgba(26,26,38,0.49)
 order: 2
 ---
-#### von Onno Groß  <br>2016
+#### von Onno Groß, 2016
+
+*Anmerkung: Zum Andenken an* <a href="https://www.deepwave.org/ueber-uns/onno-gro%C3%9F/" title="in memoriam Onno Groß" target="_blank" rel="noopener"><em>Onno Groß</em></a> *haben wir seinen Text im Originalzustand von 2016 belassen. Alles Aktuelle zur Tiefsee und zum Tiefseebergbau findet ihr auf unserer* <a href="https://www.deepwave.org/tiefsee/home/" title="NO DEEP SEA MINING – NEVER" target="_blank" rel="noopener"><em>Kampagnenseite</em></a>
 
 Ewige Nacht, hoher Druck und gleichbleibende Kälte sind die wenig einladenden Bedingungen der Tiefsee. Die Tiefsee galt daher früher als lebensfeindlich. Doch diese Bedingungen haben einen Vorteil: Sie bleiben stets gleich. Die Dunkelheit ist so vollständig, der Druck so gewaltig, dass die Geschöpfe, die sich dem Leben in der Tiefe angepasst haben, in einer Weise spezialisiert sind, die sich im Flachwasser kaum findet. Und die Tiefsee hat eine ungeheure Flächenausdehnung: Mehr als die Hälfte der Erdoberfläche (53,6 Prozent) besitzt Tiefen zwischen 3.000 und 6.000 Meter, und 1 % enthällt auf Tiefen über 6.000 Meter. Der Rest von 0 bis 3000 Metern nimmt 16,2 % ein, daran ist der Schelf allein mit 5,5 % beteiligt. Die mittlere Tiefe des Weltmeeres beträgt 3.790 Meter. Die Tiefsee ist der größte Lebensraum unseres Planeten -- ein riesiges Reich faszinierender Spezialisten.
 
@@ -199,25 +199,4 @@ Die Offshore-Erdöl- und Erdgasvorkommen werden schon seit Jahren kommerziell ge
 
 Immer tiefer -- die Erdölsuche im Ozean erreicht die Tiefsee<br> Die Beeinträchtigung der Meeresumwelt durch die Ölförderung reichen von lokaler Verschmutzung (Lärm, Öl u.a.) bis weit über die Plattformen hinaus (z. B. Kohlenwasserstoffe und andere Giftstoffe). Nach dem erfolgreichen Verhindern der Versenkung der ausgedienten „Brent Spar"-Plattform durch Umweltschützer ist zumindest in europäischen Gewässern eine Entsorgung der Stahlkolosse im Meer verboten. Doch die Erdölindustrie trägt weiterhin wesentlich zur Meeresverschmutzung bei.
 
-Text: Onno Groß, 2016
-
-## Unsere Factsheets zum Thema
-
-Das Thema „Tiefsee" ist außerdem auf unseren folgenden Factsheets einsehbar:
-
-* [„Die Tiefsee -- eine unbekannte Welt"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243604/deepwave.org/Tiefsee.pdf)
-* [„Tiefseebergbau -- die Ausbeutung der Ozeane"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243606/deepwave.org/Tiefsee-Bergbau.pdf)
-* [„Die Verschmutzung der Tiefsee"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243587/deepwave.org/Tiefsee-M_C3_BCll.pdf)
-* [„Grundschleppnetzfischerei: Die Zerstörung der Tiefsee"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243611/deepwave.org/Tiefsee-Grundschleppnetze.pdf)
-* [„Erdöl aus der Tiefsee"](https://res.cloudinary.com/deepwave-org/image/upload/v1747243595/deepwave.org/Tiefsee-Oel.pdf)
-
-## Blogbeiträge zum Thema Tiefsee
-
-* [Tiefseebergbau für Einsteiger:innen](https://www.deepwave.org/tiefseebergbau-fuer-einsteigerinnen/)
-* [Tiefseebergbau: Folgen noch nicht abzusehen](https://www.deepwave.org/tiefseebergbau-folgen-noch-nicht-abzusehen/)
-* [Methan-Oasen der Tiefsee ergründet](https://www.deepwave.org/methan_oasen_der_tiefsee_ergrundet/)
-* [Tag des Artenschutzes: Tiefseefisch -- Orange Roughy](https://www.deepwave.org/tag-des-artenschutzes-tiefseefisch-orange-roughy/)
-* [Endstation Tiefsee: Mikroplastik belastet Meeresgrund noch stärker als angenommen](https://www.deepwave.org/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/)
-* [Plastikverschmutzung im Marianengraben](https://www.deepwave.org/plastikverschmutzung-im-marianengraben/)
-* [Schätze am Meeresboden schützen](https://www.deepwave.org/schaetze-am-meeresboden-schuetzen/)
-* [Schutz der Meere: Deutschland unterstützt bis auf Weiteres keinen Tiefseebergbau](https://www.deepwave.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/)
+2016
