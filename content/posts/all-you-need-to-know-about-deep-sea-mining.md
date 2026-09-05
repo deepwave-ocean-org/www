@@ -4,7 +4,7 @@ date: 2026-09-05T00:00:00+01:00
 blogs:
   - favoriten
   - politik
-image: https://res.cloudinary.com/deepwave-org/deepwave.org/Deep_Sea_Mining_Longread_Header_culrhy.jpg
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/nachts_doppelseite_Grosses_Bild_der_Nacht_j9zg6v.jpg
 image_caption:
 author: DEEPWAVE
 ---
