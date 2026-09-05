@@ -631,6 +631,10 @@ author: nico-czaja
 
 # All you need to know about Deep Sea Mining
 
+#### *A longread by Josefa Beyer, Nico Czaja, Friedrich Enders and Anna Groß*
+
+&nbsp;
+
 What comes to mind when you think of the deep sea? A pitch-black world with freezing temperatures and creatures as if from another planet , glowing in the dark? Or huge machines trawling the ocean floor, lighting up the abyss with their massive spotlights?
 
 While the deep sea may seem like one of the last places on Earth untouched by humans, this may soon change. A growing push to mine the seabed for valuable minerals might turn this remote wilderness into the next battleground for industrial exploitation.
@@ -689,7 +693,7 @@ There are three major private-sector players that dominate the DSM industry: 1) 
 
 Since the third United Nations Ocean Conference, which took place in June 2025 in Nice, France, 46[countries have declared their support for the call for a pause or moratorium](https://deep-sea-conservation.org/solutions/no-deep-sea-mining/momentum-for-a-moratorium/governments-and-parliamentarians/) (as of July 2026) – up from [four](https://ejfoundation.org/news-media/press-release-unilateral-deep-sea-mining-rejected-at-un-ocean-conference) since the previous UNOC in Lisboa 2022.<br>Among the calls for a moratorium, [different categories of “non-use measures” exist](https://www.tandfonline.com/doi/full/10.1080/00908320.2024.2439877). Most states call for a **precautionary pause**, arguing that we need more time to develop solid exploitation regulations, and until then, appropriate measures should be introduced based on the precautionary approach. Fewer states call for a **moratorium**, claiming that specific conditions must be set, and until those have been met, no DSM activities can be performed. France is the only country advocating for a **ban**, meaning a permanent and indefinite prohibition of DSM.
 
-These nations express concerns about commercial DSM, arguing that we need to close existing knowledge gaps about the environmental impacts on, for example, interactions between species and ecosystems, before deciding if mining should go ahead.<br>Currently, DSM is not allowed for commercial purposes. There is a clear differentiation between exploration and exploitation. Actors are allowed to test mine areas they have a permit for, but currently, no one has the right to pursue mining for exploitation, which is to be governed by a “Mining Code” presently developed by the International Seabed Authority*.*
+These nations express concerns about commercial DSM, arguing that we need to close existing knowledge gaps about the environmental impacts on, for example, interactions between species and ecosystems, before deciding if mining should go ahead.<br>Currently, DSM is not allowed for commercial purposes. There is a clear differentiation between exploration and exploitation. Actors are allowed to test mine areas they have a permit for, but currently, no one has the right to pursue mining for exploitation, which is to be governed by a “Mining Code” presently developed by the International Seabed Authority\*.\*
 
 &nbsp;
 
@@ -701,7 +705,7 @@ This is [not the first time](https://www.tandfonline.com/doi/full/10.1080/009083
 
 #### Environmental impacts
 
-[Less than one thousandth](https://www.science.org/doi/10.1126/sciadv.adp8602) of a percent of the deep seafloor has ever been seen by human eyes or cameras – an area roughly the size of the island of Mallorca, across a habitat that covers more than half the planet. But while many of the intricacies of life in the oceans, particularly in the deep sea, are still unknown, what we *do* know * * is * * that [DSM will have irreversible environmental impacts](https://www.wri.org/insights/deep-sea-mining-explained).
+[Less than one thousandth](https://www.science.org/doi/10.1126/sciadv.adp8602) of a percent of the deep seafloor has ever been seen by human eyes or cameras – an area roughly the size of the island of Mallorca, across a habitat that covers more than half the planet. But while many of the intricacies of life in the oceans, particularly in the deep sea, are still unknown, what we *do* know \* \* is \* \* that [DSM will have irreversible environmental impacts](https://www.wri.org/insights/deep-sea-mining-explained).
 
 The first commercial DSM test was performed in 1970 in the North Atlantic, off the Florida coast. Over 50 years later, [the impacts on the ecosystem are still visible](https://oceanexplorer.noaa.gov/explorations/22seabed-mining/welcome.html), and the scrape marks across [more than 43km](https://www.bbc.com/future/article/20250509-blake-plateau-the-uss-50-year-old-scars-from-the-worlds-first-deep-sea-mining-test-site) show no indication of meaningful ecosystem recovery. In the mined locations, there are no nodules left, nor is any biodiversity.
 
