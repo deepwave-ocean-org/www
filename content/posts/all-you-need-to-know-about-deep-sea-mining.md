@@ -5,7 +5,7 @@ blogs:
   - favoriten
   - politik
 image: https://res.cloudinary.com/deepwave-org/deepwave.org/nachts_doppelseite_Grosses_Bild_der_Nacht_j9zg6v.jpg
-image_caption:
+image_caption: © Anna Mandel
 author: DEEPWAVE
 ---
 &nbsp;
