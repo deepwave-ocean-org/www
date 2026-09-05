@@ -46,7 +46,7 @@ Manganese nodules occur worldwide, mostly at depths between 3,000 and 6,000 metr
 
 Some deep-sea minerals are located at sites within the national jurisdiction of a state, yet most resources – [around 81% of known manganese nodules](https://worldoceanreview.com/en/wor-7/energy-and-resources-from-the-ocean/deep-sea-mining-plans-are-taking-shape/) – are estimated to be situated in international waters. The most mineral-rich region, containing an [abundance of](https://www.sciencedirect.com/science/article/abs/pii/S016913681200234X) nodules, is the Clarion-Clipperton Zone in the Eastern Pacific between Hawaii and Mexico. It covers an area of around [five million square kilometres](https://worldoceanreview.com/en/wor-7/energy-and-resources-from-the-ocean/deep-sea-mining-plans-are-taking-shape/), larger than the European Union.
 
-#### How it all started
+#### **How it all started**
 
 DSM’s origin story, though not widely known, is more reminiscent of a Cold War thriller than the history of an emerging extractive industry. In 1969, a soviet submarine sank in the Pacific Ocean. The US, eager to recover it for the intelligence it might yield, launched a secret operation to locate and retrieve the vessel. This was no easy task, considering the technology required and the political sensitivity of the mission. To conceal the operation, the CIA released a cover story: a billionaire-funded research expedition to discover manganese nodules on the seabed. They even built a custom ship for the job, the “Hughes Glomar Explorer.” After four years of construction, the vessel was ready to “collect nodules” (to recover the submarine). Unfortunately, something went wrong during the salvage operation; the submarine broke apart and only the front section could be recovered – though it did not contain the very thing they were after; however, the idea of deep-sea mining, though fictional and intended as a ruse, had come to stay. (Read the full story [here](https://www.bbc.com/news/resources/idt-sh/deep_sea_mining).)
 
@@ -54,7 +54,7 @@ DSM’s origin story, though not widely known, is more reminiscent of a Cold War
 
 A growing global demand for minerals – mostly driven by electrification and the transition to renewable energy technologies – is driving increased interest in extracting and processing them.
 
-#### What proponents say
+#### **What proponents say**
 
 Proponents of DSM see immense potential for economic gains and view mining as a necessary precondition for global economic stability and achieving the [clean energy transition](https://www.mdpi.com/2071-1050/13/9/5261). However, studies have shown that DSM entails huge economic risks, making it [unlikely to ever be profitable](https://planet-tracker.org/how-to-lose-half-a-trillion/).
 
@@ -70,7 +70,7 @@ Proponents also argue that DSM would lower the social and environmental harm of 
 
 There are three major private-sector players that dominate the DSM industry: 1) The Metals Company, 2) Impossible Metals, and 3) [Lockheed Martin](https://www.mining.com/lockheed-martin-reboots-pacific-seabed-mining-plans/), which re-entered the field most recently. The Metals Company is actively pushing to begin mining operations as soon as possible, with its CEO, Gerard Barron, among the most prominent and aggressive voices in the debate. Apart from these companies, states expressing interest in DSM include China, Russia and the US. However, there are also a lot of actors clearly opposing DSM.
 
-#### A moratorium
+#### **A moratorium**
 
 Since the third United Nations Ocean Conference, which took place in June 2025 in Nice, France, 46[countries have declared their support for the call for a pause or moratorium](https://deep-sea-conservation.org/solutions/no-deep-sea-mining/momentum-for-a-moratorium/governments-and-parliamentarians/) (as of July 2026) – up from [four](https://ejfoundation.org/news-media/press-release-unilateral-deep-sea-mining-rejected-at-un-ocean-conference) since the previous UNOC in Lisboa 2022.<br>Among the calls for a moratorium, [different categories of “non-use measures” exist](https://www.tandfonline.com/doi/full/10.1080/00908320.2024.2439877). Most states call for a **precautionary pause**, arguing that we need more time to develop solid exploitation regulations, and until then, appropriate measures should be introduced based on the precautionary approach. Fewer states call for a **moratorium**, claiming that specific conditions must be set, and until those have been met, no DSM activities can be performed. France is the only country advocating for a **ban**, meaning a permanent and indefinite prohibition of DSM.
 
@@ -84,7 +84,7 @@ The financial sector is moving in the same direction. A [2026 mapping](https://s
 
 This is [not the first time](https://www.tandfonline.com/doi/full/10.1080/00908320.2024.2439877#:~:text=At%20the%20outset%2C%20there%20was%20historically%20a%20moratorium%20for%20DSM%20in%20the%20Area.) a moratorium on DSM has been in place. In 1969, a UN General Assembly [“Moratorium Resolution”](https://digitallibrary.un.org/record/202203) was adopted, calling on actors to refrain from exploitation activities on the seabed below international waters in light of the pending establishment of an international regime. Negotiations of the United Nations Convention for the Law of the Sea (UNCLOS) started 4 years later, in 1973. And even today, the legal regime for DSM is still taking shape.
 
-#### Environmental impacts
+#### **Environmental impacts**
 
 [Less than one thousandth](https://www.science.org/doi/10.1126/sciadv.adp8602) of a percent of the deep seafloor has ever been seen by human eyes or cameras – an area roughly the size of the island of Mallorca, across a habitat that covers more than half the planet. But while many of the intricacies of life in the oceans, particularly in the deep sea, are still unknown, what we *do* know \* \* is \* \* that [DSM will have irreversible environmental impacts](https://www.wri.org/insights/deep-sea-mining-explained).
 
@@ -104,7 +104,7 @@ We already have sufficient scientific evidence to know that impacts will be seve
 
 Governing deep-sea mining might be an extraordinarily complex task - but it's an incredibly important one.[“The deep sea needs rules”](https://www.isa.org.jm/news/statement-at-the-thirtieth-session-of-international-seabed-authority-council-part-ii/), Leticia Carvalho, Secretary General of the International Seabed Authority, recently emphasized. UN Secretary General António Guterres cautioned [“the deep sea cannot become the Wild West.”](https://www.bbc.com/news/articles/c057qrd9eejo) But how can we make sure it doesn’t?
 
-#### UNCLOS
+#### **UNCLOS**
 
 The main framework governing the deep sea is the [United Nations Convention on the Law of the Sea](https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf), or UNCLOS. Almost all [recognized sovereign states](https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&amp;mtdsg_no=XXI-6&amp;chapter=21&amp;Temp=mtdsg3&amp;clang=_en) have ratified it: 169 out of 195 (plus the European Union). It was adopted in 1982 and entered into force in 1994. The Convention has over 320 Articles governing human activities in the ocean. That’s why it’s often called “the constitution for the ocean.” It divides the ocean into different zones in which states have different rights. A rule of thumb applies: The further you move away from the coast, the fewer rights a coastal state has.
 
@@ -122,7 +122,7 @@ In the post-colonial era, newly independent developing nations were assured that
 
 To date, the US has only signed UNCLOS, not ratified it. Thus, they are not legally bound by the convention. Nevertheless, they still follow most of its provisions as they regard UNCLOS as so-called customary international law.
 
-#### Protection of the marine environment
+#### **Protection of the marine environment**
 
 In addition to establishing the principle of common heritage of humankind, another important provision of UNCLOS is the prevention principle as part of the general obligation to protect and preserve the marine environment (UNCLOS Article 194). This provision is mirrored in Article 145 of the agreement governing the Area. Article 145 in summary asks states to prevent significant harm caused by human activities that are likely to result in deleterious effects.
 
@@ -136,7 +136,7 @@ Contrary to the prevention principle, it has also not (yet) been officially cate
 
 There is a broader point here about what precaution is for. As legal scholar Gustavo Leite Neves da Luz [<u>argues</u>,](https://voelkerrechtsblog.org/macbeth-at-the-international-seabed-authority/)the deep-sea mining debate is sliding from forecast to entitlement: because minerals are wanted, the reasoning goes, the seabed must be opened. Wanting something has never been a legal basis for taking it, and no projection about future markets suspends the duties that Part XI imposes today. What worries him is less the prospect of mining outpacing regulation than the reverse – regulation rushing to completion because everyone involved has already decided how the story ends. Precaution exists to interrupt exactly that. It preserves an institution's ability to refuse, or to wait, or to demand better evidence before deciding at all. Strip that ability away and the ISA would still hold meetings, publish texts and issue decisions, without regulating anything: it would be, in Leite's phrase, "administering inevitability."
 
-#### The International Seabed Authority
+#### **The International Seabed Authority**
 
 UNCLOS led to the establishment of three new institutions: 1. the International Tribunal for the Law of the Sea (located in the same city as DEEPWAVE: Hamburg), 2. the Commission for the Delimitation of the Outer Continental Shelf, and 3. the International Seabed Authority (ISA). The latter is of utmost importance to DSM, as it was established to regulate mining activities in the Area, including exploration and exploitation.<br>Based in Kingston, Jamaica, the ISA is tasked with organizing, regulating, and controlling all mineral-related activities in the Area. The authority is also tasked with ensuring that activities in the Area are being carried out to benefit humankind as a whole. This regulatory process creates a conflict of interest since the ISA acts as both a promoter and a regulator of DSM. It has the role to govern the exploitation of deep-sea resources, but also to protect and preserve the marine environment.
 
@@ -150,11 +150,11 @@ While DSM has long been subject to controversy (and deep-sea minerals have been 
 
 Such statements raise an important question: how can benefits derived from our common resources be fairly distributed?
 
-#### Pacific island states
+#### **Pacific island states**
 
 [Palau and several other island states](https://www.greenpeace.org/usa/palau-fiji-and-samoa-launch-alliance-against-deep-sea-mining/) are leading calls for a moratorium, citing risks to biodiversity, fisheries, and cultural heritage. As the Clarion-Clipperton Zone is located in the Pacific, these islands will be disproportionately affected by ocean degradation, but at the same time, benefit the least from resource extraction. Palau, which has been a colonized state until 1994, argues that a moratorium is necessary to [“protect our shared ocean from a new form of colonialism.”](https://www.isa.org.jm/wp-content/uploads/2024/08/Palau-Intervention-Item8-30072024.pdf) The country explains that this neocolonialism is visible in the DSM industry, targeting the Pacific islands’ resources and turning their regions into experimental sites for untested technologies. Palau stresses that while mining companies extract wealth from the seabed, the voices of local communities remain unheard and they are left to bear the environmental and social consequences. Therefore, the country argues that all states have the responsibility to uphold the common heritage of humankind principle and safeguard it against the risks of degrading the seabed for the benefit of only a few.
 
-#### And those with no vote at all
+#### **And those with no vote at all**
 
 Palau and Nauru are sovereign states making constrained choices. In the US territories, the constraint is more fundamental: the decision is not theirs to make.
 
@@ -164,7 +164,7 @@ The economic exposure is concentrated too. Tuna accounts for the overwhelming ma
 
 The common heritage of humankind principle does not apply here, because these are national waters. That is precisely the point. Where the principle applies, it is weak; where it does not, there is nothing at all.
 
-#### Benefit sharing
+#### **Benefit sharing**
 
 According to Article 140 in UNCLOS, the ISA shall provide for the equitable sharing of financial and other economic benefits derived from activities in the Area. In summary, this implies that if any actor benefits from selling manganese nodules, those benefits must be shared equitably among all states. This promise - the prospect of economic benefit - was crucial in maintaining the involvement of [developing states](https://academic.oup.com/ejil/article/30/2/573/5536726) in UNCLOS negotiations. However, it is unclear if the benefits of DSM can actually be redistributed. A redistribution would presuppose that mining is economically profitable, which is unclear and too early to say due to unknown effects on ecosystem services. Some studies already assume that DSM is not profitable at all. Also, the redistribution scheme is [not yet robust enough](https://www.mdpi.com/2071-1050/13/9/5261), leaving significant uncertainties about the actual benefits that developing sponsoring states could receive.
 
@@ -222,7 +222,7 @@ This signals that DSM has moved from fringe industrial lobbying into formal US e
 
 To conclude, the economics of The Metals Company [“do not add up,”](https://iceberg-research.com/2025/06/10/if-the-us-really-wants-to-break-chinas-control-on-critical-minerals-tmc-wont-be-of-any-use/#:~:text=TMC%E2%80%99s%20economics%20do%20not%20add%20up%20and%20the%20company%20knows%20it.) nor does its promise to increase national independence and security. If Lockheed Martin moves beyond discussions about accessing areas where it holds licenses, it will face the same political, economic, and social challenges as The Metals Company. Their only advantage may be that they’re entirely US-based, given that the executive order described above favours US companies. That advantage has grown more concrete since early 2026: NOAA's streamlined permitting rules, combined with Project Vault's political backing, mean that the regulatory environment for US-based DSM applicants is now more permissive than at any point in recent history, even if the structural economic and legal obstacles analyzed above remain in place.
 
-#### The faster route: mining at home
+#### **The faster route: mining at home**
 
 All of that applies to the Area. It does not apply to a second US track, which needs no international legal argument at all: the [Outer Continental Shelf Lands Act](https://www.un.org/depts/los/LEGISLATIONANDTREATIES/PDFFILES/USA_1953_Act.pdf), covering US national waters, where American sovereignty is not in dispute.
 
@@ -242,7 +242,7 @@ Moving under the cover of Trump's April 2025 executive order, The Metals Company
 
 If granted, TMC’s permits would become the first commercial deep-sea mining authorization in international waters outside the UN system. Therefore, the danger lies not only in the environmental harm of a single mining project, but also in the precedent: once one country successfully bypasses the ISA, others, specifically China, may conclude that a multilateral approach no longer serves Chinese interests, either. A knock-on effect could effectively collapse the current international consensus that the deep seabed belongs to humanity as a whole.
 
-#### Looking ahead.
+#### **Looking ahead.**
 
 TMC expects a final decision by NOAA on its exploitation permit in the CCZ [by early 2027](https://investors.metals.co/news-releases/news-release-details/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-0/). However, a permit would not mean an immediate start of TMC mining operations. Environmental review, litigation, financing, and operational scale-up remain significant hurdles. The nearer date is 19 November 2026, when the American Samoa lease sale is scheduled. Nothing in international law stands in its way.
 
@@ -258,7 +258,7 @@ NORI and TOML, both wholly owned by The Metals Company, had [sued the ISA](https
 
 So the inquiry survived, and so did the contract. What remains open is the harder question: whether a regulator can enforce its own rules against a contractor that is simultaneously suing it. That question now matters more than any verdict would have.
 
-#### Conclusion
+#### **Conclusion**
 
 To conclude, DSM is one of the greatest threats to our ocean, carrying profound social, economic, and environmental risks. The debate is deeply entangled with power dynamics and conflicting national interests. While many actors are calling for a moratorium, the ISA faces a critical challenge: it must ensure that resources serve the benefit of humankind, not the profits of a few companies. For now, as negotiations continue, nothing is agreed until everything is agreed.
 
