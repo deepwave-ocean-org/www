@@ -625,7 +625,7 @@ image_caption: '© Anna Mandel All you need to know about Deep Sea Mining   What
   to get involved, check out what you can do here or here   Related Sources Deep
   Rising Documentary Deep sea mining: What’s the true cost of renewable
   energies? | DW Documentary'
-author: nico-czaja
+author: DEEPWAVE
 ---
 &nbsp;
 
