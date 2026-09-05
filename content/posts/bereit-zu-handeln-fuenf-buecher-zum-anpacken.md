@@ -1,18 +1,16 @@
 ---
 title: Bereit zu handeln? Fünf Bücher zum Anpacken
-date:
+date: 2021-09-01T00:00:00+01:00
 blogs:
   - alternativen-zu-einwegplastik
   - bildung
   - kultur
   - literatur-collection
-image: >-
-  https://www.deepwave.org/wp-content/uploads/2019/10/Und-jetzt-retten-wir-die-Welt_Ilona_Koglin_jpg.jpg
+image: https://www.deepwave.org/wp-content/uploads/2019/10/Und-jetzt-retten-wir-die-Welt_Ilona_Koglin_jpg.jpg
 image_caption: © Kosmos Verlag / Ilona Koglin
-summary: >-
-  Eines der  Bücher hat den schönen Untertitel „Was du konkret tun kannst, um
-  den Wahnsinn zu stoppen“. Und genau darum geht es in all den folgenden
-  Empfehlungen: um praktische Anleitungen.
+summary: 'Eines der  Bücher hat den schönen Untertitel „Was du konkret tun
+  kannst, um den Wahnsinn zu stoppen“. Und genau darum geht es in all den
+  folgenden Empfehlungen: um praktische Anleitungen.'
 author: DEEPWAVE
 related:
   - /ozeanbuecher/
