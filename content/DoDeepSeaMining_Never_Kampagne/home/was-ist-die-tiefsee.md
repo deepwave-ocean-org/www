@@ -1,22 +1,21 @@
 ---
-title: "Was ist die Tiefsee?"
+title: Was ist die Tiefsee?
 weight: 1
-heroimage: "https://res.cloudinary.com/deepwave-org/image/upload/v1767916250/was-ist-die-tiefsee_h9nf9e.jpg"
+heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767916250/was-ist-die-tiefsee_h9nf9e.jpg
 links:
-  - url: "https://www.deepwave.org/die-ozeane/die-tiefsee/"
-    text: "Die Tiefsee"
-    source: "Onno Groß / deepwave.org"
-  - url: "https://www.awi.de/themen/tiefsee.html"
-    text: "Tiefsee"
-    source: "awi.de"
-  - url: "https://www.theguardian.com/environment/article/2024/jul/22/dark-oxygen-in-depths-of-pacific-ocean-could-force-rethink-about-origins-of-life"
-    text: "Dark Oxygen"
-    source: "theguardian.com"
-  - url: "https://www.youtube.com/watch?v=GUkmmpWJj2o"
-    text: "Deep Time"
-    source: "Rebikoff Foundation / youtube.com"
+  - url: https://www.deepwave.org/die-ozeane/die-tiefsee/
+    text: Die Tiefsee
+    source: Onno Groß / deepwave.org
+  - url: https://www.youtube.com/watch?v=GUkmmpWJj2o
+    text: Deep Time
+    source: Rebikoff Foundation / youtube.com
+  - url: https://youtu.be/PaErPyEnDvk?si=VfePVMDXPUbiuZgP
+    text: The Deep Sea - in a nutshell
+    source: awi.de
+  - url: https://www.theguardian.com/environment/article/2024/jul/22/dark-oxygen-in-depths-of-pacific-ocean-could-force-rethink-about-origins-of-life
+    text: Dark Oxygen
+    source: theguardian.com
 ---
-
 Die Tiefsee ist der größte Lebensraum der Erde.
 Wenn wir uns unseren Planeten vom Weltall aus anschauen, sehen wir hauptsächlich Wasser und dieses Wasser besteht hauptsächlich aus Tiefsee. Bis in 11.000 m Tiefe leben hier Lebewesen, in komplettem Schwarz, in Eiseskälte, unter unvorstellbarem Druck. Sie sparen Energie, wo es nur geht, wachsen langsam und verdauen langsam. Und Unzählige von ihnen verwandeln das Schwarz in ein blitzendes Meer aus Leuchtsignalen, weil sie mit Biolumineszenz kommunizieren.
 
