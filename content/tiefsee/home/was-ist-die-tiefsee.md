@@ -10,8 +10,8 @@ links:
     text: Deep Time
     source: Rebikoff Foundation / youtube.com
   - url: https://youtu.be/PaErPyEnDvk?si=VfePVMDXPUbiuZgP
-    text: The Deep Sea - in a nutshell
-    source: awi.de
+    text: 'The Deep Sea '
+    source: kurzgesagt - in a nutshell
   - url: https://www.theguardian.com/environment/article/2024/jul/22/dark-oxygen-in-depths-of-pacific-ocean-could-force-rethink-about-origins-of-life
     text: Dark Oxygen
     source: theguardian.com
