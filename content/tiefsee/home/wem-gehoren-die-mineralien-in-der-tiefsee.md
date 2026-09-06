@@ -6,6 +6,9 @@ links:
   - url: https://www.deepwave.org/all-you-need-to-know-about-deep-sea-mining/
     text: All you need to know about Deep Sea Mining
     source: deepwave.org
+  - url: https://voelkerrechtsblog.org/macbeth-at-the-international-seabed-authority/
+    text: Macbeth at the International Seabed Authority
+    source: Völkerrechtsblog / Gustavo Leite Neves da Luz
   - url: https://www.stiftung-meeresschutz.org/themen/tiefseebergbau/kein-tiefseebergbau-auf-der-hohen-see/
     text: Internationale Meeresbodenbehörde (ISA) wahrt den Schutz der Tiefsee
     source: stiftung-meeresschutz.org
