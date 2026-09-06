@@ -28,14 +28,13 @@ films:
     duration: 21
     regie:
     language:
-    description: >
+    description: >+
       Von der Meeresfarm in Cumuruxatiba bis zu den Labors in São Paulo zeigt
       „Flor Do Mar“, wie eine Gemeinde dank Meeresalgen ihre Zukunft neu
       gestalten kann … und dabei dem Ozean hilft, von dem unser eigenes Leben
       abhängt. | Regie Roxane Perrot und Ugo Isoard | portugiesisch mit
       englischen Untertiteln 
 
-      https://youtu.be/I-o5KMUvKq4?si=WJ2NQ5Pn0x6khUPC
   - title: ONE CORAL AT A TIME
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-06-07_at_00-41-51_ONE_CORAL_AT_A_TIME_-_FilmFreeway_g6gemy.png
     duration: 8
