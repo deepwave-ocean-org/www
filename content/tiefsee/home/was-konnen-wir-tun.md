@@ -6,9 +6,9 @@ links:
   - url: https://youtu.be/JsA0emd2FNw?si=EIQi7jGYLSZm0EX2
     text: Deep sea mining!? Leave my down below alone!
     source: Seas at Risk / youtube.com
-  - url: https://deeprising.com/documentary/
-    text: Deep Rising
-    source: Film von Matthieu Rytz mit Jason Momoa
+  - url: https://howdeepisyourlovedoc.com/
+    text: 'How Deep Is Your Love '
+    source: by Eleanor Mortimer
   - url: https://www.greenpeace.org/international/act/stop-deep-sea-mining/
     text: 'Stop deep sea mining before it starts '
     source: greenpeace.org
