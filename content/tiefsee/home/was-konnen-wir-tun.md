@@ -1,25 +1,24 @@
 ---
-title: "Was können wir tun?"
+title: Was können wir tun?
 weight: 5
-heroimage: "https://res.cloudinary.com/deepwave-org/image/upload/v1767916265/was-koennen-wir-tun_y7ohsc.jpg"
+heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767916265/was-koennen-wir-tun_y7ohsc.jpg
 links:
-  - url: "https://youtu.be/JsA0emd2FNw?si=EIQi7jGYLSZm0EX2"
-    text: "Deep sea mining!? Leave my down below alone!"
-    source: "Seas at Risk / youtube.com"
-  - url: "https://deeprising.com/documentary/"
-    text: "Deep Rising"
-    source: "Film von Matthieu Rytz mit Jason Momoa"
-  - url: "https://www.oceancare.org/becauseourplanetisblue/"
-    text: "Petition: Because Our Planet Is Blue."
-    source: "oceancare.org"
-  - url: "https://enden.podigee.io/"
-    text: "Enden: Land Unter (Podcast)"
-    source: "Undone und Futurium"
-  - url: "https://seas-at-risk.org/wp-content/uploads/2021/06/Breaking-Free-From-Mining.pdf"
-    text: "Breaking Free from Mining"
-    source: "seas-at-risk.org"
+  - url: https://youtu.be/JsA0emd2FNw?si=EIQi7jGYLSZm0EX2
+    text: Deep sea mining!? Leave my down below alone!
+    source: Seas at Risk / youtube.com
+  - url: https://deeprising.com/documentary/
+    text: Deep Rising
+    source: Film von Matthieu Rytz mit Jason Momoa
+  - url: https://www.oceancare.org/becauseourplanetisblue/
+    text: 'Petition: Because Our Planet Is Blue.'
+    source: oceancare.org
+  - url: https://enden.podigee.io/s2t1-trailer-land-unter
+    text: 'Enden: Land Unter (Podcast)'
+    source: Undone und Futurium
+  - url: https://seas-at-risk.org/wp-content/uploads/2021/06/Breaking-Free-From-Mining.pdf
+    text: Breaking Free from Mining
+    source: seas-at-risk.org
 ---
-
 Informieren: Podcasts, Newsletter, Fachartikel, Webseiten, Veranstaltungen, Filme, Podiumsdiskussionen …
 
 Darüber sprechen: mit Freund:innen, Verwandten, Kommiliton:innen, Nachbar:innen …
