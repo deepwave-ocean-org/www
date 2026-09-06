@@ -10,5 +10,3 @@ overlay: rgba(52,110,124,0.41)
 &nbsp;
 
 &nbsp;
-
-&nbsp;
