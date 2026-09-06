@@ -9,9 +9,9 @@ links:
   - url: https://deeprising.com/documentary/
     text: Deep Rising
     source: Film von Matthieu Rytz mit Jason Momoa
-  - url: https://www.oceancare.org/becauseourplanetisblue/
-    text: 'Petition: Because Our Planet Is Blue.'
-    source: oceancare.org
+  - url: https://www.greenpeace.org/international/act/stop-deep-sea-mining/
+    text: 'Stop deep sea mining before it starts '
+    source: greenpeace.org
   - url: https://enden.podigee.io/s2t1-trailer-land-unter
     text: 'Enden: Land Unter (Podcast)'
     source: Undone und Futurium
