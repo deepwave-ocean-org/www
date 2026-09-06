@@ -8,5 +8,3 @@ overlay: rgba(52,110,124,0.41)
 <br>Hier berichten wir aus dem Maschinenraum des Meeresschutzes, bieten euch in stürmischen Zeiten eine verlässliche Reling und einen klaren Blick auf den Horizont.  Unsere Crew weiß, was es heißt, Mut zu machen in scheinbar ausweglosen Lagen, und entdeckt für euch vom Ausguck aus immer Wege zum Handeln. Wir freuen uns, wenn ihr mit uns an Bord kommt und uns auf unserer Reise begleitet.
 
 &nbsp;
-
-&nbsp;
