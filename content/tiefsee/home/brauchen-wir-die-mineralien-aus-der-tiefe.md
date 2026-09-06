@@ -3,16 +3,16 @@ title: Brauchen wir die Mineralien aus der Tiefe?
 weight: 4
 heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767916037/brauchen-wir-die-mineralien_na9qcb.jpg
 links:
-  - url: https://www.forumue.de/wp-content/uploads/2023/03/ArgumenteGegenTiefseebergbau2Auflage2023-2.pdf
-    text: Argumente gegen den Tiefseebergbau der AG Tiefseebergbau
-    source: forumue.de
-  - url: https://seas-at-risk.org/wp-content/uploads/2021/06/Breaking-Free-From-Mining.pdf
-    text: Breaking Free from Mining
-    source: seas-at-risk.org
+  - url: https://www.deepwave.org/all-you-need-to-know-about-deep-sea-mining/
+    text: All you need to know about Deep Sea Mining
+    source: deepwave.org
   - url: https://deep-sea-conservation.org/wp-content/uploads/2024/06/World-Ocean-Day-open-letter-UNSG-2024-FINAL.pdf
     text: Let's defend the deep - Open Letter to United Nations Secretary-General
       Gutererres
     source: deep-sea-conservation.org
+  - url: https://www.forumue.de/wp-content/uploads/2023/03/ArgumenteGegenTiefseebergbau2Auflage2023-2.pdf
+    text: Argumente gegen den Tiefseebergbau der AG Tiefseebergbau
+    source: forumue.de
   - url: https://www.stopdeepseabedmining.org/endorsers/
     text: Call for a Halt on Deep Seabed Mining / Endorsers
     source: stopdeepseabedmining.org
