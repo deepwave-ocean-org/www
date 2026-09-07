@@ -48,8 +48,6 @@ service:
     url: /newsletter/
   - title: Bücher
     url: /ozeanbücher/
-  - title: Podcasts
-    url: /podcast/
   - title: Shop
     url: https://deepwave.shop/
 home:
