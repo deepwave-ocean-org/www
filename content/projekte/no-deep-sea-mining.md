@@ -1,5 +1,5 @@
 ---
-title: NO DEEP SEA MINING
+title: NO DEEP SEA MINING - NEVER
 image: https://res.cloudinary.com/deepwave-org/deepwave.org/PopUpAusschnitt_mgc40a.jpg
 overlay: rgb(0 73 97 / 47%)
 order: 2
