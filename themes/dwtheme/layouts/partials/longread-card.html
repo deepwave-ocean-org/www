@@ -1,0 +1,39 @@
+{{/*
+  Karte für die /longreads/-Übersicht.
+  Wie partials/card.html, aber der Vorschautext behält die Absätze aus dem Post
+  (statt einer plattgedrückten, abgeschnittenen Zeile).
+*/}}
+<div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
+    <a href="{{ .RelPermalink }}" class="block">
+        {{ with .Params.image }}
+        <div class="relative h-48 bg-gray-200">
+            {{ partial "img/img" (dict "src" . "alt" $.LinkTitle "img_class" "w-full h-full object-cover") }}
+        </div>
+        {{ else }}
+        <div class="relative h-48 bg-gray-700 flex items-center justify-center">
+            <div class="text-white text-center p-6">
+                <h2 class="text-xl font-bold">{{ .LinkTitle }}</h2>
+            </div>
+        </div>
+        {{ end }}
+
+        <div class="p-4">
+            <h3 class="text-lg font-semibold text-gray-900 mb-3">{{ .LinkTitle }}</h3>
+
+            {{ with .Params.blurb }}
+            <p class="text-gray-600 text-sm">{{ . }}</p>
+            {{ else }}
+            {{ $title := .LinkTitle }}
+            {{ $sum := .Summary | replaceRE `<(/?)h[1-6][^>]*>` "<${1}p>" | replaceRE `(?s)<figure.*?</figure>` "" }}
+            {{ $paras := slice }}
+            {{ range findRE `(?s)<p[^>]*>.*?</p>` $sum }}
+                {{ $t := . | plainify | htmlUnescape | strings.TrimSpace }}
+                {{ if and (gt (len $t) 1) (ne $t $title) }}
+                {{ $paras = $paras | append (printf `<p class="mb-2 last:mb-0">%s</p>` (chomp (truncate 240 "…" $t))) }}
+                {{ end }}
+            {{ end }}
+            <div class="text-gray-600 text-sm">{{ delimit (first 3 $paras) "" | safeHTML }}</div>
+            {{ end }}
+        </div>
+    </a>
+</div>
