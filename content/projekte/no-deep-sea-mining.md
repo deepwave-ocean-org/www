@@ -1,9 +1,9 @@
 ---
 title: NO DEEP SEA MINING
-image: https://res.cloudinary.com/deepwave-org/image/upload/v1747067170/deepwave.org/4a3d145a-6626-4d60-8b53-59cbffdddaa7.png
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/PopUpAusschnitt_mgc40a.jpg
 overlay: rgb(0 73 97 / 47%)
 aliases:
- - /projekte/schulkampagne-meeresfibel
+ - /tiefsee/home/
 ---
 &nbsp;
 
