@@ -1,6 +1,6 @@
 baseURL = "http://www.deepwave.org/"
 languageCode = "en-us"
-title = "Wir gebem dem Meer eine Stimme"
+title = "Wir geben dem Meer eine Stimme"
 theme = "dwtheme"
 
 [outputs]
