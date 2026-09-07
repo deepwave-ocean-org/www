@@ -1,6 +1,6 @@
 ---
 title: Longreads
-image: https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot-2025-04-17-at-21-36-29-CCS-Unter-die-Erde-kehren-DEEPWAVE-e.V.jpg
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/Ablasshandel_Holzschnitt_CCS_vquwip.png
 overlay: rgb(34 38 48 / 61%)
 layout: longreads
 longreads:
