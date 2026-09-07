@@ -12,7 +12,7 @@ Die Folge mit Anna Groß im Podcast "Tee mit G." wird im TIDE Radio ausgestrahlt
 
 #### **17\. April**
 
-Launch unserer neuen umfangreichen Kampagnenseite <a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MIMING - NEVER</a>
+Launch unserer neuen umfangreichen Kampagnenseite <a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a>
 
 #### **ab 8. April**
 
