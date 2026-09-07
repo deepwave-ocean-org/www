@@ -1,6 +1,7 @@
 {{- $list := slice -}}
 
 {{- range site.Pages.ByPublishDate.Reverse -}}
+  {{- if or .Params.redirect_to (eq .Layout "redirect") -}}{{- continue -}}{{- end -}}
   {{- $item := dict
   "title" .Title
   "content" .Content

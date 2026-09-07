@@ -3,6 +3,7 @@ title: Die Meeresfibel
 image: >-
  https://res.cloudinary.com/deepwave-org/image/upload/v1747067170/deepwave.org/4a3d145a-6626-4d60-8b53-59cbffdddaa7.png
 overlay: rgb(0 73 97 / 47%)
+order: 4
 aliases:
  - /projekte/schulkampagne-meeresfibel
 ---
