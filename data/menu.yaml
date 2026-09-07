@@ -33,13 +33,23 @@ main:
     url: /projekte/
     sublinks:
       - title: KLARTEXT Meerespolitik
-        url: https://klartext.deepwave.org
+        url: https://klartext.deepwave.org/
       - title: NO DEEP SEA MINING - NEVER
         url: /tiefsee/home/
-      - title: Filmfestival
-        url: projekte/filmfestival/
+      - title: Unser DEEPWAVE Filmfestival zum Schutz der Meere
+        url: /projekte/filmfestival/
       - title: Die Meeresfibel
-        url: projekte/meeresfibel/
+        url: /projekte/meeresfibel/
+  - title: Longreads
+    url: /longreads/
+    sublinks:
+      - title: ''
+        url: ''
+  - title: Archiv
+    url: /blogs
+    sublinks:
+      - title: ''
+        url: ''
 secondary:
   - title: Spenden
     url: /etwas-tun/spenden/
