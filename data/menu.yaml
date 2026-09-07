@@ -81,7 +81,7 @@ home:
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Wal_vpclfh.jpg
   - title: Longreads
     subtitle:
-    url: /author/nico-czaja/
+    url: /longreads/
     image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267247/deepwave.org/Projekte_Quadratisch-480x480.png
   - title: Archiv
     subtitle:
