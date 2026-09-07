@@ -7,7 +7,5 @@ layout: redirect
 redirect_to: https://klartext.deepwave.org
 blurb: Unser Tool erklärt verständlich, wie Meerespolitik funktioniert – und wie
  ihr handeln könnt.
-aliases:
- -
 ---
 &nbsp;

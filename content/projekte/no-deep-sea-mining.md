@@ -5,8 +5,6 @@ overlay: rgb(0 73 97 / 47%)
 order: 2
 layout: redirect
 redirect_to: /tiefsee/home/
-aliases:
- -
 ---
 &nbsp;
 
