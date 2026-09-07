@@ -9,7 +9,7 @@ aliases:
 
 ![](https://res.cloudinary.com/deepwave-org/deepwave.org/PopUpAusschnitt_lbnykk.jpg "Infostand mit PopUp Karte")
 
-# NO DEEP SEA MINING – NEVER<br>
+# Unsere Kampagne gegen Tiefseebergbau
 
 Durch unsere modernen Technologien steigt der Hunger auf bestimmte Metalle und Seltene Erden ins Unermessliche. Wir brauchen sie für unsere Kommunikation, die Energiewende und neuerdings vermehrt für Waffen. Das, was diesen Hunger stillen soll, liegt in der Tiefsee: Kobaltkrusten, Massivsulfide und Manganknollen.
 
