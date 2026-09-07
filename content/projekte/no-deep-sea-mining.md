@@ -4,7 +4,7 @@ image: https://res.cloudinary.com/deepwave-org/deepwave.org/PopUpAusschnitt_mgc4
 overlay: rgb(0 73 97 / 47%)
 order: 2
 layout: redirect
-redirect_to: https://tiefsee.deepwave.org/tiefsee/home/
+redirect_to: /tiefsee/home/
 aliases:
  -
 ---
