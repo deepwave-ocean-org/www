@@ -1,13 +1,13 @@
 ---
 title: in memoriam Onno Groß, 12.6.1964 - 4. Oktober 2016
-image: >-
-  https://res.cloudinary.com/deepwave-org/image/upload/v1747245483/deepwave.org/wave-1215449_960_720.jpg
+image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245483/deepwave.org/wave-1215449_960_720.jpg
 overlay: rgba(64,87,104,0.77)
 order: 3
 ---
-{{< flipbook pdf="https://res.cloudinary.com/deepwave-org/image/upload/v1746720108/deepwave.org/Virtuelles_Kondolenzbuch_Fassung_Website_eyhbax.pdf" height="100vh" >}}
+&nbsp;
 
 ![Meer](https://res.cloudinary.com/deepwave-org/deepwave.org/Die_Nacht_ist_das_Meer_des_Tages_gw9lsj.jpg)
+
 # Die Nacht ist das Meer des Tages.
 
 ## Nachricht vom 16. Oktober 2016
@@ -21,3 +21,5 @@ Im antarktischen Rossmeer wird eine einzigartige Schutzzone entstehen, das grö�
 Onno wird in den Meeren und in uns weiterleben.
 
 Anna, Heye und Tjark Groß
+
+{{< flipbook pdf="https://res.cloudinary.com/deepwave-org/image/upload/v1746720108/deepwave.org/Virtuelles_Kondolenzbuch_Fassung_Website_eyhbax.pdf" height="100vh" >}}
