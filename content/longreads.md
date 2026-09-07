@@ -1,6 +1,6 @@
 ---
 title: Longreads
-image: https://res.cloudinary.com/deepwave-org/deepwave.org/Ablasshandel_Holzschnitt_CCS_vquwip.png
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/Doppelbild_klein_gmegg2.jpg
 overlay: rgb(34 38 48 / 61%)
 layout: longreads
 longreads:
