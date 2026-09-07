@@ -1,5 +1,8 @@
+{{ $link := .RelPermalink }}
+{{ with or .Params.external_url .Params.redirect_to }}{{ $link = . }}{{ end }}
+{{ $external := or (hasPrefix $link "http://") (hasPrefix $link "https://") }}
 <div class="rounded-lg border-1 overflow-hidden border border-gray-200 transition-transform hover:scale-[1.02]">
-    <a href="{{ .RelPermalink }}" class="block">
+    <a href="{{ $link }}" class="block"{{ if $external }} target="_blank" rel="noopener noreferrer"{{ end }}>
         {{ with .Params.image }}
         <div class="relative h-48 bg-gray-200">
             {{ partial "img/img" (dict "src" . "alt" $.LinkTitle "img_class" "w-full h-full object-cover") }}
