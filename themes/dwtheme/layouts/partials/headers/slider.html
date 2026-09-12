@@ -2,7 +2,7 @@
 
 <div class="relative w-full h-108 overflow-hidden">
   <!-- Slider container -->
-  <div id="slider-container" class="relative w-full h-full select-none">
+  <div id="slider-container" class="relative w-full h-full select-none touch-pan-y" style="overscroll-behavior-x: contain;">
     {{ range $index, $slider := $sliders }}
     <div class="slider-item absolute inset-0 w-full h-full {{ if eq $index 0 }}opacity-100{{ else }}opacity-0{{ end }} bg-cover bg-center" 
          data-index="{{ $index }}">
