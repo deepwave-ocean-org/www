@@ -19,6 +19,7 @@
 
 html {
   @apply font-serif text-gray-800;
+  overflow-x: hidden;
 }
 p,
 article h1,
