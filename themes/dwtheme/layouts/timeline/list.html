@@ -26,10 +26,10 @@
         {{ $afterV := index (strings.Split . "v=") 1 }}
         {{ $videoId = index (strings.Split $afterV "&") 0 }}
         {{ end }}
-        <div class="w-full md:w-1/2" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+        <div class="w-full md:w-1/2" style="aspect-ratio: 16 / 9; overflow: hidden;">
             <iframe
                 src="https://www.youtube.com/embed/{{ $videoId }}"
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+                style="width: 100%; height: 100%; border: 0;"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
                 loading="lazy" title="YouTube video" referrerpolicy="strict-origin-when-cross-origin"></iframe>
         </div>
