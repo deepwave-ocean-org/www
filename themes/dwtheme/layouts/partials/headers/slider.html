@@ -33,13 +33,29 @@
       </div>
       
       <!-- Content -->
+      {{ $youtubeId := "" }}
+      {{ if $slider.link }}
+        {{ if strings.Contains $slider.link "youtu.be/" }}
+          {{ $youtubeId = index (strings.Split (index (strings.Split $slider.link "youtu.be/") 1) "?") 0 }}
+        {{ else if strings.Contains $slider.link "youtube.com/watch" }}
+          {{ $afterV := index (strings.Split $slider.link "v=") 1 }}
+          {{ $youtubeId = index (strings.Split $afterV "&") 0 }}
+        {{ end }}
+      {{ end }}
       <div class="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-8">
         <h2 class="text-4xl md:text-5xl text-shadow mb-6 mx-6">{{ $slider.title }}</h2>
         {{ if and $slider.button_text $slider.link }}
+        {{ if $youtubeId }}
+        <button type="button" data-youtube-id="{{ $youtubeId }}"
+          class="js-play-youtube px-8 py-3 text-xl text-white rounded-md border-2 border-white hover:!bg-gray-100 hover:text-gray-800 hover:border-2 hover:border-gray-100 font-sans cursor-pointer" style='background-color: {{ $slider.button_overlay | default "transparent" }}'>
+          {{ $slider.button_text }}
+        </button>
+        {{ else }}
         <a href="{{ $slider.link }}"
           class="px-8 py-3 text-xl text-white rounded-md border-2 border-white hover:!bg-gray-100 hover:text-gray-800 hover:border-2 hover:border-gray-100 font-sans" style='background-color: {{ $slider.button_overlay | default "transparent" }}'>
-          {{ $slider.button_text }}   
+          {{ $slider.button_text }}
         </a>
+        {{ end }}
         {{ end }}
       </div>
     </div>
@@ -64,13 +80,56 @@
   <!-- Navigation dots -->
   <div class="absolute bottom-4 left-0 right-0 flex justify-center space-x-2 z-20">
     {{ range $index, $slider := $sliders }}
-    <button 
+    <button
       class="slider-dot w-2 h-2 rounded-full transition-all cursor-pointer duration-300 {{ if eq $index 0 }}bg-white scale-110 {{ else }}bg-gray-400{{ end }}"
       data-index="{{ $index }}">
     </button>
     {{ end }}
   </div>
 </div>
+
+<!-- Fullscreen YouTube overlay -->
+<div id="youtube-overlay" class="fixed inset-0 z-[100] bg-black hidden" style="height: 100vh;">
+  <button type="button" id="youtube-overlay-close" aria-label="Schließen"
+    class="absolute top-4 right-4 z-10 text-white text-4xl leading-none w-12 h-12 flex items-center justify-center cursor-pointer">
+    &times;
+  </button>
+  <div id="youtube-player-wrapper" class="w-full h-full"></div>
+</div>
+
+<script>
+(function () {
+  var overlay = document.getElementById('youtube-overlay');
+  var wrapper = document.getElementById('youtube-player-wrapper');
+  var closeBtn = document.getElementById('youtube-overlay-close');
+
+  function openVideo(id) {
+    wrapper.innerHTML = '<iframe src="https://www.youtube.com/embed/' + id + '?autoplay=1&rel=0" style="width:100%;height:100%;border:0;" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
+    overlay.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeVideo() {
+    overlay.classList.add('hidden');
+    wrapper.innerHTML = '';
+    document.body.style.overflow = '';
+  }
+
+  document.querySelectorAll('.js-play-youtube').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      openVideo(btn.dataset.youtubeId);
+    });
+  });
+
+  closeBtn.addEventListener('click', closeVideo);
+  overlay.addEventListener('click', function (e) {
+    if (e.target === overlay) closeVideo();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeVideo();
+  });
+})();
+</script>
 
 {{ $sliderJS := resources.Get "js/slider.js" | resources.Minify | resources.Fingerprint }}
 <script src="{{ $sliderJS.RelPermalink }}"></script>
