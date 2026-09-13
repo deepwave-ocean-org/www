@@ -34,7 +34,13 @@
       <div
         class="w-full md:w-1/2 md:order-{{ if modBool $index 2 }}2{{ else }}1{{ end }}"
       >
+        {{ if $item.link }}
+        <a href="{{ $item.link }}" target="_blank" rel="noopener noreferrer" class="block">
+          {{ partial "img/img" (dict "src" .) }}
+        </a>
+        {{ else }}
         {{ partial "img/img" (dict "src" .) }}
+        {{ end }}
       </div>
       {{ end }}
 
@@ -52,6 +58,14 @@
           />{{.}} min
         </p>
         {{end}}
+        {{ with .link }}
+        <div class="mt-4">
+          <a href="{{ . }}" target="_blank" rel="noopener noreferrer"
+            class="inline-block text-lg border-deepwave-link text-deepwave-link px-4 py-2 border-2 rounded hover:scale-105 hover:bg-gray-100 transition-transform">
+            Film anschauen
+          </a>
+        </div>
+        {{ end }}
       </div>
     </div>
     {{ end }} {{ end }}
