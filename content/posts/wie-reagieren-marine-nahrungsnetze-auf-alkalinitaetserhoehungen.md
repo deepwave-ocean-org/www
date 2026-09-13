@@ -1,23 +1,22 @@
 ---
-title: "Wie reagieren marine Nahrungsnetze auf Alkalinitätserhöhungen?"
-date: 2024-12-07
+title: Wie reagieren marine Nahrungsnetze auf Alkalinitätserhöhungen?
+date: 2024-12-07T00:00:00Z
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1747244612/deepwave.org/Marine_microplankton_zooplankton_nahrungsnetze.jpg
 image_caption: © Epipelagic / Wikimedia Commons (CC BY-SA 4.0)
 image_alt: Alkalinitätserhöhung - Mikroskopaufnahme einer gemischten Zooplanktonprobe
-blogs: 
-  - "forschung"
-  - "good-news"
-  - "klima"
-source: "Pressemitteilung, 06.12.2024, GEOMAR"
-author: "Amalia Klein"
-related: 
-  - "/schleppnetzfischerei-reduziert-kohlenstoffsenke/"
-  - "/ozeanversauerung-die-grenzen-der-anpassung/"
-  - "/eurosea-luecken-in-der-ozeanbeobachtung-schliessen/"
-  - "/co2-speicherung-darf-ausstieg-aus-fossilen-energien-nicht-behindern/"
+blogs:
+  - forschung
+  - good-news
+  - klima
+source: Pressemitteilung, 06.12.2024, GEOMAR
+author: Amalia Klein
+related:
+  - /schleppnetzfischerei-reduziert-kohlenstoffsenke/
+  - /ozeanversauerung-die-grenzen-der-anpassung/
+  - /eurosea-luecken-in-der-ozeanbeobachtung-schliessen/
+  - /co2-speicherung-darf-ausstieg-aus-fossilen-energien-nicht-behindern/
 blog_template: _blog_post
 ---
-
 #### Erste Studie zeigt vielversprechende Ergebnisse
 
 **06.12.2024/Kiel. Um den Klimawandel einzudämmen, müssen die vom Menschen verursachten Kohlendioxid-Emissionen so schnell und umfassend wie möglich reduziert werden. Zusätzlich muss ein Teil des von uns bereits ausgestoßenen CO2 sicher aus der Atmosphäre entfernt werden. Ein Lösungsansatz dafür ist, die natürliche CO2-Aufnahme des Ozeans durch Alkalinitätserhöhung zu beschleunigen. Dabei wird der Prozess der Gesteinsverwitterung nachgeahmt, indem gemahlenes oder gelöstes Gestein direkt dem Meerwasser zugegeben wird. Bislang ist noch wenig über die Auswirkungen bekannt, die diese Methode auf das Leben im Meer hat. Jetzt konnte eine Studie des GEOMAR Helmholtz-Zentrums für Ozeanforschung Kiel zeigen, dass die Auswirkungen auf Zooplankton unter bestimmten Voraussetzungen gering wären und das Nahrungsnetz stabil bliebe. Die Ergebnisse erscheinen heute in dem Fachjournal Science Advances.**
