@@ -54,10 +54,6 @@ Unsere Meeresfibel kann seit Neuestem im Landkreis Cuxhaven im&nbsp;[Bücherbus]
 
 [![](https://res.cloudinary.com/deepwave-org/image/upload/v1747243765/deepwave.org/Mandel_Tafeln_AWI_1.jpg)](https://res.cloudinary.com/deepwave-org/image/upload/v1747243765/deepwave.org/Mandel_Tafeln_AWI_1.jpg "Mandel_Tafeln_AWI_1")
 
-&nbsp;
-
-[1234](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/#)
-
 9 Tafeln der Meeresfibel hängen seit November 2018 als Großdrucke in der Nordseehalle des[&nbsp;Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung](https://www.awi.de/)&nbsp;in Bremerhaven.
 
 > PRESSEMITTEILUNG<br> Ausstellungseröffnung "Die Meeresfibel" im Meeresmuseum Stralsund
