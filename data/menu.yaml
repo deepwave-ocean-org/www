@@ -5,7 +5,7 @@ main:
       - title: Was wir tun
         url: /ueber-uns/was-wir-tun/
       - title: Wer wir sind
-        url: /ueber-uns/wer-wir-sind/
+        url: /ueber-uns/wer-wir-sind/unser-team/
       - title: Onno Groß
         url: /ueber-uns/onno-groß/
   - title: Die Ozeane
@@ -88,7 +88,7 @@ footer:
     - name: Woher wir kommen
       url: /ueber-uns/woher-wir-kommen/
     - name: Wer wir sind
-      url: /ueber-uns/wer-wir-sind/
+      url: /ueber-uns/wer-wir-sind/unser-team/
     - name: Wohin wir gehen
       url: /projekte/
     - name: Onno Groß
