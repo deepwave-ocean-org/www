@@ -1,6 +1,6 @@
 ---
 title: Was wir tun
-subtitle: Unsere Aktionen und Veranstaltungen seit mehr als 20 Jahren
+subtitle: Unsere Aktionen und Veranstaltungen seit mehr als 23 Jahren
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1747245643/deepwave.org/Deepwave_Tauchen.jpg
 overlay: rgba(43,96,92,0.31)
 type: timeline
