@@ -9,9 +9,9 @@ aliases:
 ---
 {{< flipbook pdf="https://res.cloudinary.com/deepwave-org/image/upload/v1747066430/deepwave.org/meeresfibel_vorschau_qktytr.pdf" height="100vh" >}}
 
-[![](https://res.cloudinary.com/deepwave-org/image/upload/v1747243750/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57.jpg "Meeresfibel Spiel")](https://res.cloudinary.com/deepwave-org/image/upload/v1747243753/deepwave.org/mare_fibel_besprechung.pdf)
-
 # Die Meeresfibel gibt es jetzt als App!
+
+[![](https://res.cloudinary.com/deepwave-org/image/upload/v1747243750/deepwave.org/WhatsApp-Image-2023-11-26-at-18.46.57.jpg "Meeresfibel Spiel")](https://res.cloudinary.com/deepwave-org/image/upload/v1747243753/deepwave.org/mare_fibel_besprechung.pdf)
 
 [Hier geht es zum kostenlosen Android Download](https://play.google.com/store/apps/details?id=com.DEEPWAVE.Meeresfibel)
 
