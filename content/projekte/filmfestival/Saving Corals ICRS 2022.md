@@ -2,6 +2,7 @@
 title: Saving Corals ICRS Filmfestival 2022
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1746533332/deepwave.org/Plakat_Saving_Corals_Komprimiert_bwu7xd.png
 link: https://www.deepwave.org/icrs-filmfestival-2022/
+link_disabled: true
 date: 2022-01-02
 ---
 

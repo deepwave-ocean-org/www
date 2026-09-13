@@ -22,24 +22,35 @@
     {{ partial "divider" . }}
     <div class="">
         {{ range .Pages.ByDate.Reverse }}
+        {{ $linkDisabled := .Params.link_disabled }}
         <div class="flex flex-wrap md:flex-row">
             <div class="w-full md:w-1/2 flex flex-col justify-center md:pr-12 mb-16">
                 <h1 class="text-3xl pb-3">{{ .Title }}</h1>
                 {{ .Content }}
                 {{ with .Params.link }}
                 <div class="flex flex-row justify-center mt-4">
+                {{ if $linkDisabled }}
+                <span class="text-2xl w-auto border-gray-300 text-gray-400 px-4 py-3 border-2 rounded cursor-not-allowed select-none">
+                    Coming soon
+                </span>
+                {{ else }}
                 <button class="text-2xl w-auto border-deepwave-link text-deepwave-link px-4 py-3 border-2 rounded hover:scale-105 hover:bg-gray-100 hover-border-0">
                     <a href="{{ . }}" >
                         Zum Programm
                     </a>
                 </button>
+                {{ end }}
                 </div>
                 {{ end }}
             </div>
             <div class="w-full md:w-1/2 relative">
+                {{ if $linkDisabled }}
+                {{ partial "img/img" (dict "src" .Params.image "alt" .LinkTitle "class" "w-full h-auto object-cover") }}
+                {{ else }}
                 <a href="{{ .Params.link }}" class="block">
                     {{ partial "img/img" (dict "src" .Params.image "alt" .LinkTitle "class" "w-full h-auto object-cover") }}
                 </a>
+                {{ end }}
             </div>
         </div>
         {{ partial "divider" . }}
