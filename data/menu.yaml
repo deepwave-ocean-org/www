@@ -42,14 +42,8 @@ main:
         url: /projekte/meeresfibel/
   - title: Longreads
     url: /longreads/
-    sublinks:
-      - title: ''
-        url: ''
   - title: Archiv
     url: /blogs
-    sublinks:
-      - title: ''
-        url: ''
 secondary:
   - title: Spenden
     url: /etwas-tun/spenden/
