@@ -71,6 +71,7 @@ films:
   - title: NO DEEP SEA MINING - NEVER
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_20251218-023431_2_wczjqv.png
     duration: 1
+    link: https://youtu.be/TTvLqUCDrbE
     regie:
     language:
     description: 'Alles zum Tiefseebergbau in 44 sec. Das Video zu unserer Kampagne.
