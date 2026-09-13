@@ -1,6 +1,11 @@
 init_masonry = function () {
     console.log('init_masonry');
     var grid = document.querySelector('.masonry-grid');
+    if (!grid) return;
+    var existing = Masonry.data(grid);
+    if (existing) {
+        existing.destroy();
+    }
     var msnry = new Masonry(grid, {
         itemSelector: '.masonry-item',
         percentPosition: true,
