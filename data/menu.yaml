@@ -62,7 +62,7 @@ service:
     url: https://deepwave.shop/
 home:
   - title: Über uns
-    subtitle: Wir geben dem Meer eine Stimme. Seit 2003. Wir klären auf, verbinden Wissenschaft, Kunst und Politik, vernetzen Menschen und Projekte, zeigen Lösungen auf und ermutigen zum Handeln. Für uns und alle zukünftigen Generationen und alle Lebewesen, mit denen wir uns diesen Blauen Planeten teilen.
+    subtitle: Wir geben dem Meer eine Stimme. Seit 2003 klären wir auf, verbinden Wissenschaft, Kunst und Politik, vernetzen Menschen und Projekte, zeigen Lösungen auf und ermutigen zum Handeln. Für uns und alle zukünftigen Generationen und alle Lebewesen, mit denen wir uns diesen Blauen Planeten teilen.
     url: /ueber-uns/
     image: https://res.cloudinary.com/deepwave-org/image/upload/v1747267235/deepwave.org/Heye_im_Wasser_Quadrat-scaled.jpg
   - title: 'NO DEEP SEA MINING - NEVER '
