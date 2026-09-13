@@ -1,6 +1,6 @@
 ---
 title: Unser Team
-image: https://res.cloudinary.com/deepwave-org/deepwave.org/Team_Header_Deepmobil_in_den_Dünen_ht2ult.jpg
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/DW_Kombi_mit_Krake_r8uzpk.jpg
 overlay: rgba(117, 79, 45, 0.37)
 layout: unser-team
 vorstand:
