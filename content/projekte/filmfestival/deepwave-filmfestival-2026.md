@@ -19,6 +19,7 @@ films:
   - title: 'Opener: We are One'
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/opener_Screenshot_fa5wrp.png
     duration: 1
+    link: https://youtu.be/8uv3Z-b15dY
     regie:
     language:
     description: Ein Film von Ivy Jelisavac (Regie und Schnitt) und Sebastian
