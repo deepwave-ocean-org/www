@@ -1,0 +1,15 @@
+- title: KLARTEXT Meerespolitik
+  button_text: Unser Erklärtool zeigt euch den Weg durch den Dschungel
+  link: https://klartext.deepwave.org
+  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/9_hmfkew.png
+  overlay_color:
+- title: Unser Logbuch hält euch auf Kurs
+  button_text: aktuelle Ausgabe
+  link: https://www.deepwave.org/newsletter/logbuch-16-im-film/
+  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/Header_Newsletter_Ausschnitt2_u2x7kd.jpg
+  overlay_color:
+- title: Gemeinsam die Meere schützen
+  button_text: Werde Mitglied, Patron oder Förder:in!
+  link: /giving-tuesday/
+  background_image: https://res.cloudinary.com/deepwave-org/deepwave.org/WhatsApp_Image_2025-09-30_at_17.59.31_1_kpjdsz.jpg
+  overlay_color:

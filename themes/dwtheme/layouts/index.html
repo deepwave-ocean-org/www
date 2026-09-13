@@ -3,6 +3,7 @@
 {{ partial "headers/slider.html" . }}
 
 {{ $home_nav := site.Data.menu.home }}
+{{ $home_banners := site.Data.home_banners }}
 
 <div class="not_full_width my-16">
     {{ range $index, $item := $home_nav }}
@@ -26,7 +27,17 @@
         <!-- Close the row div after every 3rd item or at the end of the list -->
     </div>
     {{ end }}
+    {{ if eq $index 2 }}
+</div>
+{{ partial "homeBanner" (index $home_banners 0) }}
+<div class="not_full_width my-16">
+    {{ else if eq $index 5 }}
+</div>
+{{ partial "homeBanner" (index $home_banners 1) }}
+<div class="not_full_width my-16">
+    {{ end }}
     {{ end }}
     {{ .Content }}
 </div>
+{{ partial "homeBanner" (index $home_banners 2) }}
 {{ end }}
