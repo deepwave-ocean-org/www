@@ -26,6 +26,7 @@ films:
   - title: Flor Do Mar
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Flor_do_Mar_4Frauen_im_Meer_b7b03t.jpg
     duration: 21
+    link: https://www.youtube.com/watch?v=I-o5KMUvKq4
     regie:
     language:
     description: >+
@@ -50,6 +51,7 @@ films:
   - title: For the Love of The Sea
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/s23-mpa-neumeier_a_0004_givoii_rjj5dh.webp
     duration: 12
+    link: https://www.youtube.com/watch?v=UL29ndxcYjg
     regie:
     language:
     description: 'Patagonia Films begleitet Câr-y-Môr, die erste regenerative
@@ -76,6 +78,7 @@ films:
       our planet'
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-06-07_at_01-17-38_Towards_the_abyss_How_the_rush_to_deep-sea_mining_threatens_people_and_our_planet_-_YouTube_scsz7x.png
     duration: 4
+    link: https://www.youtube.com/watch?v=SAVzciPmp54
     regie:
     language:
     description: 'Eine kurze Einführung in die Problematik des geplanten
@@ -98,6 +101,7 @@ films:
   - title: Whale fall
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-02-11_at_20-54-39_whale_fall_paper_cut_video_-_Google_Suche_scmyqc.png
     duration: 4
+    link: https://www.youtube.com/watch?v=tdyFhVNSHjk
     regie:
     language:
     description: Aus gegebenem Anlass ein Paper-Cut Video zum Walsturz | Regie
@@ -105,6 +109,7 @@ films:
   - title: Deafened Giants
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Photo_5_1_-_8_exheqn.jpg
     duration: 3
+    link: https://anastasia.berlin/Deafened-Giants-short-film
     regie:
     language:
     description: Wie bedrohlich der Lärm in den Ozeanen ist, ist uns Landebewesen
@@ -114,6 +119,7 @@ films:
   - title: Coral in Focus
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Screenshot_2026-06-07_at_02-00-36_Coral_In_Focus_-_FilmFreeway_v0nfio.png
     duration: 18
+    link: https://www.youtube.com/watch?v=w-pxdzEMHZ8
     regie:
     language:
     description: '"If we can see it, we can save it." Wie eine neue
@@ -122,6 +128,7 @@ films:
   - title: Uki
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Uki_2_vnr90y.jpg
     duration: 6
+    link: https://vimeo.com/342342468
     regie:
     language:
     description: Die indigenen Gemeinschaften in den Polarregionen sind nach wie vor
@@ -133,6 +140,7 @@ films:
   - title: Great White Sharks
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/Deepwave_ICRS__0004_Great_White_Sharks_Copyright_Lakan_Duskin_jysyjh.jpg
     duration: 3
+    link: https://www.youtube.com/watch?v=6A2R1V27TtI
     regie:
     language:
     description: >
