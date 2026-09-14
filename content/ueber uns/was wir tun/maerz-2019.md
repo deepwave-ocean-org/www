@@ -26,7 +26,7 @@ Erarbeitung einer aktuellen Vergleichstabelle von Alternativmaterialien (Maccaro
 
 #### **7\. März:**
 
-Kooperation mit dem Bio-Hotel [„Ifenblick“](https://www.berghotel-ifenblick.de/) in Balderschwang.
+Vortrag im Bio-Hotel [„Ifenblick“](https://www.berghotel-ifenblick.de/) in Balderschwang: "Warum die Allgäuer Berge so nah am Meer liegen"
 
 #### **1\. März:**
 
