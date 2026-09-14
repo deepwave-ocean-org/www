@@ -1,11 +1,10 @@
 ---
-title: "März 2015"
-date: 2015-03-01
+title: März 2015
+date: 2015-03-01T00:00:00Z
 ---
-
 Klimatagung H. Grassel, Hamburg
 
-[Greenpeace Abend: Kaltwasserkorallen](https://www.deepwave.org/kaltwasserkorallen/)
+Greenpeace Abend: Kaltwasserkorallen
 
 Geomar Sustainable Ocean Konferenz, Kiel
 

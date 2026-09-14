@@ -1,9 +1,8 @@
 ---
-title: "November 2015"
-date: 2015-11-01
+title: November 2015
+date: 2015-11-01T00:00:00Z
 ---
-
-[10\. Lange des Tauches Berlin](https://www.deepwave.org/deepwave-bei-der-10-langen-nacht-des-tauchens-berlin/)
+10\. Lange des Tauches Berlin
 
 Vortrag „Eine Zukunft für die Ozeane“, Dr. O. Groß
 

@@ -1,6 +1,5 @@
 ---
-title: "September 2015"
-date: 2015-09-01
+title: September 2015
+date: 2015-09-01T00:00:00Z
 ---
-
-[VIII. Inter Coastal Clean up Day an der Elbe](https://www.deepwave.org/deepwave-elbe-strandmuellsammeltag-19-9-2015/)
+VIII. Inter Coastal Clean up Day an der Elbe

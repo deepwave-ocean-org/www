@@ -1,19 +1,18 @@
 ---
-title: "Februar 2016"
-date: 2016-02-01
+title: Februar 2016
+date: 2016-02-01T00:00:00Z
 ---
-
 #### **25\. Februar:**
 
-Preisverleihung „Google Impact Challange Award“ an dem wir mit unserer [Blue-Straw-Kampagne](https://www.deepwave.org/bluestraw-kampagne/) erfolgreich teilgenommen haben, Berlin.
+Preisverleihung „Google Impact Challange Award“ an dem wir mit unserer&nbsp;**Blue-Straw-Kampagne**&nbsp;erfolgreich teilgenommen haben, Berlin.
 
 ![GoogleLogo](https://res.cloudinary.com/deepwave-org/image/upload/v1747245645/deepwave.org/GoogleLogo-1024x46.png)
 
 #### **23\. Februar:**
 
-Anhörung zu den Schutzgebietsverordnungsvorschlägen für sechs Nord- und Ostseenaturschutzgebiete ([Stellungnahme und Presse](https://www.deepwave.org/deutschlands-meeresschutz-am-ende/)) Hamburg.
+Anhörung zu den Schutzgebietsverordnungsvorschlägen für sechs Nord- und Ostseenaturschutzgebiete Hamburg.
 
-#### **20./21. Februar:**
+#### **20\./21. Februar:**
 
 Cruise Center Hamburg Altona Vortag auf der Verbauchermesse Heldenmarkt über Meeresschutz, Dr. O. Groß
 
