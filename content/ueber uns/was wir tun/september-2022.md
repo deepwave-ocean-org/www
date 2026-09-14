@@ -18,4 +18,4 @@ DEEPWAVE richtet das jährliche Treffen der im Meeresschutz aktiven deutschen Ve
 
 [![](https://res.cloudinary.com/deepwave-org/image/upload/v1747245691/deepwave.org/Highlights_Montemero.png)](https://res.cloudinary.com/deepwave-org/image/upload/v1747245691/deepwave.org/Highlights_Montemero.png)
 
-1\.Treffen mit Emily Pappa und Pino Brenner von [Montemero](https://www.montemero.eu). Wir beschließen eine gemeinsame Kooperation.
+1\.Treffen mit Emily Pappa und Pino Brenner von [Montemero](https://montemero.com/). Wir beschließen eine gemeinsame Kooperation.
