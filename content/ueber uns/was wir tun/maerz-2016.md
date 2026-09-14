@@ -1,13 +1,12 @@
 ---
-title: "März 2016"
-date: 2016-03-01
+title: März 2016
+date: 2016-03-01T00:00:00Z
 ---
-
 #### **31\. März:**
 
-Meeresmuseum Stralsund, :19:00 Uhr Vortrag: [Eine Zukunft für die Ozeane: Lösungen für mehr Schutz](https://www.deepwave.org/eine-zukunft-fuer-die-ozeane-loesungen-fuer-mehr-schutz/) (Dr. Onno Groß)
+Meeresmuseum Stralsund, Vortrag:&nbsp;**Eine Zukunft für die Ozeane: Lösungen für mehr Schutz**&nbsp;(Dr. Onno Groß)
 
-Unsere Ozeane sind vielfältig bedroht – vom Artensterben bis zur Überfischung. Doch es gibt wirksame Maßnahmen, die Meere zu schützen. Über Lösungen und Umsetzungen für eine Zukunft des blauen Planeten berichtet der Vortrag anhand weltweiter Beispiele.
+Unsere Ozeane sind vielfältig bedroht&nbsp;– vom Artensterben bis zur Überfischung. Doch es gibt wirksame Maßnahmen, die Meere zu schützen. Über Lösungen und Umsetzungen für eine Zukunft des blauen Planeten berichtet der Vortrag anhand weltweiter Beispiele.
 
 #### **24\. März:**
 
@@ -15,7 +14,7 @@ Hamburg: 12. Mitgliederversammlung DEEPWAVE e.V., 18 Uhr Restaurant Gloria, Bell
 
 #### **21\. März:**
 
-Rostock: Treffen mit Handelskette Globus GmbH: Einkaufsphilosophie Haifleisch? zusammen mit [Stop Finning](http://www.stop-finning.com/)
+Rostock: Treffen mit Handelskette Globus GmbH: Einkaufsphilosophie Haifleisch? zusammen mit&nbsp;[Stop Finning](http://www.stop-finning.com/)
 
 #### **16\. März:**
 
@@ -25,8 +24,8 @@ Mehr als elf Jahre nach ihrer Ausweisung sollen die Natura-2000-Gebiete in der A
 
 #### **14\. März:**
 
-[Verbände-Stellungsnahme Nature2000](https://res.cloudinary.com/deepwave-org/image/upload/v1747245606/deepwave.org/Stellungnahme-der-Umweltverb_C3_A4nde-Fischereima_C3_9Fnahmen-N2000-Nordsee_14032016.pdf) zu „Fischerei-Management in nach Natura 2000 geschützten Meeresflächen der deutschen AWZ – Entwurf einer Gemeinsamen Empfehlung für Nordsee-Schutzgebiete“
+[Verbände-Stellungsnahme Nature2000](https://res.cloudinary.com/deepwave-org/image/upload/v1747245606/deepwave.org/Stellungnahme-der-Umweltverb_C3_A4nde-Fischereima_C3_9Fnahmen-N2000-Nordsee_14032016.pdf)&nbsp;zu „Fischerei-Management in nach Natura 2000 geschützten Meeresflächen der deutschen AWZ – Entwurf einer Gemeinsamen Empfehlung für Nordsee-Schutzgebiete“
 
 #### **4\. März:**
 
-[Verbände-Brief an Kanzlerin Merkel](https://res.cloudinary.com/deepwave-org/image/upload/v1747245608/deepwave.org/160303_Brf_BKin-Merkel_Meeresschutz-2016_FINAL_2.pdf) zu Natura 2000: „Drohender Glaubwürdigkeitsverlust Deutschlands im Meeresschutz“
+[Verbände-Brief an Kanzlerin Merkel](https://res.cloudinary.com/deepwave-org/image/upload/v1747245608/deepwave.org/160303_Brf_BKin-Merkel_Meeresschutz-2016_FINAL_2.pdf)&nbsp;zu Natura 2000: „Drohender Glaubwürdigkeitsverlust Deutschlands im Meeresschutz“
