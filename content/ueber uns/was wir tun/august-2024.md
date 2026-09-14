@@ -1,11 +1,10 @@
 ---
-title: "August 2024"
-date: 2024-08-31
+title: August 2024
+date: 2024-08-31T00:00:00Z
 ---
-
 #### **den Sommer über**
 
-Unser **Infostand zum Thema Müll** - _und wie er nicht ins Meer gelangt, wenn wir ihn richtig entsorgen_ - **mit Wurfspiel** wird jetzt auf dem [Hamburger Energieberg](https://www.ardmediathek.de/video/hamburg-journal/hamburg-bietet-wieder-einen-prall-gefuellten-ferienpass/ndr/Y3JpZDovL25kci5kZS9jZGU1MjliYy1kOTVlLTRiNWEtYWZmZC04NDk4MmU4YjM0MDc) genutzt.
+Unser **Infostand zum Thema Müll** - *und wie er nicht ins Meer gelangt, wenn wir ihn richtig entsorgen* - **mit Wurfspiel** wird jetzt auf dem [Hamburger Energieberg](https://www.stadtreinigung.hamburg/umweltbildung/lernort-energieberg/) genutzt.
 
 #### **2\. - 6. August**
 
