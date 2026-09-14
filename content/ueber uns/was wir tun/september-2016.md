@@ -1,31 +1,30 @@
 ---
-title: "September 2016"
-date: 2016-09-01
+title: September 2016
+date: 2016-09-01T00:00:00Z
 ---
-
 #### **25\. September:**
 
-Kiel, Schiffstaufe der „Seekuh“ des ersten Müllsammelschiffs weltweit von [One Earth One Ocean e.V.](https://oneearth-oneocean.com/) [](http://www.oneearth-oneocean.com/?p=1915)
+Kiel, Schiffstaufe der „Seekuh“ des ersten Müllsammelschiffs weltweit von&nbsp;[One Earth One Ocean e.V.](https://oneearth-oneocean.com/)&nbsp;
 
-#### **19.-21. September:**
+#### **19\.-21. September:**
 
 Hannover: AG Meeresmüll-Tagung vom BMBU
 
 #### **17\. September:**
 
-Hamburg: [Elbstrand Clean Up Day](https://www.deepwave.org/hamburg-elbe-beach-clean-up-17-9-2016/)
+Hamburg:&nbsp;Elbstrand Clean Up Day
 
 #### **14\. September:**
 
 Hamburg: DGM-Mitgliederversammlung
 
-#### **12.-13- September:**
+#### **12\.-13- September:**
 
-Hamburg: EU – [Blue Economy Business and Science Forum](http://ec.europa.eu/information_society/newsroom/cf/mare/itemlongdetail.cfm?subweb=342&lang=en&item_id=31238) – 1st Summit
+Hamburg: EU –&nbsp;Blue Economy Business and Science Forum&nbsp;– 1st Summit
 
 #### **11-13. September:**
 
-Hamburg:  [Youmares7](http://www.youmares.net/) Young marine researchers conference
+Hamburg:&nbsp;&nbsp;Youmares7&nbsp;Young marine researchers conference
 
 #### **11\. September:**
 
@@ -33,8 +32,8 @@ Hamburg: Jahrestagung Deutsche Gesellschaft Meeresforschung DGM
 
 #### **3\. September:**
 
-Hamburg: Stand auf dem [Methfesselfest](http://www.methfesselfest.de/index.php?page=programm) – „Mit Vergügen Position beziehen“.
+Hamburg: Stand auf dem&nbsp;Methfesselfest&nbsp;– „Mit Vergügen Position beziehen“.
 
 #### **2\. September:**
 
-Hamburg Kampgnagel: Blackfish-Night [„Voice for the Ocean“](https://www.theblackfish.org/)
+Hamburg Kampgnagel: Blackfish-Night&nbsp;„Voice for the Ocean“
