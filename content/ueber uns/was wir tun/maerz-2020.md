@@ -1,13 +1,12 @@
 ---
-title: "März 2020"
-date: 2020-03-01
+title: März 2020
+date: 2020-03-01T00:00:00Z
 ---
-
-#### [![](https://res.cloudinary.com/deepwave-org/image/upload/v1747245650/deepwave.org/Meeresoffensive2020-1.png)](https://www.deepwave.org/die-ozeane/meerespolitik/)
+#### [![](https://res.cloudinary.com/deepwave-org/image/upload/v1747245650/deepwave.org/Meeresoffensive2020-1.png)](https://res.cloudinary.com/deepwave-org/deepwave.org/Meeresoffensive_2020_m9skwr.pdf)
 
 #### **16\. März**
 
-Veröffentlichung des Forderungspapiers zur **[Meeresoffensive 2020](https://www.deepwave.org/die-ozeane/meerespolitik/)** gemeinsam mit [BUND](https://www.bund.net/), DEEPWAVE, [DUH](https://www.duh.de/), [fair oceans](https://fair-oceans.info/), [Forum Umwelt und Entwicklung](https://www.forumue.de/), [NABU](https://www.nabu.de/), [Slow Food](https://www.slowfood.de/), [WDC](https://de.whales.org/), [WWF](https://www.wwf.de/), sowie mit [Brot für die Welt](https://www.brot-fuer-die-welt.de/), [fair fish](http://www.fair-fish.ch/de/), [Greenpeace](https://www.greenpeace.de/), [Ozeanien Dialog](http://www.ozeanien-dialog.de/), [Reef Check](http://reefcheck.de/), [urgewald](https://urgewald.org/), der [Schutzstation Wattenmeer](https://www.schutzstation-wattenmeer.de/) und [Waterkant](https://waterkant.info/)
+Veröffentlichung des Forderungspapiers zur [**Meeresoffensive 2020**](https://res.cloudinary.com/deepwave-org/deepwave.org/Meeresoffensive_2020_senbiy.pdf) gemeinsam mit [BUND](https://www.bund.net/), DEEPWAVE, [DUH](https://www.duh.de/), [fair oceans](https://fair-oceans.info/), [Forum Umwelt und Entwicklung](https://www.forumue.de/), [NABU](https://www.nabu.de/), [Slow Food](https://www.slowfood.de/), [WDC](https://de.whales.org/), [WWF](https://www.wwf.de/), sowie mit [Brot für die Welt](https://www.brot-fuer-die-welt.de/), [fair fish](http://www.fair-fish.ch/de/), [Greenpeace](https://www.greenpeace.de/), [Ozeanien Dialog](http://www.ozeanien-dialog.de/), [Reef Check](http://reefcheck.de/), [urgewald](https://urgewald.org/), der [Schutzstation Wattenmeer](https://www.schutzstation-wattenmeer.de/) und [Waterkant](https://waterkant.info/)
 
 #### **9\. März**
 
