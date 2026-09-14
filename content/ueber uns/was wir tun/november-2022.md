@@ -1,11 +1,10 @@
 ---
-title: "November 2022"
-date: 2022-11-22
+title: November 2022
+date: 2022-11-22T00:00:00Z
 ---
-
 #### **29\. November**
 
-Aufruf zur jährlichen Spendenanktion am [Giving Tuseday](https://www.deepwave.org/giving-tuesday-2022/)
+Aufruf zur jährlichen Spendenanktion am [Giving Tuseday](https://www.deepwave.org/giving-tuesday/)
 
 #### **22\. November**
 
