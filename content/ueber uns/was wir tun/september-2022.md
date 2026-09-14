@@ -1,13 +1,12 @@
 ---
-title: "September 2022"
-date: 2022-09-02
+title: September 2022
+date: 2022-09-02T00:00:00Z
 ---
-
 #### 21\. September
 
-als Gast beim Nachhaltigskeitspodcast [ZWEIvorZWÖLF](https://www.zweivorzwoelf.info/episoden) von Andrea Gerhard und David Wehle. Die Folge **#89 deepwave e.V. – Meeresschutz** könnt ihr überall hören, wo es Podcasts gibt.
+als Gast beim Nachhaltigskeitspodcast [ZWEIvorZWÖLF](https://www.zweivorzwoelf.info/kopie-von-episoden) von Andrea Gerhard und David Wehle. Die Folge **\#89 deepwave e.V. – Meeresschutz** könnt ihr überall hören, wo es Podcasts gibt.
 
-#### 16.- 18. September
+#### 16\.- 18. September
 
 Infostand auf dem Hamburger Hafengeburtstag
 
@@ -19,4 +18,4 @@ DEEPWAVE richtet das jährliche Treffen der im Meeresschutz aktiven deutschen Ve
 
 [![](https://res.cloudinary.com/deepwave-org/image/upload/v1747245691/deepwave.org/Highlights_Montemero.png)](https://res.cloudinary.com/deepwave-org/image/upload/v1747245691/deepwave.org/Highlights_Montemero.png)
 
-1.Treffen mit Emily Pappa und Pino Brenner von [Montemero](https://www.montemero.eu). Wir beschließen eine gemeinsame Kooperation.
+1\.Treffen mit Emily Pappa und Pino Brenner von [Montemero](https://www.montemero.eu). Wir beschließen eine gemeinsame Kooperation.
