@@ -24,10 +24,6 @@ Vergleichstabelle **Alternativen zum Plastiktrinkhalm**
 
 Erarbeitung einer aktuellen Vergleichstabelle von Alternativmaterialien (Maccaroni, Stroh, Glas, Biokunststoffe, Papier, Bambus, Edelstahl) und ihrer Vor- und Nachteile im Rahmen der **BLUE STRAW Kampagne.**
 
-#### **7\. März:**
-
-Vortrag im Bio-Hotel [„Ifenblick“](https://www.berghotel-ifenblick.de/) in Balderschwang: "Warum die Allgäuer Berge so nah am Meer liegen"
-
 #### **1\. März:**
 
 &nbsp;[„Fridays for Future“- Greta Thunberg in Hamburg](https://www.deepwave.org/fridays-for-future-greta-thunberg-in-hamburg/)
