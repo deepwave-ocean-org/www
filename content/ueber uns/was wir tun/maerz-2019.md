@@ -6,7 +6,7 @@ date: 2019-03-28T00:00:00Z
 
 Hamburg, Girls\` & Boys\` Day 2019
 
-Mehrere Schüler\*innen haben unser Büro besucht und hatten die Chance, im Rahmen des Girls\` & Boys\` Days in den Alltag einer Meeresschutzorganisation einzutauchen. Im Anschluss verfassten sie zwei Blogbeiträge für DEEPWAVE.
+Mehrere Schüler:innen haben unser Büro besucht und hatten die Chance, im Rahmen des Girls\` & Boys\` Days in den Alltag einer Meeresschutzorganisation einzutauchen. Im Anschluss verfassten sie zwei Blogbeiträge für DEEPWAVE.
 
 [*Strandausflüge mit schlimmen Folgen*](https://www.deepwave.org/girls-boys-day-2019-strandausfluege-mit-schlimmen-folgen/)
 
