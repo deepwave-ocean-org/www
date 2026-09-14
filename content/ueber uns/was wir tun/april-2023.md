@@ -4,7 +4,7 @@ date: 2023-04-18T00:00:00Z
 ---
 #### **23\. April**
 
-Treffen in Berlin mit unserem Kooperationspartner [**Montemero,**](http://montemero.eu/) Planungen zu unserem Projekt *Applied Consilience*&nbsp; in Südspanien
+Treffen in Berlin mit unserem Kooperationspartner [**Montemero,**](http://montemero.com) Planungen zu unserem Projekt *Applied Consilience*&nbsp; in Südspanien
 
 #### **18\. April**
 
