@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+{{ partial "meta" . }}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,600;0,8..60,700;1,8..60,600&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Manrope',sans-serif;color:#e8f3f3;background:#0a2131;}
+  ::selection{background:#4fd6d1;color:#0a2131;}
+  .serif{font-family:'Source Serif 4',serif;}
+  .shadow-text{text-shadow:0 1px 5px rgba(4,10,18,0.8),0 4px 20px rgba(4,10,18,0.5);}
+
+  .pf-hero{background:linear-gradient(180deg,#1f5470 0%,#12324a 55%,#0a2131 100%);padding:100px 24px 90px;position:relative;}
+  .pf-hero-inner{max-width:1040px;margin:0 auto;position:relative;z-index:1;}
+  .pf-brand{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:18px;}
+  .pf-brand img{height:64px;}
+  .pf-beta{display:inline-flex;align-items:center;background:#fff;border:1px solid #cfe4e6;padding:5px 14px;border-radius:999px;font-size:11px;letter-spacing:.04em;text-transform:uppercase;font-weight:600;color:#0a2131;box-shadow:0 1px 4px rgba(6,16,26,0.2);}
+  .pf-hero h1{margin:0 0 10px;font-weight:700;font-size:56px;line-height:1.08;max-width:760px;color:#fff;text-shadow:0 2px 6px rgba(4,10,18,0.8),0 6px 26px rgba(4,10,18,0.55);}
+  .pf-hero h2{margin:0 0 16px;font-weight:600;font-size:19px;line-height:1.4;max-width:640px;color:#fff;}
+  .pf-intro p{max-width:640px;font-size:16px;line-height:1.6;color:#fff;margin:0 0 14px;}
+  .pf-intro p:last-child{margin-bottom:26px;}
+  .pf-intro a{color:#4fd6d1;}
+  .pf-note{display:inline-block;background:#fff;border:1px solid #cfe4e6;border-radius:10px;padding:10px 16px;font-size:13px;color:#1c3040;box-shadow:0 1px 6px rgba(6,16,26,0.25);}
+  .pf-wave{position:absolute;left:0;right:0;bottom:-1px;width:100%;height:64px;display:block;}
+
+  .pf-body{background:linear-gradient(180deg,#397891 0%,#3f7089 18%,#12324a 55%,#0a2131 100%);}
+  .pf-main{max-width:1040px;margin:0 auto;padding:8px 24px 96px;}
+  .pf-label{font-size:16px;margin:0 0 16px;color:#eaf6f6;font-weight:600;}
+  .pf-filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px;}
+  .pf-filter{border:1.5px solid #4fd6d1;color:#157e79;background:#fff;padding:8px 16px;border-radius:999px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Manrope',sans-serif;transition:all .15s ease;}
+  .pf-filter:hover{box-shadow:0 2px 8px rgba(10,33,49,0.15);}
+  .pf-filter[aria-pressed="true"]{background:#157e79;color:#fff;}
+  .pf-hint{font-size:12px;color:#bcd8da;margin:0 0 28px;}
+
+  .pf-card{background:#fff;border-radius:20px;box-shadow:0 4px 18px rgba(10,33,49,0.08);margin-bottom:20px;overflow:hidden;border:1px solid #e6f0f0;}
+  .pf-card[hidden]{display:none;}
+  .pf-card-head{display:flex;align-items:center;gap:16px;padding:20px 22px;cursor:pointer;width:100%;border:0;background:none;text-align:left;font:inherit;}
+  .pf-card-head:hover{background:#f2f8f8;}
+  .pf-avatar{position:relative;flex-shrink:0;}
+  .pf-avatar-img{width:76px;height:76px;border-radius:50%;border:2.5px solid #4fd6d1;overflow:hidden;background:#f2f8f8;display:flex;align-items:center;justify-content:center;color:#157e79;font-weight:800;font-size:24px;}
+  .pf-avatar-img img{width:100%;height:100%;display:block;object-fit:cover;}
+  .pf-play-badge{position:absolute;bottom:-2px;right:-2px;width:26px;height:26px;border-radius:50%;background:#e2725b;border:2.5px solid #fff;display:flex;align-items:center;justify-content:center;box-shadow:0 1px 4px rgba(0,0,0,0.25);}
+  .pf-name-wrap{flex:1;min-width:0;}
+  .pf-name{display:block;margin:0;font-weight:700;font-size:18px;color:#0a2131;}
+  .pf-more{display:flex;align-items:center;gap:6px;font-size:13px;color:#157e79;font-weight:700;margin-top:6px;}
+  .pf-chevron{width:22px;height:22px;border-radius:50%;background:#e6f0f0;border:1.5px solid #4fd6d1;display:flex;align-items:center;justify-content:center;flex-shrink:0;color:#157e79;transition:transform .2s ease;}
+  .pf-card.is-open .pf-chevron{transform:rotate(180deg);}
+  .pf-tags{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap;max-width:280px;justify-content:flex-end;flex-shrink:0;}
+  .pf-tag{font-size:11px;background:#e6f0f0;color:#157e79;border-radius:12px;padding:4px 10px;white-space:nowrap;font-weight:600;}
+
+  .pf-steps-wrap{position:relative;padding:8px 22px 20px;}
+  .pf-steps-line{position:absolute;left:22px;right:22px;top:33px;height:12px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='12' viewBox='0 0 40 12'%3E%3Cpath d='M0 6 C10 0 30 12 40 6' stroke='%23cfe4e6' stroke-width='2' fill='none'/%3E%3C/svg%3E");background-repeat:repeat-x;}
+  .pf-steps-rel{position:relative;}
+  .pf-steps{display:flex;align-items:flex-start;overflow-x:auto;overflow-y:hidden;position:relative;z-index:1;scrollbar-width:none;-ms-overflow-style:none;}
+  .pf-steps::-webkit-scrollbar{display:none;height:0;}
+  .pf-steps.fade-right{-webkit-mask-image:linear-gradient(to right,#000 0,#000 calc(100% - 26px),transparent);mask-image:linear-gradient(to right,#000 0,#000 calc(100% - 26px),transparent);}
+  .pf-steps.fade-left{-webkit-mask-image:linear-gradient(to right,transparent,#000 26px,#000 100%);mask-image:linear-gradient(to right,transparent,#000 26px,#000 100%);}
+  .pf-steps.fade-left.fade-right{-webkit-mask-image:linear-gradient(to right,transparent,#000 26px,#000 calc(100% - 26px),transparent);mask-image:linear-gradient(to right,transparent,#000 26px,#000 calc(100% - 26px),transparent);}
+  .pf-step{display:flex;flex-direction:column;align-items:center;min-width:112px;max-width:160px;padding:0 4px;}
+  .pf-step-icon{width:28px;height:28px;border-radius:50%;background:#fff;border:1.5px solid #c31f5d;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 1px 4px rgba(10,33,49,0.12);}
+  .pf-step-label{font-size:10.5px;color:#5c8aa0;text-transform:uppercase;letter-spacing:.03em;margin-top:6px;text-align:center;}
+  .pf-step-value{font-size:12px;text-align:center;color:#0c2230;margin-top:2px;line-height:1.3;}
+  .pf-scroll-btn{position:absolute;top:9px;width:20px;height:20px;border-radius:50%;background:#fff;border:1px solid #cfe4e6;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2;box-shadow:0 1px 4px rgba(10,33,49,0.15);padding:0;}
+  .pf-scroll-btn:hover{border-color:#4fd6d1;}
+  .pf-scroll-btn[hidden]{display:none;}
+  .pf-scroll-btn.left{left:-2px;}
+  .pf-scroll-btn.right{right:-2px;}
+
+  .pf-detail{border-top:1px solid #eef3f2;padding:20px 22px 24px;background:#f2f8f8;display:flow-root;}
+  .pf-detail[hidden]{display:none;}
+  .pf-hero-img{position:relative;float:left;width:220px;aspect-ratio:4/5;margin:0 20px 14px 0;border-radius:16px;overflow:hidden;background:#0a2131;border:0;padding:0;display:block;}
+  button.pf-hero-img{cursor:pointer;}
+  .pf-hero-img img{width:100%;height:100%;object-fit:cover;display:block;}
+  .pf-hero-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,33,49,0) 55%,rgba(10,33,49,0.55) 100%);}
+  .pf-hero-play{position:absolute;top:38%;left:50%;transform:translate(-50%,-50%);width:46px;height:46px;border-radius:50%;background:rgba(255,255,255,0.94);display:flex;align-items:center;justify-content:center;box-shadow:0 2px 10px rgba(0,0,0,0.3);}
+  .pf-hero-dur{position:absolute;top:10px;left:10px;background:rgba(10,33,49,0.75);color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;}
+  .pf-teaser{font-size:18px;font-weight:600;font-style:italic;line-height:1.5;color:#12324a;border-left:3px solid #e2725b;padding:1px 0 1px 18px;margin:14px 0 22px;max-width:560px;}
+  .pf-small-label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:#5c8aa0;margin-bottom:8px;font-weight:600;}
+  .pf-expertise{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px;}
+  .pf-expertise span{font-size:12.5px;background:#fff;color:#b84a35;border:1px solid #e2725b;border-radius:8px;padding:6px 12px;}
+  .pf-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px;}
+  .pf-btn{display:inline-block;padding:10px 18px;border-radius:999px;font-size:13px;font-weight:700;text-decoration:none;cursor:pointer;font-family:'Manrope',sans-serif;}
+  .pf-btn-primary{background:#e2725b;color:#fff;border:1.5px solid #e2725b;}
+  .pf-btn-primary:hover{background:#c65a44;border-color:#c65a44;}
+  .pf-btn-secondary{background:#fff;color:#12324a;border:1.5px solid #5c8aa0;}
+  .pf-btn-secondary:hover{border-color:#157e79;color:#157e79;}
+
+  .pf-box{margin-top:22px;background:#fff;border-radius:20px;border:1px solid #e6f0f0;padding:26px 28px;}
+  .pf-box.first{margin-top:40px;}
+  .pf-box h2{font-size:20px;margin:0 0 8px;color:#0a2131;display:flex;align-items:center;gap:8px;}
+  .pf-box h2 svg{width:36px;height:16px;flex-shrink:0;}
+  .pf-glossary{columns:2;-webkit-columns:2;margin:16px 0 0;padding-left:18px;font-size:13.5px;line-height:1.55;color:#0c2230;}
+  .pf-glossary li{break-inside:avoid-column;margin-bottom:13px;padding-right:10px;}
+  .pf-glossary a{color:#0a2131;font-weight:700;text-decoration:underline;text-decoration-color:#4fd6d1;text-underline-offset:2px;}
+  .pf-glossary strong{color:#0a2131;}
+  .pf-box-intro{font-size:13px;color:#5c8aa0;margin:0 0 20px;}
+  .pf-cols{display:flex;gap:36px;flex-wrap:wrap;}
+  .pf-cols > div{flex:1;min-width:240px;}
+  .pf-cols h3{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#5c8aa0;margin:0 0 12px;}
+  .pf-links{list-style:none;margin:0;padding:0;}
+  .pf-links li{margin-bottom:14px;}
+  .pf-links a{color:#157e79;font-weight:700;font-size:13.5px;text-decoration:none;}
+  .pf-links a:hover{text-decoration:underline;}
+  .pf-links span{display:block;color:#5c8aa0;font-size:12.5px;line-height:1.5;margin-top:2px;}
+
+  .pf-overlay{position:fixed;inset:0;background:rgba(6,20,29,0.92);z-index:999;}
+  .pf-overlay[hidden]{display:none;}
+  .pf-lightbox{display:flex;align-items:center;justify-content:center;padding:24px;}
+  .pf-lightbox video{max-width:92vw;max-height:84vh;border-radius:12px;box-shadow:0 10px 40px rgba(0,0,0,0.5);display:block;}
+  .pf-lightbox-caption{position:absolute;bottom:26px;left:50%;transform:translateX(-50%);color:#cfe4e6;font-size:13px;text-align:center;max-width:80vw;}
+  .pf-close{width:38px;height:38px;border-radius:50%;background:rgba(255,255,255,0.12);border:1.5px solid rgba(79,214,209,0.5);color:#fff;font-size:20px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+  .pf-close:hover{background:rgba(79,214,209,0.25);}
+  .pf-lightbox .pf-close{position:absolute;top:20px;right:24px;}
+  .pf-story{overflow-y:auto;}
+  .pf-story-row{min-height:100%;display:flex;justify-content:center;}
+  .pf-story-sheet{width:100%;max-width:680px;background:#fdfbf7;box-shadow:0 0 60px rgba(0,0,0,0.35);}
+  .pf-story-bar{position:sticky;top:0;z-index:2;background:#12324a;padding:16px 20px;display:flex;align-items:center;gap:14px;}
+  .pf-story-bar .pf-close{width:36px;height:36px;font-size:18px;}
+  .pf-story-bar span{font-weight:700;font-size:16px;color:#fff;}
+  .pf-story-head{padding:28px 24px 4px;text-align:center;}
+  .pf-story-photo{width:96px;height:96px;border-radius:50%;overflow:hidden;margin:0 auto 14px;border:3px solid #4fd6d1;box-shadow:0 4px 14px rgba(10,33,49,0.15);background:#f2f8f8;}
+  .pf-story-photo img{width:100%;height:100%;object-fit:cover;display:block;}
+  .pf-story-name{font-weight:700;font-size:22px;color:#0a2131;}
+  .pf-story-text{padding:8px 24px 72px;}
+  .pf-story-text p{font-size:16px;line-height:1.7;color:#12324a;margin:0 0 20px;}
+  .pf-story-text a{color:#157e79;}
+  .pf-story-text h2,.pf-story-text h3{font-family:'Source Serif 4',serif;color:#0a2131;margin:28px 0 12px;}
+  .pf-story-text blockquote{margin:0 0 20px;background:#fff;border-left:3px solid #e2725b;padding:14px 18px;border-radius:0 12px 12px 0;}
+  .pf-story-text blockquote p{font-family:'Source Serif 4',serif;font-size:17px;font-weight:600;font-style:italic;line-height:1.5;margin:0;}
+  .pf-story-text blockquote p + p{margin-top:10px;}
+  .pf-figure{margin:0 0 22px;}
+  .pf-figure:not(:has(figcaption)){margin-bottom:8px;}
+  .pf-figure-img{border-radius:16px;overflow:hidden;box-shadow:0 4px 18px rgba(10,33,49,0.12);}
+  .pf-figure-img img{display:block;width:100%;height:auto;}
+  .pf-figure figcaption{font-style:italic;font-size:12.5px;line-height:1.5;color:#5c8aa0;margin-top:8px;}
+  body.pf-locked{overflow:hidden;}
+
+  @media (max-width:720px){
+    .pf-hero{padding:64px 16px 80px;}
+    .pf-hero h1{font-size:38px;}
+    .pf-main{padding:8px 16px 72px;}
+    .pf-card-head{flex-wrap:wrap;padding:18px 16px;}
+    .pf-tags{margin-left:0;max-width:none;justify-content:flex-start;width:100%;}
+    .pf-steps-wrap{padding:8px 16px 20px;}
+    .pf-steps-line{left:16px;right:16px;}
+    .pf-detail{padding:20px 16px 24px;}
+    .pf-hero-img{float:none;width:100%;max-width:260px;margin:0 0 14px;}
+    .pf-glossary{columns:1;-webkit-columns:1;}
+    .pf-box{padding:22px 18px;}
+  }
+</style>
+</head>
+<body>
+{{- $numberWords := dict "1" "eine" "2" "zwei" "3" "drei" "4" "vier" "5" "fünf" "6" "sechs" "7" "sieben" "8" "acht" "9" "neun" "10" "zehn" "11" "elf" "12" "zwölf" }}
+{{- $profiles := .Pages.ByWeight }}
+{{- $count := len $profiles }}
+{{- $tags := slice }}
+{{- range $profiles }}{{ with .Params.schwerpunkte }}{{ $tags = $tags | append . }}{{ end }}{{ end }}
+{{- $tags = $tags | uniq | sort }}
+{{- range .Params.zusaetzliche_filter }}{{ if not (in $tags .) }}{{ $tags = $tags | append . }}{{ end }}{{ end }}
+{{- $resultText := replace (.Params.ergebnis_text | default "Hier zeigen dir {anzahl} Meeresschützer:innen ihren Weg") "{anzahl}" (index $numberWords (string $count) | default (string $count)) }}
+{{- $email := .Params.kontakt_email | default "info@deepwave.org" }}
+
+<header class="pf-hero">
+  <div class="pf-hero-inner">
+    <div class="pf-brand">
+      <a href="/"><img src="/pathfinder/assets/LOGO_DEEPWAVE_neu_white.svg" alt="Deepwave Logo"></a>
+      {{ if .Params.beta }}<span class="pf-beta">Beta</span>{{ end }}
+    </div>
+    <h1 class="serif">{{ .Title }}</h1>
+    {{ with .Params.untertitel }}<h2 class="shadow-text">{{ . }}</h2>{{ end }}
+    {{ with .Params.einleitung }}<div class="pf-intro shadow-text">{{ . | markdownify }}</div>{{ end }}
+    {{ with .Params.hinweis }}<div class="pf-note">{{ . }}</div>{{ end }}
+  </div>
+  <svg class="pf-wave" viewBox="0 0 1440 90" preserveAspectRatio="none" aria-hidden="true"><path d="M0,45 C240,90 480,0 720,40 C960,80 1200,10 1440,50 L1440,90 L0,90 Z" fill="#397891"></path></svg>
+</header>
+
+<div class="pf-body">
+<main class="pf-main">
+  <p class="pf-label">{{ .Params.filter_frage | default "Was interessiert dich am meisten?" }}</p>
+  <div class="pf-filters">
+    {{ range $tags }}<button type="button" class="pf-filter" aria-pressed="false" data-tag="{{ . }}">{{ . }}</button>{{ end }}
+  </div>
+  <p class="pf-hint">Mehrfachauswahl möglich · Filter zurücksetzen mit erneutem Klick</p>
+  <p class="pf-label" id="pf-result" data-default="{{ $resultText }}" data-total="{{ $count }}">{{ $resultText }}</p>
+
+  <div id="pf-profiles">
+  {{ range $i, $p := $profiles }}
+    {{- $first := index (split .Title " ") 0 }}
+    {{- $pos := .Params.bildausschnitt | default "50% 12%" }}
+    {{- $story := trim (.Content | replaceRE `<p>\s*(<figure[\s\S]*?</figure>)\s*</p>` "$1") " \n" }}
+    <article class="pf-card" data-tags="{{ .Params.schwerpunkte | default slice | jsonify }}" data-idx="{{ $i }}">
+      <button type="button" class="pf-card-head" aria-expanded="false" aria-controls="pf-detail-{{ $i }}">
+        <span class="pf-avatar">
+          <span class="pf-avatar-img">
+            {{ with .Params.foto }}<img src="{{ . }}" alt="Foto von {{ $p.Title }}" style="object-position:{{ $pos | safeCSS }};" loading="lazy">{{ else }}{{ substr $p.Title 0 1 }}{{ end }}
+          </span>
+          {{ if .Params.video }}<span class="pf-play-badge"><svg viewBox="0 0 12 12" fill="#fff" style="width:9px;height:9px;margin-left:1px;"><path d="M2 1.5 L10 6 L2 10.5 Z"></path></svg></span>{{ end }}
+        </span>
+        <span class="pf-name-wrap">
+          <span class="pf-name serif" role="heading" aria-level="3">{{ .Title }}</span>
+          <span class="pf-more">
+            <span class="pf-more-label" data-open="Weg schließen" data-closed="Mehr über {{ $first }}">Mehr über {{ $first }}</span>
+            <span class="pf-chevron"><svg viewBox="0 0 12 8" fill="none" style="width:10px;height:10px;"><path d="M1 1L6 6.5L11 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+          </span>
+        </span>
+        <span class="pf-tags">{{ range .Params.schwerpunkte }}<span class="pf-tag">{{ . }}</span>{{ end }}</span>
+      </button>
+
+      {{ with .Params.stationen }}
+      <div class="pf-steps-wrap">
+        <div class="pf-steps-line"></div>
+        <div class="pf-steps-rel">
+          <div class="pf-steps">
+            {{ range . }}
+            <div class="pf-step">
+              <div class="pf-step-icon"><svg viewBox="0 0 24 24" fill="none" stroke="#c31f5d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;"><circle cx="12" cy="5" r="3"></circle><line x1="12" y1="22" x2="12" y2="8"></line><path d="M5 12H2a10 10 0 0 0 20 0h-3"></path></svg></div>
+              <div class="pf-step-label">{{ .label }}</div>
+              <div class="pf-step-value">{{ .text }}</div>
+            </div>
+            {{ end }}
+          </div>
+          <button type="button" class="pf-scroll-btn left" aria-label="Zurück scrollen" hidden><svg viewBox="0 0 8 12" fill="none" style="width:6px;height:9px;"><path d="M7 1L2 6L7 11" stroke="#e2725b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg></button>
+          <button type="button" class="pf-scroll-btn right" aria-label="Weiter scrollen" hidden><svg viewBox="0 0 8 12" fill="none" style="width:6px;height:9px;"><path d="M1 1L6 6L1 11" stroke="#e2725b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg></button>
+        </div>
+      </div>
+      {{ end }}
+
+      <div class="pf-detail" id="pf-detail-{{ $i }}" hidden>
+        {{ with .Params.foto }}
+          {{ if $p.Params.video }}
+          <button type="button" class="pf-hero-img" data-video="{{ $p.Params.video }}" data-caption="{{ $p.Title }} – {{ $p.Params.teaser }}" aria-label="Video von {{ $p.Title }} abspielen">
+            <img src="{{ . }}" alt="Foto von {{ $p.Title }}" style="object-position:{{ $pos | safeCSS }};" loading="lazy">
+            <span class="pf-hero-shade"></span>
+            <span class="pf-hero-play"><svg viewBox="0 0 12 12" fill="#0a2131" style="width:15px;height:15px;margin-left:2px;"><path d="M2 1.5 L10 6 L2 10.5 Z"></path></svg></span>
+            {{ with $p.Params.video_dauer }}<span class="pf-hero-dur">{{ . }}</span>{{ end }}
+          </button>
+          {{ else }}
+          <div class="pf-hero-img"><img src="{{ . }}" alt="Foto von {{ $p.Title }}" style="object-position:{{ $pos | safeCSS }};" loading="lazy"></div>
+          {{ end }}
+        {{ end }}
+        {{ with .Params.teaser }}<p class="pf-teaser serif">„{{ . }}“</p>{{ end }}
+        {{ with .Params.expertise }}
+        <div>
+          <span class="pf-small-label">Expertise</span>
+          <div class="pf-expertise">{{ range . }}<span>{{ . }}</span>{{ end }}</div>
+        </div>
+        {{ end }}
+        <div class="pf-actions">
+          {{ if .Params.ansprechbar }}<a class="pf-btn pf-btn-primary" href="mailto:{{ $email }}?subject=Frag {{ $first }} direkt">Frag {{ $first }} direkt</a>{{ end }}
+          {{ if $story }}<button type="button" class="pf-btn pf-btn-secondary" data-story="pf-story-{{ $i }}">Ganze Geschichte lesen</button>{{ end }}
+        </div>
+      </div>
+
+      {{ if $story }}
+      <template id="pf-story-{{ $i }}">
+        <div class="pf-story-head">
+          <div class="pf-story-photo">{{ with $p.Params.foto }}<img src="{{ . }}" alt="Foto von {{ $p.Title }}" style="object-position:{{ $pos | safeCSS }};">{{ end }}</div>
+          <div class="pf-story-name serif">{{ $p.Title }}</div>
+        </div>
+        <div class="pf-story-text">{{ $story | safeHTML }}</div>
+      </template>
+      {{ end }}
+    </article>
+  {{ end }}
+  </div>
+
+  {{ with .Params.studiengaenge }}
+  <section class="pf-box first">
+    <h2 class="serif">
+      <svg viewBox="0 0 40 18" aria-hidden="true"><path d="M2 13 C8 9 14 9 20 13 C26 17 32 17 38 13" stroke="#12324a" stroke-width="1.8" fill="none" stroke-linecap="round" opacity="0.4"></path><path d="M2 7 C8 3 14 3 20 7 C26 11 32 11 38 7" stroke="#4fd6d1" stroke-width="2.4" fill="none" stroke-linecap="round"></path></svg>
+      Relevante Studiengänge
+    </h2>
+    <ul class="pf-glossary">
+      {{ range sort . "name" }}
+      <li>{{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ else }}<strong>{{ .name }}</strong>{{ end }}{{ with .info }} – {{ . }}{{ end }}</li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+  {{ if or .Params.jobs .Params.freiwilligenarbeit }}
+  <section class="pf-box{{ if not .Params.studiengaenge }} first{{ end }}">
+    <h2 class="serif">
+      <svg viewBox="0 0 40 18" aria-hidden="true"><path d="M2 13 C8 9 14 9 20 13 C26 17 32 17 38 13" stroke="#12324a" stroke-width="1.8" fill="none" stroke-linecap="round" opacity="0.4"></path><path d="M2 7 C8 3 14 3 20 7 C26 11 32 11 38 7" stroke="#e2725b" stroke-width="2.4" fill="none" stroke-linecap="round"></path></svg>
+      Wie geht's konkret weiter? Jobs, Praktika &amp; Freiwilligenarbeit
+    </h2>
+    <p class="pf-box-intro">Auswahl an Seiten, auf denen Stellen und Freiwilligenprojekte im Natur- und Meeresschutz ausgeschrieben werden.</p>
+    <div class="pf-cols">
+      {{ with .Params.jobs }}
+      <div>
+        <h3>Jobs &amp; Praktika finden</h3>
+        <ul class="pf-links">{{ range . }}<li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a><span>{{ .beschreibung }}</span></li>{{ end }}</ul>
+      </div>
+      {{ end }}
+      {{ with .Params.freiwilligenarbeit }}
+      <div>
+        <h3>Ohne Erfahrung? Erstmal freiwillig mitmachen</h3>
+        <ul class="pf-links">{{ range . }}<li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a><span>{{ .beschreibung }}</span></li>{{ end }}</ul>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</main>
+</div>
+
+<div class="pf-overlay pf-lightbox" id="pf-lightbox" hidden>
+  <button type="button" class="pf-close" data-close aria-label="Schließen">×</button>
+  <div id="pf-lightbox-video"></div>
+  <div class="pf-lightbox-caption" id="pf-lightbox-caption"></div>
+</div>
+
+<div class="pf-overlay pf-story" id="pf-story" role="dialog" aria-modal="true" hidden>
+  <div class="pf-story-row">
+    <div class="pf-story-sheet">
+      <div class="pf-story-bar">
+        <button type="button" class="pf-close" data-close aria-label="Schließen">×</button>
+        <span class="serif" id="pf-story-title"></span>
+      </div>
+      <div id="pf-story-content"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  var active = new Set();
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.pf-card'));
+  var result = document.getElementById('pf-result');
+
+  // Filter
+  document.querySelectorAll('.pf-filter').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var tag = btn.dataset.tag;
+      if (active.has(tag)) active.delete(tag); else active.add(tag);
+      btn.setAttribute('aria-pressed', active.has(tag) ? 'true' : 'false');
+      var visible = 0;
+      cards.forEach(function (card) {
+        var tags = JSON.parse(card.dataset.tags || '[]');
+        var show = active.size === 0 || tags.some(function (t) { return active.has(t); });
+        card.hidden = !show;
+        if (show) visible++;
+      });
+      result.textContent = active.size === 0
+        ? result.dataset.default
+        : visible + ' von ' + result.dataset.total + ' Wegen passen zu deiner Auswahl';
+      refreshAllSteps();
+    });
+  });
+
+  // Karten auf-/zuklappen (immer nur eine offen)
+  cards.forEach(function (card) {
+    card.querySelector('.pf-card-head').addEventListener('click', function () {
+      var willOpen = !card.classList.contains('is-open');
+      cards.forEach(function (c) { setOpen(c, false); });
+      if (willOpen) setOpen(card, true);
+    });
+  });
+  function setOpen(card, open) {
+    card.classList.toggle('is-open', open);
+    card.querySelector('.pf-card-head').setAttribute('aria-expanded', open ? 'true' : 'false');
+    card.querySelector('.pf-detail').hidden = !open;
+    var label = card.querySelector('.pf-more-label');
+    label.textContent = open ? label.dataset.open : label.dataset.closed;
+  }
+
+  // Stationen horizontal scrollen
+  var stepRows = Array.prototype.slice.call(document.querySelectorAll('.pf-steps-rel'));
+  function refreshSteps(row) {
+    var el = row.querySelector('.pf-steps');
+    var left = el.scrollLeft > 4;
+    var right = el.scrollLeft < el.scrollWidth - el.clientWidth - 4;
+    el.classList.toggle('fade-left', left);
+    el.classList.toggle('fade-right', right);
+    row.querySelector('.pf-scroll-btn.left').hidden = !left;
+    row.querySelector('.pf-scroll-btn.right').hidden = !right;
+  }
+  function refreshAllSteps() { stepRows.forEach(refreshSteps); }
+  stepRows.forEach(function (row) {
+    var el = row.querySelector('.pf-steps');
+    el.addEventListener('scroll', function () { refreshSteps(row); }, { passive: true });
+    row.querySelector('.pf-scroll-btn.left').addEventListener('click', function () { el.scrollBy({ left: -200, behavior: 'smooth' }); });
+    row.querySelector('.pf-scroll-btn.right').addEventListener('click', function () { el.scrollBy({ left: 200, behavior: 'smooth' }); });
+  });
+  window.addEventListener('resize', refreshAllSteps);
+  window.addEventListener('load', refreshAllSteps);
+  refreshAllSteps();
+
+  // Video-Lightbox
+  var lightbox = document.getElementById('pf-lightbox');
+  var videoHolder = document.getElementById('pf-lightbox-video');
+  document.querySelectorAll('[data-video]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var v = document.createElement('video');
+      v.src = btn.dataset.video;
+      v.controls = true;
+      v.autoplay = true;
+      v.playsInline = true;
+      videoHolder.innerHTML = '';
+      videoHolder.appendChild(v);
+      document.getElementById('pf-lightbox-caption').textContent = btn.dataset.caption;
+      lightbox.hidden = false;
+    });
+  });
+  function closeLightbox() { lightbox.hidden = true; videoHolder.innerHTML = ''; }
+
+  // Ganze Geschichte
+  var story = document.getElementById('pf-story');
+  document.querySelectorAll('[data-story]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var tpl = document.getElementById(btn.dataset.story);
+      var content = document.getElementById('pf-story-content');
+      content.innerHTML = '';
+      content.appendChild(tpl.content.cloneNode(true));
+      document.getElementById('pf-story-title').textContent = 'Ganze Geschichte – ' + tpl.content.querySelector('.pf-story-name').textContent;
+      story.hidden = false;
+      story.scrollTop = 0;
+      document.body.classList.add('pf-locked');
+    });
+  });
+  function closeStory() { story.hidden = true; document.body.classList.remove('pf-locked'); }
+
+  [lightbox, story].forEach(function (overlay) {
+    overlay.addEventListener('click', function (e) {
+      var isBackdrop = e.target === overlay || e.target.classList.contains('pf-story-row');
+      if (isBackdrop || e.target.closest('[data-close]')) { closeLightbox(); closeStory(); }
+    });
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') { closeLightbox(); closeStory(); }
+  });
+})();
+</script>
+</body>
+</html>
