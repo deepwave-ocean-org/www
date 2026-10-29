@@ -11,6 +11,162 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+  pathfinder:
+    path: content/pathfinder
+    name: Pfadfinder
+    singular_name: Profil
+    description: Meeresschutz-Pfadfinder – „_index“ enthält die Seitentexte, jede weitere Datei ist ein Profil.
+    icon: explore
+    disable_url: true
+    disable_add_folder: true
+    sort:
+      key: weight
+      order: asc
+    schemas:
+      default:
+        path: .cloudcannon/schemas/pathfinder-profil.md
+        name: Profil
+        icon: person
+    _inputs:
+      title:
+        type: text
+        label: Name
+      weight:
+        type: number
+        label: Reihenfolge
+        comment: Kleinere Zahl = weiter oben (z. B. 10, 20, 30 …)
+      foto:
+        type: image
+        label: Foto
+        comment: Hochformat oder quadratisch. Bei Video ist das Foto zugleich das Vorschaubild.
+      bildausschnitt:
+        type: text
+        label: Bildausschnitt
+        comment: 'Welcher Teil des Fotos sichtbar ist, z. B. „50% 20%“ (waagerecht, senkrecht). Kleinere zweite Zahl = weiter oben.'
+      video:
+        type: file
+        label: Video (optional)
+        comment: MP4-Datei. Leer lassen, wenn es kein Video gibt.
+      video_dauer:
+        type: text
+        label: Videolänge
+        comment: z. B. 1:46
+      ansprechbar:
+        type: switch
+        label: Ansprechbar („Frag … direkt“-Button)
+      teaser:
+        type: textarea
+        label: Zitat / Teaser
+        comment: Ohne Anführungszeichen – die werden automatisch ergänzt.
+      schwerpunkte:
+        type: multiselect
+        label: Schwerpunkte (Filter)
+        comment: Daraus entstehen die Filter-Buttons oben auf der Seite.
+        options:
+          allow_create: true
+          values:
+            - Biodiversität
+            - Fischerei
+            - Klima
+            - Meereslebewesen
+            - Meerespolitik
+            - Praktischer Meeresschutz
+            - Schadstoffe
+            - Umweltmanagement
+      expertise:
+        type: array
+        label: Expertise
+      stationen:
+        type: array
+        label: Stationen des Weges
+        comment: Reihenfolge per Drag & Drop
+        options:
+          structures:
+            values:
+              - label: Station
+                value:
+                  label:
+                  text:
+      label:
+        type: text
+        label: Art (z. B. Schule, Bachelor, Praktikum)
+      text:
+        type: text
+        label: Was / Wo
+      # Seitentexte in _index.md
+      untertitel:
+        type: text
+        label: Untertitel
+      beta:
+        type: switch
+        label: Beta-Hinweis anzeigen
+      einleitung:
+        type: markdown
+        label: Einleitung
+      hinweis:
+        type: text
+        label: Hinweis-Box (leer = keine Box)
+      filter_frage:
+        type: text
+        label: Überschrift über den Filtern
+      zusaetzliche_filter:
+        type: array
+        label: Zusätzliche Filter
+        comment: Filter, die angezeigt werden, auch wenn noch kein Profil diesen Schwerpunkt hat.
+      ergebnis_text:
+        type: text
+        label: Text über den Profilen
+        comment: '{anzahl} wird automatisch durch die Zahl der Profile ersetzt (z. B. „sieben“).'
+      kontakt_email:
+        type: email
+        label: E-Mail für „Frag … direkt“
+      studiengaenge:
+        type: array
+        label: Relevante Studiengänge
+        comment: Werden automatisch alphabetisch sortiert.
+        options:
+          structures:
+            values:
+              - label: Studiengang
+                value:
+                  name:
+                  info:
+                  url:
+      info:
+        type: textarea
+        label: Beschreibung
+      url:
+        type: url
+        label: Link
+      beschreibung:
+        type: textarea
+        label: Beschreibung
+      jobs:
+        type: array
+        label: Jobs & Praktika finden
+        options:
+          structures: _structures.pf_link
+      freiwilligenarbeit:
+        type: array
+        label: Freiwillig mitmachen
+        options:
+          structures: _structures.pf_link
+      description:
+        type: textarea
+        label: Beschreibung für Suchmaschinen / Social Media
+      image:
+        type: image
+        label: Vorschaubild für Social Media
+      cascade:
+        hidden: true
+    _structures:
+      pf_link:
+        values:
+          - label: Link
+            value:
+              name:
+              url:
+              beschreibung:
   data:
     path: data
     name: Slider u.a.

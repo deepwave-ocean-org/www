@@ -1,0 +1,2 @@
+{{- /* Nur für Pfadfinder-Geschichten: Bild mit Bildunterschrift (Bildtitel) */ -}}
+<figure class="pf-figure"><div class="pf-figure-img"><img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}" loading="lazy"></div>{{ with .Title }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>
