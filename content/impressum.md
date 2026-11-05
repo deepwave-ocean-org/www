@@ -4,6 +4,11 @@ description: >-
   Impressum von DEEPWAVE e.V., Sodenkamp 13e, 22337 Hamburg: Vorstand,
   Kontakt, Vereinsregister, Haftungsausschluss und Bildnachweise.
 url: /impressum/
+aliases:
+  - /impressum/kontakt/
+  - /impressum/presse/
+  - /imprint/
+  - /imprint/contact/
 ---
 ## Angaben zum Anbieter
 
