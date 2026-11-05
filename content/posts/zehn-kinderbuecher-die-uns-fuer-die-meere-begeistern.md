@@ -134,7 +134,7 @@ Und natürlich unser eigenes Buch für Kinder und Jugendliche:
 
 ##### Unser Blauer Planet gestern – heute – morgen
 
-##### Onno Groß / Anna Mandel, DEEPWAVE e.V. - [hier&nbsp;bestellen](https://www.deepwave.org/impressum/kontakt/)
+##### Onno Groß / Anna Mandel, DEEPWAVE e.V. - [hier&nbsp;bestellen](mailto:info@deepwave.org?subject=Bestellung%20Meeresfibel)
 
 "Ich hoffe das Buch regt jeden von Euch an, sich mit den Wundern unter Wasser zu beschäftigen und sich für den Schutz der Meere einzusetzen."
 
