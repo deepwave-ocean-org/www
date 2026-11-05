@@ -11,7 +11,7 @@
 <meta name="keywords" content="{{ delimit . " , " }}">{{ end }}
 
 <!-- Canonical URL -->
-<link rel="canonical" href="{{ .Permalink | absURL }}">
+<link rel="canonical" href="{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}">
 
 <!-- Indexing Controls -->
 {{ if .Params.noindex }}
@@ -25,7 +25,7 @@
 <meta property="og:description"
         content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:url" content="{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}">
 {{ with .Params.image }}
 <meta property="og:image" content="{{ . }}">
 {{ else }}{{ with .Site.Params.defaultImage }}
@@ -70,7 +70,7 @@
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": "{{ .Title }}",
-    "url": "{{ .Permalink }}",
+    "url": "{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}",
     "description": "{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}",
     {{ with .Params.image }}
     "image": ["{{ . }}"],
@@ -97,7 +97,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "{{ .Permalink }}"
+        "@id": "{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}"
     }{{ with .Params.blogs }},
     "articleSection": [{{ range $index, $blog := . }}{{ if $index }}, {{ end }}"{{ $blog }}"{{ end }}]{{ end }}
 }
