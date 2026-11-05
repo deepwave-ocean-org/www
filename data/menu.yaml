@@ -83,36 +83,3 @@ home:
     subtitle:
     url: /blogs
     image: https://res.cloudinary.com/deepwave-org/deepwave.org/1000075418_nsd5ve.jpg
-footer:
-  ueber-uns:
-    - name: Woher wir kommen
-      url: /ueber-uns/woher-wir-kommen/
-    - name: Wer wir sind
-      url: /ueber-uns/wer-wir-sind/unser-team/
-    - name: Wohin wir gehen
-      url: /projekte/
-    - name: Onno Groß
-      url: /ueber-uns/onno-gross/
-  projekte:
-    - name: BLUE STRAW
-      url: /deep-sea/bluestraw-kampagne/
-    - name: DEEP SEA
-      url: /
-    - name: MANGREEN
-      url: /projekte/mangrovenprojekt/
-    - name: UNSER BLAUER PLANET
-      url: /projekte/schulkampagne-meeresfibel/
-  lesen:
-    - name: Die Ozeane
-      url: /die-ozeane/
-    - name: Factsheets
-      url: /die-ozeane/factsheets/
-    - name: News Blog
-      url: /blogs/
-    - name: Bücher
-      url: /ozeanbuecher/
-  kontakt:
-    - name: Mitarbeit
-      url: /etwas-tun/mitarbeit/
-    - name: Mitglied werden
-      url: /etwas-tun/mitglied-werden/

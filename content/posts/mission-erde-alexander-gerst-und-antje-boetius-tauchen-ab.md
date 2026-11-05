@@ -60,11 +60,7 @@ _Alexander Gerst begibt sich für die Fernsehserie “[Mission Erde](https://www
 
 **Boetius**: Das müsste ich mal ausprobieren. Aber ich glaube: ja. Als ich Alexander Gerst zuhören durfte, wie er beschrieb, wie sich das Losfliegen, das Hinschauen, dieser fantastische Perspektivwechsel und besondere Expeditions-Auftrag für ihn anfühlt, dann habe ich auch Lust bekommen. Auch wenn die Vorbereitung da noch ungleich viel intensiver ist als bei uns, ganz abgesehen von den Auswahlprozessen für Austronaut:innen. Aber wenn ich bedenke, was es alles noch da draußen zu entdecken gibt, dann stelle ich es mir auch sehr wunderbar vor, Weltraumforscherin zu sein.
 
-_Danke für das Interview und viel Erfolg nicht nur in der Erforschung der Tiefsee, sondern auch für die restlichen Monate der [MOSAiC Expedition](https://www.deepwave.org/expeditionskrimi-mosaic-besatzungswechsel-nun-auf-dem-seeweg)!_\[/et\_pb\_text\]\[et\_pb\_text \_builder\_version="4.6.6" \_module\_preset="default" custom\_margin="||0px||false|false" link\_option\_url="https://www.deepwave.org/etwas-tun/mitglied-werden/"\]
-
-#### Schütz mit uns die Tiefsee!
-
-\[/et\_pb\_text\]\[et\_pb\_button button\_url="https://www.deepwave.org/etwas-tun/mitglied-werden/" button\_text="Mitglied werden" button\_alignment="center" \_builder\_version="4.6.6" \_module\_preset="default" custom\_button="on" custom\_margin="||25px||false|false" button\_text\_\_hover\_enabled="off|desktop" button\_text\_\_hover="Mitglied werden" button\_text\_size\_\_hover\_enabled="off|desktop"\]\[/et\_pb\_button\]\[et\_pb\_text \_builder\_version="4.6.6" \_module\_preset="default" custom\_margin="||0px||false|false" link\_option\_url="https://www.deepwave.org/deep-sea/"\]
+_Danke für das Interview und viel Erfolg nicht nur in der Erforschung der Tiefsee, sondern auch für die restlichen Monate der [MOSAiC Expedition](https://www.deepwave.org/expeditionskrimi-mosaic-besatzungswechsel-nun-auf-dem-seeweg)!_\[/et\_pb\_text\]\[et\_pb\_text \_builder\_version="4.6.6" \_module\_preset="default" custom\_margin="||0px||false|false" link\_option\_url="https://www.deepwave.org/deep-sea/"\]
 
 #### **Erfahre** noch mehr über die Tiefsee:
 
