@@ -1,10 +1,621 @@
 {
-    "routes": [
-        {
-        "from": "/(.*)",
-        "to": "https://dev.deepwave.org/$1",
-        "status": 302,
-        "forced": false
-        }
-    ]
+  "routes": [
+    {
+      "from": "/die-ozeane/klimawandel/",
+      "to": "/die-ozeane/klima/",
+      "status": 301
+    },
+    {
+      "from": "/bluestraw-kampagne/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/bluestraw-kampagne/plastic-pollution-blog/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/deep-sea/",
+      "to": "/die-ozeane/die-tiefsee/",
+      "status": 301
+    },
+    {
+      "from": "/die-ozeane/laerm/",
+      "to": "/die-ozeane/lärm/",
+      "status": 301
+    },
+    {
+      "from": "/bluestraw-kampagne/alternativen-zu-einwegplastik-blog/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/projekte/mangrovenprojekt/",
+      "to": "/projekte/",
+      "status": 301
+    },
+    {
+      "from": "/die-ozeane/erdoel-und-erdgas/",
+      "to": "/die-ozeane/verschmutzung/",
+      "status": 301
+    },
+    {
+      "from": "/bluestraw-kampagne/die-kampagne/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/bluestraw-kampagne/trinkhalm-vergleichstabelle/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/filmfestival-2023/",
+      "to": "/projekte/filmfestival/",
+      "status": 301
+    },
+    {
+      "from": "/projekte/deepwave-filmfestival/",
+      "to": "/projekte/filmfestival/",
+      "status": 301
+    },
+    {
+      "from": "/startseite/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/filmfestival-2022/",
+      "to": "/projekte/filmfestival/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/the-deep-sea/",
+      "to": "/die-ozeane/die-tiefsee/",
+      "status": 301
+    },
+    {
+      "from": "/about-us/",
+      "to": "/ueber-uns/",
+      "status": 301
+    },
+    {
+      "from": "/die-ozeane/kuestenschutz/",
+      "to": "/die-ozeane/küstenschutz/",
+      "status": 301
+    },
+    {
+      "from": "/etwas-tun/mitglied-werden/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/icrs-filmfestival-2022/",
+      "to": "/projekte/filmfestival/",
+      "status": 301
+    },
+    {
+      "from": "/ueber-uns/onno-gross/",
+      "to": "/ueber-uns/onno-groß/",
+      "status": 301
+    },
+    {
+      "from": "/ueber-uns/woher-wir-kommen/",
+      "to": "/ueber-uns/",
+      "status": 301
+    },
+    {
+      "from": "/blue-straw-campaign/the-campaign/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/die-ozeane/bilder/",
+      "to": "/die-ozeane/",
+      "status": 301
+    },
+    {
+      "from": "/die-ozeane/factsheets/",
+      "to": "/die-ozeane/",
+      "status": 301
+    },
+    {
+      "from": "/etwas-tun/mitarbeit/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/filmfestival-2024/",
+      "to": "/projekte/filmfestival/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday-2021/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday-2022/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/",
+      "to": "/die-ozeane/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/climate-change/",
+      "to": "/die-ozeane/klima/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/marine-policy/",
+      "to": "/die-ozeane/meerespolitik/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/overfishing/",
+      "to": "/die-ozeane/überfischung/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/pollution/",
+      "to": "/die-ozeane/verschmutzung/",
+      "status": 301
+    },
+    {
+      "from": "/about-us/onno-gross/",
+      "to": "/ueber-uns/onno-groß/",
+      "status": 301
+    },
+    {
+      "from": "/about-us/where-we-come-from/",
+      "to": "/ueber-uns/",
+      "status": 301
+    },
+    {
+      "from": "/about-us/where-were-heading/",
+      "to": "/ueber-uns/",
+      "status": 301
+    },
+    {
+      "from": "/about-us/who-we-are/",
+      "to": "/ueber-uns/wer-wir-sind/",
+      "status": 301
+    },
+    {
+      "from": "/about-us/who-we-are/our-logo/",
+      "to": "/ueber-uns/wer-wir-sind/",
+      "status": 301
+    },
+    {
+      "from": "/about-us/who-we-are/our-partners/",
+      "to": "/ueber-uns/wer-wir-sind/",
+      "status": 301
+    },
+    {
+      "from": "/about-us/who-we-are/our-team/",
+      "to": "/ueber-uns/wer-wir-sind/",
+      "status": 301
+    },
+    {
+      "from": "/blogs/campaigns/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/blogs/climate/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/blogs/culture/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/blogs/events/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/blogs/kampagnen/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/blogs/science/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/blogs/videos-and-audio/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/blue-straw-campaign/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/blue-straw-campaign/alternatives-for-single-use-plastics/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/blue-straw-campaign/campaign-news/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/blue-straw-campaign/plastic-pollution-blog/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/bluestraw-kampagne/aktuelles-zur-kampagne-blog/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/category/auf-privat-gestellt/",
+      "to": "/blogs/auf-privat-gestellt/",
+      "status": 301
+    },
+    {
+      "from": "/category/bildung/",
+      "to": "/blogs/bildung/",
+      "status": 301
+    },
+    {
+      "from": "/category/bluestraw-en/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/category/bluestraw-en/plastic-pollution/",
+      "to": "/blogs/plastic-pollution/",
+      "status": 301
+    },
+    {
+      "from": "/category/bluestraw/",
+      "to": "/blogs/bluestraw/",
+      "status": 301
+    },
+    {
+      "from": "/category/bluestraw/alternativen-zu-einwegplastik/",
+      "to": "/blogs/alternativen-zu-einwegplastik/",
+      "status": 301
+    },
+    {
+      "from": "/category/bluestraw/bluestraw-news/",
+      "to": "/blogs/bluestraw-news/",
+      "status": 301
+    },
+    {
+      "from": "/category/bluestraw/pplastic-pollution/",
+      "to": "/blogs/pplastic-pollution/",
+      "status": 301
+    },
+    {
+      "from": "/category/deep-sea/",
+      "to": "/blogs/deep-sea/",
+      "status": 301
+    },
+    {
+      "from": "/category/ehemals-news/",
+      "to": "/blogs/ehemals-news/",
+      "status": 301
+    },
+    {
+      "from": "/category/favoriten/",
+      "to": "/blogs/favoriten/",
+      "status": 301
+    },
+    {
+      "from": "/category/forschung-en/",
+      "to": "/blogs/forschung-en/",
+      "status": 301
+    },
+    {
+      "from": "/category/forschung/",
+      "to": "/blogs/forschung/",
+      "status": 301
+    },
+    {
+      "from": "/category/good-news/",
+      "to": "/blogs/good-news/",
+      "status": 301
+    },
+    {
+      "from": "/category/klima/",
+      "to": "/blogs/klima/",
+      "status": 301
+    },
+    {
+      "from": "/category/kultur/",
+      "to": "/blogs/kultur/",
+      "status": 301
+    },
+    {
+      "from": "/category/kultur/filme/",
+      "to": "/blogs/filme/",
+      "status": 301
+    },
+    {
+      "from": "/category/kultur/kunst/",
+      "to": "/blogs/kunst/",
+      "status": 301
+    },
+    {
+      "from": "/category/kultur/literatur/",
+      "to": "/blogs/literatur/",
+      "status": 301
+    },
+    {
+      "from": "/category/kultur/musik/",
+      "to": "/blogs/musik/",
+      "status": 301
+    },
+    {
+      "from": "/category/politics/",
+      "to": "/blogs/politics/",
+      "status": 301
+    },
+    {
+      "from": "/category/politik/",
+      "to": "/blogs/politik/",
+      "status": 301
+    },
+    {
+      "from": "/category/presse/",
+      "to": "/blogs/presse/",
+      "status": 301
+    },
+    {
+      "from": "/category/reflexionen/",
+      "to": "/blogs/reflexionen/",
+      "status": 301
+    },
+    {
+      "from": "/category/tiefsee/",
+      "to": "/blogs/tiefsee/",
+      "status": 301
+    },
+    {
+      "from": "/category/ueberfischung/",
+      "to": "/blogs/",
+      "status": 301
+    },
+    {
+      "from": "/category/veranstaltungen/",
+      "to": "/blogs/veranstaltungen/",
+      "status": 301
+    },
+    {
+      "from": "/category/videos-und-audio/",
+      "to": "/blogs/videos-und-audio/",
+      "status": 301
+    },
+    {
+      "from": "/category/was-tun/",
+      "to": "/blogs/was-tun/",
+      "status": 301
+    },
+    {
+      "from": "/deep-sea-2/",
+      "to": "/die-ozeane/die-tiefsee/",
+      "status": 301
+    },
+    {
+      "from": "/deepwave-bei-zweivorzwoelf/",
+      "to": "/podcast/deepwave-bei-zweivorzwölf/",
+      "status": 301
+    },
+    {
+      "from": "/die-ozeane/material/",
+      "to": "/die-ozeane/",
+      "status": 301
+    },
+    {
+      "from": "/die-ozeane/ueberfischung/",
+      "to": "/die-ozeane/überfischung/",
+      "status": 301
+    },
+    {
+      "from": "/donation-failed/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/etwas-tun/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/etwas-tun/online-petitionen/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/etwas-tun/sac-charity-rallye/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/etwas-tun/werbung/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/get-involved/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/get-involved/become-a-member/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/get-involved/donate/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/get-involved/online-petitions/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/get-involved/promote-us/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/get-involved/sac-charity-rally/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/get-involved/work-with-us/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday-2023/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday-2024/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday/preview/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday/screenshots-2/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday/screenshots-3/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday/screenshots/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/giving-tuesday/spende2019/",
+      "to": "/giving-tuesday/",
+      "status": 301
+    },
+    {
+      "from": "/highlights/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/icrs-filmfestival-2021/",
+      "to": "/projekte/filmfestival/",
+      "status": 301
+    },
+    {
+      "from": "/projects/",
+      "to": "/projekte/",
+      "status": 301
+    },
+    {
+      "from": "/projects/deepwave-filmfestival/",
+      "to": "/projekte/filmfestival/",
+      "status": 301
+    },
+    {
+      "from": "/projects/mangroveproject-mangreen-tamil-nadu-india/",
+      "to": "/projekte/",
+      "status": 301
+    },
+    {
+      "from": "/projects/school-campaign-the-oceanprimer/",
+      "to": "/projekte/meeresfibel/",
+      "status": 301
+    },
+    {
+      "from": "/projekte/spendenaufruf/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/spende-gescheitert/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/spenden-bestaetigung/",
+      "to": "/spenden/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/coastal-protection/",
+      "to": "/die-ozeane/küstenschutz/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/endangered-ocean/",
+      "to": "/die-ozeane/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/images/",
+      "to": "/die-ozeane/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/noise/",
+      "to": "/die-ozeane/lärm/",
+      "status": 301
+    },
+    {
+      "from": "/the-oceans/petroleum-and-natural-gasoline/",
+      "to": "/die-ozeane/verschmutzung/",
+      "status": 301
+    },
+    {
+      "from": "/ueber-uns/wer-wir-sind/unsere-partner/",
+      "to": "/ueber-uns/wer-wir-sind/",
+      "status": 301
+    },
+    {
+      "from": "/ueber-uns/wohin-wir-gehen/",
+      "to": "/ueber-uns/",
+      "status": 301
+    },
+    {
+      "from": "/sitemap_index.xml",
+      "to": "/sitemap.xml",
+      "status": 301
+    },
+    {
+      "from": "/tag/*",
+      "to": "/404.html",
+      "status": 410,
+      "substitutions": false
+    },
+    {
+      "from": "/announcement/*",
+      "to": "/404.html",
+      "status": 410,
+      "substitutions": false
+    }
+  ]
 }
