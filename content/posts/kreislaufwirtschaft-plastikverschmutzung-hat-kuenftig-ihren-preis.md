@@ -11,7 +11,7 @@ image_caption: "© Kenny Eliason / Unsplash"
 source: "Pressemitteilung, 02.11.2022, BMUV"
 author: "Amalia Klein"
 related: 
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 **Bundeskabinett beschließt Gesetz zum Aufbau eines Einwegkunststofffonds**
@@ -26,4 +26,4 @@ Derzeit laufen die Verhandlungen für ein rechtlich verbindliches UN-Abkommen zu
 
 [Diese Pressemitteilung](https://www.bmuv.de/pressemitteilung/plastikverschmutzung-hat-kuenftig-ihren-preis) findet ihr beim [BMUV](https://www.bmuv.de).
 
-Mehr zum Thema Plastikverschmutzung und Kreislaufwirtschaft findet ihr bei unserer [BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/) Kampagne. Schaut auch gerne bei unserem [NoStraw Shop](https://deepwave.shop/) vorbei, um aktiv gegen die Plasikflut zu kämpfen.
+Mehr zum Thema Plastikverschmutzung und Kreislaufwirtschaft findet ihr bei unserer [BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) Kampagne. Schaut auch gerne bei unserem [NoStraw Shop](https://deepwave.shop/) vorbei, um aktiv gegen die Plasikflut zu kämpfen.

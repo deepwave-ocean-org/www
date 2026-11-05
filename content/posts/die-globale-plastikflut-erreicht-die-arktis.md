@@ -11,7 +11,7 @@ source: "Pressemitteilung, 05.04.2022, Alfred-Wegener-Institut Helmholtz-Zentrum
 author: "Amalia Klein"
 related: 
   - "/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/"
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 **AWI-Studie zeigt: Plastikmüll verschmutzt den Arktischen Ozean in bedenklichem Ausmaß**
@@ -34,4 +34,4 @@ Besonders dünn ist die Datenlage in Bezug auf eventuelle Rückkopplungseffekte 
 
 [Diese Pressemitteilung](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/die-globale-plastikflut-erreicht-die-arktis.html) findet ihr beim [Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung](https://www.awi.de/).
 
-Die Plastikflut greift inzwischen in alle Bereiche unserer Ozeane. Nicht nur in der Arktis, [sondern auch in der Tiefsee wurde bereits Plastik entdeckt](https://www.deepwave.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/). Mehr zur Plastikverschmutzung und was ihr dagegen tun könnt, findet ihr bei unserer [Blue Straw Kampagne](https://www.deepwave.org/bluestraw-kampagne/).
+Die Plastikflut greift inzwischen in alle Bereiche unserer Ozeane. Nicht nur in der Arktis, [sondern auch in der Tiefsee wurde bereits Plastik entdeckt](https://www.deepwave.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/). Mehr zur Plastikverschmutzung und was ihr dagegen tun könnt, findet ihr bei unserer [Blue Straw Kampagne](https://www.deepwave.org/blogs/bluestraw/).

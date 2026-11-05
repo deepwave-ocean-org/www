@@ -13,7 +13,6 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245427/deepwav
 image_caption: "© CC BY-SA 4.0 / Wikimedia Commons"
 author: "DEEPWAVE"
 related: 
-  - "/save-the-vaquita-rettet-kalifornischen-schweinswal-9312600/"
   - "/wie-nachhaltig-ist-das-msc-fischsiegel/"
   - "/nabu-bedrohter-ostseeschweinswal-steht-stellvertretend-fuer-verfehlte-meerespolitik/"
 ---
@@ -24,6 +23,6 @@ Während viele Tierarten ohne unsere Kenntnis aussterben, ist die Entwicklung de
 
 Den Artikel [Nachruf auf einen Wal](https://www.sueddeutsche.de/wissen/vaquita-kalifornischer-schweinswal-kiemennetze-1.4375634) von Tina Baier vom 21.03.2019 findet ihr bei der [Süddeutschen Zeitung](https://www.sueddeutsche.de/).
 
-Weitere Informationen über die Bedrohung der Vaquitas erhaltet ihr in unserem Blogbeitrag [Save the Vaquita! Rettet den kalifornischen Schweinswal!](https://www.deepwave.org/save-the-vaquita-rettet-kalifornischen-schweinswal-9312600/).
+Weitere Informationen über die Bedrohung der Vaquitas erhaltet ihr in unserem Blogbeitrag Save the Vaquita! Rettet den kalifornischen Schweinswal!.
 
 Nicht nur Vaquitas sterben durch die Fischerei, ohne auf dem Teller zu landen. Sogenannte "[Nichtzielarten](https://www.deepwave.org/wie-nachhaltig-ist-das-msc-fischsiegel/)" wie zum Beispiel der [Ostsee-Schweinswal](https://www.deepwave.org/nabu-bedrohter-ostseeschweinswal-steht-stellvertretend-fuer-verfehlte-meerespolitik/) verenden ebenfalls als Beifang.

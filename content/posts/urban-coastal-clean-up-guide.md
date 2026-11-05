@@ -20,8 +20,8 @@ Müll sammeln können wir überall und zu jeder Zeit!
 
 Mit dem Urban/Costal Clean-Up Guide von der Whale and Dolphin Conservation bekommt ihr viele nützliche Tipps und Informationen z.B. eine Clean-Up-Checkliste, informative Links, eine Liste hilfreicher Dokumente und einen Müllerfassungsbogen. Mit dem Müllerfassungsbogen könnt ihr genau die Art und Anzahl des Mülls festhalten, den ihr gesammelt habt. Diese Informationen könnt ihr dann an das Team der Whale and Dolphin Conservation weiterleiten, denn sie dienen der Forschung zum Schutz der Meere und setzten ein wichtiges Zeichen für den Umweltschutz!
 
-Der komplette **Urban/Coastal-Clean-Up-Guide** ([Whale and Dolphin Conservation](https://de.whales.org/)): [Beach-Clean-Up-Guide](https://www.deepwave.org/urban-coastal-clean-up-guide/beach-clean-up-guide/)
+Der komplette **Urban/Coastal-Clean-Up-Guide** ([Whale and Dolphin Conservation](https://de.whales.org/)): Beach-Clean-Up-Guide
 
-Die kurze Druckversion ([Whale and Dolphin Conservation](https://de.whales.org/)): [Druckversion-Beach-Clean-Up-Guide](https://www.deepwave.org/urban-coastal-clean-up-guide/druckversion-beach-clean-up-guide/)
+Die kurze Druckversion ([Whale and Dolphin Conservation](https://de.whales.org/)): Druckversion-Beach-Clean-Up-Guide
 
 WDC-Newsletter: [https://secure.whales.org/secure/newsletter/](https://secure.whales.org/secure/newsletter/)

@@ -8,13 +8,12 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245127/deepwav
 image_caption: "© Jasmin Sessler / Unsplash"
 author: "Amalia Klein"
 related: 
-  - "/petition-beenden-wir-die-plastikflut/"
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 In vielen deutschen Städten hat die Nutzung und die anschließend rücksichtslose Entsorgung von Wegwerfartikeln und Einwegplastikprodukten ein erschreckendes Ausmaß angenommen.
 
-> "Der Trend zu mehr Wegwerfartikeln führt in manchen Städten zu einer regelrechten [Müllflut](https://www.deepwave.org/petition-beenden-wir-die-plastikflut/), vor allem in öffentlichen Parks und auf belebten Straßen."
+> "Der Trend zu mehr Wegwerfartikeln führt in manchen Städten zu einer regelrechten Müllflut, vor allem in öffentlichen Parks und auf belebten Straßen."
 
 Svenja Schulze, Bundesumweltministerin
 
@@ -26,4 +25,4 @@ Ob diese Maßnahme ein Triumph für die Nachhaltigkeit und Umwelt darstellt, ist
 
 Den [zugehörigen Artikel](https://www.sueddeutsche.de/wirtschaft/schulze-einwegbecher-stadtreinigung-hersteller-1.4561209) von Ekaterina Kel vom 12.08.2019 findet ihr bei der [Süddeutschen Zeitung](https://www.sueddeutsche.de).
 
-Mehr zur Vermeidung von Einwegplastik  findet ihr bei unserer [BLUE STRAW Kampagne](https://www.deepwave.org/bluestraw-kampagne/).
+Mehr zur Vermeidung von Einwegplastik  findet ihr bei unserer [BLUE STRAW Kampagne](https://www.deepwave.org/blogs/bluestraw/).

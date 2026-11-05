@@ -9,7 +9,7 @@ source: "Pressemitteilung, Senckenberg Gesellschaft für Naturforschung und GEOM
 author: "DEEPWAVE"
 related: 
   - "/mit-der-sonne-in-den-norden-beginn-der-iceage-expedition/"
-  - "/deep-sea/"
+  - "/die-ozeane/die-tiefsee/"
 ---
 
 IceAGE3-Expedition liefert faszinierende Bilder vom Meeresboden vor Island
@@ -38,4 +38,4 @@ Diese [Pressemittelung](https://www.geomar.de/news/article/rov-kiel-6000-entdec
 
 Wer mehr zu der IceAGE-Expedition wissen möchte, schaut in unserem dazugehörigen [Beitrag](https://www.deepwave.org/mit-der-sonne-in-den-norden-beginn-der-iceage-expedition/) nach.
 
-Erfahrt, was die [Tiefsee](https://www.deepwave.org/die-ozeane/die-tiefsee/) außer Hydrothermalquellen noch zu bieten hat und schaut bei unserer [Kampagne DEEP SEA MINING](https://www.deepwave.org/deep-sea/) zum Tiefseebergbau vorbei.
+Erfahrt, was die [Tiefsee](https://www.deepwave.org/die-ozeane/die-tiefsee/) außer Hydrothermalquellen noch zu bieten hat und schaut bei unserer [Kampagne DEEP SEA MINING](https://www.deepwave.org/die-ozeane/die-tiefsee/) zum Tiefseebergbau vorbei.

@@ -12,7 +12,7 @@ author: "DEEPWAVE"
 
 Für die Projektvorstellung August 2020 der Organisation [one for the planet e.V.](https://onefortheplanet.de/) haben wir ein kleine Kampagne enwickelt, über die auf deren Website bis zum 31. August  abgestimmt werden konnte.
 
-Unsere Gründungsidee und Hauptaufgabe ist es ja, Wissen zu teilen, um sinnvoll handeln zu können. Für unsere Arbeit als NGO bedeutet das auch, dieses Wissen in konkreten Projekten und Kampagnen umzusetzen. Seit Anbeginn klären wir über die Problematik von Mikro- und Nanoplastik in den Meeren auf und mit unserer [BLUE STRAW Kampagne](https://www.deepwave.org/bluestraw-kampagne/die-kampagne/) haben wir anhand des Plastiktrinkhalms beispielhaft zeigen können, wie überflüssig _Single Use Items_ sind und wie gefährlich für unsere Meeresumwelt.
+Unsere Gründungsidee und Hauptaufgabe ist es ja, Wissen zu teilen, um sinnvoll handeln zu können. Für unsere Arbeit als NGO bedeutet das auch, dieses Wissen in konkreten Projekten und Kampagnen umzusetzen. Seit Anbeginn klären wir über die Problematik von Mikro- und Nanoplastik in den Meeren auf und mit unserer [BLUE STRAW Kampagne](https://www.deepwave.org/blogs/bluestraw/) haben wir anhand des Plastiktrinkhalms beispielhaft zeigen können, wie überflüssig _Single Use Items_ sind und wie gefährlich für unsere Meeresumwelt.
 
 Hier setzt unsere Kampagne [Tassen statt Tampons: die Meere schützen](https://onefortheplanet.de/projektvorstellung-deepwave/) an: Auch hier geht es darum, Alternativen für Einwegprodukte zu finden, die allzu oft in den Meeren landen, und diese Alternativen den Mädchen und Frauen vorzustellen, die nicht so leicht dazu Zugang haben.
 

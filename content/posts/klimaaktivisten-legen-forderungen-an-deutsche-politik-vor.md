@@ -13,7 +13,6 @@ tags:
 author: "DEEPWAVE"
 related: 
   - "/schuelerstreik-organisatorin-luisa-neubauer-im-interview/"
-  - "/klimastreikende-fangen-bei-sich-an/"
 ---
 
 Die "Fridays for Future"-Bewegung kämpft weiter. Zum ersten Mal stellen die Klimaaktivist\*innen in Deutschland konkrete Forderungen an die Politik. Die Regierungen werden auf Kommunal-, Landes-, und Bundesebene aufgefordert, die Klimakrise als solche auch zu benennen. Zu den Forderungen gehören auch der Kohleausstieg bis 2030, 100% erneuerbare Energieversorgung  und ein Nettonull in der Treibhausgasbilanz bis 2035. In Zusammenarbeit mit verschiedenen Wissenschaftler:innen haben sie ein Grundsatzpapier mit ihren Forderungen ausgearbeitet, damit die Ziele des Pariser Klimaabkommens einzuhalten sind und die globale Erwärmung auf unter 1,5 °C zu begrenzen ist.
@@ -24,4 +23,3 @@ Den Artikel [Klimaaktivisten legen Forderungen an deutsche Politik vor](https://
 
 [https://www.deepwave.org/schuelerstreik-organisatorin-luisa-neubauer-im-interview/](https://www.deepwave.org/schuelerstreik-organisatorin-luisa-neubauer-im-interview/)
 
-[https://www.deepwave.org/klimastreikende-fangen-bei-sich-an/](https://www.deepwave.org/klimastreikende-fangen-bei-sich-an/)

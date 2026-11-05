@@ -29,4 +29,4 @@ Mehr Informationen zu Munitionsaltlasten: [Munition im Meer - NABU](https://www.
 
 [Diese Pressemitteilung](https://www.nabu.de/presse/pressemitteilungen/index.php?popup=true&show=31602&db=presseservice) findet ihr beim [NABU](https://www.nabu.de/).
 
-Welche Auswirkungen Lärm auf die Meeresbewohner hat, könnt ihr [hier](https://www.deepwave.org/die-ozeane/laerm/) nachlesen. Die Forderungen vom NABU zum [Tag des Ostseeschweinswals 2020](https://www.deepwave.org/nabu-bedrohter-ostseeschweinswal-steht-stellvertretend-fuer-verfehlte-meerespolitik/) findet ihr in unserem [Politikblog](https://www.deepwave.org/blogs/politik/).
+Welche Auswirkungen Lärm auf die Meeresbewohner hat, könnt ihr [hier](https://www.deepwave.org/die-ozeane/lärm/) nachlesen. Die Forderungen vom NABU zum [Tag des Ostseeschweinswals 2020](https://www.deepwave.org/nabu-bedrohter-ostseeschweinswal-steht-stellvertretend-fuer-verfehlte-meerespolitik/) findet ihr in unserem [Politikblog](https://www.deepwave.org/blogs/politik/).

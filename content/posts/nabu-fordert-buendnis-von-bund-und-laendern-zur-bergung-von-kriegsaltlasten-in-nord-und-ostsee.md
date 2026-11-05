@@ -7,10 +7,9 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243988/deepwav
 image_caption: "© Viliant Made / Unsplash"
 author: "Amalia Klein"
 related: 
-  - "/nabu-fachgespraech-munition-meer-15507316/"
 ---
 
-Anlässlich der aktuellen Umweltministerkonferenz in Hamburg fordert der [Naturschutzbund Deutschland (NABU)](https://www.nabu.de/) zu einer Bergung der [Munitionsaltlasten in Nord- und Ostsee](https://www.deepwave.org/nabu-fachgespraech-munition-meer-15507316/) auf. Hierbei steht im Vordergrund, dass bei der Bergung der Umwelt nicht geschadet wird und die geborgene Munition anschließend fachgerecht entsorgt wird. Da in der Munition enthaltenden Giftstoffe eine akute Gefahr für Flora und Fauna darstellen, wird zu einer zeitnahen Bergung der Altlasten geraten.
+Anlässlich der aktuellen Umweltministerkonferenz in Hamburg fordert der [Naturschutzbund Deutschland (NABU)](https://www.nabu.de/) zu einer Bergung der Munitionsaltlasten in Nord- und Ostsee auf. Hierbei steht im Vordergrund, dass bei der Bergung der Umwelt nicht geschadet wird und die geborgene Munition anschließend fachgerecht entsorgt wird. Da in der Munition enthaltenden Giftstoffe eine akute Gefahr für Flora und Fauna darstellen, wird zu einer zeitnahen Bergung der Altlasten geraten.
 
 Im August vergangen Jahres wurde bereits ein Teil der Munitionsaltlasten innerhalb des Fehmarnbelts, von der Bundesmarine ausgehend, gesprengt, jedoch ohne zuständige Naturschutzbehörden über das Vorhaben aufzuklären. Die Ausmaßen der durchgeführten Sprengungen erwiesen sich als fatal für Flora und Fauna, speziell für die in der Ostsee heimischen Schweinswale. Inwiefern es sich hierbei um einen Verstoß gegen das Bundesnaturschutzgesetz handelt, wird momentan diskutiert.
 

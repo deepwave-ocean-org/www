@@ -30,7 +30,7 @@ Unser Interview mit [Dr. Kevin Riemer-Schadendorf](https://www.linkedin.com/in/k
 
 {{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747243886/deepwave.org/kevin_riember_schadendorf_schildkroete.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747243886/deepwave.org/kevin_riember_schadendorf_schildkroete.jpg" alt="Dr. Kevin Riemer-Schadendorf schwimmt im flachen Wasser mit einer Meeresschildkröte" caption="© Kevin Riemer-Schadendorf/ dieUmweltDruckerei" >}}
 
-**Das passt gut zu unserem eigenen Mangrovenschutzprojekt** [**MANGREEN**](https://www.deepwave.org/projekte/mangrovenprojekt/) **in Tamil Nadu. Hast du eigentlich eine persönliche Verbindung zum Meer?**
+**Das passt gut zu unserem eigenen Mangrovenschutzprojekt** [**MANGREEN**](https://www.deepwave.org/projekte/) **in Tamil Nadu. Hast du eigentlich eine persönliche Verbindung zum Meer?**
 
 > Es gibt ja die Standardfrage, ob man eher ein „Berg- oder Meerestyp“ sei, wenn es um die Urlaubsplanung geht. Als Hamburger Jung bin ich am Wasser groß geworden, daher kann ich für mich ganz klar sagen: Meer! Sobald ich die Möglichkeit finde, springe ich ins Wasser – egal wie kalt das jeweilige Meer, der See oder Fluss auch immer ist. Ich wohne zur Hälfte in Hamburg und Berlin. Wenn ich nicht im Ausland am Meer bin, dann zieht es mich als Ausgleich nahezu jede Woche in die Hamburger Alsterschwimmhalle oder ins Berliner Prinzenbad.
 

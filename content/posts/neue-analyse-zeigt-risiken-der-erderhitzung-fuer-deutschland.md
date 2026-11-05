@@ -10,7 +10,7 @@ source: "Pressemitteilung, 14.06.2021, Umweltbundesamt"
 author: "DEEPWAVE"
 related: 
   - "/wasser-kann-man-pflanzen/"
-  - "/deutschland-muesste-schon-in-15-jahren-co%e2%82%82-frei-sein/"
+  - "/deutschland-muesste-schon-in-15-jahren-co-frei-sein/"
 ---
 
 Bei einem ungebremsten Klimawandel würden die Risiken durch Hitze, Trockenheit und Starkregen im gesamten Bundesgebiet künftig stark ansteigen. Das zeigen die Ergebnisse der Klimawirkungs- und Risikoanalyse (KWRA) des Bundes, die heute von Bundesumweltministerium und Umweltbundesamt vorgestellt wurde. Die Schäden wirken sich dabei wie bei einem Dominoeffekt von bereits heute stark belasteten Ökosystemen wie Böden, Wäldern und Gewässern hin zum Menschen und seiner Gesundheit aus.
@@ -31,4 +31,4 @@ Die Studie wurde im Auftrag der Bundesregierung durch ein wissenschaftliches Kon
 
 [Diese Pressemitteilung](https://www.umweltbundesamt.de/presse/pressemitteilungen/neue-analyse-zeigt-risiken-der-erderhitzung-fuer) findet ihr beim [Umweltbundesamt.](https://www.umweltbundesamt.de/)
 
-[Welches Konzept ein Landwirt für sein Gut entwickelt hat, um Wasser zu sparen](https://www.deepwave.org/wasser-kann-man-pflanzen/) und [welche Maßnahmen Deutschland ergreifen muss, um das Pariser Klimaabkommen noch einhalten zu können](https://www.deepwave.org/deutschland-muesste-schon-in-15-jahren-co%e2%82%82-frei-sein/), könnt ihr in unserem [Klimablog](https://www.deepwave.org/blogs/klima/) nachlesen.
+[Welches Konzept ein Landwirt für sein Gut entwickelt hat, um Wasser zu sparen](https://www.deepwave.org/wasser-kann-man-pflanzen/) und [welche Maßnahmen Deutschland ergreifen muss, um das Pariser Klimaabkommen noch einhalten zu können](https://www.deepwave.org/deutschland-muesste-schon-in-15-jahren-co-frei-sein/), könnt ihr in unserem [Klimablog](https://www.deepwave.org/blogs/klima/) nachlesen.

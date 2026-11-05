@@ -22,4 +22,4 @@ Berlin/Brüssel – Am Freitag gehen EU-Parlament und EU-Mitgliedsstaaten in die
 
 [Diese Pressemitteilung](https://www.nabu.de/modules/presseservice/index.php?popup=true&db=presseservice&show=30892) findet ihr beim [NABU.](https://www.nabu.de/)
 
-Mehr Informationen über die [Klimakrise](https://www.deepwave.org/die-ozeane/klimawandel/), und wie [die teilnehmenden Länder die Pariser Klimaziele (nicht) umsetzen](https://www.deepwave.org/fuer-paris-reicht-es-nicht/), könnt ihr in unserem [Klima-](https://www.deepwave.org/blogs/klima/) und [Politikblog](https://www.deepwave.org/blogs/politik/) nachlesen.
+Mehr Informationen über die [Klimakrise](https://www.deepwave.org/die-ozeane/klima/), und wie [die teilnehmenden Länder die Pariser Klimaziele (nicht) umsetzen](https://www.deepwave.org/fuer-paris-reicht-es-nicht/), könnt ihr in unserem [Klima-](https://www.deepwave.org/blogs/klima/) und [Politikblog](https://www.deepwave.org/blogs/politik/) nachlesen.

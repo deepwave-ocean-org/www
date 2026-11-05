@@ -14,7 +14,7 @@ related:
   - "/klimakrise-was-jetzt-getan-werden-muss-umweltverbaende-veroeffentlichen-handlungsprogramm-fuer-effektiven-klimaschutz/"
 ---
 
-_[Klimawandel](https://www.deepwave.org/die-ozeane/klimawandel/) und nachhaltige Entwicklung_ - so soll das neue Schulfach heißen, das ab dem nächsten Schuljahr in Italien unterrichtet wird. 33 Stunden im Jahr, also eine in der Woche, werden die Themen rund um Erderwärmung und Nachhaltigkeit den Schüler\*innen nähergebracht. Somit ist Italien das erste Land weltweit, das diesen Schritt gehen wird. Dies beschloss der Bildungsminister Lorenzo Fioramonti. Bereits im September hatte Fioramonti die italienischen Schüler dazu ermutigt, auf die [Klimademonstrationen](https://www.deepwave.org/klimastreik-am-29-november-neustartklima/) anstatt in den Unterricht zu gehen, wofür ihn die Opposition stark kritisierte.
+_[Klimawandel](https://www.deepwave.org/die-ozeane/klima/) und nachhaltige Entwicklung_ - so soll das neue Schulfach heißen, das ab dem nächsten Schuljahr in Italien unterrichtet wird. 33 Stunden im Jahr, also eine in der Woche, werden die Themen rund um Erderwärmung und Nachhaltigkeit den Schüler\*innen nähergebracht. Somit ist Italien das erste Land weltweit, das diesen Schritt gehen wird. Dies beschloss der Bildungsminister Lorenzo Fioramonti. Bereits im September hatte Fioramonti die italienischen Schüler dazu ermutigt, auf die [Klimademonstrationen](https://www.deepwave.org/klimastreik-am-29-november-neustartklima/) anstatt in den Unterricht zu gehen, wofür ihn die Opposition stark kritisierte.
 
 Das Fach soll in jeder Klassenstufe von Grundschule bis Abitur unterrichtet werden, wobei natürlich der Schwierigkeitsgrad und die Komplexität dieses Themas an die jeweiligen Stufen angepasst werden.
 

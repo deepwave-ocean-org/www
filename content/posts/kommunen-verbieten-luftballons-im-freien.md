@@ -15,7 +15,7 @@ image_caption: "© Gaelle Marcel / Unsplash"
 author: "DEEPWAVE"
 related: 
   - "/eu-parlament-stimmt-fuer-verbot-von-wegwerf-plastikprodukten/"
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 Ballonschnüre sind eine tödliche Gefahr für Tiere. Besonders Meeressäuger, Fische und Vögel ersticken an den Plastikteilen oder verwickeln sich in den Schnüren. Bei einer Untersuchung mit 1733 Seevögeln fand die Forscherin Lauren Roman in jedem dritten Vogel Müll und bei jedem fünften tot gefundenen Vogel waren Plastikmüll oder Ballonreste die eindeutige Todesursache. Roman betitelt Ballons als den „tödlichsten Müll im Meer“, denn die Wahrscheinlichkeit für einen Seevogel, an Ballons oder ihren Einzelteilen zu sterben, ist ca. 32-mal höher als bei härteren Plastikteilen.
@@ -26,4 +26,4 @@ Den [zugehörigen Artikel "Kommunen verbieten Luftballons im Freien"](https://ww
 
 [Hier](https://www.deepwave.org/eu-parlament-stimmt-fuer-verbot-von-wegwerf-plastikprodukten/) findet ihr weitere Informationen über den Beschluss zum Verbot von Wegwerf-Plastikprodukten in der EU.
 
-Bei unserer [Kampagne BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/) findet ihr außerdem [nachhaltige Alternativen zu Einwegplastikprodukten](https://www.deepwave.org/bluestraw-kampagne/alternativen-zu-einwegplastik-blog/).
+Bei unserer [Kampagne BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) findet ihr außerdem [nachhaltige Alternativen zu Einwegplastikprodukten](https://www.deepwave.org/blogs/bluestraw/).

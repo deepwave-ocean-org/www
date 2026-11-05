@@ -24,4 +24,4 @@ Further links of interest:
 
 IUCN, International Union for Conservation of Nature: [https://www.iucn.org/](https://www.iucn.org/)
 
-Further information about the deep sea: [https://www.deepwave.org/the-oceans/the-deep-sea/?lang=en](https://www.deepwave.org/the-oceans/the-deep-sea/?lang=en)
+Further information about the deep sea: [https://www.deepwave.org/the-oceans/the-deep-sea/?lang=en](https://www.deepwave.org/die-ozeane/die-tiefsee/)

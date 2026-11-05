@@ -10,7 +10,7 @@ image_caption: "© vait_mcright / Pixabay"
 source: "Pressemitteilung, 10.02.2022, BMUV (Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz)"
 author: "DEEPWAVE"
 related: 
-  - "/giving-tuesday-2021/"
+  - "/giving-tuesday/"
 ---
 
 Die Bundesregierung will mit einer Meeresoffensive gegen Umweltverschmutzung vorgehen und den Schutz der marinen Artenvielfalt vorantreiben. Das kündigte Bundesumweltministerin Steffi Lemke heute zum internationalen Meeresgipfels "One Ocean Summit" im französischen Brest an. Teil der Meeresoffensive ist eine kohärente nationale Meeresstrategie, um spezifische Meeresschutz-Ziele verstärkt sektorübergreifend zu verankern. Die Offensive umfasst daneben die aktive Beteiligung an der Erarbeitung unterschiedlicher Abkommen gegen die Verschmutzung der Meere und für marine Biodiversität auf UN\-Ebene. Entwicklungsministerin Svenja Schulze hat zudem zusätzliche 20 Millionen Euro für den Weltbank-Fonds ProBlue zugesagt, in den zuvor schon das BMUV eingezahlt hatte. Damit wird Deutschland zu einem der größten Geber des Fonds. Mit dem Geld wird der Einsatz gegen Meeresmüll und Meeresverschmutzung sowie ein nachhaltiges Management von Küsten- und Meeresgebieten gefördert.
@@ -33,6 +33,6 @@ Darüber hinaus unterstützt das BMUV den Meeresschutz in Entwicklungs- und Sc
 
 [Diese Pressemitteilung](https://www.bmuv.de/pressemitteilung/bundesregierung-geht-in-die-offensive-fuer-saubere-ozeane-den-schutz-mariner-artenvielfalt-und-gegen-meeresmuell) findet ihr beim [BMUV](https://www.bmuv.de/).
 
-DEEPWAVE und 16 weitere Organisationen haben bereits 2020 von der Bundesregierung und den zuständigen Behörden eine "[Meeresoffensive 2020](https://www.deepwave.org/giving-tuesday-2021/)" gefordert. Ein Jahr später findet sich diese Forderung im Koalitionsvertrag wieder: "Wir starten eine Meeresoffensive zum Schutz der Meeresnatur".
+DEEPWAVE und 16 weitere Organisationen haben bereits 2020 von der Bundesregierung und den zuständigen Behörden eine "[Meeresoffensive 2020](https://www.deepwave.org/giving-tuesday/)" gefordert. Ein Jahr später findet sich diese Forderung im Koalitionsvertrag wieder: "Wir starten eine Meeresoffensive zum Schutz der Meeresnatur".
 
 Die in dieser Pressemitteilung geäußerten konkreten Maßnahmen gegen die [Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/) sowie den Schutz der Artenvielfalt lassen uns mit neuer Hoffnung auf die nächsten Jahre blicken. Wir hoffen auf eine rasche und konsequente Umsetzung für den Schutz und die Erhaltung unserer Meere.

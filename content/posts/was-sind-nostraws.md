@@ -8,7 +8,7 @@ image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 
   - "/nostraw-shop-no-straw-is-the-best-straw/"
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 Wir haben jetzt einen [Shop](https://deepwave.shop/)! Aber wir verkaufen nix. Wie jetzt?
@@ -19,7 +19,7 @@ Ihr könnt bei uns NoStraws kaufen. Und das ist das, was es heißt: eben KEINE S
 
 Seit Jahrzehnten machen wir auf die Plastikproblematik aufmerksam. Lange bevor sie in aller Munde war ... im wahrsten Sinne.
 
-2016 haben wir mit unserer [BLUE STRAW Kampagne](https://www.deepwave.org/bluestraw-kampagne/) die Google Impact Challenge Deutschland gewonnen. Inzwischen hat sich einiges getan, aber wie wir alle wissen noch lange nicht genug.
+2016 haben wir mit unserer [BLUE STRAW Kampagne](https://www.deepwave.org/blogs/bluestraw/) die Google Impact Challenge Deutschland gewonnen. Inzwischen hat sich einiges getan, aber wie wir alle wissen noch lange nicht genug.
 
 Solange einer gigantischen Industrie erlaubt wird, etwas herzustellen und in Umlauf zu bringen, was unseren Blauen Planeten schlicht und ergreifend erstickt, sind wir alle aufgerufen, Plastik ... zu verweigern.
 

@@ -7,10 +7,10 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243827/deepwav
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 
-  - "/filmfestival-2022/"
+  - "/projekte/filmfestival/"
 ---
 
-Wir freuen uns riesig, nach 2 Jahren Pause wieder unser [Filmfestival](https://www.deepwave.org/filmfestival-2022/) in Hamburg ausrichten zu können!
+Wir freuen uns riesig, nach 2 Jahren Pause wieder unser [Filmfestival](https://www.deepwave.org/projekte/filmfestival/) in Hamburg ausrichten zu können!
 
 Ewige Nacht in der Arktis, träumende Korallenriffe, Fischerdörfer gegen Industrietrawler und ein rätselhaftes Wesen aus der Tiefsee: auf unserem DEEPWAVE Filmfestival treffen internationale Kurzfilme auf Gäste aus Wissenschaft und Meeresschutz.
 

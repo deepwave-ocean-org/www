@@ -14,7 +14,7 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244908/deepwav
 image_caption: "© NOAA Office of Ocean Exploration and Research / Wikimedia Commons"
 author: "DEEPWAVE"
 related: 
-  - "/deep-sea/"
+  - "/die-ozeane/die-tiefsee/"
 ---
 
 Das erste Tiefseebergbauprojekt "Solwara 1" soll  in diesem Jahr am Boden der Bismarcksee vor Papua-Neuguinea starten. Auf der Suche nach Manganknollen, kobaltreichen Eisen- und Mangankrusten, Massivsulfiden und Erzschlämmen - ein unsicheres Investment. Das geplante Ausbeutungsgebiet beträgt etwa 140000 Quadratmeter und ist Teil eines ökologisch sehr sensiblen Lebensraums, der auch ein wichtiges Fanggebiet für viele Kleinfischer\*innen ist. Der Rohstoffverbauch muss in Deutschland und in Europa auf ein nachhaltiges Maß reduziert werden, stattdessen unterstützt die Bundesregierung Industrie- und Forschungsvorhaben, die den Tiefseebergbau massiv vorantreiben, um auch die unerforschtesten Lebensräume unseres Planeten wirtschaftlich zu nutzen. Jedoch ist nicht nur der wirtschaftliche Ertrag beim Tiefseebergbau mehr als fraglich, sondern auch die Folgen für das gesamte Ökosystem und seine Bewohner.
@@ -25,4 +25,4 @@ Deutsche Gesellschaft für die Vereinten Nationen e.V. (DGVN), 13.06.2018, Autor
 
 Den [zugehörigen Artikel](https://nachhaltig-entwickeln.dgvn.de/meldung/nein-zum-raubbau-an-der-tiefsee/) von Hans-Christoph Neidlein vom 13.06.2018 findet ihr bei der [Deutschen Gesellschaft für die Vereinten Nationen e.V. (DGVN).](https://dgvn.de/)
 
-Für weitere Informationen, schaut bei unserer [Kampagne zum Tiefseebergbau DEEP SEA](https://www.deepwave.org/deep-sea/) vorbei.
+Für weitere Informationen, schaut bei unserer [Kampagne zum Tiefseebergbau DEEP SEA](https://www.deepwave.org/die-ozeane/die-tiefsee/) vorbei.

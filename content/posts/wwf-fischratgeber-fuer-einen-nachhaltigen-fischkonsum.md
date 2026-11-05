@@ -8,7 +8,7 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245457/deepwav
 image_caption: "© Free-Photos / Pixabay"
 author: "DEEPWAVE"
 related: 
-  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/"
+  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/"
 ---
 
 Weltweit werden pro Jahr und pro Person 20 Kilogramm Fisch gegessen, das ist fast doppelt so viel wie vor 50 Jahren. Die Folgen sind die [Überfischung](https://www.deepwave.org/die-ozeane/überfischung/) diverser Bestände, damit verbundene Veränderungen im Nahrungsnetz und des gesamten Ökosystems, unerwünschter Beifang von oft stark gefährdeten Arten und Müll sowie alte Netze, die im Meer zurückgelassen werden.
@@ -27,4 +27,4 @@ Den Fischratgeber vom [WWF](https://www.wwf.de/) gibt es [online](https://fischr
 
 Das beste für unsere Meere ist es aber trotz alledem, Fisch - genauso wie auch alle anderen Nahrungsmittel tierischen Ursprungs - wertzuschätzen als Lebewesen. Ob wir ihn dann noch verzehren möchten, ist unsere Entscheidung.
 
-Zum [Welttag der Meere 2019 haben die Deutsche Umwelthilfe, Our Fish und DEEPWAVE ein Ende der Überfischung gefordert](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/). Mehr darüber könnt ihr in unserem [Politikblog](https://www.deepwave.org/blogs/politik/) nachlesen.
+Zum [Welttag der Meere 2019 haben die Deutsche Umwelthilfe, Our Fish und DEEPWAVE ein Ende der Überfischung gefordert](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/). Mehr darüber könnt ihr in unserem [Politikblog](https://www.deepwave.org/blogs/politik/) nachlesen.

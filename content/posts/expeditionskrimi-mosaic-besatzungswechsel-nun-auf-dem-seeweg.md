@@ -9,12 +9,11 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244741/deepwav
 image_caption: "© Alfred-Wegener-Institut / Torsten Sachs (CC-BY 4.0)"
 author: "DEEPWAVE"
 related: 
-  - "/mammutprojekt-mosaic-ein-jahr-festgefroren-in-der-arktis/"
   - "/polarstern-forscher-sitzen-wegen-corona-am-nordpol-fest/"
   - "/ein-jahr-auf-forschungsreise-im-eis-der-mosaic-podcast/"
 ---
 
-Bereits Ende März war für die Forscher:innen der [Expedition MOSAiC](https://www.deepwave.org/mammutprojekt-mosaic-ein-jahr-festgefroren-in-der-arktis/) auf der Polarstern klar: durch [Corona sitzen sie fest](https://www.deepwave.org/polarstern-forscher-sitzen-wegen-corona-am-nordpol-fest/). Mit einer Pandemie hatte niemand gerechnet, die Crew konnte nicht wie geplant per Flugzeug über Spitzbergen ausgetauscht werden. Die ganze Expedition stand auf dem Spiel. Jetzt, in der dritten Maiwoche, gibt es Licht am Horizont: nach wochenlangen internationalen Verhandlungen ist eine Lösung für den Besatzungswechsel und die Rettung der Jahrhundertexpedition gefunden worden. Auf dem Seeweg bringen die deutschen Forschungsschiffe FS Maria S. Merian and FS Sonne nun 56 Wissenschaftler:innen und 37 Besatzungsmitglieder, die vorher 17 Tage in strengster Quarantäne verbracht haben, plus 14 Tonnen Nachschub nach Svalbard, wo ihnen die Polarstern an der Eiskante entgegenkommt.
+Bereits Ende März war für die Forscher:innen der Expedition MOSAiC auf der Polarstern klar: durch [Corona sitzen sie fest](https://www.deepwave.org/polarstern-forscher-sitzen-wegen-corona-am-nordpol-fest/). Mit einer Pandemie hatte niemand gerechnet, die Crew konnte nicht wie geplant per Flugzeug über Spitzbergen ausgetauscht werden. Die ganze Expedition stand auf dem Spiel. Jetzt, in der dritten Maiwoche, gibt es Licht am Horizont: nach wochenlangen internationalen Verhandlungen ist eine Lösung für den Besatzungswechsel und die Rettung der Jahrhundertexpedition gefunden worden. Auf dem Seeweg bringen die deutschen Forschungsschiffe FS Maria S. Merian and FS Sonne nun 56 Wissenschaftler:innen und 37 Besatzungsmitglieder, die vorher 17 Tage in strengster Quarantäne verbracht haben, plus 14 Tonnen Nachschub nach Svalbard, wo ihnen die Polarstern an der Eiskante entgegenkommt.
 
 Die genauen Details rund um diesen Austausch und die Folgen für das gesamte Forschungsprojekt erläutert der Expeditionsleiter Markus Rex im Podcast ["IQ-Wissenschaft und Forschung"](https://www.br.de/mediathek/podcast/iq-wissenschaft-und-forschung/allein-im-polareis-corona-zwingt-jahrhundertexpedition-mosaic-zum-experimentieren/1797243) des Bayerischen Rundfunks.
 

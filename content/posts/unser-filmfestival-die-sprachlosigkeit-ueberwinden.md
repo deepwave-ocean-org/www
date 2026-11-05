@@ -7,10 +7,10 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245027/deepwav
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 
-  - "/filmfestival-2022/"
+  - "/projekte/filmfestival/"
 ---
 
-Unser [Filmfestival](https://www.deepwave.org/filmfestival-2022/) letzten Freitag in Hamburg erfüllt uns immer noch mit großer staunender Freude. Was für ein Abend!
+Unser [Filmfestival](https://www.deepwave.org/projekte/filmfestival/) letzten Freitag in Hamburg erfüllt uns immer noch mit großer staunender Freude. Was für ein Abend!
 
 Unser Dank geht an unsere großartigen Referent:innen
 

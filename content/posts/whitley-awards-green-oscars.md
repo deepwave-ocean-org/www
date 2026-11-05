@@ -9,7 +9,6 @@ image: https://img.youtube.com/vi/7AX1TByXTpQ/maxresdefault.jpg
 author: "DEEPWAVE"
 related: 
   - "/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/"
-  - "/klimakrise-in-der-arktis-wie-der-laerm-unter-wasser-die-wale-bedroht/"
 ---
 
 Die Verleihung der Oscars in Hollywood zieht jedes Jahr aufs Neue große Aufmerksamkeit auf sich, aber auch im Naturschutz gibt es die sogenannten „Green Oscars“  (offiziell: Whitley Awards). Bei den Whitley Awards verleiht der [Whitley Fund for Nature](https://whitleyaward.org/about-us/)  jährlich Preise an lokale Naturschutzprojekte. Zudem bietet er Trainings und finanzielle Unterstützung für Einzelkämpfer:innen des Naturschutzes im globalen Süden an. Durch die Verleihung der Whitley Awards richtet der Whitley Fund for Nature jedes Jahr die Aufmerksamkeit auf einige besonders fördernswerte Projekte und verhilft ihnen dadurch zu internationalem Ansehen.
@@ -26,4 +25,4 @@ Pablo Borboroglu und seine Organisation [Global Penguin Society (GPS)](https://w
 
 {{< youtube id="aRID0kkwYF8" >}}
 
-UPDATE: Forscher:innen haben nun Belege dafür, dass [Unterwasserlärm nicht nur Delfine und Wale schädigt](https://www.deepwave.org/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/). Auch Pinguinen wird durch [Schiffsmotoren und seismische Airguns](https://www.deepwave.org/die-ozeane/laerm/) geschadet. Dies gewinnt Bedeutung, da die Antarktis zunehmend ins [Blickfeld wirtschaftlicher Interessen](https://www.deepwave.org/klimakrise-in-der-arktis-wie-der-laerm-unter-wasser-die-wale-bedroht/) rückt und deshalb mit mehr Lärm in dieser Region zu rechnen ist.
+UPDATE: Forscher:innen haben nun Belege dafür, dass [Unterwasserlärm nicht nur Delfine und Wale schädigt](https://www.deepwave.org/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/). Auch Pinguinen wird durch [Schiffsmotoren und seismische Airguns](https://www.deepwave.org/die-ozeane/lärm/) geschadet. Dies gewinnt Bedeutung, da die Antarktis zunehmend ins Blickfeld wirtschaftlicher Interessen rückt und deshalb mit mehr Lärm in dieser Region zu rechnen ist.

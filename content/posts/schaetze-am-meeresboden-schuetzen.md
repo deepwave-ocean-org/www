@@ -9,7 +9,7 @@ image_caption: "© WWF Portugal"
 source: "Pressemitteilung, 10.02.2021, WWF"
 author: "DEEPWAVE"
 related: 
-  - "/deep-sea/"
+  - "/die-ozeane/die-tiefsee/"
 ---
 
 WWF: Tiefseebergbau ist eine vermeidbare Umweltkatastrophe / Weltweites Moratorium gefordert
@@ -26,4 +26,4 @@ Der WWF fordert ein weltweites Moratorium für den Tiefseebergbau, bis die ökol
 
 [Diese Pressemitteilung](https://www.wwf.de/2021/februar/schaetze-am-meeresboden-schuetzen) und den zugehörigen [WWF Report „_In Too Deep: What We Know, And Don’t Know, About Deep Seabed Mining_“](https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF-Report-2021-In_Too_Deep-What_we_know_and_dont_know_about_Deep_Seabed_Mining.pdf) findet ihr beim [WWF](https://www.wwf.de/).
 
-Weitere Informationen zum Tiefseebergbau könnt ihr bei unserer [Kampagne DEEP SEA](https://www.deepwave.org/deep-sea/) und in unserem [Tiefseeblog](https://www.deepwave.org/blogs/tiefsee/) nachlesen.
+Weitere Informationen zum Tiefseebergbau könnt ihr bei unserer [Kampagne DEEP SEA](https://www.deepwave.org/die-ozeane/die-tiefsee/) und in unserem [Tiefseeblog](https://www.deepwave.org/blogs/tiefsee/) nachlesen.

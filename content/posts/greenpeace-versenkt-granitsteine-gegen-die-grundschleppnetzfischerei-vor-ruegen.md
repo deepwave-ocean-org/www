@@ -8,14 +8,10 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244646/deepwav
 image_caption: "© Eric BARBEAU, Unsplash"
 author: "Lea Teichmann"
 related: 
-  - "/eu-zieht-schlussstrich-unter-grundschleppnetzfischerei-in-der-tiefsee/"
-  - "/scharfe-kritik-rwe-dea-plaenen-oelbohrungen-wattenmeer-12134984/"
   - "/dorschbestand-in-der-oestlichen-ostsee-kollabiert-umweltverbaende-fordern-sofortigen-fangstopp/"
-  - "/ostsee-hering-gefahr-9237943/"
-  - "/kaempfen-letzten-300-ostseeschweinswale-16307855/"
 ---
 
-Früher holten die Steinfischer aus der Ostsee die Steine herauf, Findlinge, die als Baumaterial genutzt wurden für Molen, Straßen und Fundamente. Heute werden hier Steine versenkt, um das Gebiet vor der [Grundschleppnetzfischerei](https://www.deepwave.org/eu-zieht-schlussstrich-unter-grundschleppnetzfischerei-in-der-tiefsee/) schützen. Mit seiner Aktion weist Greenpeace - trotz eines Verbots des Bundesamtes für Seeschifffahrt und Hydrographie (BSH) - daraufhin, dass das Meeresschutzareal hier lediglich auf dem Papier existiert. Selbst in ausgewiesenen Schutzgebieten der Nord- und Ostsee sowie dem Nationalpark Wattenmeer sind weiterhin [Ölausbeutung](https://www.deepwave.org/scharfe-kritik-rwe-dea-plaenen-oelbohrungen-wattenmeer-12134984/), Fischerei sowie Sand- und Kiesabbau erlaubt, was besonders [Dorsch](https://www.deepwave.org/dorschbestand-in-der-oestlichen-ostsee-kollabiert-umweltverbaende-fordern-sofortigen-fangstopp/) und [Hering](https://www.deepwave.org/ostsee-hering-gefahr-9237943/) sowie Deutschlands einzige Walart, den [Schweinswal](https://www.deepwave.org/kaempfen-letzten-300-ostseeschweinswale-16307855/), gefährdet. Mittlerweile wurde das Versenken von Felsbrocken vor Rügen beendet, die Zerstörung des artenreichen Meeresbodens durch die Grundschleppnetzfischerei wird  ohne ein - bisher von der Bundesregierung nur angekündigtes  - Verbot weiter fortgesetzt.
+Früher holten die Steinfischer aus der Ostsee die Steine herauf, Findlinge, die als Baumaterial genutzt wurden für Molen, Straßen und Fundamente. Heute werden hier Steine versenkt, um das Gebiet vor der Grundschleppnetzfischerei schützen. Mit seiner Aktion weist Greenpeace - trotz eines Verbots des Bundesamtes für Seeschifffahrt und Hydrographie (BSH) - daraufhin, dass das Meeresschutzareal hier lediglich auf dem Papier existiert. Selbst in ausgewiesenen Schutzgebieten der Nord- und Ostsee sowie dem Nationalpark Wattenmeer sind weiterhin Ölausbeutung, Fischerei sowie Sand- und Kiesabbau erlaubt, was besonders [Dorsch](https://www.deepwave.org/dorschbestand-in-der-oestlichen-ostsee-kollabiert-umweltverbaende-fordern-sofortigen-fangstopp/) und Hering sowie Deutschlands einzige Walart, den Schweinswal, gefährdet. Mittlerweile wurde das Versenken von Felsbrocken vor Rügen beendet, die Zerstörung des artenreichen Meeresbodens durch die Grundschleppnetzfischerei wird  ohne ein - bisher von der Bundesregierung nur angekündigtes  - Verbot weiter fortgesetzt.
 
 > Sassnitz, 27. 7. 2020
 > 

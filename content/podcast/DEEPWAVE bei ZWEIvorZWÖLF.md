@@ -11,14 +11,14 @@ DEEPWAVE war Gast beim [Nachhaltigkeitspodcast ZWEIvorZWÖLF](https://www.zweiv
 
 Hier eine kleine Übersicht der Themen, über die die beiden gesprochen haben:
 
-Gründung von DEEPWAVE -- [Onno Groß](https://www.deepwave.org/ueber-uns/onno-gross/)\
+Gründung von DEEPWAVE -- [Onno Groß](https://www.deepwave.org/ueber-uns/onno-groß/)\
 Meeresschutz und Kunst
 
 Aufklärungsarbeit\
-Das [DEEPWAVE-Filmfestiva](https://www.deepwave.org/filmfestival-2023/)l
+Das [DEEPWAVE-Filmfestiva](https://www.deepwave.org/projekte/filmfestival/)l
 
 Politische Arbeit\
-Fischereigesetze und die [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/)\
+Fischereigesetze und die [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/)\
 Die Meeresoffensive im Koalitionsvertrag\
 Die aktuelle politische Situation\
 [Offshore-Windparks](https://www.deepwave.org/nabu-entscheidung-zu-windpark-butendiek-enttaeuscht-auf-ganzer-linie/)\
@@ -42,7 +42,7 @@ DEEPWAVE -- Wir geben dem Meer eine Stimme\
 [Spenden](https://www.deepwave.org/etwas-tun/spenden/)\
 Petitionen\
 Kleine Alltagsdinge\
-[Blue Straw-Kampagne](https://www.deepwave.org/bluestraw-kampagne/)\
+[Blue Straw-Kampagne](https://www.deepwave.org/blogs/bluestraw/)\
 Unser neuer [NoStraw-Shop](https://deepwave.shop/)
 
 Wie geht es unseren Meeren?\

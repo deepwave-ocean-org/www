@@ -10,7 +10,6 @@ source: "Pressemitteilung, 13.01.2022, Alfred-Wegener-Institut Helmholtz-Zentrum
 author: "DEEPWAVE"
 related: 
   - "/antarktischer-hotspot-finnwale-lieben-die-gewaesser-um-elephant-island/"
-  - "/weddellmeer-plaene-fuer-suedpolar-schutzgebiet-gescheitert/"
 ---
 
 **Forschende weisen etwa 60 Millionen Nester antarktischer Eisfische auf 240 Quadratkilometern im Weddellmeer nach**
@@ -45,4 +44,4 @@ Das Wissen um die Kolonie trägt dazu bei, sich noch mehr für einen besonderen 
 
 [Hier](https://youtu.be/sqAlHxj4gPo) könnt ihr das zugehörige Video über das Fischbrutgebiet ansehen, welches der Kameraschlitten des AWI aufgenommen hat.
 
-Auch aufgrund der Vielzahl von [Finnwalen, die ganzjährig die krillreichen Gewässer rund um die Elephant Island](https://www.deepwave.org/antarktischer-hotspot-finnwale-lieben-die-gewaesser-um-elephant-island/) nutzen, sollte im südlichen Ozean ein Meeresschutzgebiet eingerichtet werden. Warum der [Antrag, dass Weddellmeer zum größten Schutzgebiet der Welt zu erklären, im Jahr 2018 vorerst gescheitert ist](https://www.deepwave.org/weddellmeer-plaene-fuer-suedpolar-schutzgebiet-gescheitert/), könnt ihr in unserem [Politikblog](https://www.deepwave.org/blogs/politik/) nachlesen.
+Auch aufgrund der Vielzahl von [Finnwalen, die ganzjährig die krillreichen Gewässer rund um die Elephant Island](https://www.deepwave.org/antarktischer-hotspot-finnwale-lieben-die-gewaesser-um-elephant-island/) nutzen, sollte im südlichen Ozean ein Meeresschutzgebiet eingerichtet werden. Warum der Antrag, dass Weddellmeer zum größten Schutzgebiet der Welt zu erklären, im Jahr 2018 vorerst gescheitert ist, könnt ihr in unserem [Politikblog](https://www.deepwave.org/blogs/politik/) nachlesen.

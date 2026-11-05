@@ -9,7 +9,6 @@ image_caption: "© Nareeta Martin / Unsplash"
 author: "Noemi Merz"
 related: 
   - "/muellsammelaktion-auf-hamburgs-kanaelen/"
-  - "/recycling/"
 ---
 
 Mülltrennung. Ein Thema das von vielen unterschätzt wird und zur Folge hat, dass viele Verbraucher:innen ihren [Müll](https://www.deepwave.org/muellsammelaktion-auf-hamburgs-kanaelen/) falsch entsorgen. Oft wird angenommen, dass Papier gleich Papier ist und so wird z.B. der nicht nur für Wasserorganismen giftige Kassenbon im Altpapier entsorgt. Voraussetzung dafür, dass Müll richtig verwertet werden kann oder in Recyclingstationen aufgewertet wird, ist, dass der Müll ursprünglich in der richtigen Tonne landet. Als weitreichende Folge hat die falsche Mülltrennung, dass Materialien wie Plastik als [Kunststoffpartikel im Ozean](https://www.deepwave.org/die-ozeane/verschmutzung/) landen. Doch abgesehen von dem fehlenden "Know-How" zur Mülltrennung herrscht in Deutschland grundlegend ein [Wegwerfproblem](https://www.zeit.de/thema/muell):
@@ -22,4 +21,4 @@ Auch wenn es gedanklich richtig erscheint, die Papiertüte der Plastiktüte im S
 
 Bei [Zeit Online](https://www.zeit.de) findet ihr den Artikel zu den ["Müll-Mythen"](https://www.zeit.de/wissen/umwelt/2018-08/abfallentsorgung-muell-mythen-plastik-recycling-wegwerfen-muelltonne-irrtuemer).
 
-Mehr Infos zur Verschmutzung der Ozeane auf unserem [PLASTIC POLLUTION BLOG](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) sowie hilfreiche Tipps zur Müllentsorgung und Recycling in unserer [Recycling Broschüre](https://www.deepwave.org/recycling/).
+Mehr Infos zur Verschmutzung der Ozeane auf unserem [PLASTIC POLLUTION BLOG](https://www.deepwave.org/blogs/bluestraw/) sowie hilfreiche Tipps zur Müllentsorgung und Recycling in unserer Recycling Broschüre.

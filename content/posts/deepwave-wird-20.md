@@ -7,6 +7,6 @@ author: "Amalia Klein"
 image: https://img.youtube.com/vi/brUc9u3S3GU/maxresdefault.jpg
 ---
 
-DEEPWAVE wird 20! Schaut euch hier unser Geburtstagsvideo zu [20 Jahren Vereinsarbeit](https://www.deepwave.org/ueber-uns/woher-wir-kommen/) an:
+DEEPWAVE wird 20! Schaut euch hier unser Geburtstagsvideo zu [20 Jahren Vereinsarbeit](https://www.deepwave.org/ueber-uns/) an:
 
 {{< youtube id="brUc9u3S3GU" >}}

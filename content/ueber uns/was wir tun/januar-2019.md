@@ -9,4 +9,4 @@ Die Herderschule in Rendsburg hat ganze 5700 Euro gesammelt und [spendet die Hä
 
 #### **11\. Januar:**
 
-[Relaunch](https://www.deepwave.org/entwicklung-der-website/) der Website.
+Relaunch der Website.

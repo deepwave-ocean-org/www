@@ -23,4 +23,4 @@ Den Artikel [Vancouver will be the 1st Canadian city to ban plastic straws, foam
 
 Den vollständigen Bericht zur "Complete Zero Waste 2040" Strategie findet ihr in diesem [PDF](https://council.vancouver.ca/20180516/documents/pspc2a.pdf).
 
-Auch DEEPWAVE setzt sich mit der [BLUE STRAW Kampagne](https://www.deepwave.org/bluestraw-kampagne/die-kampagne/) und dem [NoStraw-Shop](http://deepwave.shop) für ein Ende der Wegwerfprodukte ein.
+Auch DEEPWAVE setzt sich mit der [BLUE STRAW Kampagne](https://www.deepwave.org/blogs/bluestraw/) und dem [NoStraw-Shop](http://deepwave.shop) für ein Ende der Wegwerfprodukte ein.

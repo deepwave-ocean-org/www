@@ -40,4 +40,4 @@ Die Aus­stel­lung ist mo­du­lar auf­ge­baut und soll künf­tig wei­ter a
 
 [Diese Pressemitteilung](https://www.marum.de/Entdecken/3688.html) findet ihr beim [MARUM.](https://www.marum.de/index.html)
 
-In unserer [Fotogalerie "Tiefsee"](https://www.deepwave.org/die-ozeane/bilder/) könnt ihr abtauchen und das einzigartige Ökosystem und seine Bewohner entdecken.
+In unserer [Fotogalerie "Tiefsee"](https://www.deepwave.org/die-ozeane/) könnt ihr abtauchen und das einzigartige Ökosystem und seine Bewohner entdecken.

@@ -7,10 +7,9 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245354/deepwav
 image_caption: "© Markus Spiske / Unsplash"
 author: "DEEPWAVE"
 related: 
-  - "/president-obama-declares-first-marine-national-monument-in-the-atlantic-ocean/"
 ---
 
-Den positiven Schritt für mehr Umweltschutz, [den Barack Obama in seiner Amtszeit gegangen ist](https://www.deepwave.org/president-obama-declares-first-marine-national-monument-in-the-atlantic-ocean/), geht Präsident Trump rücksichtslos zurück. Neben der Abschaffung von diversen Umwelt- und Klimaauflagen will er jetzt das einzige Meeresschutzgebiet im nordwestlichen Atlantik, das _Northeast Canyons and Seamounts National Monument_, auflösen. Obama konnte das empfindliche Ökosystem mit seiner großen Artenvielfalt erfolgreich von der [kommerziellen Fischerei](https://www.deepwave.org/die-ozeane/überfischung/) ausschließen. Es war nur noch für Tourismus, Forschung und Freizeitfischerei zugänglich. Trump zufolge hätten viele der dort lebenden Fischarten keine wissenschaftliche Relevanz, deshalb sei kein Schutzgebiet nötig.
+Den positiven Schritt für mehr Umweltschutz, den Barack Obama in seiner Amtszeit gegangen ist, geht Präsident Trump rücksichtslos zurück. Neben der Abschaffung von diversen Umwelt- und Klimaauflagen will er jetzt das einzige Meeresschutzgebiet im nordwestlichen Atlantik, das _Northeast Canyons and Seamounts National Monument_, auflösen. Obama konnte das empfindliche Ökosystem mit seiner großen Artenvielfalt erfolgreich von der [kommerziellen Fischerei](https://www.deepwave.org/die-ozeane/überfischung/) ausschließen. Es war nur noch für Tourismus, Forschung und Freizeitfischerei zugänglich. Trump zufolge hätten viele der dort lebenden Fischarten keine wissenschaftliche Relevanz, deshalb sei kein Schutzgebiet nötig.
 
 Richard Lazarus, Harvard-Professor und Experte für Umweltrecht, vergleicht Trumps „unbedingten Willen, die [Umweltgesetze von Barack Obama](https://www.greenpeace-magazin.de/leseecke/das-andere-amerika) zu zerstören“ mit Käpt’n Ahabs manischer Jagd auf Moby Dick.
 

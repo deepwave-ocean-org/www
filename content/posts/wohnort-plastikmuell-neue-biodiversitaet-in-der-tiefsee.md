@@ -9,7 +9,7 @@ image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 18.02.2021, Staatliche Naturwissenschaftliche Sammlungen Bayerns"
 author: "DEEPWAVE"
 related: 
-  - "/deep-sea/"
+  - "/die-ozeane/die-tiefsee/"
 ---
 
 _Ein internationales Forscherteam findet einen neuen Hotspot der Biodiversität – und zwar ausgerechnet im Plastikmüll, der sich seit Jahrzehnten in den Tiefseegräben der Erde ansammelt. An der Bestimmung der Müllbewohner war auch der SNSB-Zoologe Bernhard Ruthensteiner beteiligt. Ihre Erkenntnisse veröffentlichten die Wissenschaftler\*innen kürzlich in der zoologischen Fachzeitschrift Environmental Science & Technology Letters._
@@ -26,4 +26,4 @@ Die Forscher\*innen vermuten, dass die Ansammlungen von Plastikmüll in der Tief
 
 Diese [Pressemitteilung](https://idw-online.de/de/news763352) findet ihr bei [idw - Informationsdienst Wissenschaft](https://idw-online.de/de/)
 
-Erfahrt mehr über die Tiefsee bei unserer [Kampagne DEEP SEA](https://www.deepwave.org/deep-sea/) und in unserem [Tiefseeblog](https://www.deepwave.org/blogs/tiefsee/).
+Erfahrt mehr über die Tiefsee bei unserer [Kampagne DEEP SEA](https://www.deepwave.org/die-ozeane/die-tiefsee/) und in unserem [Tiefseeblog](https://www.deepwave.org/blogs/tiefsee/).

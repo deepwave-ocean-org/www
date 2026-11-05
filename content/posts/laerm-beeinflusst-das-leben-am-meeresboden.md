@@ -27,4 +27,4 @@ Dass zusätzliche Geräusche, die keinen natürlichen Ursprung haben, am Meeresb
 
 [Hier](https://www.sciencedirect.com/science/article/pii/S0269749122011137?via%3Dihub) findet ihr die Originalpublikation.
 
-Wie sich [Unterwasserlärm](https://www.deepwave.org/die-ozeane/laerm/) auf [Pinguine, Wale und Delfine](https://www.deepwave.org/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/) auswirkt, könnt ihr auf unserem [Forschungsblog](https://www.deepwave.org/blogs/forschung/) nachlesen.
+Wie sich [Unterwasserlärm](https://www.deepwave.org/die-ozeane/lärm/) auf [Pinguine, Wale und Delfine](https://www.deepwave.org/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale-und-delfine/) auswirkt, könnt ihr auf unserem [Forschungsblog](https://www.deepwave.org/blogs/forschung/) nachlesen.

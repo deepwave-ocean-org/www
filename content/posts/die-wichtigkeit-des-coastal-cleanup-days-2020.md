@@ -13,12 +13,11 @@ related:
   - "/muellsammelaktion-auf-hamburgs-kanaelen/"
   - "/umweltzerstoerung-im-schatten-des-virus/"
   - "/international-coastal-cleanup-day-2019-aufrauemen-mit-kanus/"
-  - "/recycling/"
 ---
 
 Am 19. September versammeln sich Freiwillige auf der ganzen Welt, um sich für den jährlichen [International Coastal Cleanup Day (ICCD)](https://oceanconservancy.org/trash-free-seas/international-coastal-cleanup/) zu engagieren. Der Einsatz für der [Befreiung der Gewässer von Müll](https://www.deepwave.org/muellsammelaktion-auf-hamburgs-kanaelen/) ist dieses Jahr von höherer Wichtigkeit als je zuvor: die Corona Krise hat nicht nur Spuren in der Wirtschaft hinterlassen. Auch [die Umwelt leidet](https://www.deepwave.org/umweltzerstoerung-im-schatten-des-virus/) unter den Folgen, die mit der Ausbreitung von Covid-19 einhergehen.
 
-Abgesehen davon, dass die meisten der notwenig gewordenen Artikel zum Schutz vor den Viren aus Kunststoff bestehen, werden Produkte verstärkt in [Plastik](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) verpackt und transportiert. Die Kehrseite: mehr Verpackungsmüll und Einweg-Hygieneartikel bedeuten eine umso größere Belastung für die Lunge unseres Planeten – das Meer. Dass uns Menschen durch die Kunststoffhüllen um unsere Lebensmittel, Pharmazeutika und Hygieneartikel ein gewisser Schutz gewährt werden soll, bedeutet im Umkehrschluss, dass alle anderen Lebewesen dieser Erde darunter zu leiden haben, besonders wenn wir das, was wir nicht mehr brauchen, nachlässig in der Umwelt entsorgen.
+Abgesehen davon, dass die meisten der notwenig gewordenen Artikel zum Schutz vor den Viren aus Kunststoff bestehen, werden Produkte verstärkt in [Plastik](https://www.deepwave.org/blogs/bluestraw/) verpackt und transportiert. Die Kehrseite: mehr Verpackungsmüll und Einweg-Hygieneartikel bedeuten eine umso größere Belastung für die Lunge unseres Planeten – das Meer. Dass uns Menschen durch die Kunststoffhüllen um unsere Lebensmittel, Pharmazeutika und Hygieneartikel ein gewisser Schutz gewährt werden soll, bedeutet im Umkehrschluss, dass alle anderen Lebewesen dieser Erde darunter zu leiden haben, besonders wenn wir das, was wir nicht mehr brauchen, nachlässig in der Umwelt entsorgen.
 
 Ziel des ICCD ist es, Zivilgesellschaft und Politik zum Handeln zu bewegen und auf das immer größer werdende Müllproblem und seine Folgen für die Meere und folglich uns Menschen aufmerksam zu machen.
 
@@ -26,7 +25,7 @@ Ziel des ICCD ist es, Zivilgesellschaft und Politik zum Handeln zu bewegen und a
 
 Da aufgrund von Covid-19 weder die Kanuaktion noch unsere klassischen Aufräumaktionen in Övelgönne möglich waren, haben wir uns dies Jahr auf unser Aufklärungsarbeit fokussiert. Ihr könnt euch aber beispielsweise an Aktionen von [Gewässerretter](https://www.gewaesserretter.de/#/?filter=found,aktion,cleanups) und dem [NABU](https://www.nabu.de/natur-und-landschaft/aktionen-und-projekte/meere-ohne-plastik/cleanup/index.html) beteiligen oder durch eine eigene Initiative zum Schutz der Meere beitragen.
 
-In unserer [Recyclingbroschüre](https://www.deepwave.org/recycling/) findet ihr Tipps dazu, wie der Müll erst gar nicht in die Meere gelangt.
+In unserer Recyclingbroschüre findet ihr Tipps dazu, wie der Müll erst gar nicht in die Meere gelangt.
 
 **Pressemitteilung, 17.09.2020 vom NABU**
 

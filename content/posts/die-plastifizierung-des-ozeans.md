@@ -10,7 +10,7 @@ author: "DEEPWAVE"
 related: 
   - "/im-boden-der-weltmeere-lagern-bis-zu-16-millionen-tonnen-mikroplastik/"
   - "/nabu-eu-einwegplastikverbot-greift-zu-kurz/"
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 08.02.2022, Gemeinsame Pressemitteilung von WWF und Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung
@@ -39,4 +39,4 @@ Der alleinige Effekt von Plastik auf Arten und Ökosysteme ist schwer zu erfasse
 
 [Diese Pressemitteilung](https://www.awi.de/ueber-uns/service/presse/presse-detailansicht/die-plastifizierung-des-ozeans.html) findet ihr beim [Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung](https://www.awi.de/).
 
-Wie viel [Mikroplastik sich bereits in den Böden unserer Meere befindet](https://www.deepwave.org/im-boden-der-weltmeere-lagern-bis-zu-16-millionen-tonnen-mikroplastik/) und warum das [EU-Einwegplastikverbot zu kurz greift](https://www.deepwave.org/nabu-eu-einwegplastikverbot-greift-zu-kurz/), könnt ihr in unserem [Plastic Pollution Blog](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) von unserer [Kampagne BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/) nachlesen.
+Wie viel [Mikroplastik sich bereits in den Böden unserer Meere befindet](https://www.deepwave.org/im-boden-der-weltmeere-lagern-bis-zu-16-millionen-tonnen-mikroplastik/) und warum das [EU-Einwegplastikverbot zu kurz greift](https://www.deepwave.org/nabu-eu-einwegplastikverbot-greift-zu-kurz/), könnt ihr in unserem [Plastic Pollution Blog](https://www.deepwave.org/blogs/bluestraw/) von unserer [Kampagne BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) nachlesen.

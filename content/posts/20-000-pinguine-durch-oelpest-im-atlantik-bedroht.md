@@ -22,6 +22,6 @@ Den Artikel [Pinguine durch Ölpest im Atlantik bedroht](https://www.nachrichten
 
 Der Artikel [Öl - Tödliche Gefahr für die Meere](https://www.nabu.de/natur-und-landschaft/meere/lebensraum-meer/gefahren/oel-im-meer.html) vom [NABU](https://www.nabu.de/) geht noch tiefer auf die weiteren Auswirkungen von jeder einzelnen Ölpest ein.
 
-Weitere Informationen erhaltet ihr in unserem Infotext [Öl- und Gasplattformen](https://www.deepwave.org/die-ozeane/erdoel-und-erdgas/).
+Weitere Informationen erhaltet ihr in unserem Infotext [Öl- und Gasplattformen](https://www.deepwave.org/die-ozeane/verschmutzung/).
 
 Da Schiffsöl nicht nur Umweltzerstörungen hervorruft, wenn es ausläuft, wird nach Alternativen gesucht. In unseren Artikeln [NABU-Studie zu Schiffstreibstoff: Klimaschutz mit Ammoniak](https://www.deepwave.org/nabu-studie-zu-schiffstreibstoff-klimaschutz-mit-ammoniak/) vom 30.06.2021 und [Flüssiggas klimaschädlicher als gedacht](https://www.deepwave.org/fluessiggas-als-schiffsantrieb-klimaschaedlicher-als-bisher-gedacht/) vom 20.01.2020 beleuchten wir zwei zur Diskussion stehenden Treibstoffe.

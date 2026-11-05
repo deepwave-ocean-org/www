@@ -18,4 +18,4 @@ Ein Einblick in die momentane Arbeit unserer Partnerorganisation OMCAR, mit der 
 
 Quelle: [DEEPWAVE und OMCAR](https://youtu.be/a0koY_jv-6w)
 
-Mehr zum MANGREEN Projekt und zum Aufbau des Palk Bay Zentrums findet ihr [hier.](https://www.deepwave.org/projekte/mangrovenprojekt/)
+Mehr zum MANGREEN Projekt und zum Aufbau des Palk Bay Zentrums findet ihr [hier.](https://www.deepwave.org/projekte/)

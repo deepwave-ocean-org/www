@@ -18,4 +18,4 @@ Die Organisation [Seas at Risk](https://seas-at-risk.org/) zeigt mit ihrem Carto
 
 Quelle: [Seas at risk](https://youtu.be/JsA0emd2FNw) auf YouTube
 
-Ein weiteres Video von [Seas at Risk](https://seas-at-risk.org) mit dem Themenpunkt [Plastikverschmutzung](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) ist in einem weiteren&nbsp;[unserer Posts](https://www.deepwave.org/our-plastic-our-problem-a-marine-litter-info-operetta/) zu finden. Mehr zum Thema Tiefsee gibt es bei unserer [DEEP SEA Kampagne](http://deepwave.org/deep-sea).
+Ein weiteres Video von [Seas at Risk](https://seas-at-risk.org) mit dem Themenpunkt [Plastikverschmutzung](https://www.deepwave.org/blogs/bluestraw/) ist in einem weiteren&nbsp;[unserer Posts](https://www.deepwave.org/our-plastic-our-problem-a-marine-litter-info-operetta/) zu finden. Mehr zum Thema Tiefsee gibt es bei unserer [DEEP SEA Kampagne](http://deepwave.org/die-ozeane/die-tiefsee/).

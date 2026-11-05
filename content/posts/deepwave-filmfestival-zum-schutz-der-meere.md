@@ -23,7 +23,7 @@ Weitere Filme thematisieren Überfischung, Öl- und Plastikverschmutzung – und
 
 **DEEPWAVE  Filmfestival zum Schutz der Meere** **Termin:** Freitag, 24. Mai 2019 **Einlass:** 17 Uhr **Beginn:** 17:30 Uhr **Ende:** 22**:**30 Uhr **Ort:** Lichtmess-Kino, Gaußstraße 25, 22765 Hamburg **Eintritt frei!** Die Filme sind teils in englischer Sprache verfasst. Unser Kooperationspartner ist die Friedrich-Ebert-Stiftung.
 
-Informationen zum Programm und Zeitplan findet ihr [hier.](https://www.deepwave.org/projekte/deepwave-filmfestival/)
+Informationen zum Programm und Zeitplan findet ihr [hier.](https://www.deepwave.org/projekte/filmfestival/)
 
 Weitere Informationen:
 

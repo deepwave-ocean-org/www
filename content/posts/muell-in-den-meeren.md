@@ -9,7 +9,7 @@ blogs:
 author: "DEEPWAVE"
 ---
 
-#### Schülerinnen interviewen Anna Groß von DEEPWAVE zum Thema [Meeresmüll](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/)
+#### Schülerinnen interviewen Anna Groß von DEEPWAVE zum Thema [Meeresmüll](https://www.deepwave.org/blogs/bluestraw/)
 
 Im ersten Schulhalbjahr 2019 gab es in der Louise Schroeder Schule in Hamburg Altona einen Deutschzirkel. Dafür wurden Kinder aus den vierten Klassen ausgewählt, die Spaß an Hörbeiträgen haben.
 

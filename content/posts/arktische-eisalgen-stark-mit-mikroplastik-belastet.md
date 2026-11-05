@@ -10,7 +10,6 @@ image_caption: "© Annie Sprat / Unsplash"
 source: "Pressemitteilung, 21.04.2023, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
 author: "DEEPWAVE"
 related: 
-  - "/pinker-schnee-in-den-alpen-entdeckt/"
 ---
 
 **Melosira arctica enthält zehnmal höhere Konzentration von Kunststoffpartikeln als umgebendes Meerwasser**
@@ -33,4 +32,4 @@ Außerdem ist das arktische Ökosystem durch die tiefgehenden Umwälzungen der U
 
 Die Originalpublikation "[High levels of microplastics in the Arctic ice alga _Melosira arctica_, a vector to ice-associated and benthic food webs](https://pubs.acs.org/doi/10.1021/acs.est.2c08010)" findet ihr bei [Environmental Science and Technology.](https://pubs.acs.org/)
 
-[Zu viele Eisalgen im Eis](https://www.deepwave.org/pinker-schnee-in-den-alpen-entdeckt/) können das Schmelzen beschleunigen, da sie durch ihre Farbe den Albedo Effekt - das Rückstrahlungsvermögen des Schnees - verringern.
+Zu viele Eisalgen im Eis können das Schmelzen beschleunigen, da sie durch ihre Farbe den Albedo Effekt - das Rückstrahlungsvermögen des Schnees - verringern.

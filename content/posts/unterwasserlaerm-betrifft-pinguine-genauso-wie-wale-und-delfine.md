@@ -29,4 +29,4 @@ Mit der Woche gegen Lärm im Meer soll über das Thema Unterwasserschall informi
 
 [Diese Pressemitteilung](https://www.umweltbundesamt.de/presse/pressemitteilungen/unterwasserlaerm-betrifft-pinguine-genauso-wie-wale) findet ihr beim [Umweltbundesamt](https://www.umweltbundesamt.de/).
 
-Hier findet ihr weitere Informationen über die Ursachen und Auswirkungen von [Unterwasserlärm](https://www.deepwave.org/die-ozeane/laerm/) und den [Kurzfilm „Unterwasserlärm – Ein unüberhörbares Problem".](https://www.deepwave.org/unterwasserlaerm-ein-unueberhoerbares-problem/)
+Hier findet ihr weitere Informationen über die Ursachen und Auswirkungen von [Unterwasserlärm](https://www.deepwave.org/die-ozeane/lärm/) und den [Kurzfilm „Unterwasserlärm – Ein unüberhörbares Problem".](https://www.deepwave.org/unterwasserlaerm-ein-unueberhoerbares-problem/)

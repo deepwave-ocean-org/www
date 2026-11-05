@@ -11,7 +11,7 @@ author: "DEEPWAVE"
 related: 
   - "/extremwetter-stoert-oekosysteme-zyklone-und-hitzewellen-setzen-korallen-zu/"
   - "/marine-hitzewellen-ozeane-mit-fieber/"
-  - "/icrs-filmfestival-2022/"
+  - "/projekte/filmfestival/"
 ---
 
 **In­ter­na­tio­na­le Ex­pe­di­ti­on vor der Küs­te von Ha­wai’i ge­star­tet**
@@ -57,4 +57,4 @@ Der ECORD Sci­ence Ope­ra­tor ver­fügt über gro­ße Er­fah­rung in der 
 
 Besonders gefährdet sind die artenreichen Riffökosysteme durch Extremwetterereignisse wie [Zyklone](https://www.deepwave.org/extremwetter-stoert-oekosysteme-zyklone-und-hitzewellen-setzen-korallen-zu/) und [Hitzewellen](https://www.deepwave.org/marine-hitzewellen-ozeane-mit-fieber/), die aufgrund der Klimakrise immer häufiger und mit größerer Intensität auftreten.
 
-Im Jahr 2022 hat sich DEEPWAVE für sein Filmfestival in Bremen mit dem 15. Internationalen Korallenriff-Symposium (ICRS), der größten Konferenz für Korallenforscher:innen zusammengetan und das [Filmfestival "Saving Corals"](https://www.deepwave.org/icrs-filmfestival-2022/) auf die Beine gestellt.
+Im Jahr 2022 hat sich DEEPWAVE für sein Filmfestival in Bremen mit dem 15. Internationalen Korallenriff-Symposium (ICRS), der größten Konferenz für Korallenforscher:innen zusammengetan und das [Filmfestival "Saving Corals"](https://www.deepwave.org/projekte/filmfestival/) auf die Beine gestellt.

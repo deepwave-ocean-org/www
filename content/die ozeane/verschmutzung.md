@@ -25,7 +25,7 @@ Im Kampf gegen den schwimmenden Müll helfen nur nationale Gesetze zur Müllents
 Mikroplastik
 ------------
 
-Für unseren Wocheneinkauf haben wir den Baumwollbeutel immer dabei, wenn wir Lust auf Kaffee haben, füllen wir diesen in unseren eigenen Kaffeebecher und unterwegs füllen wir unser Wasser in eine Edelstahlflasche. [Plastik im Alltag zu vermeiden](https://www.deepwave.org/bluestraw-kampagne/alternativen-zu-einwegplastik-blog/), scheint nicht schwer und es gibt mittlerweile viele Möglichkeiten Plastik sogar ganz zu [boykottieren](https://www.deepwave.org/bereit-zu-handeln-fuenf-buecher-zum-anpacken/). Doch liegen wir mit dieser Annahme wirklich richtig? PET-Flaschen, Einwegplastiktüten und der Einwegkaffeebecher fallen lediglich in die Kategorie Makroplastik. Der Großteil des Plastiks, dessen Wege oft in den Ozean führen, ist jedoch nicht wie gedacht das Makroplastik, sondern Mikroplastik.
+Für unseren Wocheneinkauf haben wir den Baumwollbeutel immer dabei, wenn wir Lust auf Kaffee haben, füllen wir diesen in unseren eigenen Kaffeebecher und unterwegs füllen wir unser Wasser in eine Edelstahlflasche. [Plastik im Alltag zu vermeiden](https://www.deepwave.org/blogs/bluestraw/), scheint nicht schwer und es gibt mittlerweile viele Möglichkeiten Plastik sogar ganz zu [boykottieren](https://www.deepwave.org/bereit-zu-handeln-fuenf-buecher-zum-anpacken/). Doch liegen wir mit dieser Annahme wirklich richtig? PET-Flaschen, Einwegplastiktüten und der Einwegkaffeebecher fallen lediglich in die Kategorie Makroplastik. Der Großteil des Plastiks, dessen Wege oft in den Ozean führen, ist jedoch nicht wie gedacht das Makroplastik, sondern Mikroplastik.
 
 Mikroplastik beschreibt jene Plastikteilchen, deren Durchmesser unter 5 mm liegt, und aufgrund dieser, teils für das eigene Auge nicht sichtbaren Größe stellt es eine große Bedrohung dar. Doch vorab, was ist Mikroplastik eigentlich genau? Mikroplastik wird in primäres und sekundäres unterteilt. Bei primärem Mikroplastik handelt es sich um Plastikteilchen, die bereits bei ihrer Freisetzung eine Größe von unter 5 mm haben. Bei primärem Mikroplastik des Typ A werden die Teilchen auch direkt innerhalb dieses Größenbereichs eingesetzt. Hierbei sind viele Anwendungsbereiche innerhalb der Kosmetik zu finden. Das Paradebeispiel sind die sogenannten Microbeads, welche oft in Körperpeelings oder Zahnpasta zu finden sind. Jeder, der bereits ein Körperpeeling benutzt hat, ist mit den kleinen farbigen Kügelchen vertraut, welche für den Peeling- und den reinigenden Effekt sorgen sollen.
 
@@ -51,13 +51,13 @@ Quellen:
 
 ### Recyclingbroschüre
 
-Außerdem haben wir passend zu unserem Infostand eine [Recyclingbroschüre](https://www.deepwave.org/recycling/) mit Informationen rund ums Thema  Mülltrennung erstellt. Wo kommt der Kassenbon hin? Und wo kaputte Kopfhörer?
+Außerdem haben wir passend zu unserem Infostand eine Recyclingbroschüre mit Informationen rund ums Thema  Mülltrennung erstellt. Wo kommt der Kassenbon hin? Und wo kaputte Kopfhörer?
 
 Eines ist klar: [Die Alster ist nicht die richtige Antwort.](https://www.deepwave.org/muellsammelaktion-auf-hamburgs-kanaelen/)
 
 ### Blogbeiträge zum Thema
 
--   [BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/) | [PLASTIC POLLUTION](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/)
+-   [BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) | [PLASTIC POLLUTION](https://www.deepwave.org/blogs/bluestraw/)
 -   [Mikroplastik ist überall -- sogar in der Luft](https://www.deepwave.org/mikroplastik-ist-ueberall-sogar-in-der-luft/)
 -   [Müllsammelaktion auf Hamburgs Kanälen](https://www.deepwave.org/muellsammelaktion-auf-hamburgs-kanaelen/)
 -   [Wohnort Plastikmüll: Neue Biodiversität in der Tiefsee](https://www.deepwave.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/)

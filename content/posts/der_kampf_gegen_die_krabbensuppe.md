@@ -23,6 +23,6 @@ Ein weiterer Punkt, der zeigt, wie absurd die Garnelenzucht ist, ist die Tatsach
 
 Da der ursprüngliche Artikel von der ZEIT nicht mehr online verfügbar ist, findet ihr den Artikel "Der Kampf gegen die Krabbensuppe" von Ariane Moos vom 02.06.2005 in [diesem PDF-Dokument](https://res.cloudinary.com/deepwave-org/image/upload/v1747244468/deepwave.org/umweltzerst_C3_B6rung_-Der-Kampf-gegen-die-Krabbensuppe-_-ZEIT-ONLINE.pdf).
 
-Im Rahmen der Kampagne [MANGREEN](https://www.deepwave.org/projekte/mangrovenprojekt/) setzen wir uns zusammen mit der Partnerorganisation [Omcar Foundation for Ocean Awareness India](https://www.omcar.org/) für die Aufforstung der Mangrovenwälder in Indien ein.
+Im Rahmen der Kampagne [MANGREEN](https://www.deepwave.org/projekte/) setzen wir uns zusammen mit der Partnerorganisation [Omcar Foundation for Ocean Awareness India](https://www.omcar.org/) für die Aufforstung der Mangrovenwälder in Indien ein.
 
 Unser Factsheet zu [Shrimps](https://res.cloudinary.com/deepwave-org/image/upload/v1747243643/deepwave.org/DWfacts-Shrimps-2016_fin.pdf) behandelt die Problematik der Shrimpfarmen noch eingehender.

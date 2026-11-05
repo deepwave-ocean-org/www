@@ -7,7 +7,6 @@ blogs:
 source: "Pressemitteilung, 14.12.2020, IOW Leibnitz-Institut für Ostseeforschung Warnemünde"
 author: "DEEPWAVE"
 related: 
-  - "/vergiftete-wale/"
 ---
 
 IOW entwickelt neue Methode und führt erfolgreiche Messungen in der Ostsee durch
@@ -16,4 +15,4 @@ Glyphosat ist einer der weltweit meistgenutzten Unkrautvernichter. Das umstritte
 
 Diese [Pressemitteilung](https://www.io-warnemuende.de/mitteilung/items/erstmals-glyphosat-nachweis-im-meer-iow-entwickelt-neue-methode-und-fuehrt-erfolgreiche-messungen-in-der-ostsee-durch.html) findet ihr beim [IOW](https://www.io-warnemuende.de/).
 
-Welche [Auswirkungen diese Umweltgifte auf große Meeressäuger wie Wale haben,](https://www.deepwave.org/vergiftete-wale/) erfahrt ihr in unserem  [Forschungsblog.](https://www.deepwave.org/blogs/forschung/)
+Welche Auswirkungen diese Umweltgifte auf große Meeressäuger wie Wale haben, erfahrt ihr in unserem  [Forschungsblog.](https://www.deepwave.org/blogs/forschung/)

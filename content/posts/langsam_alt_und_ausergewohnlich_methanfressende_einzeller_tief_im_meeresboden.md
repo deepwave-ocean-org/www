@@ -10,7 +10,7 @@ image_caption: "© Doc. RNDr. Josef Reischig, CSc. / Wikimedia Commons (CC-BY-SA
 source: "Pressemitteilung, 22.02.2006, idw - Informationsdienst Wissenschaft"
 author: "deepwave-blog"
 related: 
-  - "/deep-sea/"
+  - "/die-ozeane/die-tiefsee/"
   - "/aeltester-permafrostboden-von-sibirien-entdeckt/"
 ---
 
@@ -32,6 +32,6 @@ Obwohl diese Vorgänge tief unter dem Meeresboden ablaufen, haben sie Einfluss a
 
 [Diese Pressemitteilung](http://idw-online.de/pages/de/news148092) findet ihr beim [idw](https://idw-online.de/de/).
 
-Warum die Tiefsee außerdem von großer Bedeutung ist, könnt ihr bei unserer [Kampagne DEEP SEA](https://www.deepwave.org/deep-sea/) zum Tiefseebergbau nachlesen.
+Warum die Tiefsee außerdem von großer Bedeutung ist, könnt ihr bei unserer [Kampagne DEEP SEA](https://www.deepwave.org/die-ozeane/die-tiefsee/) zum Tiefseebergbau nachlesen.
 
 Auch [Permafrostböden enthalten große Mengen an Methan](https://www.deepwave.org/aeltester-permafrostboden-von-sibirien-entdeckt/) und spielen eine große Rolle für die globale Klimakrise. Mehr darüber erfahrt ihr in unserem [Klima-](https://www.deepwave.org/blogs/klima/) und [Forschungsblog](https://www.deepwave.org/blogs/forschung/).

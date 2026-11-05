@@ -10,7 +10,6 @@ image: https://img.youtube.com/vi/0g_lpmcOyWk/maxresdefault.jpg
 author: "Amalia Klein"
 related: 
   - "/bundesregierung-will-internationales-exportverbot-fuer-unsortierten-plastikmuell/"
-  - "/tiefseebergbau-forscher-fordern-mehr-schutzgebiete/"
   - "/deep-sea-mining-leave-my-down-below-alone/"
 ---
 
@@ -20,6 +19,6 @@ Hier eine kleine Info-Operette für alle Plastik-und Musikliebhaber! Sie zeigt, 
 
 Quelle: [Seas at Risk](https://youtu.be/0g_lpmcOyWk) auf YouTube
 
-Ein anderes Video von [Seas at Risk](http://seas-at-risk.org) zum Thema [Tiefseebergbau](https://www.deepwave.org/tiefseebergbau-forscher-fordern-mehr-schutzgebiete/) findet ihr [in diesem Post.](https://www.deepwave.org/deep-sea-mining-leave-my-down-below-alone/)
+Ein anderes Video von [Seas at Risk](http://seas-at-risk.org) zum Thema Tiefseebergbau findet ihr [in diesem Post.](https://www.deepwave.org/deep-sea-mining-leave-my-down-below-alone/)
 
-Mehr Infos zum Thema Plastikverschmutzung in den Meeren auf unserem [PLASTIC POLLUTION Blog](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/).
+Mehr Infos zum Thema Plastikverschmutzung in den Meeren auf unserem [PLASTIC POLLUTION Blog](https://www.deepwave.org/blogs/bluestraw/).

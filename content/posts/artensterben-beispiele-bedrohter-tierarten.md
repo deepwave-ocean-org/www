@@ -25,6 +25,5 @@ Weitere Informationen über das Artensterben:
 
 [https://www.deepwave.org/nachruf-auf-einen-wal/](https://www.deepwave.org/nachruf-auf-einen-wal/)
 
-[DWfacts\_Thunfisch\_2016](https://www.deepwave.org/artensterben-beispiele-bedrohter-tierarten/dwfacts_thunfisch_2016-2/)
 
 [https://www.deepwave.org/tag-des-artenschutzes-tiefseefisch-orange-roughy/](https://www.deepwave.org/tag-des-artenschutzes-tiefseefisch-orange-roughy/)

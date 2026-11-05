@@ -8,7 +8,7 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243865/deepwav
 image_caption: "© Ulf Riebesell, GEOMAR "
 author: "Amalia Klein"
 related: 
-  - "/deutschland-muesste-schon-in-15-jahren-co%e2%82%82-frei-sein/"
+  - "/deutschland-muesste-schon-in-15-jahren-co-frei-sein/"
   - "/ipcc-sonderbericht-folgen-des-klimawandels-auf-ozeane-und-eisgebiete/"
 ---
 
@@ -38,4 +38,4 @@ Neben dem Projekt OceanNETs, welches die Europäische Union im Rahmen des Horizo
 
 [Diese Pressemitteilung](https://www.geomar.de/news/article/mit-gesteinsmehl-gegen-den-klimawandel) findet ihr beim [GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel](https://www.geomar.de/).
 
-Um die Ziele des Pariser Klimaabkommens zu erreichen, [muss Deutschland bis 2035 CO₂ sein](https://www.deepwave.org/deutschland-muesste-schon-in-15-jahren-co%e2%82%82-frei-sein/). Welche katastrophalen Auswirkungen der Klimawandel für unsere Meere hat, zeigt der [IPCC-Sonderbericht](https://www.deepwave.org/ipcc-sonderbericht-folgen-des-klimawandels-auf-ozeane-und-eisgebiete/).
+Um die Ziele des Pariser Klimaabkommens zu erreichen, [muss Deutschland bis 2035 CO₂ sein](https://www.deepwave.org/deutschland-muesste-schon-in-15-jahren-co-frei-sein/). Welche katastrophalen Auswirkungen der Klimawandel für unsere Meere hat, zeigt der [IPCC-Sonderbericht](https://www.deepwave.org/ipcc-sonderbericht-folgen-des-klimawandels-auf-ozeane-und-eisgebiete/).

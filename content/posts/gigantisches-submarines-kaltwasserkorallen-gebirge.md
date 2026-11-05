@@ -9,7 +9,6 @@ image_caption: "© Wolf Wichmann"
 source: "Pressemitteilung, 04.03.2018, MARUM"
 author: "DEEPWAVE"
 related: 
-  - "/great-barrier-reef-erneut-von-bleiche-betroffen/"
 ---
 
 Internationales Forscherteam untersucht Korallenriffe vor Mauretanien
@@ -34,4 +33,4 @@ Wien­bergs Theo­rie zu­fol­ge fan­den die Kaltwasserkorallen bei ex­trem n
 
 [Diese Pressemittelung](https://www.marum.de/Entdecken/Korallenriff.html) findet ihr beim [MARUM](https://www.marum.de/index.html).
 
-Weitere Informationen zu [Korallenriffen](https://www.deepwave.org/die-ozeane/korallen/) und die Auswirkungen der [Klimakrise](https://www.deepwave.org/die-ozeane/klimawandel/) auf das [Great Barrier Reef](https://www.deepwave.org/great-barrier-reef-erneut-von-bleiche-betroffen/), findet ihr in unserem [Forschungs-](https://www.deepwave.org/blogs/forschung/) und [Klimablog](https://www.deepwave.org/blogs/klima/).
+Weitere Informationen zu [Korallenriffen](https://www.deepwave.org/die-ozeane/korallen/) und die Auswirkungen der [Klimakrise](https://www.deepwave.org/die-ozeane/klima/) auf das Great Barrier Reef, findet ihr in unserem [Forschungs-](https://www.deepwave.org/blogs/forschung/) und [Klimablog](https://www.deepwave.org/blogs/klima/).

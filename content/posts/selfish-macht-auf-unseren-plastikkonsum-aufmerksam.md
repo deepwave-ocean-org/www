@@ -11,7 +11,7 @@ author: "DEEPWAVE"
 related: 
   - "/vermeidung-des-mikroplastikeintrags-in-die-marine-umwelt-workshop/"
   - "/bund-einkalufsliste-zur-vermeidung-von-mikroplastik/"
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
   - "/tassen-statt-tampons-die-meere-schuetzen/"
 ---
 
@@ -27,6 +27,6 @@ Wir alle können durch unser Konsumverhalten und eine bewussten Lebensweise dazu
 
 Quelle: [Chen Po 3D](https://www.youtube.com/channel/UCeiOdXK8-m3geGSwjTsQuzA) auf YouTube
 
-Wer mehr zum Thema [Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/) und der Vermeidung von [(Mikro-)Plastik](https://www.deepwave.org/bluestraw-kampagne/alternativen-zu-einwegplastik-blog/) wissen möchte, schaut auf unserem [Plastic Pollution Blog](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) und der [Einkaufsliste](https://www.deepwave.org/bund-einkalufsliste-zur-vermeidung-von-mikroplastik/) vom [BUND](https://www.bund.net) vorbei.
+Wer mehr zum Thema [Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/) und der Vermeidung von [(Mikro-)Plastik](https://www.deepwave.org/blogs/bluestraw/) wissen möchte, schaut auf unserem [Plastic Pollution Blog](https://www.deepwave.org/blogs/bluestraw/) und der [Einkaufsliste](https://www.deepwave.org/bund-einkalufsliste-zur-vermeidung-von-mikroplastik/) vom [BUND](https://www.bund.net) vorbei.
 
-Schaut euch auch unsere [BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/) Kampagne und unser aktuelles Projekt [Tassen statt Tampons](https://www.deepwave.org/tassen-statt-tampons-die-meere-schuetzen/) an.
+Schaut euch auch unsere [BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) Kampagne und unser aktuelles Projekt [Tassen statt Tampons](https://www.deepwave.org/tassen-statt-tampons-die-meere-schuetzen/) an.

@@ -9,7 +9,6 @@ source: "Pressemitteilung, 28.04.2022, Naturschutzbund Deutschland e.V."
 author: "Amalia Klein"
 related: 
   - "/klimaschutz-erhalt-der-biodiversitaet-und-soziale-gerechtigkeit-diese-aufgaben-lassen-sich-nur-im-dreiklang-loesen/"
-  - "/meerespolitik-kalender/"
   - "/umweltverbaende-warnen-vor-industrialisierung-der-nord-und-ostsee/"
   - "/nabu-pressemitteilung-minensprengung-im-meeresschutzgebiet-katastrophal-fuer-natur/"
 ---
@@ -26,4 +25,4 @@ Aus Sicht des NABU ist der Schutz der Biodiversität jedoch genauso so Lebensver
 
 [Diese Pressemitteilung](https://www.nabu.de/presse/pressemitteilungen/index.php?popup=true&show=34272&db=presseservice) findet ihr beim [NABU](https://www.nabu.de/).
 
-Meeres- und Klimaschutz müssen [Hand in Hand gehen](https://www.deepwave.org/klimaschutz-erhalt-der-biodiversitaet-und-soziale-gerechtigkeit-diese-aufgaben-lassen-sich-nur-im-dreiklang-loesen/). Welche Maßnahmen dafür konkret ergriffen werden müssen, fordern DEEPWAVE und der NABU zusammen mit weiteren NGOs in der [Meeresoffensive 2020](https://www.deepwave.org/meerespolitik-kalender/). Eine [Industrialisierung der Nord-und Ostsee](https://www.deepwave.org/umweltverbaende-warnen-vor-industrialisierung-der-nord-und-ostsee/) muss verhindert und [Schutzgebiete auch wirklich geschützt](https://www.deepwave.org/nabu-pressemitteilung-minensprengung-im-meeresschutzgebiet-katastrophal-fuer-natur/) werden.
+Meeres- und Klimaschutz müssen [Hand in Hand gehen](https://www.deepwave.org/klimaschutz-erhalt-der-biodiversitaet-und-soziale-gerechtigkeit-diese-aufgaben-lassen-sich-nur-im-dreiklang-loesen/). Welche Maßnahmen dafür konkret ergriffen werden müssen, fordern DEEPWAVE und der NABU zusammen mit weiteren NGOs in der Meeresoffensive 2020. Eine [Industrialisierung der Nord-und Ostsee](https://www.deepwave.org/umweltverbaende-warnen-vor-industrialisierung-der-nord-und-ostsee/) muss verhindert und [Schutzgebiete auch wirklich geschützt](https://www.deepwave.org/nabu-pressemitteilung-minensprengung-im-meeresschutzgebiet-katastrophal-fuer-natur/) werden.

@@ -27,4 +27,4 @@ Greenpeace fordert die Regierungen nachdrücklich auf, die Erderhitzung, das Art
 
 [Diese Pressemittelung](https://www.greenpeace.de/presse/presseerklaerungen/neuer-report-klimakrise-bedroht-lebensraum-ozean) findet ihr bei [Greenpeace](https://www.greenpeace.de/).
 
-Mehr über die Klimakrise und die Auswirkungen auf unsere Ozeane könnt ihr [hier](https://www.deepwave.org/die-ozeane/klimawandel/) nachlesen. Einen [Bericht vom IPCC über die Folgen des Klimawandels auf Ozeane und Eisgebiete](https://www.deepwave.org/ipcc-sonderbericht-folgen-des-klimawandels-auf-ozeane-und-eisgebiete/) findet ihr in unserem [Klima-](https://www.deepwave.org/blogs/klima/) und [Forschungsblog.](https://www.deepwave.org/blogs/forschung/)
+Mehr über die Klimakrise und die Auswirkungen auf unsere Ozeane könnt ihr [hier](https://www.deepwave.org/die-ozeane/klima/) nachlesen. Einen [Bericht vom IPCC über die Folgen des Klimawandels auf Ozeane und Eisgebiete](https://www.deepwave.org/ipcc-sonderbericht-folgen-des-klimawandels-auf-ozeane-und-eisgebiete/) findet ihr in unserem [Klima-](https://www.deepwave.org/blogs/klima/) und [Forschungsblog.](https://www.deepwave.org/blogs/forschung/)

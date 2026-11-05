@@ -9,14 +9,12 @@ blogs:
   - "was-tun"
 author: "DEEPWAVE"
 related: 
-  - "/das-unternimmt-die-eu-gegen-plastikmuell/"
   - "/bundesregierung-will-internationales-exportverbot-fuer-unsortierten-plastikmuell/"
-  - "/20801945-2/"
 ---
 
 #### von Elke Körner, DEEPWAVE
 
-Mit unserer Segelyacht [Tordas](https://www.tordas.de) waren wir im Sommer 2018 an den Küsten Irlands und Schottlands unterwegs. Dort laufen wir auch oft Inseln und Küstenabschnitte an, die von Land aus nicht erreichbar sind. Einsam und wild stellen wir sie uns deshalb vor, wenn wir als einziges Boot vor Anker gehen. Doch selbst in den verborgensten Winkeln hinterlässt der Mensch Spuren. 8 Millionen Tonnen [Plastikmüll](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) landen jährlich neu im Meer und 80 Millionen Tonnen Müll sind bereits darin. Eine schier unvorstellbare Zahl, die sich in Form von Netzresten, Plastikkanistern, Flaschen, Flipflops, Arbeitshandschuhen, Bojen, materialisiert, die die Ufer und Klippen säumen.
+Mit unserer Segelyacht [Tordas](https://www.tordas.de) waren wir im Sommer 2018 an den Küsten Irlands und Schottlands unterwegs. Dort laufen wir auch oft Inseln und Küstenabschnitte an, die von Land aus nicht erreichbar sind. Einsam und wild stellen wir sie uns deshalb vor, wenn wir als einziges Boot vor Anker gehen. Doch selbst in den verborgensten Winkeln hinterlässt der Mensch Spuren. 8 Millionen Tonnen [Plastikmüll](https://www.deepwave.org/blogs/bluestraw/) landen jährlich neu im Meer und 80 Millionen Tonnen Müll sind bereits darin. Eine schier unvorstellbare Zahl, die sich in Form von Netzresten, Plastikkanistern, Flaschen, Flipflops, Arbeitshandschuhen, Bojen, materialisiert, die die Ufer und Klippen säumen.
 
 {{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747245085/deepwave.org/muell_an_der_kueste.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747245085/deepwave.org/muell_an_der_kueste.jpg" alt="Britsche Inseln - Strand mit Muell, Fischernetzen, Tauen, Boje" caption="© Elke Koerner" >}}
 
@@ -40,4 +38,4 @@ Gibt es ein Fazit? Eines sicher, dass kleine, lokale Initiativen einen wertvolle
 
 Elke Körner für DEEPWAVE
 
-Auf unserer Seite findet ihr weitere Informationen zum Thema Meer und Müll: [Was hat die EU vor gegen die Plastikvermüllung zu unternehmen?](https://www.deepwave.org/das-unternimmt-die-eu-gegen-plastikmuell/) [Bundesregierung will internationales Exportverbot für unsortierten Plastikmüll](https://www.deepwave.org/bundesregierung-will-internationales-exportverbot-fuer-unsortierten-plastikmuell/) Ein Video zu [Plastikmüll im Meer: So könnten unsere Ozeane gereinigt werden](https://www.deepwave.org/20801945-2/) uvm.
+Auf unserer Seite findet ihr weitere Informationen zum Thema Meer und Müll: Was hat die EU vor gegen die Plastikvermüllung zu unternehmen? [Bundesregierung will internationales Exportverbot für unsortierten Plastikmüll](https://www.deepwave.org/bundesregierung-will-internationales-exportverbot-fuer-unsortierten-plastikmuell/) Ein Video zu Plastikmüll im Meer: So könnten unsere Ozeane gereinigt werden uvm.

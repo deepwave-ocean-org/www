@@ -14,7 +14,6 @@ image_caption: "© ©SandraAltherr / Pixabay"
 author: "DEEPWAVE"
 related: 
   - "/plastikverschmutzung-im-marianengraben/"
-  - "/20801945-2/"
 ---
 
 Es besteht die Hoffnung, dass die UN-Umweltkonferenz in Nairobi nun endlich den ersten Schritt in Richtung eines verbindlichen globalen Abkommens bezüglich des Plastikmülls im Meer macht.
@@ -25,4 +24,4 @@ Die Bundesregierung ist für ein internationales Abkommen offen. Allerdings kön
 
 Den Artikel "[Umweltkonferenz der UNO - Startschuss gegen Plastikmüll im Meer?](https://www.zdf.de/nachrichten/heute/un-umweltkonferenz-startschuss-gegen-plastikmuell-100.html)" von Mark Hugo vom 11.03.2019 findet ihr bei [ZDFheute](https://www.zdf.de/nachrichten).
 
-In unserem Blogbeitrag [Plastikmüll im Meer: So könnten unsere Ozeane gereinigt werden](https://www.deepwave.org/20801945-2/) findet ihr Ideen, wie diese Teppiche aus Abfällen aus dem Meer entfernt werden können.
+In unserem Blogbeitrag Plastikmüll im Meer: So könnten unsere Ozeane gereinigt werden findet ihr Ideen, wie diese Teppiche aus Abfällen aus dem Meer entfernt werden können.

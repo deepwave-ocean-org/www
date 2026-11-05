@@ -11,7 +11,6 @@ source: "Pressemitteilung, 22.11.22, Pro Wildlife"
 author: "DEEPWAVE"
 related: 
   - "/buergerinitiative-gegen-haifischflossenhandel-jede-stimme-zaehlt/"
-  - "/das-traurige-los-der-haie/"
 ---
 
 **Fischereikommission ICCAT legt erstmals Fangbeschränkungen für den Südatlantik fest – versäumt es jedoch ein Anlandeverbot zu verhängen**
@@ -49,4 +48,4 @@ Iris Ziegler fügt abschließend hinzu: „Wir fordern alle Beteiligten auf, zum
 
 Neben Beifängen stellt Finning eine große Bedrohung für Haipopulationen weltweit dar. Auf unserem [Politikblog](https://www.deepwave.org/blogs/politik/) findet ihr Informationen über die [EU-Bürgerinitiative gegen Haifischflossenhandel](https://www.deepwave.org/buergerinitiative-gegen-haifischflossenhandel-jede-stimme-zaehlt/).
 
-In der Podcastfolge "[Das traurige Los der Haie](https://www.deepwave.org/das-traurige-los-der-haie/)" erfahrt ihr außerdem, welche Folgen Finning für das gesamte Ökosystem hat.
+In der Podcastfolge "Das traurige Los der Haie" erfahrt ihr außerdem, welche Folgen Finning für das gesamte Ökosystem hat.

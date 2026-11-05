@@ -12,7 +12,6 @@ image_caption: "© Shane McLendon / Unsplash"
 source: "Pressemitteilung, 19.02.2019 vom Umwelt Bundesamt (UBA)"
 author: "DEEPWAVE"
 related: 
-  - "/ressourcen-meer-loest-ozean-rohstoffprobleme-zukunft-17796007/"
 ---
 
 Rohstoffpreise müssen die ökologische Wahrheit sagen
@@ -35,4 +34,4 @@ Diese [Pressemitteilung](https://www.umweltbundesamt.de/presse/pressemitteilunge
 
 Hier findet ihr Informationen zu der [Raw Materials & Enviroment Konferenz 2019](https://www.umweltbundesamt.de/rawmaterialsconference).
 
-Weiteres zum Thema:´ [Ressourcen aus dem Meer: Löst der Ozean die Rohstoffprobleme der Zukunft?](https://www.deepwave.org/ressourcen-meer-loest-ozean-rohstoffprobleme-zukunft-17796007/)
+Weiteres zum Thema:´ Ressourcen aus dem Meer: Löst der Ozean die Rohstoffprobleme der Zukunft?

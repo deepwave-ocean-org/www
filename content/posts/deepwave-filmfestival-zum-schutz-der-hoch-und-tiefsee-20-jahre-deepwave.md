@@ -7,12 +7,12 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747243863/deepwav
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "Amalia Klein"
 related: 
-  - "/filmfestival-2023/"
+  - "/projekte/filmfestival/"
 ---
 
 Tief unter den Wellen, weit entfernt von unserer Aufmerksamkeit, könnte bald die größte Bergbauaktion in der Geschichte beginnen. Noch in diesem Sommer soll eine Entscheidung über den Tiefseebergbau fallen, hinter verschlossenen Türen, ohne Beteiligung der Betroffenen: uns allen.
 
-Anlässlich dieses Ereignisses und der 20 Jahre Arbeit, die DEEPWAVE in diesem Feld geleistet hat, zeigen wir dieses Jahr ein [besonderes Programm auf dem DEEPWAVE Filmfestival](https://www.deepwave.org/filmfestival-2023/). Als Eröffnung blicken wir zurück in die Geschichte und auf den Gründer von DEEPWAVE, mit dem Kurzfilm ONNO.
+Anlässlich dieses Ereignisses und der 20 Jahre Arbeit, die DEEPWAVE in diesem Feld geleistet hat, zeigen wir dieses Jahr ein [besonderes Programm auf dem DEEPWAVE Filmfestival](https://www.deepwave.org/projekte/filmfestival/). Als Eröffnung blicken wir zurück in die Geschichte und auf den Gründer von DEEPWAVE, mit dem Kurzfilm ONNO.
 
 Im Anschluss zeigen wir zum ersten Mal einen Film in Spielfilmlänge: „Deep Rising“ ist der enthüllendste Blick hinter die Machenschaften, die zum Tiefseebergbau führen könnten, der je gefilmt wurde. Der Regisseur Matthieu Rytz begleitete fünf Jahre lang die führenden Akteure in Verhandlungsräume, zu Investorenmeetings und zu Lobbygesprächen. Kombiniert mit nie gezeigten Tiefseeaufnahmen und der Stimme von Jason Momoa („Aquaman“) ergibt sich ein Film, der genau jetzt gebraucht wird. Vertieft wird das Thema Tiefseebergbau durch eine Diskussion mit dem Wissenschaftler Matthias Haeckel vom GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel, dem Aktivisten Till Seidensticker von Greenpeace, sowie dem Ehrengast Hjalmar Thiel, welcher 1989 die erste Expedition zur Folgenabschätzung des Tiefseebergbaus leitete.
 

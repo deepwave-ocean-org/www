@@ -11,7 +11,7 @@ image_caption: "© ROV-Team/GEOMAR"
 source: "Pressemitteilung, GEOMAR, 11. Juni 2020"
 author: "DEEPWAVE"
 related: 
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 **Plastik in der Tiefsee: Nach einem Vierteljahrhundert noch wie neu**
@@ -42,4 +42,4 @@ Gleichzeitig sind die Funde für ihn ein gutes Argument, die Einhaltung von Vors
 
 Diese [Pressemitteilung](https://www.geomar.de/news/article/plastik-in-der-tiefsee-nach-einem-vierteljahrhundert-noch-wie-neu#gallery-2) findet ihr auf der Seite des [GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel](https://www.geomar.de/).
 
-Zum Thema Tiefsee haben wir auf unserer [zugehörigen Seite](https://www.deepwave.org/die-ozeane/die-tiefsee/) Informationen für euch zusammengestellt. Wer konkret wissen möchte, welche [Alternativen zu Einwegplastik](https://www.deepwave.org/bluestraw-kampagne/alternativen-zu-einwegplastik-blog/) genutzt werden können und welche [Kampagne](https://www.deepwave.org/bluestraw-kampagne/die-kampagne/) wir in diesem Zusammenhang gestartet haben, schaut auf unserer [BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/) Seite vorbei.
+Zum Thema Tiefsee haben wir auf unserer [zugehörigen Seite](https://www.deepwave.org/die-ozeane/die-tiefsee/) Informationen für euch zusammengestellt. Wer konkret wissen möchte, welche [Alternativen zu Einwegplastik](https://www.deepwave.org/blogs/bluestraw/) genutzt werden können und welche [Kampagne](https://www.deepwave.org/blogs/bluestraw/) wir in diesem Zusammenhang gestartet haben, schaut auf unserer [BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) Seite vorbei.

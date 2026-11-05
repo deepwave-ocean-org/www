@@ -7,7 +7,6 @@ blogs:
 author: "DEEPWAVE"
 related: 
   - "/nabu-studie-beim-recycling-durchgefallen/"
-  - "/recycling/"
 ---
 
 Pressemittelung, Umweltbundesamt, 01.11.2019
@@ -26,4 +25,4 @@ Die Vielzahl der unterschiedlichen Anlagenmodelle und -standorte macht es nicht 
 
 Die [zugehörige Pressemittelung](https://www.umweltbundesamt.de/presse/pressemitteilungen/zu-geringe-recyclingkapazitaeten-fuer-rueckbau-von) findet ihr beim [Umweltbundesamt](https://www.umweltbundesamt.de/).
 
-Weitere Informationen findet ihr in der [Studie vom NABU über Recycling in Deutschland](https://www.deepwave.org/nabu-studie-beim-recycling-durchgefallen/) und unsere [Recyclingbroschüre](https://www.deepwave.org/recycling/) gibt euch viele Tipps und Tricks für die richtige Müllentsorgung, den ersten Schritt für jedes Recycling.
+Weitere Informationen findet ihr in der [Studie vom NABU über Recycling in Deutschland](https://www.deepwave.org/nabu-studie-beim-recycling-durchgefallen/) und unsere Recyclingbroschüre gibt euch viele Tipps und Tricks für die richtige Müllentsorgung, den ersten Schritt für jedes Recycling.

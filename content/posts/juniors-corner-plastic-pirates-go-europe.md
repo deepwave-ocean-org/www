@@ -9,7 +9,7 @@ image_caption: "© BMBF / Plastic Pirates – Go Europe!"
 source: "Pressemitteilung, 15.09.2020, Plastic Pirates"
 author: "DEEPWAVE"
 related: 
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 Mit gebündelter Kraft voraus: „Plastic Pirates“ auf Mission gegen den Plastikmüll
@@ -24,4 +24,4 @@ Für Lehrkräfte sowie Leitende von Jugendgruppen und Vereinen wurde von der Kie
 
 Hier findet ihr [Erklärfilme](https://www.youtube.com/playlist?list=PLRCS6sCRjnO0G9ncf2JoThP3Sztww0yos) zu der Aktion.
 
-Weitere Informationen zum Thema [Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/) und (Plastik)Müllvermeidung findet ihr bei unserer [BLUE STRAW Kampagne](https://www.deepwave.org/bluestraw-kampagne/).
+Weitere Informationen zum Thema [Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/) und (Plastik)Müllvermeidung findet ihr bei unserer [BLUE STRAW Kampagne](https://www.deepwave.org/blogs/bluestraw/).

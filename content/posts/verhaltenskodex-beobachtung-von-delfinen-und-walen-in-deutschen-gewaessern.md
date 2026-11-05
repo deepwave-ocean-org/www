@@ -28,4 +28,4 @@ Bei den nun vorgelegten ersten Verhaltensregeln für den Umgang mit Walen und De
 
 Diese [Pressemitteilung](https://de.whales.org/wp-content/uploads/sites/4/2020/06/2020_06_23-PM-Leitfaden-Wale-Delfine.pdf) und den vollständigen [Verhaltenskodex](https://de.whales.org/wp-content/uploads/sites/4/2020/06/20200623_Verhaltenscodex-Wale-Delfine.pdf) findet ihr bei der [Whale and Dolphin Conservation](https://de.whales.org/).
 
-Meereslebewesen werden jedoch nicht nur durch unvorsichtige Beobachter:innen gefährdet und gestresst, sondern auch durch verschiedene Lärmquellen, die die stille Welt stören. Weitere Informationen findet ihr dazu auf unserer [Lärmseite](https://www.deepwave.org/die-ozeane/laerm/).
+Meereslebewesen werden jedoch nicht nur durch unvorsichtige Beobachter:innen gefährdet und gestresst, sondern auch durch verschiedene Lärmquellen, die die stille Welt stören. Weitere Informationen findet ihr dazu auf unserer [Lärmseite](https://www.deepwave.org/die-ozeane/lärm/).

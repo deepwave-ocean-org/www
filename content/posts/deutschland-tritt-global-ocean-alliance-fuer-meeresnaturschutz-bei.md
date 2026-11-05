@@ -8,7 +8,6 @@ blogs:
 source: "Pressemitteilung, 13.05.2020, BMU"
 author: "DEEPWAVE"
 related: 
-  - "/das-sind-die-neuen-klimawaechter-der-bundesregierung/"
 ---
 
 Deutschland ist Anfang Mai der Meeres-Vorreiter-Allianz "Global Ocean Alliance" beigetreten. Diese internationale Initiative unterstützt ambitionierte Schutzmaßnahmen für Meere und Ozeane. Zentrale Forderung ist der Schutz von mindestens 30 Prozent der weltweiten Meere und Ozeane bis zum Jahr 2030.
@@ -31,4 +30,4 @@ Die dritte Verhandlungsrunde fand vom 19. bis 30. August 2019 in New York statt,
 
 [Diese Pressemitteilung](https://www.bmu.de/pressemitteilung/deutschland-tritt-global-ocean-alliance-fuer-meeresnaturschutz-bei/) findet ihr beim [BMU](https://www.bmu.de/).
 
-Wer die neuen [Klimawächter sind, die die Bundesregierung bei klimapolitischen Entscheidungen beraten,](https://www.deepwave.org/das-sind-die-neuen-klimawaechter-der-bundesregierung/) könnt ihr in unserem [Politik-](https://www.deepwave.org/blogs/politik/) und [Klimablog](https://www.deepwave.org/blogs/klima/) nachlesen.
+Wer die neuen Klimawächter sind, die die Bundesregierung bei klimapolitischen Entscheidungen beraten, könnt ihr in unserem [Politik-](https://www.deepwave.org/blogs/politik/) und [Klimablog](https://www.deepwave.org/blogs/klima/) nachlesen.

@@ -8,7 +8,7 @@ blogs:
 source: "Pressemitteilung, 20.11.2020, Umweltbundesamt"
 author: "DEEPWAVE"
 related: 
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 Am Samstag, den 21. November, startet zum elften Mal die Europäische Woche der Abfallvermeidung (EWAV). Bis zum 29. November finden in ganz Deutschland über 1.000 Aktionen rund um das Thema Abfallvermeidung statt. In diesem Jahr steht die Woche unter dem Motto „Invisible Waste: Abfälle, die wir nicht sehen – schau genau hin!“. Aufgrund des gegenwärtigen Infektionsgeschehens werden viele Aktionen digital durchgeführt. Koordiniert wird die EWAV in Deutschland durch den Verband kommunaler Unternehmen (VKU).
@@ -25,4 +25,4 @@ Die zentrale Auftaktveranstaltung findet am 23. November 2020 von 10 bis 12.30 U
 
 [Diese Pressemitteilung](https://www.umweltbundesamt.de/presse/pressemitteilungen/invisible-waste-abfaelle-die-wir-nicht-sehen-schau) findet ihr beim [Umweltbundesamt](https://www.umweltbundesamt.de/).
 
-Schaut gerne bei unserer Kampagne [BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/) vorbei. Hier findet ihr viele Informationen zu den [Auswirkungen](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) und der [Vermeidung von Plastikmüll](https://www.deepwave.org/bluestraw-kampagne/alternativen-zu-einwegplastik-blog/) \- hier kann jeder von uns einen Beitrag leisten.
+Schaut gerne bei unserer Kampagne [BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) vorbei. Hier findet ihr viele Informationen zu den [Auswirkungen](https://www.deepwave.org/blogs/bluestraw/) und der [Vermeidung von Plastikmüll](https://www.deepwave.org/blogs/bluestraw/) \- hier kann jeder von uns einen Beitrag leisten.

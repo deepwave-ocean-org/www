@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244699/deepwav
 image_caption: "© ETA+ / Unsplash"
 author: "DEEPWAVE"
 related: 
-  - "/deutschland-muesste-schon-in-15-jahren-co%e2%82%82-frei-sein/"
+  - "/deutschland-muesste-schon-in-15-jahren-co-frei-sein/"
   - "/wie-treibhausgase-wieder-aus-der-luft-verschwinden/"
 ---
 
@@ -23,6 +23,6 @@ Nachdem Kanada bereits Steuern auf den Ausstoß von Treibhausgasen eingeführt h
 
 Den Artikel [Nordamerika treibt CO2\-Steuer voran](https://www.klimareporter.de/international/nordamerika-treibt-co2-steuer-voran) von Benjamin von Brackel vom 27.02.2019 findet ihr beim [Klimareporter°](https://www.klimareporter.de/).
 
-Auch Deutschland muss konsequent CO2 reduzieren. Eine von Fridays For Future in Auftrag gegebene Studie kommt zum Schluss, dass Deutschland schon 2035 kein CO2 mehr ausstoßen darf. Weitere Informationen hierzu findet ihr in unserem Blogbeitrag "[Deutschland müsste schon in 15 Jahren CO2\-frei sein](https://www.deepwave.org/deutschland-muesste-schon-in-15-jahren-co%e2%82%82-frei-sein/)".
+Auch Deutschland muss konsequent CO2 reduzieren. Eine von Fridays For Future in Auftrag gegebene Studie kommt zum Schluss, dass Deutschland schon 2035 kein CO2 mehr ausstoßen darf. Weitere Informationen hierzu findet ihr in unserem Blogbeitrag "[Deutschland müsste schon in 15 Jahren CO2\-frei sein](https://www.deepwave.org/deutschland-muesste-schon-in-15-jahren-co-frei-sein/)".
 
 Um die Klimaziele zu erreichen, setzen einige Unternehmen auch auf Innovationen. So zum Beispiel Climeworks AG, die [CO2 aus der Luft filtern und verkaufen will](https://www.deepwave.org/wie-treibhausgase-wieder-aus-der-luft-verschwinden/).

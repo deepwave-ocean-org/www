@@ -28,4 +28,4 @@ Am **15\. Juli 2019** wird im **Kino Moviemento** in **Berlin** eine exklusive F
 
 Wenn ihr euch engagieren wollt: [Become an ocean guardian](https://bluethefilm.org/take-action)
 
-Weitere Informationen findet ihr im Film Presse-Kit: [BLUE: The Day The Sea Changed](https://www.deepwave.org/blue-the-day-the-sea-changed/bluepresskit/)
+Weitere Informationen findet ihr im Film Presse-Kit: BLUE: The Day The Sea Changed

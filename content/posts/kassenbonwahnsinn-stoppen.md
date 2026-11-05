@@ -9,7 +9,6 @@ blogs:
   - "was-tun"
 author: "DEEPWAVE"
 related: 
-  - "/recycling/"
 ---
 
 ### [Keine Kassenbonpflicht ab 01​.​01​.​2020 – Jetzt Petition unterschreiben](http://chng.it/VG9bGD6Rk6)
@@ -20,7 +19,7 @@ Anstatt einer langen und ausführlichen Argumentation:
 
 2\. Bei unserem Mülltrennungsinfostand konnten weniger als 10% diese Frage richtig beantworten: „In welchen Müll kommt denn nun der Bon?“
 
-3\. Wie in unserer [Recyclingbroschüre](https://www.deepwave.org/recycling/) beschrieben, führt jeder falsch ins Altpapier entsorgte Bon zu einem direkten Verlust des Gesundheitszustands unserer Meere.
+3\. Wie in unserer Recyclingbroschüre beschrieben, führt jeder falsch ins Altpapier entsorgte Bon zu einem direkten Verlust des Gesundheitszustands unserer Meere.
 
 Mehr muss man eigentlich nicht sagen. (Außer vielleicht, dass selbst die Wirksamkeit des Gesetzes heftigst kritisiert wird. Daher kann man schon in ernstem Ton von „Wahnsinn“ sprechen)
 

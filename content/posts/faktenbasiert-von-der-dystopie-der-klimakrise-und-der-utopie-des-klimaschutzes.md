@@ -17,4 +17,4 @@ Im Rahmen der Veranstaltung am [IASS](https://www.iass-potsdam.de/de) (Institut 
 
 Quelle: [Heinrich-Böll-Stiftung](https://youtu.be/ihSs71Thwmc) auf YouTube
 
-Mehr Informationen zum Thema [Klimawandel](https://www.deepwave.org/die-ozeane/klimawandel/) findet ihr bei uns.
+Mehr Informationen zum Thema [Klimawandel](https://www.deepwave.org/die-ozeane/klima/) findet ihr bei uns.

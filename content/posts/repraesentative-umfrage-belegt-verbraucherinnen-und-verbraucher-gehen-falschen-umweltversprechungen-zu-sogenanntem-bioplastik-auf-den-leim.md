@@ -9,7 +9,7 @@ image_caption: "© John Cameron / Unsplash"
 source: "Pressemitteilung, 02.12.2021, Deutsche Umwelthilfe (DUH)"
 author: "DEEPWAVE"
 related: 
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
   - "/bereit-zu-handeln-fuenf-buecher-zum-anpacken/"
   - "/nabu-eu-einwegplastikverbot-greift-zu-kurz/"
   - "/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/"
@@ -29,6 +29,6 @@ Sogenanntes Bioplastik ist – anders als von rund der Hälfte der Befragten ang
 
 [Diese Pressemitteilung sowie einen Faktencheck und ein Bioplastik-Quiz](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/repraesentative-umfrage-belegt-verbraucherinnen-und-verbraucher-gehen-falschen-umweltversprechungen/) findet ihr bei der [DUH](https://www.duh.de/).
 
-Bei unserer [Kampagne BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/) findet ihr neben [Alternativen zum Plastiktrinkhalm](https://www.deepwave.org/bluestraw-kampagne/trinkhalm-vergleichstabelle/) auch [5 Bücher, die helfen, den eigenen Alltag mit weniger Plastik zu gestalten](https://www.deepwave.org/bereit-zu-handeln-fuenf-buecher-zum-anpacken/).
+Bei unserer [Kampagne BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) findet ihr neben [Alternativen zum Plastiktrinkhalm](https://www.deepwave.org/blogs/bluestraw/) auch [5 Bücher, die helfen, den eigenen Alltag mit weniger Plastik zu gestalten](https://www.deepwave.org/bereit-zu-handeln-fuenf-buecher-zum-anpacken/).
 
-Warum das [EU-Einwegplastikverbot](https://www.deepwave.org/nabu-eu-einwegplastikverbot-greift-zu-kurz/) nicht ausreichend ist, und wie [Plastik in der Tiefsee als Wohnort](https://www.deepwave.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/) genutzt wird, könnt ihr in unserem [Blog Plastic Pollution](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) nachlesen.
+Warum das [EU-Einwegplastikverbot](https://www.deepwave.org/nabu-eu-einwegplastikverbot-greift-zu-kurz/) nicht ausreichend ist, und wie [Plastik in der Tiefsee als Wohnort](https://www.deepwave.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/) genutzt wird, könnt ihr in unserem [Blog Plastic Pollution](https://www.deepwave.org/blogs/bluestraw/) nachlesen.

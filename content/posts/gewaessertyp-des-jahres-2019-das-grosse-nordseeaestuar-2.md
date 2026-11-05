@@ -12,7 +12,6 @@ source: "Pressemitteilung, Umweltbundesamt, 21.03.2019"
 author: "DEEPWAVE"
 related: 
   - "/fischsterben-in-der-nordsee-naturschuetzer-stellen-strafanzeige/"
-  - "/rekordwaerme-im-september-hinterlaesst-spuren-in-der-nordsee/"
 ---
 
 Ein extremer Lebensraum in nur mäßigem Zustand
@@ -27,4 +26,4 @@ Durch die intensive Nutzung der Nordseeästuare und die hohen Belastungen ist es
 
 [Diese Pressemitteilung](https://www.umweltbundesamt.de/presse/pressemitteilungen/gewaessertyp-des-jahres-2019-das-grosse) und weitere [Informationen über die Kampagne](https://www.umweltbundesamt.de/themen/wasser/gewaessertyp-des-jahres/gewaessertyp-des-jahres-2019-grosses-nordseeaestuar#kurzbeschreibung) findet ihr beim [Umweltbundesamt.](https://www.umweltbundesamt.de/)
 
-Was es mit dem [massenhaften Fischsterben in der Nordsee](https://www.deepwave.org/fischsterben-in-der-nordsee-naturschuetzer-stellen-strafanzeige/) auf sich hat und wie sich die [steigenden Wassertemperaturen](https://www.deepwave.org/rekordwaerme-im-september-hinterlaesst-spuren-in-der-nordsee/) auswirken, könnt ihr in unserem [Klima](https://www.deepwave.org/blogs/klima/)\- und [Forschungsblog](https://www.deepwave.org/blogs/forschung/) nachlesen.
+Was es mit dem [massenhaften Fischsterben in der Nordsee](https://www.deepwave.org/fischsterben-in-der-nordsee-naturschuetzer-stellen-strafanzeige/) auf sich hat und wie sich die steigenden Wassertemperaturen auswirken, könnt ihr in unserem [Klima](https://www.deepwave.org/blogs/klima/)\- und [Forschungsblog](https://www.deepwave.org/blogs/forschung/) nachlesen.

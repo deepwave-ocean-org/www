@@ -10,8 +10,7 @@ image_caption: "© PublicDomainPictures / Pixabay"
 author: "DEEPWAVE"
 related: 
   - "/deep-sea-mining-leave-my-down-below-alone/"
-  - "/tiefseebergbau-forscher-fordern-mehr-schutzgebiete/"
-  - "/deep-sea/"
+  - "/die-ozeane/die-tiefsee/"
 ---
 
 Wenn wir an die [Tiefsee](https://www.deepwave.org/die-ozeane/die-tiefsee/) denken, verbinden wir diesen einzigartigen Lebensraum häufig mit Kälte und Dunkelheit. Was zunächst trist und leer zu sein scheint, beherbergt aber eine erstaunliche Vielfalt von Arten. Auch der 2018 erschienene Bericht der IUCN bezeichnet die dort auffindbaren Ökosysteme als einzigartig und wertvoll. Die Autoren des Reports betonen, dass wir viele Arten und Lebensräume der Meere durch unseren [rücksichtslosen Umgang](https://www.deepwave.org/deep-sea-mining-leave-my-down-below-alone/) mit unserer Umwelt an den Rand der Zerstörung geführt haben. Da das kommerzielle Interesse an den Rohstoffen der Tiefseeböden zunimmt, ist es dringend notwendig, die Ausbeutung und Zerstörung der Tiefsee zu verhindern.
@@ -24,4 +23,4 @@ Verschiedene Interessensgruppen und Institutionen müssen Hand in Hand arbeiten,
 
 Den [gesamten Bericht "Deep seabed mining"](https://portals.iucn.org/library/node/47761) könnt ihr bei [IUCN](https://www.iucn.org/) herunterladen.
 
-[Warum Forscher mehr Schutzgebiete in der Tiefsee fordern](https://www.deepwave.org/tiefseebergbau-forscher-fordern-mehr-schutzgebiete/), könnt ihr in unserem [Tiefseeblog](https://www.deepwave.org/blogs/tiefsee/) nachlesen. Auch bei unserer [Kampagne DEEP SEA](https://www.deepwave.org/deep-sea/) findet ihr weitere Informationen zum Tiefseebergbau.
+Warum Forscher mehr Schutzgebiete in der Tiefsee fordern, könnt ihr in unserem [Tiefseeblog](https://www.deepwave.org/blogs/tiefsee/) nachlesen. Auch bei unserer [Kampagne DEEP SEA](https://www.deepwave.org/die-ozeane/die-tiefsee/) findet ihr weitere Informationen zum Tiefseebergbau.

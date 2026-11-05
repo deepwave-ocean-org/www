@@ -9,7 +9,7 @@ image_caption: "© Filmbetrachter / Pixabay"
 source: "Pressemitteilung, 01.07.2021, NABU"
 author: "DEEPWAVE"
 related: 
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 Miller: Deutschland braucht eine Mehrweg-Strategie für „To-Go“
@@ -28,4 +28,4 @@ Für den NABU sind aktuell als öko oder natürlich beworbene Einwegmaterialen w
 
 [Diese Pressemitteilung](https://www.nabu.de/modules/presseservice/index.php?popup=true&db=presseservice&show=32072) findet ihr beim [NABU](https://www.nabu.de/).
 
-Mehr zum Thema [Plastikverschmutzung](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) und [Alternativen zu Einwegplastik](https://www.deepwave.org/bluestraw-kampagne/alternativen-zu-einwegplastik-blog/) findet ihr bei unserer [Kampagne BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/).
+Mehr zum Thema [Plastikverschmutzung](https://www.deepwave.org/blogs/bluestraw/) und [Alternativen zu Einwegplastik](https://www.deepwave.org/blogs/bluestraw/) findet ihr bei unserer [Kampagne BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/).

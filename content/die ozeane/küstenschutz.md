@@ -18,7 +18,7 @@ Seit dem Jahr 2005 haben wir in Zusammenarbeit mit unserem indischen Partner OMC
 
 Nach 10 Jahren ist das Projekt nun verstärkt mit internationalen Mitteln ausgestattet und beschäftigt sich erfolgreich mit vielen Meeresschutzthemen in unserem vor Ort gebauten Palk Bay Information Center.
 
-[MANGREEN](https://www.deepwave.org/projekte/mangrovenprojekt/)
+[MANGREEN](https://www.deepwave.org/projekte/)
 
 ### Factsheet zu Mangrovenwäldern
 
@@ -41,7 +41,7 @@ Text: Onno Groß, 2016
 Segeln gegen Proteinpiraten
 ===========================
 
-[![Segeln gegen Proteinpiraten](https://res.cloudinary.com/deepwave-org/image/upload/v1747243626/deepwave.org/Proteinpiratenneu-300x277.jpg)](https://www.deepwave.org/projekte/proteinpiraten-tour/)
+![Segeln gegen Proteinpiraten](https://res.cloudinary.com/deepwave-org/image/upload/v1747243626/deepwave.org/Proteinpiratenneu-300x277.jpg)
 
 > Die Industrienationen haben die Meere hoffnungslos überfischt. Nun bedienen wir uns an den Küsten des Südens: Wie Piratenflotten marodieren hochmoderne Fangflotten durch die traditionellen Fischgründe. Dabei zerstören ihre gewaltigen Netze die fragilen Ökosysteme am Meeresgrund für Generationen. An Land sorgen die Zuchtshrimps aus den tropischen Aquakulturen für den Verlust der Mangrovenwälder. Das Fischfutter für die Export-Garnelen entstammt wertvollen Fischgründen. Was so unsere Tiefkühltruhen füllt, lässt andere verhungern...
 

@@ -7,7 +7,6 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244810/deepwav
 image_caption: "© seegrashandel.de"
 author: "Noemi Merz"
 related: 
-  - "/erste-virtuelle-realitaet-der-ostsee/"
 ---
 
 An den Küsten angespültes Seegras, das den Weg zum Meer versperrt: für die meisten Strandbesucher:innen ein Ärgernis, das sie beseitigt wissen wollen. Dabei verweist es auf etwas, das eine entscheidende Rolle im Klimageschehen spielt: intakte Seegraswiesen bilden einen hervorragenden CO2\-Speicher.
@@ -24,6 +23,6 @@ Indem wir Seegras verwenden, wird uns bewusst, dass etwas, was wir bisher als ei
 
 {{< figure src="https://res.cloudinary.com/deepwave-org/image/upload/v1747244813/deepwave.org/leisten-als-lehm-putztr%C3%A4ger-mit-seegrasd%C3%A4mmung.jpg" link="https://res.cloudinary.com/deepwave-org/image/upload/v1747244813/deepwave.org/leisten-als-lehm-putztr%C3%A4ger-mit-seegrasd%C3%A4mmung.jpg" alt="Getrocknetes Seegras wird als Dämmmaterial der Decke benutzt." caption="© seegrashandel.de" >}}
 
-Eine [Dokumentation](https://www.ndr.de/fernsehen/sendungen/die_nordstory/Heu-Ernte-am-Strandufer,sendung905514.html) zum Thema gibt es beim [NDR](https://www.ndr.de/index.html). Wer sehen möchte, wie lebendig und voller Leben Seegraswiesen unter Wasser aussehen, kann dies in der virtuellen Realität [OstseeLIFE](https://www.deepwave.org/erste-virtuelle-realitaet-der-ostsee/) des Nabu.
+Eine [Dokumentation](https://www.ndr.de/fernsehen/sendungen/die_nordstory/Heu-Ernte-am-Strandufer,sendung905514.html) zum Thema gibt es beim [NDR](https://www.ndr.de/index.html). Wer sehen möchte, wie lebendig und voller Leben Seegraswiesen unter Wasser aussehen, kann dies in der virtuellen Realität OstseeLIFE des Nabu.
 
 _\[Und falls jemand auf die Idee kommt, dass wir hier Werbung machen, ja, aber unbezahlte, wir finden den Einsatz und die Ideen einfach klasse.\]_

@@ -13,4 +13,4 @@ Jedes Jahr werden weltweit über tausend Seeschiffe verschrottet. Das Abwracken 
 
 Den Artikel ["Deutschland beteiligt sich an geordneter Schiffsverschrottung"](https://www.spiegel.de/wirtschaft/soziales/berlin-tritt-abkommen-zur-schiffs-entsorgung-bei-a-1277542.html) vom 16.07.2019 findet ihr beim [Spiegel.](https://www.spiegel.de/)
 
-Erfahrt mehr über Schiffswracks und ihre potenzielle Gefahr in unserem Text über [künstliche Riffe.](https://www.deepwave.org/die-ozeane/kuestenschutz/#Kuenstliche_Riffe)
+Erfahrt mehr über Schiffswracks und ihre potenzielle Gefahr in unserem Text über [künstliche Riffe.](https://www.deepwave.org/die-ozeane/küstenschutz/#Kuenstliche_Riffe)

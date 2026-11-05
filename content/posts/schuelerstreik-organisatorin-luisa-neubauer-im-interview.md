@@ -12,7 +12,7 @@ image_caption: "© Andol / Wikimedia Commons (CC BY-SA 4.0)"
 author: "DEEPWAVE"
 ---
 
-Klimaaktivistin und Hauptorganisatorin der "Fridays for Future"- Streiks in Deutschland, Luisa Neubauer, war im Gespräch mit UNICUM. Im Interview sprechen sie über ihr Engagement für die Klimaproteste, das Schule schwänzen und insbesondere die Notwendigkeit der Klimapolitiker:innen, sofort zu handeln. Wir müssen jetzt etwas gegen die [Klimakrise](https://www.deepwave.org/die-ozeane/klimawandel/) unternehmen, denn wir stehen kurz vor einem weltweiten ökologischen Kollaps!
+Klimaaktivistin und Hauptorganisatorin der "Fridays for Future"- Streiks in Deutschland, Luisa Neubauer, war im Gespräch mit UNICUM. Im Interview sprechen sie über ihr Engagement für die Klimaproteste, das Schule schwänzen und insbesondere die Notwendigkeit der Klimapolitiker:innen, sofort zu handeln. Wir müssen jetzt etwas gegen die [Klimakrise](https://www.deepwave.org/die-ozeane/klima/) unternehmen, denn wir stehen kurz vor einem weltweiten ökologischen Kollaps!
 
 > **Elene Weber**: "In was für einer Welt möchtest du einmal leben?"
 > 

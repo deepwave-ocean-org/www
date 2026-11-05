@@ -11,7 +11,6 @@ image_caption: © ROV-Team/GEOMAR / Wikimedia Commons (CC BY 4.0)
 image_alt: Eine Manganknolle wird von einem Roboter aufgehoben
 related: 
   - "/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/"
-  - "/tiefseebergbau-folgen-noch-nicht-abzusehen/"
   - "/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/"
 ---
 
@@ -41,4 +40,4 @@ Weitere Informationen zum Projekt MiningImpact2 finden Sie hier: [https://jpi-o
 
 Die Originalpublikation "[Alpha radiation from polymetallic nodules and potential health risks from deep-sea mining](https://www.nature.com/articles/s41598-023-33971-w)" findet ihr bei [scientific reports](https://www.nature.com/srep/).
 
-Obwohl für einen Wandel hin zu E-Mobilität und grünen Technologien [keine Metalle aus der Tiefsee notwenig](https://www.deepwave.org/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/), und auch die [Folgen von Tiefseebergbau noch nicht abzusehen](https://www.deepwave.org/tiefseebergbau-folgen-noch-nicht-abzusehen/) sind, treibt die Lobby kommerzielle Abbauprojekte weiter voran. Deutschland hat Ende 2022 erstmals eine "[precautionary pause](https://www.deepwave.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/)" beim Tiefseebergbau gefordert.
+Obwohl für einen Wandel hin zu E-Mobilität und grünen Technologien [keine Metalle aus der Tiefsee notwenig](https://www.deepwave.org/e-mobilitaet-benoetigt-keine-metalle-aus-der-tiefsee/), und auch die Folgen von Tiefseebergbau noch nicht abzusehen sind, treibt die Lobby kommerzielle Abbauprojekte weiter voran. Deutschland hat Ende 2022 erstmals eine "[precautionary pause](https://www.deepwave.org/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau/)" beim Tiefseebergbau gefordert.

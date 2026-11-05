@@ -12,7 +12,7 @@ source: "Pressemitteilung, 12. Juli 2022, Senckenberg Gesellschaft für Naturfor
 author: "Amalia Klein"
 related: 
   - "/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/"
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 **Forschungsteam weist hohe Mikroplastik-Verschmutzung im westpazifischen Kurilen-Kamtschatka-Graben nach**
@@ -29,4 +29,4 @@ Mit Hilfe der Micro-FTIR-Methode, einer speziellen Variante eines Spektrometers,
 
 [Diese Pressemitteilung](https://www.senckenberg.de/de/pressemeldungen/endstation-tiefsee-mikroplastik-belastet-meeresgrund-noch-staerker-als-angenommen/) findet ihr bei der [Senckenberg Gesellschaft für Naturforschung](https://www.senckenberg.de/de/).
 
-Leider kommt es vermehrt immer häufiger zu [Meldungen](https://www.deepwave.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/) von [Mikroplastik](https://res.cloudinary.com/deepwave-org/image/upload/v1747243590/deepwave.org/DWfacts_Microplastik-_2016.pdf) in der [Tiefsee](https://res.cloudinary.com/deepwave-org/image/upload/v1747244993/deepwave.org/DWfactsTiefsee-M_C3_BCll_2016.pdf). Helft uns diesen Wahnsinn zu stoppen! Schaut doch mal bei unserer [Blue Straw-Kampagne](https://www.deepwave.org/bluestraw-kampagne/) oder unserem neuen [NoStraw-Shop](https://deepwave.shop/) vorbei, um euch über die Reduzierung von Single Use-Plastik zu informieren.
+Leider kommt es vermehrt immer häufiger zu [Meldungen](https://www.deepwave.org/wohnort-plastikmuell-neue-biodiversitaet-in-der-tiefsee/) von [Mikroplastik](https://res.cloudinary.com/deepwave-org/image/upload/v1747243590/deepwave.org/DWfacts_Microplastik-_2016.pdf) in der [Tiefsee](https://res.cloudinary.com/deepwave-org/image/upload/v1747244993/deepwave.org/DWfactsTiefsee-M_C3_BCll_2016.pdf). Helft uns diesen Wahnsinn zu stoppen! Schaut doch mal bei unserer [Blue Straw-Kampagne](https://www.deepwave.org/blogs/bluestraw/) oder unserem neuen [NoStraw-Shop](https://deepwave.shop/) vorbei, um euch über die Reduzierung von Single Use-Plastik zu informieren.

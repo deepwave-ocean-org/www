@@ -11,7 +11,7 @@ author: "DEEPWAVE"
 
 Die Autorin Carolin Emcke erzählt von dem früheren allgegenwärtigen Gedankenspiel ihres Vaters, wie es wäre, auszuwandern. Die Idee von einem Ort, an dem man frei und ohne Sorgen leben kann. Damit bezog er sich auf Kriege, Konflikte und repressive Regime, die regional begrenzt waren.
 
-Die Auswirkungen der [Klimakrise](https://www.deepwave.org/die-ozeane/klimawandel/) machen aber auch vor Grenzen nicht halt. Die nördliche Hemisphäre litt in diesem Jahr unter der schlimmsten Trockenheit seit 2003, sichtbar durch die großflächigen Waldbrände, nicht nur in südlichen, warmen Regionen, sondern auch hier in Deutschland, in Brandenburg.
+Die Auswirkungen der [Klimakrise](https://www.deepwave.org/die-ozeane/klima/) machen aber auch vor Grenzen nicht halt. Die nördliche Hemisphäre litt in diesem Jahr unter der schlimmsten Trockenheit seit 2003, sichtbar durch die großflächigen Waldbrände, nicht nur in südlichen, warmen Regionen, sondern auch hier in Deutschland, in Brandenburg.
 
 > "\[…\] in diesem Sommer ist spürbar, was das Anthropozän heißt: Es gibt keine unberührte Natur mehr, es gibt keine Gegenden mehr, in denen die physikalischen Spuren des Menschen nicht lesbar wären, die immer schnellere Erderwärmung, die Übersäuerung der Ozeane, das Abschmelzen der arktischen Eisschilde, das massive Artensterben zeigen sich weltweit und lokal zugleich. Da hilft kein Eskapismus, denn es gibt kein territoriales Außen des Klimawandels."
 

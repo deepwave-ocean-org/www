@@ -26,6 +26,6 @@ Den Artikel [Kaltwasserkorallen - Das Great Barrier Reef des Nordens](https://ww
 
 Der Artikel [Geheimnisvolles Leben im arktischen Eismeer](https://www.welt.de/wissenschaft/article1010749/Geheimnisvolles-Leben-im-arktischen-Eismeer.html) von Rüdiger Schacht vom 09.07.2007 in der [Welt](https://www.welt.de/) verdeutlicht, dass auch in den arktischen und antarktischen Gewässern Korallen zu finden sind.
 
-Weiterführende Informationen erhaltet ihr in dem Artikel [Kaltwasserkorallen – aus der Grundlagenforschung auf die politische Agenda](https://www.deepwave.org/korallenriffe_in_europa/freiwald2014_kwk/), der auf [Researchgate](https://www.researchgate.net/) veröffentlicht wurde.
+Weiterführende Informationen erhaltet ihr in dem Artikel Kaltwasserkorallen – aus der Grundlagenforschung auf die politische Agenda, der auf [Researchgate](https://www.researchgate.net/) veröffentlicht wurde.
 
 UPDATE: Inzwischen ist mehr über Kaltwasserkorallen bekannt. So zum Beispiel, dass sie sich von tierischem Plankton ernähren, da sie aufgrund des fehlenden Lichts keine Symbiose mit Photosynthese betreibenden Algen eingehen können. Mehr Informationen stellt unser Blogbeitrag [Wissenschaftler:innen haben das erste mesophotische Korallenriff Italiens entdeckt](https://www.deepwave.org/wissenschaftlerinnen-haben-das-erste-mesophotische-korallenriff-italiens-entdeckt/) bereit.

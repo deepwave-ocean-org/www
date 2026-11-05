@@ -21,4 +21,4 @@ Für Kinobetreiber besteht die Möglichkeit, den Film "Albatross", welcher in ei
 
 Noemi Merz für DEEPWAVE
 
-Mehr zum Film "Albatross", sowie den [Trailer](https://www.parley.tv/updates/2018/4/19/albatross-help-us-tell-the-story) und wie ihr eine Filmvorstellung hosten könnt, findet ihr bei [Parley](https://www.parley.tv/updates/2018/4/19/albatross-help-us-tell-the-story). Viele Beiträge zum Thema [Plastik und Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/) findet ihr bei uns und auf unserem [Plastic Pollution Blog.](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/)
+Mehr zum Film "Albatross", sowie den [Trailer](https://www.parley.tv/updates/2018/4/19/albatross-help-us-tell-the-story) und wie ihr eine Filmvorstellung hosten könnt, findet ihr bei [Parley](https://www.parley.tv/updates/2018/4/19/albatross-help-us-tell-the-story). Viele Beiträge zum Thema [Plastik und Meeresverschmutzung](https://www.deepwave.org/die-ozeane/verschmutzung/) findet ihr bei uns und auf unserem [Plastic Pollution Blog.](https://www.deepwave.org/blogs/bluestraw/)

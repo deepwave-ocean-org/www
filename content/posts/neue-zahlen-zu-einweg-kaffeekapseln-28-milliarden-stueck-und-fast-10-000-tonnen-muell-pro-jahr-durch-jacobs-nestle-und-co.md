@@ -10,7 +10,7 @@ image_caption: "© Thomas Wolter / Pixabay"
 source: "Pressemitteilung, 2.11.2024, DUH"
 author: "Amalia Klein"
 related: 
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 • **Berechnungen der Deutschen Umwelthilfe für das Jahr 2022 basierend auf Marktdaten und Gewichtsmessungen**
@@ -37,4 +37,4 @@ Für die Berechnung des Kapselverbrauchs in Deutschland wurden zum einen Marktda
 
 [Diese Pressemitteilung](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/neue-zahlen-zu-einweg-kaffeekapseln-28-milliarden-stueck-und-fast-10000-tonnen-muell-pro-jahr-durch/) findet ihr bei der [Deutschen Umwelthilfe](https://www.duh.de).
 
-Nicht nur Kaffekapseln, sondern auch Einweg-Plastiktrinkhalme sind eine erhebliche Belastung für die Umwelt. Schaut euch unsere [Trinkhalm-Vergleichstabelle](https://www.deepwave.org/bluestraw-kampagne/trinkhalm-vergleichstabelle/) an, um die verschiedenen nachhaltigeren Alternativen kennenzulernen und vergleichen zu können. Aber trotzdem gilt immer noch das Motto "[NO STRAW is the best straw](https://www.deepwave.org/bluestraw-kampagne/)". Deswegen könnt ihr in unserem [NoStraw Shop](https://deepwave.shop/) nämlich KEINE Strohhalme kaufen – und unterstützt damit unsere Arbeit zum Thema Einwegplastik
+Nicht nur Kaffekapseln, sondern auch Einweg-Plastiktrinkhalme sind eine erhebliche Belastung für die Umwelt. Schaut euch unsere [Trinkhalm-Vergleichstabelle](https://www.deepwave.org/blogs/bluestraw/) an, um die verschiedenen nachhaltigeren Alternativen kennenzulernen und vergleichen zu können. Aber trotzdem gilt immer noch das Motto "[NO STRAW is the best straw](https://www.deepwave.org/blogs/bluestraw/)". Deswegen könnt ihr in unserem [NoStraw Shop](https://deepwave.shop/) nämlich KEINE Strohhalme kaufen – und unterstützt damit unsere Arbeit zum Thema Einwegplastik

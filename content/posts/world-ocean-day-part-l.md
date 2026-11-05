@@ -7,7 +7,7 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747245450/deepwav
 image_caption: "© Anna Mandel / DEEPWAVE"
 author: "DEEPWAVE"
 related: 
-  - "/giving-tuesday-2022/"
+  - "/giving-tuesday/"
 ---
 
 Am Donnerstag war der Weltozeantag. Dieses Jahr stand er bei uns im Zeichen von meerespolitischen Treffen und Tagungen, die ein ganz gutes Bild geben von dem, womit wir uns beschäftigen und wo wir uns wie einsetzen.
@@ -26,6 +26,6 @@ Ein gutes Beispiel für die Richtung, in die wir denken müssen. Es fiel immer w
 
 Daher liegt der Hauptfokus bei allem auf zwei Aspekten: der drastischen Verringerung der weltweiten Plastikproduktion und dem Redesign der nicht zu vermeidenden Kunststoffprodukte, das eine Zirkuläre Verwendung überhaupt erst ermöglicht, und der Entwicklung von Alternativen.
 
-Ersteres ist vor allem ein politisches Problem. Und unsere Aufgabe bei DEEPWAVE die der Aufklärung. Zweiteres gehen wir konkret in unserem [Projekt Applied Consilience](https://www.deepwave.org/giving-tuesday-2022/) gemeinsam mit der [spanischen NGO Montemero](https://www.montemero.eu/) an.
+Ersteres ist vor allem ein politisches Problem. Und unsere Aufgabe bei DEEPWAVE die der Aufklärung. Zweiteres gehen wir konkret in unserem [Projekt Applied Consilience](https://www.deepwave.org/giving-tuesday/) gemeinsam mit der [spanischen NGO Montemero](https://www.montemero.eu/) an.
 
 [Dieser Beitrag](https://www.instagram.com/p/CtU24elscUQ/) und unsere anderen Reflexionen stammen ursprünglich von unserem Instagram Kanal [@deepwave\_ocean\_org](https://www.instagram.com/deepwave_ocean_org/).

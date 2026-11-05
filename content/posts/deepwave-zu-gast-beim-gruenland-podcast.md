@@ -11,10 +11,10 @@ author: "Amalia Klein"
 related: 
   - "/nabu-meeresschutz-ist-klimaschutz/"
   - "/marine-senke-fuer-menschgemachtes-co2-bestimmt/"
-  - "/überfischung-der-weltmeere-nimmt-weiter-zu-und-beschleunigt-sich-laut-welternaehrungsorganisation/"
+  - "/ueberfischung-der-weltmeere-nimmt-weiter-zu-und-beschleunigt-sich-laut-welternaehrungsorganisation/"
   - "/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/"
-  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/"
-  - "/bluestraw-kampagne/"
+  - "/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/"
+  - "/blogs/bluestraw/"
 ---
 
 Was sind die großen Probleme der Meere? Warum brauchen wir die Ozeane? Was muss getan werden, um sie zu schützen und ihre Gesundheit wieder herzustellen? Wie können wir persönlich anpacken? Und was macht DEEPWAVE eigentlich genau? Über diese Fragen und noch viele weitere spricht unsere CEO Anna Groß bei _GRÜNLAND – Dem Nachhaltigkeitspodcast_. Alle zwei Wochen werden im Grünland verschiedenste Themen rund um Nachhaltigkeit, Konsum und Umweltschutz betrachtet. Fast eine Stunde antwortet Anna in Folge 60 „Wertvolle Wasserwelt – Meeresschutz“ Jana und Anja und klärt darüber auf, worauf es wirklich beim Meeresschutz ankommt. So entsteht eine gute Übersicht sowohl für bereits Informierte, als auch für diejenigen, für die das Thema noch ganz neu ist.
@@ -23,11 +23,11 @@ Hier worüber sie gesprochen haben:
 
 [Was macht DEEPWAVE?](https://www.deepwave.org/ueber-uns/wer-wir-sind/) Meerespolitik gemeinsam mit anderen NGOs [Die Meeresoffensive (im Koalitionsvertrag)](https://www.deepwave.org/die-ozeane/meerespolitik/) Vermittlung in aktive Projekte [Meeresfibel](https://www.deepwave.org/projekte/schulkampagne-meeresfibel/) für Kinder Aufklärungsarbeit
 
-Blue Marble [Bedeutung der Meere für die Bewältigung der Klimakrise](https://www.deepwave.org/nabu-meeresschutz-ist-klimaschutz/) Was tun die Meere für uns? Atmen [CO2 Senke](https://www.deepwave.org/marine-senke-fuer-menschgemachtes-co2-bestimmt/) Seegraswiesen und [Mangroven](https://www.deepwave.org/projekte/mangrovenprojekt/)
+Blue Marble [Bedeutung der Meere für die Bewältigung der Klimakrise](https://www.deepwave.org/nabu-meeresschutz-ist-klimaschutz/) Was tun die Meere für uns? Atmen [CO2 Senke](https://www.deepwave.org/marine-senke-fuer-menschgemachtes-co2-bestimmt/) Seegraswiesen und [Mangroven](https://www.deepwave.org/projekte/)
 
 [Tiefseebergbau](https://res.cloudinary.com/deepwave-org/image/upload/v1747243606/deepwave.org/Tiefsee-Bergbau.pdf) Protestbewegungen dagegen Lizenzen
 
-[Überfischung](https://www.deepwave.org/überfischung-der-weltmeere-nimmt-weiter-zu-und-beschleunigt-sich-laut-welternaehrungsorganisation/) [Seaspiracy](https://www.deepwave.org/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/) [Faktencheck vom BUND](https://www.bund.net/fileadmin/user_upload_bund/publikationen/meere/Meeresschutz_Seaspiracy_Faktencheck.pdf) Saiko Fischerei "Esst keinen Fisch!" Geisternetze - Hauptteil des Plastiks im Meer Das Unwort "Beifang": Was ist das? Dorsch, Lachs & Co [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-überfischung-zum-welttag-der-meere/)
+[Überfischung](https://www.deepwave.org/ueberfischung-der-weltmeere-nimmt-weiter-zu-und-beschleunigt-sich-laut-welternaehrungsorganisation/) [Seaspiracy](https://www.deepwave.org/seaspiracy-unsere-antworten-auf-fragen-von-studierenden/) [Faktencheck vom BUND](https://www.bund.net/fileadmin/user_upload_bund/publikationen/meere/Meeresschutz_Seaspiracy_Faktencheck.pdf) Saiko Fischerei "Esst keinen Fisch!" Geisternetze - Hauptteil des Plastiks im Meer Das Unwort "Beifang": Was ist das? Dorsch, Lachs & Co [Vollumfängliche Anlandungspflicht](https://www.deepwave.org/kein-fisch-meer-deutsche-umwelthilfe-our-fish-und-deepwave-fordern-ein-ende-der-ueberfischung-zum-welttag-der-meere/)
 
 Was kann ich tun?
 
@@ -39,7 +39,7 @@ Raubbau Öl, Gas, Sand, Seltene Erden Ölkatastrophen Deepwater Horizon Dispersa
 
 Korallen [Versauerung](https://res.cloudinary.com/deepwave-org/image/upload/v1747242932/deepwave.org/DWfacts_Die-Versauerung-der-Ozeane_2016.pdf) (CO2) Bleaching (Erderhitzung) Rifffreundliche Sonnencreme
 
-[Plastikindustrie](https://www.deepwave.org/bluestraw-kampagne/) Recycling Wirtschaft vs. Natur
+[Plastikindustrie](https://www.deepwave.org/blogs/bluestraw/) Recycling Wirtschaft vs. Natur
 
 [Entsorgen im "Blauen Regal"](https://www.deepwave.org/die-ozeane/verschmutzung/)
 

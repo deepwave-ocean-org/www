@@ -19,4 +19,4 @@ Es gibt aber einige Unklarheiten im Gesetz, weshalb es unter anderem von der [De
 
 Den Artikel ["Dosen nur noch mit Pfand"](https://taz.de/Neues-Verpackungsgesetz-vorgestellt/!5730207/) von Heike Holdinghausen vom 23.11.2020 findet ihr bei der [taz](https://taz.de/).
 
-Auch das [EU-Einwegplastikverbot](https://www.deepwave.org/nabu-eu-einwegplastikverbot-greift-zu-kurz/) weist deutliche Mängel auf. Bei unserer [Kampagne BLUE STRAW](https://www.deepwave.org/bluestraw-kampagne/die-kampagne/) findet ihr  [Alternativen zu Einwegplastik](https://www.deepwave.org/bluestraw-kampagne/alternativen-zu-einwegplastik-blog/) und weitere Infos zum Thema [Plastikverschmutzung.](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/)
+Auch das [EU-Einwegplastikverbot](https://www.deepwave.org/nabu-eu-einwegplastikverbot-greift-zu-kurz/) weist deutliche Mängel auf. Bei unserer [Kampagne BLUE STRAW](https://www.deepwave.org/blogs/bluestraw/) findet ihr  [Alternativen zu Einwegplastik](https://www.deepwave.org/blogs/bluestraw/) und weitere Infos zum Thema [Plastikverschmutzung.](https://www.deepwave.org/blogs/bluestraw/)

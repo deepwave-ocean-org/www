@@ -15,7 +15,6 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244045/deepwav
 image_caption: "© Hermes Rivera / Unsplash"
 author: "DEEPWAVE"
 related: 
-  - "/das-unternimmt-die-eu-gegen-plastikmuell/"
   - "/nabu-fordert-mehr-anstrengungen-gegen-verpackungsmuell/"
   - "/nabu-fordert-regulierung-von-plastikmuellexporten/"
 ---
@@ -28,7 +27,6 @@ Den [zugehörigen Artikel](https://www.sueddeutsche.de/wirtschaft/plastikmuell-e
 
 Weitere Informationen über Plastikmüllexporte und Müllverschmutzung:
 
-[https://www.deepwave.org/das-unternimmt-die-eu-gegen-plastikmuell/](https://www.deepwave.org/das-unternimmt-die-eu-gegen-plastikmuell/)
 
 [https://www.deepwave.org/nabu-fordert-mehr-anstrengungen-gegen-verpackungsmuell/](https://www.deepwave.org/nabu-fordert-mehr-anstrengungen-gegen-verpackungsmuell/)
 

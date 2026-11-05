@@ -12,10 +12,9 @@ image_caption: "© Krystina Jarvis / Unsplash"
 author: "DEEPWAVE"
 related: 
   - "/vermeidung-des-mikroplastikeintrags-in-die-marine-umwelt-workshop/"
-  - "/mikroplastik-in-meerestieren-frutti-di-plastik/"
 ---
 
-Trotz der zunehmenden Kritik feiert die Kunststoffindustrie dieses Jahr wieder Absatzrekorde. Nun haben Wissenschaftler:innen festgestellt, dass nicht nur die Meere, sondern auch die Böden an Land eine große Mikroplastikbelastung aufweisen: die kleinen Plastikteile befindet sich in unseren Gärten und auf den Feldern. Zu den Hauptquellen gehören der Abrieb von Autoreifen, Kunststoff im Biomüll und Verluste bei der Abfallentsorgung. Durch die zunehmende Verschmutzung landet das [Mikroplastik](https://www.deepwave.org/vermeidung-des-mikroplastikeintrags-in-die-marine-umwelt-workshop/) nicht nur durch den [Verzehr von Meerestieren](https://www.deepwave.org/mikroplastik-in-meerestieren-frutti-di-plastik/) in uns, sondern auch durch die systematische Vermüllung der Landwirtschaft.
+Trotz der zunehmenden Kritik feiert die Kunststoffindustrie dieses Jahr wieder Absatzrekorde. Nun haben Wissenschaftler:innen festgestellt, dass nicht nur die Meere, sondern auch die Böden an Land eine große Mikroplastikbelastung aufweisen: die kleinen Plastikteile befindet sich in unseren Gärten und auf den Feldern. Zu den Hauptquellen gehören der Abrieb von Autoreifen, Kunststoff im Biomüll und Verluste bei der Abfallentsorgung. Durch die zunehmende Verschmutzung landet das [Mikroplastik](https://www.deepwave.org/vermeidung-des-mikroplastikeintrags-in-die-marine-umwelt-workshop/) nicht nur durch den Verzehr von Meerestieren in uns, sondern auch durch die systematische Vermüllung der Landwirtschaft.
 
  
 

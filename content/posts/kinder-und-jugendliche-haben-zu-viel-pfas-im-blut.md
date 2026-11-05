@@ -7,7 +7,7 @@ blogs:
 source: "Pressemitteilung, Umweltbundesamt, 06.07.2020"
 author: "DEEPWAVE"
 related: 
-  - "/bluestraw-kampagne/"
+  - "/blogs/bluestraw/"
 ---
 
 21 Prozent der Proben über HBM-I-Wert für PFOA – UBA arbeitet an EU-weiter Beschränkung der Stoffgruppe
@@ -32,4 +32,4 @@ Das UBA behandelt die problematische Stoffgruppe umfassend in seinem aktuellen S
 
 Die [zugehörige Pressemittelung](https://www.umweltbundesamt.de/presse/pressemitteilungen/kinder-jugendliche-haben-zu-viel-pfas-im-blut) findet ihr beim [Umweltbundesamt](https://www.umweltbundesamt.de/).
 
-Auch Plastik in Alltagsgegenständen ist oftmals mit Chemikalien belastet. Erfahrt mehr über die Plastikverschmutzung in unserem [Plastic Pollution Blog](https://www.deepwave.org/bluestraw-kampagne/plastic-pollution-blog/) und in unserer dazugehörigen [BLUE STRAW Kampagne](https://www.deepwave.org/bluestraw-kampagne/).
+Auch Plastik in Alltagsgegenständen ist oftmals mit Chemikalien belastet. Erfahrt mehr über die Plastikverschmutzung in unserem [Plastic Pollution Blog](https://www.deepwave.org/blogs/bluestraw/) und in unserer dazugehörigen [BLUE STRAW Kampagne](https://www.deepwave.org/blogs/bluestraw/).

@@ -12,6 +12,6 @@ Auf der russischen Halbinsel Yamal befindet sich eines der größten Gasfelder d
 
 Eine Auswahl von Xelots Serie „[There Is Gas Under the Tundra](https://www.lensculture.com/articles/charles-xelot-there-is-gas-under-the-tundra)“ ist auf der Internetseite von [Lens Culture](https://www.lensculture.com/) zu sehen.
 
-In der Tundra müssen sich die Unternehmen an nahezu keine Richtlinien halten, da keine Zivilisation in der Nähe sei. Deshalb verbrennen sie das Gas direkt über der Erde und nicht in vielen Metern Höhe. Die Problematik von Öl und Gas stellt unser Artikel [Öl- und Gasplattformen](https://www.deepwave.org/die-ozeane/erdoel-und-erdgas/) übersichtlich dar.
+In der Tundra müssen sich die Unternehmen an nahezu keine Richtlinien halten, da keine Zivilisation in der Nähe sei. Deshalb verbrennen sie das Gas direkt über der Erde und nicht in vielen Metern Höhe. Die Problematik von Öl und Gas stellt unser Artikel [Öl- und Gasplattformen](https://www.deepwave.org/die-ozeane/verschmutzung/) übersichtlich dar.
 
 Auch die Tiefsee bleibt nicht vor der Begierde nach immer mehr Erdöl verschont. Dabei ist das System dort besonders sensibel und unerforscht. Die Risiken haben wir in dem [Factsheet Erdöl aus der Tiefsee](https://res.cloudinary.com/deepwave-org/image/upload/v1747243595/deepwave.org/Tiefsee-Oel.pdf) zusammengefasst.

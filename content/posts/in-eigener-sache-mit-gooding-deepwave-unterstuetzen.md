@@ -16,4 +16,4 @@ Eine gute Möglichkeit indirekt zu spenden, ohne den eigenen Geldbeutel zusätzl
 
 [Hier](https://www.gooding.de/deepwave-e-v-521) kommt ihr zum Gooding-Profil von DEEPWAVE, über den ihr die einzelnen Shops finden und aufrufen könnt.
 
-Jeder Cent zählt - damit wir weiterhin unabhängige Aufklärungsarbeit leisten und spannende [Projekte](https://www.deepwave.org/projekte/), wie das jährliche [DEEPWAVE Filmfestival](https://www.deepwave.org/projekte/deepwave-filmfestival/), umsetzen können.
+Jeder Cent zählt - damit wir weiterhin unabhängige Aufklärungsarbeit leisten und spannende [Projekte](https://www.deepwave.org/projekte/), wie das jährliche [DEEPWAVE Filmfestival](https://www.deepwave.org/projekte/filmfestival/), umsetzen können.

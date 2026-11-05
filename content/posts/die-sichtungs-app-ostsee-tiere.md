@@ -7,11 +7,9 @@ image: "https://res.cloudinary.com/deepwave-org/image/upload/v1747244166/deepwav
 image_caption: "© Susanne Jutzeler, suju-foto / Pixabay"
 author: "DEEPWAVE"
 related: 
-  - "/erste-virtuelle-realitaet-der-ostsee/"
-  - "/kaempfen-letzten-300-ostseeschweinswale-16307855/"
 ---
 
-Die Artenvielfalt der Meere ist durch die Einwirkung äußerer, vor allem menschengemachter Einflüsse zunehmend bedroht. In der [Ostsee](https://www.deepwave.org/erste-virtuelle-realitaet-der-ostsee/) z.B. gehen die Zahlen der [Schweinswale](https://www.deepwave.org/kaempfen-letzten-300-ostseeschweinswale-16307855/), Kegelrobben und Seehunde zurück. Um die Bestände bedrohter Arten dokumentieren und ihre Aufenthaltsgebiete analysieren zu können, bittet das [Deutsche Meeresmuseum](https://www.deutsches-meeresmuseum.de/) in Stralsund um die Meldung von Sichtungen. Über die Sichtungs-App _OstSeeTiere_ kann jede:r, der marine Säugetiere am Strand oder auf See entdeckt, seine Sichtung direkt melden. So können wichtige Lebensgebiete der Tiere identifiziert und in einer [interaktiven Karte](https://www.deutsches-meeresmuseum.de/wissenschaft/sichtungen/sichtungskarte/) zusammengetragen werden.
+Die Artenvielfalt der Meere ist durch die Einwirkung äußerer, vor allem menschengemachter Einflüsse zunehmend bedroht. In der Ostsee z.B. gehen die Zahlen der Schweinswale, Kegelrobben und Seehunde zurück. Um die Bestände bedrohter Arten dokumentieren und ihre Aufenthaltsgebiete analysieren zu können, bittet das [Deutsche Meeresmuseum](https://www.deutsches-meeresmuseum.de/) in Stralsund um die Meldung von Sichtungen. Über die Sichtungs-App _OstSeeTiere_ kann jede:r, der marine Säugetiere am Strand oder auf See entdeckt, seine Sichtung direkt melden. So können wichtige Lebensgebiete der Tiere identifiziert und in einer [interaktiven Karte](https://www.deutsches-meeresmuseum.de/wissenschaft/sichtungen/sichtungskarte/) zusammengetragen werden.
 
 Die App kann auf der [Sichtungsseite](https://www.deutsches-meeresmuseum.de/wissenschaft/sichtungen/sichtung-melden/) des Meeresmuseums downgeloadet werden:
 
