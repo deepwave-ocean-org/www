@@ -4,14 +4,14 @@
         content="sec-ch-width https://res.cloudinary.com; sec-ch-dpr https://res.cloudinary.com; sec-ch-viewport-width https://res.cloudinary.com;">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Primary SEO Meta Tags -->
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Params.homeTitle | default .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Params.orgName | default .Site.Title }}{{ end }}</title>
 <meta name="description"
         content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 {{ with .Params.blogs }}
 <meta name="keywords" content="{{ delimit . " , " }}">{{ end }}
 
 <!-- Canonical URL -->
-<link rel="canonical" href="{{ .Permalink | absURL }}">
+<link rel="canonical" href="{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}">
 
 <!-- Indexing Controls -->
 {{ if .Params.noindex }}
@@ -25,13 +25,13 @@
 <meta property="og:description"
         content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:url" content="{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}">
 {{ with .Params.image }}
 <meta property="og:image" content="{{ . }}">
 {{ else }}{{ with .Site.Params.defaultImage }}
 <meta property="og:image" content="{{ . }}">
 {{ end }}{{ end }}
-<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:site_name" content="{{ .Site.Params.orgName | default .Site.Title }}">
 {{ if not .Date.IsZero }}
 <meta property="article:published_time" content="{{ .Date.Format " 2006-01-02T15:04:05-07:00" | safeHTML }}">
 {{ end }}
@@ -70,7 +70,7 @@
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": "{{ .Title }}",
-    "url": "{{ .Permalink }}",
+    "url": "{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}",
     "description": "{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}",
     {{ with .Params.image }}
     "image": ["{{ . }}"],
@@ -97,7 +97,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "{{ .Permalink }}"
+        "@id": "{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}"
     }{{ with .Params.blogs }},
     "articleSection": [{{ range $index, $blog := . }}{{ if $index }}, {{ end }}"{{ $blog }}"{{ end }}]{{ end }}
 }

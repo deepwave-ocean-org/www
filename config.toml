@@ -1,4 +1,4 @@
-baseURL = "http://www.deepwave.org/"
+baseURL = "https://www.deepwave.org/"
 languageCode = "en-us"
 title = "Wir geben dem Meer eine Stimme"
 theme = "dwtheme"
@@ -25,6 +25,10 @@ theme = "dwtheme"
     target = 'assets/notwatching/hugo_stats.json'
 
 [params]
+  description = "DEEPWAVE e.V. aus Hamburg setzt sich seit 2003 für den Schutz von Hoch- und Tiefsee ein: durch politische Arbeit und öffentliche Aufklärung. Wir geben dem Meer eine Stimme."
+  orgName = "DEEPWAVE e.V."
+  siteURL = "https://www.deepwave.org"
+  homeTitle = "DEEPWAVE e.V. | Meeresschutz aus Hamburg"
   defaultImage = "https://res.cloudinary.com/deepwave-org/image/upload/v1747267232/deepwave.org/Ice_Background_Philipp_Griess.jpg"
   logo = "https://res.cloudinary.com/deepwave-org/image/upload/v1747346944/deepwave.org/deepwave_logo_de_4c_hor_SVG_ein_Pfad_s46prq.svg"
 
