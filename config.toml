@@ -1,4 +1,4 @@
-baseURL = "http://www.deepwave.org/"
+baseURL = "https://www.deepwave.org/"
 languageCode = "en-us"
 title = "Wir geben dem Meer eine Stimme"
 theme = "dwtheme"
