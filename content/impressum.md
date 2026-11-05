@@ -32,10 +32,13 @@ Hier finden Sie unsere [Satzung](/downloads/DW-gueltige_Satzung_vom_21_9_2012.pd
 
 * * *
 
-## Quellenangaben für die verwendeten Bilder
+## Quellenangaben für die verwendeten Bilder und Grafiken
 
 **© Fotos, soweit nicht anders angegeben:**\
 [Barbara Focke / Lamar-Reisen](https://www.lamar-reisen.de), [Wildscreen Exchange](https://www.wildscreen.org/community/the-exchange/), [Adobe Stock](https://stock.adobe.com/de/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), [Pixabay](https://pixabay.com/de/) oder privat.
+
+**© Illustrationen, soweit nicht anders angegeben:**\
+Anna Mandel
 
 * * *
 
