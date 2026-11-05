@@ -1,5 +1,6 @@
 ---
 title: Was will Tiefseebergbau?
+description: "Manganknollen, Massivsulfide, Kobaltkrusten: Welche Rohstoffe der Tiefseebergbau erschließen will, wie weit die Technik ist und warum noch nichts abgebaut wird."
 weight: 2
 heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767918462/was-will-der-tiefseebergbau_iqbhcg.jpg
 links:

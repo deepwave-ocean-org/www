@@ -1,5 +1,6 @@
 ---
 title: Was können wir tun?
+description: "Informieren, darüber sprechen, Petitionen unterschreiben, Organisationen unterstützen: Was ihr gegen Tiefseebergbau tun könnt."
 weight: 5
 heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767916265/was-koennen-wir-tun_y7ohsc.jpg
 links:

@@ -1,5 +1,6 @@
 ---
 title: NO DEEP SEA MINING – NEVER
+description: "Tiefseebergbau bedroht den letzten unberührten Lebensraum der Erde. DEEPWAVE erklärt, worum es geht, und setzt sich dafür ein, dass der Abbau nie beginnt."
 heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767916282/tiefsee-collage_umdqzh.png
 ---
 Durch unsere modernen Technologien steigt der Hunger auf bestimmte Metalle und Seltene Erden ins Unermessliche. Wir brauchen sie für unsere Kommunikation, die Energiewende und neuerdings vermehrt für Waffen. Das, was diesen Hunger stillen soll, liegt in der Tiefsee: Kobaltkrusten, Massivsulfide und Manganknollen.

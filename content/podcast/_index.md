@@ -1,5 +1,6 @@
 ---
 title: Podcasts
+description: "Podcasts zum Meeresschutz, in denen DEEPWAVE zu Gast war, darunter das Gespräch von Miguel Grandt mit Onno Groß von 2016."
 subtitle: bei denen wir zu Gast waren
 image: >-
   https://res.cloudinary.com/deepwave-org/image/upload/v1747237663/deepwave.org/podcast_header_qcmi3s.jpg

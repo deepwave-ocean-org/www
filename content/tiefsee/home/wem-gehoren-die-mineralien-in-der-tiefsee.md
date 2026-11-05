@@ -1,5 +1,6 @@
 ---
 title: Wem gehören die Mineralien in der Tiefsee?
+description: "Die Mineralien am Meeresboden gehören der gesamten Menschheit. Was das Seerechtsübereinkommen und die Internationale Meeresbodenbehörde dazu regeln."
 weight: 3
 heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767916294/wem-gehoeren-die-mineralien_mexzsj.jpg
 links:

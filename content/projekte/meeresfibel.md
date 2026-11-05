@@ -1,5 +1,6 @@
 ---
 title: Die Meeresfibel
+description: "Die Meeresfibel von DEEPWAVE gibt es als kostenlose App für Android und iOS: Kinder entdecken Meere, Tiere und Meeresschutz mit Quiz, Videos und Experimenten."
 linkTitle: Meeresfibel und App
 image: https://res.cloudinary.com/deepwave-org/deepwave.org/Startseite_Fibel_k8ourl.jpg
 overlay: rgb(0 73 97 / 47%)

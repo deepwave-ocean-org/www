@@ -1,5 +1,6 @@
 ---
 title: Brauchen wir die Mineralien aus der Tiefe?
+description: "Brauchen wir Mineralien aus der Tiefsee? Studien stellen das infrage, und immer mehr Staaten fordern ein Verbot, eine Pause oder ein Moratorium."
 weight: 4
 heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767916037/brauchen-wir-die-mineralien_na9qcb.jpg
 links:

@@ -1,5 +1,6 @@
 ---
 title: Reflektierter Optimismus
+description: "Longreads, Reflexionen und Factsheets von DEEPWAVE zum Meeresschutz."
 subtitle: Unsere Longreads, Reflexionen und Factsheets
 image: >-
     https://res.cloudinary.com/deepwave-org/deepwave.org/Welle4-Ausschnitt1-scaled_iippu7.jpg

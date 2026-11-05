@@ -1,5 +1,6 @@
 ---
 title: Was ist die Tiefsee?
+description: "Die Tiefsee ist der größte Lebensraum der Erde: dunkel, eiskalt, bis zu 11.000 Meter tief und voller bisher unbekannter Lebewesen."
 weight: 1
 heroimage: https://res.cloudinary.com/deepwave-org/image/upload/v1767916250/was-ist-die-tiefsee_h9nf9e.jpg
 links:
