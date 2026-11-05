@@ -182,7 +182,7 @@ details:
   adresse: Gaußstraße 25, 22765 Hamburg
   einlass: 'Einlass: 17:30'
   begin: 'Beginn: 18:00'
-  image: https://dev.deepwave.org/wp-content/uploads/2023/02/Kopie-von-Deepwave_FilmFest_HH__FotoJQuast_469-1280x854.jpg
+  image: https://www.deepwave.org/wp-content/uploads/2023/02/Kopie-von-Deepwave_FilmFest_HH__FotoJQuast_469-1280x854.jpg
 ---
 Kelpgärten, die gemeinschaftlich gepflegt und geerntet werden, Korallenaufforstung und Korallenkunst, Korallenschutz dank Citizen Science, Tiefseebergbau, Whale Fall, Lärm im Ozean, Arktis und Öl, Shark Trivia, fliegende Mantarochen. Unser diesjähriges Kurzfilmfestival stellt die Frage: WIE kommunizieren wir die Themen des Meeresschutzes? Dazu laden wir unser Publikum zu einer Fishbowl ein, um die verschiedenen Möglichkeiten mit uns zu diskutieren.
 
