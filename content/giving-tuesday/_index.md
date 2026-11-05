@@ -1,6 +1,10 @@
 ---
-title: Giving Tuesday 2025 — DEEPWAVE e.V.
-year: 2025
+title: Giving Tuesday 2026 – Meeresschutz unterstützen
+description: >-
+  Am Giving Tuesday, dem 1. Dezember 2026, sammelt DEEPWAVE e.V. aus Hamburg
+  Spenden für den Schutz von Hoch- und Tiefsee. Spenden sind steuerlich
+  absetzbar.
+year: 2026
 f_plastik: 0.21
 f_plastik_h: 320000
 f_plastik_mg: 10.41
@@ -13,10 +17,10 @@ section:
   - id: muell
     heading: Seit Mitternacht haben wir ... Lastwagen Müll im Meer entladen
     gif: >-
-      http://res.cloudinary.com/deepwave-org/video/upload/v1764009333/deepwave.org/Lastwagen_comp.webm
+      https://res.cloudinary.com/deepwave-org/video/upload/v1764009333/deepwave.org/Lastwagen_comp.webm
     text: >-
       <p>Die Plastikproduktion ist seit 1950 rasant angestiegen. Diese
-      Entwicklung ist folgenschwer: jährlich landen ca 1.7 Millionen Tonnen
+      Entwicklung ist folgenschwer: jährlich landen ca. 1,7 Millionen Tonnen
       Plastikmüll im Meer. Allein heute haben wir in Deutschland <span
       class="counter counter_plastik_h"></span> Einweg-Becher weggeworfen.</p>
       <p>Die Verschmutzung der Ozeane ist eine massive Bedrohung für viele
@@ -27,9 +31,9 @@ section:
       counter_plastik_mg"></span> mg Plastik über die Nahrung zu dir genommen.
       </p> 
   - id: eis
-    heading: Seit Mittenacht sind ... Millionen Tonnen Eismeer geschmolzen
+    heading: Seit Mitternacht sind ... Millionen Tonnen Eismeer geschmolzen
     gif: >-
-      http://res.cloudinary.com/deepwave-org/video/upload/v1764009337/deepwave.org/Eisbaer_comp.webm
+      https://res.cloudinary.com/deepwave-org/video/upload/v1764009337/deepwave.org/Eisbaer_comp.webm
     text: >-
       <p>Seit den 1970er Jahren gehen die Eisflächen stark zurück. Dies ist vor
       allem an der maximalen Ausdehnung des Polareises während der Sommermonate
@@ -42,7 +46,7 @@ section:
   - id: arten
     heading: Seit Mitternacht hätten wir ... neue Arten entdeckt
     gif: >-
-      http://res.cloudinary.com/deepwave-org/video/upload/v1764009339/deepwave.org/Fische_comp.webm
+      https://res.cloudinary.com/deepwave-org/video/upload/v1764009339/deepwave.org/Fische_comp.webm
     text: >-
       <p>Jedes Jahr entdecken wir fast 15.000 neue Arten auf diesem Blauen
       Planeten. Ob im Regenwald, Wüsten, den heimischen Wiesen oder in der
@@ -61,7 +65,7 @@ zeugen:
     next_id: next
     slides:
       - image: >-
-          http://res.cloudinary.com/deepwave-org/image/upload/v1764009343/deepwave.org/Antje_Boetius_AWI-min.jpg
+          https://res.cloudinary.com/deepwave-org/image/upload/v1764009343/deepwave.org/Antje_Boetius_AWI-min.jpg
         image_style: background-position:30%;
         quote: >-
           Fakt ist: Wir Menschen brauchen das Meer, und das Meer braucht
@@ -70,10 +74,10 @@ zeugen:
           Menschen.
         name: Antje Boetius
         title: >-
-          Leiterin des Alfred-Wegner-Institutes,<br>Förderin, Vorbild und
+          Leiterin des Alfred-Wegener-Institutes,<br>Förderin, Vorbild und
           Inspiration für DEEPWAVE
       - image: >-
-          http://res.cloudinary.com/deepwave-org/image/upload/v1764009345/deepwave.org/Frank_Schaetzing_DW-scaled.jpg
+          https://res.cloudinary.com/deepwave-org/image/upload/v1764009345/deepwave.org/Frank_Schaetzing_DW-scaled.jpg
         quote: >-
           Meeresschutz beginnt damit, Zusammenhänge zu verstehen. Wie alles
           einander beeinflusst, Geologie, Biochemie, Klima, und warum die
@@ -129,7 +133,7 @@ zeugen:
           href="https://www.zweivorzwoelf.info/"
           target="_blank">ZWEIvorZWÖLF</a>
       - image: >-
-          http://res.cloudinary.com/deepwave-org/image/upload/v1764009354/deepwave.org/Rebecca_Portrait-1.jpg
+          https://res.cloudinary.com/deepwave-org/image/upload/v1764009354/deepwave.org/Rebecca_Portrait-1.jpg
         quote: >-
           Als Meeresbiologin und Surferin werde ich fast täglich überwältigt von
           den Nachrichten über den Zustand unserer Meere.<br /><br />Bei
@@ -140,6 +144,6 @@ zeugen:
           Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
-Die Tiefsee  ist der Ursprung des Lebens. Wir können zum ersten Mal in unserer menschlichen Geschichte nah an sie heran. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören. Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.<br>Warum?  In der Tiefsee liegen Mineralien, deren Metalle wir in unseren modernen Techniken nutzen. Was spricht dagegen, sie abzubauen? Einiges. Was, erfahrt  ihr in unserer Kampagne <br><a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a><br>Wir haben von diesen Metallen schon mehr als genug. Niemand muss das letzte unberührte Ökosytem dieses Planeten zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende.<br>Alles, was auf dem Meeresboden als mögliche Ressource herumliegt, gehört uns allen. Jedem und jeder Einzelnen. *Heritage of Human Kind.* <br>Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.<br>Das Entscheidende: Es gibt noch keinen Tiefseebergbau. Noch können wir ihn verhindern. Wie? Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
+Die Tiefsee ist der Ursprung des Lebens. Wir können zum ersten Mal in unserer menschlichen Geschichte nah an sie heran. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören. Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.<br>Warum? In der Tiefsee liegen Mineralien, deren Metalle wir in unseren modernen Techniken nutzen. Was spricht dagegen, sie abzubauen? Einiges. Was, erfahrt ihr in unserer Kampagne <br><a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a><br>Wir haben von diesen Metallen schon mehr als genug. Niemand muss das letzte unberührte Ökosystem dieses Planeten zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende.<br>Alles, was auf dem Meeresboden als mögliche Ressource herumliegt, gehört uns allen. Jedem und jeder Einzelnen. *Heritage of Human Kind.* <br>Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.<br>Das Entscheidende: Es gibt noch keinen Tiefseebergbau. Noch können wir ihn verhindern. Wie? Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
 
 &nbsp;

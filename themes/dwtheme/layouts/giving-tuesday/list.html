@@ -1,14 +1,12 @@
 
 <!DOCTYPE html>
-<html>
+<html lang="de">
 
-<head> <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    {{ partial "meta.html" . }}
     
-		<title>{{ .Title }}</title>
-    
-    <script type='text/javascript' src='https://www.deepwave.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
-    <script type='text/javascript' src='https://www.deepwave.org/wp-content/themes/divi-child/includes/js/numberAnimate.js?ver=5.8.2' id='number-animate-js'></script>
+    <script type='text/javascript' src='/js/jquery-3.7.1.min.js' id='jquery-core-js'></script>
+    <script type='text/javascript' src='/wp-content/themes/divi-child/includes/js/numberAnimate.js?ver=5.8.2' id='number-animate-js'></script>
     
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     
@@ -617,7 +615,7 @@
         <div>
 				<div id="logo">
         <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747267322/deepwave.org/LOGO_DEEPWAVE_2022_white.svg" alt="LOGO von Deepwave e.V."/></div>
-		<iframe id="yt-iframe" width="100%" style="aspect-ratio: 16/9" 1 title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" modestbranding="" src="{{ .Params.video }}"></iframe>
+		<iframe id="yt-iframe" width="100%" style="aspect-ratio: 16/9" title="Video: DEEPWAVE am Giving Tuesday" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" modestbranding="" src="{{ .Params.video }}"></iframe>
    		{{ .Content }}
 		<button class="cta is-align-center"><a href="#spenden">Spenden</a></button> 
         
@@ -732,7 +730,7 @@
                         </div>
                         <div class="st_ueberweisung_info">
                             <p>Bei Spenden über 300 Euro wird eine Spendenbescheinigung von DEEPWAVE e.V. ausgestellt.</p>
-                            <p>DEEPWAVE e.V. ist vom Finanzamt Hamburg Nord als gemeinnützig anerkannt. Dadurch sind spenden an DEEPWAVE e.V. steuerlich absetzbar und zwar bis zur Höhe von 20 Prozent der persönlichen Einkünfte.</p>
+                            <p>DEEPWAVE e.V. ist vom Finanzamt Hamburg Nord als gemeinnützig anerkannt. Dadurch sind Spenden an DEEPWAVE e.V. steuerlich absetzbar und zwar bis zur Höhe von 20 Prozent der persönlichen Einkünfte.</p>
                             <p>Hier findet sich der&nbsp;<a class="ari-fancybox-pdf ari-fancybox" href="https://www.deepwave.org/wp-content/uploads/2024/07/Freistellungsbescheid_DEEPWAVE_15_07_2024.pdf" target="_blank" rel="noopener noreferrer">aktuelle Freistellungsbescheid</a> vom 15.07.2024.</p>
                         </div>
                     </div>
@@ -801,7 +799,7 @@
             /* -- Ändert den Punkt zum Komma, aber nur im Deutschen --*/
             setTimeout(
                   function() {
-					  if (!(~paramURL.indexOf("?lang=en")))  {$el.find('div div').html($el.find('div div').first().html().replace(/\\./g, ','))};
+					  if (!(~paramURL.indexOf("?lang=en")))  {$el.find('div div').html($el.find('div div').first().html().replace(/\./g, ','))};
 				  }, 
             1000);
 
