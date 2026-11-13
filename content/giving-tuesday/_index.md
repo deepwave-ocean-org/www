@@ -12,8 +12,8 @@ f_plastik: 0.21
 f_plastik_h: 320000
 # f_eis: Mio. t Eis pro Minute, weltweit. 2,28 = 1,2 Bio. t/Jahr (2017), Slater et al. 2021, The Cryosphere, doi 10.5194/tc-15-233-2021. Die Leeds-Pressemitteilung nennt 1,3 Bio. t.
 f_eis: 2.28
-# f_eis_g: g CO2e pro Person und Minute. 19,6 = 10,3 t CO2e/Jahr, UBA (konsumbasiert, inkl. Importe). Bezugsjahr bei UBA nicht angegeben.
-f_eis_g: 19.6
+# f_eis_g: g CO2e pro Person und Minute. 14,8 = 7,8 t CO2e/Jahr (Emissionen im Inland, Berichtsjahr 2025). Rechnung: 648,9 Mio. t CO2e (UBA-Schätzung, Pressemitteilung 08/2026 vom 14.03.2026) geteilt durch rund 83,5 Mio. Einwohner (Destatis, Ende 2025). Der Pro-Kopf-Wert ist eine eigene Division, das UBA nennt ihn nicht. Endgültige Daten kommen im Januar 2027.
+f_eis_g: 14.8
 # f_art: neue Arten pro Minute. 0,0305 = ca. 16.000/Jahr, Wiens 2025, Science Advances, doi 10.1126/sciadv.adz3071 (Mittel 2015 bis 2020).
 f_art: 0.0305
 # f_art_g: kg Rotbarsch pro Minute. 1,87 = 984,3 t/Jahr, Gesamtanlandungen deutscher Fischereifahrzeuge 2024 (BLE Anlandestatistik 2024). Vorher 0.936 = Inlandsanlandungen 2023 (492 t).
@@ -58,8 +58,12 @@ section:
       <p><small>Quellen (Stand November 2026): Eisverlust: Slater et al.
       (2021), <a href="https://doi.org/10.5194/tc-15-233-2021">The
       Cryosphere</a>, rund 1,2 Billionen Tonnen pro Jahr weltweit (2017).
-      CO2e: Umweltbundesamt, 10,3 Tonnen CO2-Äquivalente pro Person und Jahr
-      (konsumbasiert, inklusive Importe).</small></p>
+      CO2e: <a
+      href="https://www.umweltbundesamt.de/presse/pressemitteilungen/treibhausgasdaten-zeigen-klimaschutz-braucht-neuen">Umweltbundesamt</a>
+      (Schätzung 2025: 648,9 Millionen Tonnen CO2-Äquivalente) und <a
+      href="https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/06/PD26_203_124.html">Statistisches
+      Bundesamt</a> (rund 83,5 Millionen Einwohner), das sind etwa 7,8 Tonnen
+      pro Person und Jahr (Emissionen im Inland).</small></p>
   - id: arten
     heading: Seit Mitternacht hätten wir ... neue Arten entdeckt
     gif: >-
