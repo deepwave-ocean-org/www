@@ -5,13 +5,21 @@ description: >-
   Spenden für den Schutz von Hoch- und Tiefsee. Spenden sind steuerlich
   absetzbar.
 year: 2026
+# Raten der Zähler (geprüft 13.11.2026). Einheit pro Minute, außer f_plastik_h und f_plastik_mg (pro Stunde).
+# f_plastik: Lkw-Ladungen Müll im Meer. Passt zu 1,7 Mio. t/Jahr bei ca. 15 t pro Lkw. 1,7 Mio. t: OECD Global Plastics Outlook 2022 (Bezugsjahr 2019). Lkw-Gewicht nicht belegt.
 f_plastik: 0.21
+# f_plastik_h: Einweg-Becher pro Stunde. 320.000/h = ca. 2,8 Mrd./Jahr (UBA-Studie 2019, DUH). Neuere Zahl: GVM/WWF 2023, 2,55 Mrd. Einweg-Getränkebecher in der Gastronomie.
 f_plastik_h: 320000
+# f_plastik_mg: mg Mikroplastik pro Stunde. Quelle offen.
 f_plastik_mg: 10.41
+# f_eis: Mio. t geschmolzenes Eis pro Minute (ca. 757 Mrd. t/Jahr). Quelle offen.
 f_eis: 1.44
+# f_eis_g: g CO2 pro Person und Minute (10,3 t/Jahr). Entspricht dem UBA-Wert zum konsumbasierten Fußabdruck (CO2-Äquivalente inkl. Importe). Jahr nicht angegeben.
 f_eis_g: 19.6
+# f_art: neue Arten pro Minute (ca. 17.900/Jahr). Quelle offen. Science Advances 2025 (Wiens): mehr als 16.000/Jahr.
 f_art: 0.034
-f_art_g: 0.936
+# f_art_g: kg Rotbarsch pro Minute. 1,87 kg/min = 984,3 t/Jahr, Gesamtanlandungen deutscher Fischereifahrzeuge 2024 (BLE Anlandestatistik 2024). Vorher 0.936 = Inlandsanlandungen 2023 (492 t).
+f_art_g: 1.87
 video: https://www.youtube.com/embed/TTvLqUCDrbE?si=U1gEcdAjLQitI2-c
 section:
   - id: muell
