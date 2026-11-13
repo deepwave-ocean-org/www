@@ -625,7 +625,7 @@
         <img src="https://res.cloudinary.com/deepwave-org/image/upload/v1747267322/deepwave.org/LOGO_DEEPWAVE_2022_white.svg" alt="LOGO von Deepwave e.V."/></div>
 		<iframe id="yt-iframe" width="100%" style="aspect-ratio: 16/9" title="Video: DEEPWAVE am Giving Tuesday" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" modestbranding="" src="{{ .Params.video }}"></iframe>
    		{{ .Content }}
-		<button class="cta is-align-center"><a href="#spenden">Spenden</a></button> 
+		<button class="cta is-align-center"><a href="#spenden">Beitragen</a></button> 
         
         </div>
     </div>
@@ -643,7 +643,7 @@
         <div>
 		<h2><span class="counter counter_{{ .id }}"></span><br>{{ .heading }}</h2>
 		{{ .text | safeHTML }}
-        	<button class="cta is-align-center"><a href="#spenden">Spenden</a></button>
+        	<button class="cta is-align-center"><a href="#spenden">Beitragen</a></button>
 	</div>
 	{{ if mod $index 2 }}<div>
             <video autoplay="autoplay" loop="loop" muted="" width="300" height="150">
@@ -673,7 +673,7 @@
             <span class="icon-arrow_back prev"{{ if .prev_id }} id="{{ .prev_id }}"{{ end }}></span>
             <span class="icon-arrow_forward next"{{ if .next_id }} id="{{ .next_id }}"{{ end }}></span>
         </div>
-        <button class="cta is-align-center"><a href="#spenden">Spenden</a></button>
+        <button class="cta is-align-center"><a href="#spenden">Beitragen</a></button>
     </div>
 </section>
 {{ end }}
