@@ -828,7 +828,6 @@
  		{{ with .Params }} 
 		var f_plastik = {{ .f_plastik }} /60;
 		var f_plastik_h = {{ .f_plastik_h }} /3600;
-		var f_plastik_mg = {{ .f_plastik_mg }} /3600;
 		var f_eis = {{ .f_eis }} /60;
 		var f_eis_g = {{ .f_eis_g }} /60;
 		var f_art = {{ .f_art }} / 60;
@@ -843,9 +842,6 @@
 		})
 		$('.counter_plastik_h').each(function() {
 			counter_start($(this), getStartNum(f_plastik_h), f_plastik_h , '', '', 1);
-		})
-		$('.counter_plastik_mg').each(function() {
-			counter_start($(this), getStartNum(f_plastik_mg), f_plastik_mg , '', '', 10);
 		})
 		$('.counter_eis').each(function() {
 			counter_start($(this), getStartNum(f_eis), f_eis, '', '', 10);

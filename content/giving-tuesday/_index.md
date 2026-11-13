@@ -5,20 +5,18 @@ description: >-
   Spenden für den Schutz von Hoch- und Tiefsee. Spenden sind steuerlich
   absetzbar.
 year: 2026
-# Raten der Zähler (geprüft 13.11.2026). Einheit pro Minute, außer f_plastik_h und f_plastik_mg (pro Stunde).
-# f_plastik: Lkw-Ladungen Müll im Meer. Passt zu 1,7 Mio. t/Jahr bei ca. 15 t pro Lkw. 1,7 Mio. t: OECD Global Plastics Outlook 2022 (Bezugsjahr 2019). Lkw-Gewicht nicht belegt.
+# Raten der Zähler (geprüft 13.11.2026). Einheit pro Minute, außer f_plastik_h (pro Stunde).
+# f_plastik: Lkw-Ladungen Müll im Meer. 0,21 pro Minute entsprechen 1,7 Mio. t/Jahr bei ca. 15 t pro Lkw. 1,7 Mio. t: OECD Global Plastics Outlook 2022 (Bezugsjahr 2019). 15 t pro Lkw: Vergleich der Ellen MacArthur Foundation (2016), 8 Mio. t pro Jahr = ein Müllwagen pro Minute.
 f_plastik: 0.21
-# f_plastik_h: Einweg-Becher pro Stunde. 320.000/h = ca. 2,8 Mrd./Jahr (UBA-Studie 2019, DUH). Neuere Zahl: GVM/WWF 2023, 2,55 Mrd. Einweg-Getränkebecher in der Gastronomie.
+# f_plastik_h: Einweg-Becher für Heißgetränke pro Stunde. 320.000/h = 2,8 Mrd./Jahr (UBA-Pressemitteilung 21.05.2019). Neuere vergleichbare Zahl nicht gefunden.
 f_plastik_h: 320000
-# f_plastik_mg: mg Mikroplastik pro Stunde. Quelle offen.
-f_plastik_mg: 10.41
-# f_eis: Mio. t geschmolzenes Eis pro Minute (ca. 757 Mrd. t/Jahr). Quelle offen.
-f_eis: 1.44
-# f_eis_g: g CO2 pro Person und Minute (10,3 t/Jahr). Entspricht dem UBA-Wert zum konsumbasierten Fußabdruck (CO2-Äquivalente inkl. Importe). Jahr nicht angegeben.
+# f_eis: Mio. t Eis pro Minute, weltweit. 2,28 = 1,2 Bio. t/Jahr (2017), Slater et al. 2021, The Cryosphere, doi 10.5194/tc-15-233-2021. Die Leeds-Pressemitteilung nennt 1,3 Bio. t.
+f_eis: 2.28
+# f_eis_g: g CO2e pro Person und Minute. 19,6 = 10,3 t CO2e/Jahr, UBA (konsumbasiert, inkl. Importe). Bezugsjahr bei UBA nicht angegeben.
 f_eis_g: 19.6
-# f_art: neue Arten pro Minute (ca. 17.900/Jahr). Quelle offen. Science Advances 2025 (Wiens): mehr als 16.000/Jahr.
-f_art: 0.034
-# f_art_g: kg Rotbarsch pro Minute. 1,87 kg/min = 984,3 t/Jahr, Gesamtanlandungen deutscher Fischereifahrzeuge 2024 (BLE Anlandestatistik 2024). Vorher 0.936 = Inlandsanlandungen 2023 (492 t).
+# f_art: neue Arten pro Minute. 0,0305 = ca. 16.000/Jahr, Wiens 2025, Science Advances, doi 10.1126/sciadv.adz3071 (Mittel 2015 bis 2020).
+f_art: 0.0305
+# f_art_g: kg Rotbarsch pro Minute. 1,87 = 984,3 t/Jahr, Gesamtanlandungen deutscher Fischereifahrzeuge 2024 (BLE Anlandestatistik 2024). Vorher 0.936 = Inlandsanlandungen 2023 (492 t).
 f_art_g: 1.87
 video: https://www.youtube.com/embed/TTvLqUCDrbE?si=U1gEcdAjLQitI2-c
 section:
@@ -30,14 +28,20 @@ section:
       <p>Die Plastikproduktion ist seit 1950 rasant angestiegen. Diese
       Entwicklung ist folgenschwer: jährlich landen ca. 1,7 Millionen Tonnen
       Plastikmüll im Meer. Allein heute haben wir in Deutschland <span
-      class="counter counter_plastik_h"></span> Einweg-Becher weggeworfen.</p>
+      class="counter counter_plastik_h"></span> Einweg-Becher für Heißgetränke weggeworfen.</p>
       <p>Die Verschmutzung der Ozeane ist eine massive Bedrohung für viele
       Arten, auch für jene, die wir gerade erst entdecken. Unzählige Tiere
       verwechseln den Abfall mit ihrer Nahrung und verenden qualvoll.
       Mikroplastik ist ebenfalls problematisch, denn es lagert sich in der
-      Nahrungskette an. Womöglich hast auch du heute <span class="counter
-      counter_plastik_mg"></span> mg Plastik über die Nahrung zu dir genommen.
-      </p> 
+      Nahrungskette an.</p>
+      <p><small>Quellen (Stand November 2026): Plastik im Meer: OECD, Global
+      Plastics Outlook (2022, Daten von 2019). Ein Lastwagen entspricht
+      rund 15 Tonnen, nach dem Vergleich der Ellen MacArthur Foundation (2016):
+      8 Millionen Tonnen pro Jahr sind ein Müllwagen pro Minute.
+      Einweg-Becher für Heißgetränke: <a
+      href="https://www.umweltbundesamt.de/presse/pressemitteilungen/mehrweg-statt-einweg-fuer-kaffee-co">Umweltbundesamt
+      (2019)</a>, 2,8 Milliarden pro Jahr. Die Zähler rechnen diese Jahreswerte
+      auf die Zeit seit Mitternacht hoch.</small></p>
   - id: eis
     heading: Seit Mitternacht sind ... Millionen Tonnen Eismeer geschmolzen
     gif: >-
@@ -49,14 +53,19 @@ section:
       Wintermonaten gebildet wird, und die Gesamtbilanz ist negativ. Das
       Schmelzen von Packeis sowie Gletschern steht in unmittelbarem Zusammenhang
       mit der Erderwärmung. Dieser Effekt wird dadurch verstärkt, dass jeder von
-      uns allein heute etwa <span class="counter counter_eis_g"></span> g CO2
+      uns allein heute etwa <span class="counter counter_eis_g"></span> g CO2e
       ausgestoßen hat.</p>
+      <p><small>Quellen (Stand November 2026): Eisverlust: Slater et al.
+      (2021), <a href="https://doi.org/10.5194/tc-15-233-2021">The
+      Cryosphere</a>, rund 1,2 Billionen Tonnen pro Jahr weltweit (2017).
+      CO2e: Umweltbundesamt, 10,3 Tonnen CO2-Äquivalente pro Person und Jahr
+      (konsumbasiert, inklusive Importe).</small></p>
   - id: arten
     heading: Seit Mitternacht hätten wir ... neue Arten entdeckt
     gif: >-
       https://res.cloudinary.com/deepwave-org/video/upload/v1764009339/deepwave.org/Fische_comp.webm
     text: >-
-      <p>Jedes Jahr entdecken wir fast 15.000 neue Arten auf diesem Blauen
+      <p>Jedes Jahr entdecken wir mehr als 16.000 neue Arten auf diesem Blauen
       Planeten. Ob im Regenwald, Wüsten, den heimischen Wiesen oder in der
       Tiefsee, es gibt noch überall unentdeckte Lebensweisen. Doch einige davon
       werden wir nie zu Gesicht bekommen. Fast alle Arten sind durch
@@ -67,6 +76,13 @@ section:
       Arten einfach als Beifang deklariert. Allein heute wurden durch deutsche
       Fischer <span class="counter counter_arten_kg"></span> kg Rotbarsch
       angelandet – größtenteils durch Grundschleppnetze.</p>
+      <p><small>Quellen (Stand November 2026): Neue Arten: Wiens (2025), <a
+      href="https://doi.org/10.1126/sciadv.adz3071">Science Advances</a>,
+      über 16.000 pro Jahr (Mittel 2015 bis 2020). Bedrohte Arten: IPBES,
+      Global Assessment (2019). Rotbarsch: <a
+      href="https://www.ble.de/SharedDocs/Downloads/DE/Fischerei/Fischwirtschaft/Anlandestatistik2024.pdf?__blob=publicationFile&v=2">BLE
+      Anlandestatistik 2024</a>, 984 Tonnen Gesamtanlandungen deutscher
+      Fischereifahrzeuge pro Jahr.</small></p>
 zeugen:
   - id: zeugen1
     prev_id: prev
