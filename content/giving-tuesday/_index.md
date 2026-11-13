@@ -34,14 +34,9 @@ section:
       verwechseln den Abfall mit ihrer Nahrung und verenden qualvoll.
       Mikroplastik ist ebenfalls problematisch, denn es lagert sich in der
       Nahrungskette an.</p>
-      <p><small>Quellen (Stand November 2026): Plastik im Meer: OECD, Global
-      Plastics Outlook (2022, Daten von 2019). Ein Lastwagen entspricht
-      rund 15 Tonnen, nach dem Vergleich der Ellen MacArthur Foundation (2016):
-      8 Millionen Tonnen pro Jahr sind ein Müllwagen pro Minute.
-      Einweg-Becher für Heißgetränke: <a
+      <p><small>Quellen: OECD (2022), Ellen MacArthur Foundation (2016), <a
       href="https://www.umweltbundesamt.de/presse/pressemitteilungen/mehrweg-statt-einweg-fuer-kaffee-co">Umweltbundesamt
-      (2019)</a>, 2,8 Milliarden pro Jahr. Die Zähler rechnen diese Jahreswerte
-      auf die Zeit seit Mitternacht hoch.</small></p>
+      (2019)</a></small></p>
   - id: eis
     heading: Seit Mitternacht sind ... Millionen Tonnen Eismeer geschmolzen
     gif: >-
@@ -55,15 +50,12 @@ section:
       mit der Erderwärmung. Dieser Effekt wird dadurch verstärkt, dass jeder von
       uns allein heute etwa <span class="counter counter_eis_g"></span> g CO2e
       ausgestoßen hat.</p>
-      <p><small>Quellen (Stand November 2026): Eisverlust: Slater et al.
-      (2021), <a href="https://doi.org/10.5194/tc-15-233-2021">The
-      Cryosphere</a>, rund 1,2 Billionen Tonnen pro Jahr weltweit (2017).
-      CO2e: <a
-      href="https://www.umweltbundesamt.de/presse/pressemitteilungen/treibhausgasdaten-zeigen-klimaschutz-braucht-neuen">Umweltbundesamt</a>
-      (Schätzung 2025: 648,9 Millionen Tonnen CO2-Äquivalente) und <a
+      <p><small>Quellen: <a href="https://doi.org/10.5194/tc-15-233-2021">Slater et
+      al. (2021)</a>, <a
+      href="https://www.umweltbundesamt.de/presse/pressemitteilungen/treibhausgasdaten-zeigen-klimaschutz-braucht-neuen">Umweltbundesamt
+      (2026)</a>, <a
       href="https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/06/PD26_203_124.html">Statistisches
-      Bundesamt</a> (rund 83,5 Millionen Einwohner), das sind etwa 7,8 Tonnen
-      pro Person und Jahr (Emissionen im Inland).</small></p>
+      Bundesamt (2026)</a></small></p>
   - id: arten
     heading: Seit Mitternacht hätten wir ... neue Arten entdeckt
     gif: >-
@@ -80,13 +72,10 @@ section:
       Arten einfach als Beifang deklariert. Allein heute wurden durch deutsche
       Fischer <span class="counter counter_arten_kg"></span> kg Rotbarsch
       angelandet – größtenteils durch Grundschleppnetze.</p>
-      <p><small>Quellen (Stand November 2026): Neue Arten: Wiens (2025), <a
-      href="https://doi.org/10.1126/sciadv.adz3071">Science Advances</a>,
-      über 16.000 pro Jahr (Mittel 2015 bis 2020). Bedrohte Arten: IPBES,
-      Global Assessment (2019). Rotbarsch: <a
+      <p><small>Quellen: <a href="https://doi.org/10.1126/sciadv.adz3071">Wiens
+      (2025)</a>, IPBES (2019), <a
       href="https://www.ble.de/SharedDocs/Downloads/DE/Fischerei/Fischwirtschaft/Anlandestatistik2024.pdf?__blob=publicationFile&v=2">BLE
-      Anlandestatistik 2024</a>, 984 Tonnen Gesamtanlandungen deutscher
-      Fischereifahrzeuge pro Jahr.</small></p>
+      (2024)</a></small></p>
 zeugen:
   - id: zeugen1
     prev_id: prev
