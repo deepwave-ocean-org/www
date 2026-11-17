@@ -1,11 +1,10 @@
 ---
-title: Küstenschutz
+title: CO2 Senken
 image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243617/deepwave.org/Kuestenschutz_good_icon_RGB.jpg
 hover: https://res.cloudinary.com/deepwave-org/image/upload/v1764081301/Kuestenschutz_bad_icon_RGB_mdpsa9.jpg
 overlay: rgba(43,39,32,0.49)
 order: 5
 ---
-
 ## World Ocean Review
 
 Aktuelles zum Küstenschutz findet sich im World Ocean Review 5, den man [hier](https://worldoceanreview.com/bestellen/) bestellen kann:
