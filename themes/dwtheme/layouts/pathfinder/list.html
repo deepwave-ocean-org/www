@@ -1,0 +1,128 @@
+{{ define "main" }}
+{{- $people := .Pages.ByWeight -}}
+{{- $total := len $people -}}
+{{- $tags := slice -}}
+{{- range $people }}{{ range .Params.schwerpunkte }}{{ $tags = $tags | append . }}{{ end }}{{ end -}}
+{{- $tags = sort (uniq $tags) -}}
+<div class="pf">
+  <section class="pf-hero"{{ with .Params.hero_image }} style="background-image:url('{{ . }}')"{{ end }}>
+    <div class="pf-wrap">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}<p class="pf-subtitle">{{ . }}</p>{{ end }}
+      <div class="pf-intro">{{ .Content }}</div>
+    </div>
+    <svg class="pf-wave" viewBox="0 0 1440 90" preserveAspectRatio="none" aria-hidden="true"><path d="M0,45 C240,90 480,0 720,40 C960,80 1200,10 1440,50 L1440,90 L0,90 Z"/></svg>
+  </section>
+
+  <div class="pf-body">
+    <main class="pf-wrap pf-main">
+      {{ if $tags }}
+      <p class="pf-lead">{{ .Params.filter_frage | default "Was interessiert dich am meisten?" }}</p>
+      <div class="pf-filters" role="group" aria-label="Schwerpunkte">
+        {{- range $tags }}
+        <button type="button" class="pf-chip" data-tag="{{ . }}" aria-pressed="false">{{ . }}</button>
+        {{- end }}
+      </div>
+      <p class="pf-hint">Mehrfachauswahl möglich · Filter zurücksetzen mit erneutem Klick</p>
+      {{ end }}
+      <p class="pf-lead pf-count" aria-live="polite" data-total="{{ $total }}">{{ if eq $total 1 }}Hier zeigt dir eine Meeresschützer:in ihren Weg{{ else }}Hier zeigen dir {{ $total }} Meeresschützer:innen ihren Weg{{ end }}</p>
+      <p class="pf-empty" hidden>Zu dieser Auswahl haben wir noch keinen Weg. Nimm einen Filter heraus oder schau später wieder vorbei, es kommen laufend neue Wege dazu.</p>
+
+      <div class="pf-list">
+        {{- range $people }}
+        {{- $first := .Params.vorname | default (index (split .Title " ") 0) }}
+        <div class="pf-card" id="{{ .File.ContentBaseName }}" data-tags="{{ delimit .Params.schwerpunkte "|" }}">
+          <div class="pf-card-head">
+            <span class="pf-avatar">
+              {{ partial "pathfinder/avatar.html" (dict "page" .) }}
+              {{ if .Params.video }}<span class="pf-play-badge" aria-hidden="true"><svg viewBox="0 0 12 12" fill="currentColor"><path d="M2 1.5 L10 6 L2 10.5 Z"/></svg></span>{{ end }}
+            </span>
+            <h2 class="pf-card-title">
+              <button type="button" class="pf-toggle" aria-expanded="false" aria-controls="panel-{{ .File.ContentBaseName }}">
+                <span class="pf-card-name">{{ .Title }}</span>
+                <span class="pf-more"><span class="pf-more-label" data-closed="Mehr über {{ $first }}" data-open="Weg schließen">Mehr über {{ $first }}</span>
+                  <span class="pf-chevron" aria-hidden="true"><svg viewBox="0 0 12 8" fill="none"><path d="M1 1L6 6.5L11 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+                </span>
+              </button>
+            </h2>
+            <span class="pf-tags">
+              {{- range .Params.schwerpunkte }}<span class="pf-tag">{{ . }}</span>{{ end -}}
+            </span>
+          </div>
+
+          {{ with .Params.steps }}
+          <div class="pf-steps-wrap">{{ partial "pathfinder/steps.html" . }}</div>
+          {{ end }}
+
+          <div class="pf-panel" id="panel-{{ .File.ContentBaseName }}">
+            {{- $media := .Params.photo | default .Params.video_poster -}}
+            {{ if $media }}
+            {{ if .Params.video }}
+            <a class="pf-media pf-media-video" href="{{ .Params.video }}" data-video="{{ .Params.video }}" data-poster="{{ with .Params.video_poster }}{{ partial "img/src" . }}{{ end }}" data-caption="Video von {{ .Title }}" aria-label="Video von {{ .Title }} abspielen">
+              {{ partial "pathfinder/avatar.html" (dict "page" . "class" "pf-media-img") }}
+              <span class="pf-media-shade"></span>
+              <span class="pf-media-play" aria-hidden="true"><svg viewBox="0 0 12 12" fill="currentColor"><path d="M2 1.5 L10 6 L2 10.5 Z"/></svg></span>
+              {{ with .Params.video_duration }}<span class="pf-media-duration">{{ . }}</span>{{ end }}
+            </a>
+            {{ else }}
+            <div class="pf-media">{{ partial "pathfinder/avatar.html" (dict "page" . "class" "pf-media-img") }}</div>
+            {{ end }}
+            {{ end }}
+
+            {{ with .Params.teaser }}<blockquote class="pf-teaser">„{{ . }}“</blockquote>{{ end }}
+
+            {{ with .Params.expertise }}
+            <div class="pf-expertise">
+              <span class="pf-label">Expertise</span>
+              <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+            </div>
+            {{ end }}
+
+            <div class="pf-actions">
+              {{ partial "pathfinder/ask.html" . }}
+              {{ if strings.TrimSpace .RawContent }}<a class="pf-btn pf-btn-secondary" href="{{ .RelPermalink }}">Ganze Geschichte lesen</a>{{ end }}
+            </div>
+          </div>
+        </div>
+        {{- end }}
+      </div>
+
+      {{ with site.Data.pathfinder_studiengaenge }}
+      <section class="pf-box">
+        <h2><svg viewBox="0 0 40 18" aria-hidden="true"><path d="M2 13 C8 9 14 9 20 13 C26 17 32 17 38 13" stroke="#12324a" stroke-width="1.8" fill="none" stroke-linecap="round" opacity="0.4"/><path d="M2 7 C8 3 14 3 20 7 C26 11 32 11 38 7" stroke="#4fd6d1" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>Relevante Studiengänge</h2>
+        <ul class="pf-glossary">
+          {{- range . }}
+          <li>{{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ else }}<strong>{{ .name }}</strong>{{ end }}{{ with .info }} – {{ . }}{{ end }}</li>
+          {{- end }}
+        </ul>
+      </section>
+      {{ end }}
+
+      {{ with site.Data.pathfinder_links }}
+      <section class="pf-box">
+        <h2><svg viewBox="0 0 40 18" aria-hidden="true"><path d="M2 13 C8 9 14 9 20 13 C26 17 32 17 38 13" stroke="#12324a" stroke-width="1.8" fill="none" stroke-linecap="round" opacity="0.4"/><path d="M2 7 C8 3 14 3 20 7 C26 11 32 11 38 7" stroke="#e2725b" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>Wie geht’s konkret weiter? Jobs, Praktika &amp; Freiwilligenarbeit</h2>
+        <p class="pf-box-intro">Auswahl an Seiten, auf denen Stellen und Freiwilligenprojekte im Natur- und Meeresschutz ausgeschrieben werden.</p>
+        <div class="pf-cols">
+          <div>
+            <h3>Jobs &amp; Praktika finden</h3>
+            <ul class="pf-links">{{ range .jobs }}<li><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a><span>{{ .desc }}</span></li>{{ end }}</ul>
+          </div>
+          <div>
+            <h3>Ohne Erfahrung? Erstmal freiwillig mitmachen</h3>
+            <ul class="pf-links">{{ range .volunteering }}<li><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a><span>{{ .desc }}</span></li>{{ end }}</ul>
+          </div>
+        </div>
+      </section>
+      {{ end }}
+    </main>
+  </div>
+
+  <dialog class="pf-dialog" aria-label="Video">
+    <button type="button" class="pf-dialog-close" aria-label="Schließen">×</button>
+    <video controls playsinline preload="none"></video>
+    <p class="pf-dialog-caption"></p>
+  </dialog>
+</div>
+{{ $js := resources.Get "js/pathfinder.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $js.RelPermalink }}" defer></script>
+{{ end }}

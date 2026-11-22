@@ -1,0 +1,35 @@
+jobs:
+- name: Conservation Careers
+  url: https://www.conservation-careers.com/
+  desc: Größter Stellenmarkt speziell für Naturschutz-Jobs weltweit, inklusive Karriereberatung.
+- name: The Wildlife Society – Wildlife Jobs
+  url: https://wildlife.org/wildlife-jobs/
+  desc: Stellenbörse der US-Fachgesellschaft für Wildtierbiologie, auch für Praktika und Berufseinsteiger.
+- name: EcoJobs.com
+  url: https://ecojobs.com/
+  desc: Jobbörse für Umwelt- und Naturschutzstellen aller Art, von Feldarbeit bis Umweltpolitik.
+- name: Environmentjob
+  url: https://environmentjob.co.uk/
+  desc: Britische Jobbörse für Umwelt-, Natur- und Meeresschutz-Stellen.
+- name: WWF Careers
+  url: https://www.worldwildlife.org/about/careers/
+  desc: Offene Stellen beim WWF weltweit, von Feldprojekten bis Verwaltung.
+- name: WCS Careers
+  url: https://www.wcs.org/about-us/careers
+  desc: Stellenangebote der Wildlife Conservation Society, unter anderem mit Meeresschutz-Projekten.
+volunteering:
+- name: ConservationVIP (Conservation Volunteers International Program)
+  url: https://conservationvip.org/
+  desc: Gemeinnützige Organisation mit kurzen, praktischen Naturschutz-Reisen, keine Vorkenntnisse nötig.
+- name: Volunteer World – Wildlife & Conservation
+  url: https://www.volunteerworld.com/en/volunteer-abroad/wildlife-conservation
+  desc: Vermittlungsplattform für Freiwilligenarbeit im Wildtier- und Meeresschutz weltweit.
+- name: GoEco
+  url: https://www.goeco.org/
+  desc: Vermittelt Freiwilligenprogramme, viele davon im Tier- und Meeresschutz, mit vorab geprüften Partnern.
+- name: GoAbroad – Conservation
+  url: https://www.goabroad.com/volunteer-abroad/search/conservation/volunteer-abroad-1
+  desc: Große, durchsuchbare Datenbank für Freiwilligenprogramme im Ausland, Filter für Naturschutz.
+- name: Worldpackers
+  url: https://www.worldpackers.com/
+  desc: Plattform, auf der man Mithilfe – auch in Naturschutz-Projekten – gegen Unterkunft und Verpflegung tauscht.

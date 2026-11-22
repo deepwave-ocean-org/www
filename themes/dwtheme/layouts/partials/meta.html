@@ -26,7 +26,7 @@
         content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ printf "%s%s" (strings.TrimSuffix "/" (site.Params.siteURL | default "https://www.deepwave.org")) .RelPermalink }}">
-{{ with .Params.image }}
+{{ with (.Params.image | default .Params.photo | default .Params.video_poster) }}
 <meta property="og:image" content="{{ . }}">
 {{ else }}{{ with .Site.Params.defaultImage }}
 <meta property="og:image" content="{{ . }}">

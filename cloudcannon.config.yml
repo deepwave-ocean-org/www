@@ -19,6 +19,119 @@ collections_config:
     disable_add: true
     disable_add_folder: true
     disable_file_actions: true
+  pathfinder:
+    path: content/pathfinder
+    glob:
+      - '*.md'
+      - '!_index.md'
+    name: Pathfinder – Personen
+    singular_name: Person
+    icon: explore
+    url: /pathfinder/{filename}/
+    disable_url: false
+    disable_add: false
+    disable_add_folder: true
+    disable_file_actions: false
+    sort:
+      key: weight
+      order: asc
+    add_options:
+      - name: Neue Person
+        schema: person
+    schemas:
+      person:
+        path: .cloudcannon/schemas/pathfinder-person.md
+        name: Neue Person
+        icon: person_add
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: false
+    _inputs:
+      title:
+        type: text
+        label: Name
+        comment: Vor- und Nachname, so wie er auf der Seite stehen soll. Der erste Teil wird für „Frag …“ verwendet.
+      weight:
+        type: number
+        label: Reihenfolge
+        comment: Kleinere Zahl steht weiter oben. Leer oder 0 heißt ganz unten.
+      draft:
+        type: switch
+        label: Entwurf (nicht veröffentlichen)
+      photo:
+        type: image
+        label: Foto
+        comment: Quadratisch oder hochkant. Ohne Foto wird das Video-Poster oder ein Initialen-Kreis gezeigt.
+      photo_position:
+        type: text
+        label: Bildausschnitt
+        comment: 'Wo das Bild beim Zuschneiden verankert ist, z. B. "50% 20%" (waagerecht, senkrecht). 0% = oben/links, 100% = unten/rechts.'
+      video:
+        type: url
+        label: Video
+        comment: Link auf eine Videodatei (mp4). Große Dateien bitte nicht ins Repo, sondern über Cloudinary einbinden.
+      video_poster:
+        type: image
+        label: Video-Poster
+      video_duration:
+        type: text
+        label: Videolänge
+        comment: z. B. 1:46
+      teaser:
+        type: textarea
+        label: Teaser
+        comment: Ein bis zwei Sätze in der Ich-Form. Erscheint als Zitat in der aufgeklappten Karte.
+      ansprechbar:
+        type: switch
+        label: Ansprechbar
+        comment: Zeigt den Button „Frag <Vorname>“ (geht an die zentrale Adresse).
+      vorname:
+        type: text
+        label: Vorname für den Button
+        comment: Nur ausfüllen, wenn der erste Teil des Namens nicht passt.
+      schwerpunkte:
+        type: multiselect
+        label: Schwerpunkte
+        comment: Daraus werden die Filter oben auf der Seite gebildet. Die Auswahlliste steht unter „Slider u.a.“ in pathfinder_schwerpunkte.
+        options:
+          values: data.pathfinder_schwerpunkte
+          allow_create: true
+      expertise:
+        type: array
+        label: Expertise
+        comment: Kurze Stichworte, ein Eintrag pro Zeile.
+        options:
+          empty_type: text
+      steps:
+        type: array
+        label: Stationen
+        comment: Der Weg in Etappen, von früh nach spät.
+        options:
+          structures:
+            values:
+              - label: Station
+                icon: flag
+                preview:
+                  text:
+                    - key: label
+                  subtext:
+                    - key: value
+                value:
+                  label:
+                  value:
+            style: select
+        _inputs:
+          label:
+            type: text
+            label: Etappe
+            comment: z. B. Schule, Bachelor, Praktikum, Promotion
+          value:
+            type: text
+            label: Was
+      content:
+        label: Geschichte
+        comment: Die ausführliche Geschichte. Überschriften, Zitate und Bilder (mit Bildunterschrift im Titel-Feld) sind möglich.
   posts:
     path: /content/posts
     glob:

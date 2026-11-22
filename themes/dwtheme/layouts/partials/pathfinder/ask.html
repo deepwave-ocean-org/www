@@ -1,0 +1,10 @@
+{{- /* Eingabe: Seite der Person. Gibt den "Frag <Vorname>"-Button aus, wenn ansprechbar. */ -}}
+{{- $p := . -}}
+{{- $idx := $p.Parent -}}
+{{- if $p.Params.ansprechbar -}}
+{{- $first := $p.Params.vorname | default (index (split $p.Title " ") 0) -}}
+{{- $mail := $idx.Params.kontakt_email | default "info@deepwave.org" -}}
+{{- $label := $idx.Params.kontakt_label | default "Frag" -}}
+{{- $subject := replace (replace (printf "%s %s" $label $first) " " "%20") "&" "%26" -}}
+<a class="pf-btn pf-btn-primary" href="{{ printf "mailto:%s?subject=%s" $mail $subject | safeURL }}">{{ $label }} {{ $first }}</a>
+{{- end -}}

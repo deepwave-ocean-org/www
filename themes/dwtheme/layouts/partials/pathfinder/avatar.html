@@ -1,0 +1,8 @@
+{{- /* Eingabe: dict "page" Seite, "class" optionale Klasse. Foto, sonst Video-Poster, sonst Initialen. */ -}}
+{{- $p := .page -}}
+{{- $src := $p.Params.photo | default $p.Params.video_poster -}}
+{{- if $src -}}
+<img class="pf-avatar-img {{ .class }}" src="{{ partial "img/src" $src }}" alt="Foto von {{ $p.Title }}" loading="lazy" style="object-position: {{ $p.Params.photo_position | default "50% 25%" | safeCSS }}">
+{{- else -}}
+<span class="pf-avatar-initials {{ .class }}" aria-hidden="true">{{ range first 2 (split $p.Title " ") }}{{ substr . 0 1 }}{{ end }}</span>
+{{- end -}}

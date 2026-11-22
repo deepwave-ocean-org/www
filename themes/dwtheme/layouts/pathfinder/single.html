@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{- $first := .Params.vorname | default (index (split .Title " ") 0) -}}
+<div class="pf">
+  <section class="pf-hero pf-hero-person">
+    <div class="pf-wrap pf-person-head">
+      <span class="pf-avatar pf-avatar-lg">{{ partial "pathfinder/avatar.html" (dict "page" .) }}</span>
+      <div>
+        <p class="pf-crumb"><a href="{{ .Parent.RelPermalink }}#{{ .File.ContentBaseName }}">← {{ .Parent.Title }}</a></p>
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.teaser }}<p class="pf-subtitle">„{{ . }}“</p>{{ end }}
+      </div>
+    </div>
+    <svg class="pf-wave" viewBox="0 0 1440 90" preserveAspectRatio="none" aria-hidden="true"><path d="M0,45 C240,90 480,0 720,40 C960,80 1200,10 1440,50 L1440,90 L0,90 Z"/></svg>
+  </section>
+
+  <div class="pf-body pf-body-light">
+    <article class="pf-story">
+      {{ with .Params.schwerpunkte }}<p class="pf-tags pf-tags-inline">{{ range . }}<span class="pf-tag">{{ . }}</span>{{ end }}</p>{{ end }}
+      {{ with .Params.steps }}
+      <h2 class="pf-label pf-label-block">Der Weg in Stationen</h2>
+      <div class="pf-steps-wrap pf-steps-wrap-static">{{ partial "pathfinder/steps.html" . }}</div>
+      {{ end }}
+      {{ with .Params.video }}
+      <p><a class="pf-btn pf-btn-secondary" href="{{ . }}">Video ansehen</a></p>
+      {{ end }}
+      <div class="pf-prose">{{ .Content }}</div>
+      <div class="pf-actions pf-actions-end">
+        {{ partial "pathfinder/ask.html" . }}
+        <a class="pf-btn pf-btn-secondary" href="{{ .Parent.RelPermalink }}">Zurück zur Übersicht</a>
+      </div>
+    </article>
+  </div>
+</div>
+{{ end }}

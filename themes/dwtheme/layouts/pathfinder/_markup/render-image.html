@@ -1,0 +1,5 @@
+{{- $src := partial "img/src" .Destination -}}
+<figure class="pf-figure">
+  <img src="{{ $src }}" alt="{{ .Text }}" loading="lazy">
+  {{- with .Title }}<figcaption>{{ . | markdownify }}</figcaption>{{ end -}}
+</figure>
