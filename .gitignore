@@ -1,2 +1,5 @@
 node_modules/
 public/
+
+# Ablage der Claude-Desktop-App
+Claude outputs/
