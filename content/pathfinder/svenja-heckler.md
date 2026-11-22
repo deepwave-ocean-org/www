@@ -26,9 +26,9 @@ steps:
 - label: Master
   value: Marine Ecosystem and Fisheries Science (MarSys)
 - label: Praktikum
-  value: Archipelagos Institute of Marine Conservation, Samos (GR)
-- label: Praktikum
   value: Southern African Foundation for the Conservation of Coastal Birds, Kapstadt (SA)
+- label: Praktikum
+  value: Archipelagos Institute of Marine Conservation, Samos (GR)
 - label: Ehrenamt
   value: Deepwave
 - label: Nebenjob
