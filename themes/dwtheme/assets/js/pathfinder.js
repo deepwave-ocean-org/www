@@ -15,7 +15,7 @@
     var shown = 0;
     cards.forEach(function (card) {
       var tags = (card.dataset.tags || '').split('|');
-      var match = active.length === 0 || active.some(function (t) { return tags.indexOf(t) !== -1; });
+      var match = active.length === 0 || active.every(function (t) { return tags.indexOf(t) !== -1; });
       card.hidden = !match;
       if (match) shown++;
     });
