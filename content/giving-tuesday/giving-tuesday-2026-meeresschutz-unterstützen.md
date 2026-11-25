@@ -128,6 +128,10 @@ zeugen:
         title: Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
+&nbsp;
+
+![DEEPWAVE Teamler:innen im Gespräch am Infostand](https://res.cloudinary.com/deepwave-org/deepwave.org/DEEPWAVE_Team1_j3u04h.jpg "DEEPWAVE Teamler:innen im Gespräch am Infostand")
+
 Der [<u>DEEPWAVE Meeresschutz-Pfadfinder</u>](https://www.deepwave.org/pathfinder)
 
 Hier seht ihr unser Team, wie es diese Fragen beantwortet: Was muss ich machen, um mich so wie ihr für die Meere einsetzen zu können? Was soll ich dafür studieren? Muss ich überhaupt studieren? Und wenn ja wo? Direkt am Meer? Was kann ich in meinem Gap Year als Vorbereitung machen? Kann ich Meeresforscher:in werden, wenn ich auf Schiffen seekrank werde? Wie kann ich mich in meinem Biologiestudium auf Meeresbiologie spezialisieren? Was kommt nach dem Master? Die Promotion? Oder etwas ganz anderes? Mit Haien tauchen? Und was muss ich studieren, wenn ich mich für Ocean Governance interessiere?
