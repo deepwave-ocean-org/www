@@ -1,8 +1,8 @@
 ---
 title: Giving Tuesday 2026 – Meeresschutz unterstützen
 description: Am Giving Tuesday, dem 1. Dezember 2026, sammelt DEEPWAVE e.V. aus
-  Hamburg Spenden für den Schutz von Hoch- und Tiefsee. Spenden sind steuerlich
-  absetzbar.
+  Hamburg Spenden für den Schutz von Hoch- und Tiefsee. Spenden werden
+  verdoppelt.
 year: 2026
 f_plastik: 0.21
 f_plastik_h: 320000
@@ -128,6 +128,14 @@ zeugen:
         title: Doktor der Aquatischen Toxikologie,<br>unterstützt DEEPWAVE mit Wissen
           und Zeit
 ---
-Die Tiefsee ist der Ursprung des Lebens. Wir können zum ersten Mal in unserer menschlichen Geschichte nah an sie heran. Und genau jetzt haben wir vor, das, was wir dort finden würden, zu zerstören. Wir zerstören Wissen. Wissen, das wir nie wieder rekonstruieren können.<br>Warum? In der Tiefsee liegen Mineralien, deren Metalle wir in unseren modernen Techniken nutzen. Was spricht dagegen, sie abzubauen? Einiges. Was, erfahrt ihr in unserer Kampagne <br><a href="https://tiefsee.deepwave.org/" target="_blank" rel="noopener">NO DEEP SEA MINING - NEVER</a><br>Wir haben von diesen Metallen schon mehr als genug. Niemand muss das letzte unberührte Ökosystem dieses Planeten zerstören, weder für Waffen noch für die Geräte moderner Kommunikation, noch für die Energiewende.<br>Alles, was auf dem Meeresboden als mögliche Ressource herumliegt, gehört uns allen. Jedem und jeder Einzelnen. *Heritage of Human Kind.* <br>Die größten Abnehmer weltweit voten für ein Moratorium und haben sich verpflichtet, keine Metalle aus der Tiefsee zu nutzen.<br>Das Entscheidende: Es gibt noch keinen Tiefseebergbau. Noch können wir ihn verhindern. Wie? Lasst uns über den Tiefseebergbau sprechen, solange bis er fallengelassen wird als das, was er ist. Ein Irrtum.
+Der [<u>DEEPWAVE Meeresschutz-Pfadfinder</u>](https://www.deepwave.org/pathfinder)
+
+Hier seht ihr unser Team, wie es diese Fragen beantwortet: Was muss ich machen, um mich so wie ihr für die Meere einsetzen zu können? Was soll ich dafür studieren? Muss ich überhaupt studieren? Und wenn ja wo? Direkt am Meer? Was kann ich in meinem Gap Year als Vorbereitung machen? Kann ich Meeresforscher:in werden, wenn ich auf Schiffen seekrank werde? Wie kann ich mich in meinem Biologiestudium auf Meeresbiologie spezialisieren? Was kommt nach dem Master? Die Promotion? Oder etwas ganz anderes? Mit Haien tauchen? Und was muss ich studieren, wenn ich mich für Ocean Governance interessiere?
+
+Wer sich schon einmal auf diese Suche begeben hat, wird feststellen, dass es so etwas wie einen Studiengang „Meeresschutz“ nicht gibt. Also haben wir uns hingesetzt und all die verschiedenen Wege in unserem Team gesammelt und daraus ein nützliches Tool gebaut. Und ja: Es sind viele und ganz unterschiedliche Pfade, überraschende, abenteuerliche, zielstrebige oder mit Umwegen gespickte, die alle zum Ziel führen. Oder zu einem anderen Ziel, das noch viel besser passt als das ursprünglich gesetzte.
+
+Das Besondere an unserem **Meeresschutz-Pfadfinder**, ist, dass unsere Teamler:innen ganz persönlich von ihrem eigenen Weg erzählen und auch als Ansprechpartner:innen zur Verfügung stehen.<br><br>Damit jede:r den Weg zum Meeresschutz finden kann, der zu ihr oder ihm passt.
+
+&nbsp;
 
 &nbsp;

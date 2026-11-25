@@ -1,8 +1,9 @@
 ---
 title: Meeresschutz-Pfadfinder
 subtitle: Wie finde ich meinen Weg zum Meeresschutz?
-description: Menschen aus Forschung, Politik und Praxis erzählen, wie sie zum Meeresschutz gefunden haben – mit Ausbildungswegen, Studiengängen und Kontakt.
-image: https://res.cloudinary.com/deepwave-org/image/upload/v1747243781/deepwave.org/Buchempfehlung_Aktion_Meer_Meer_Weniger_Plastik_Ausschnitt_2.jpg
+description: Unsere Teamler:innen erzählen, wie sie zum Meeresschutz gefunden
+  haben – mit Ausbildungswegen, Studiengängen und Kontakt.
+image: https://res.cloudinary.com/deepwave-org/deepwave.org/BSH_Plakat_hcm23n.jpg
 kontakt_email: info@deepwave.org
 kontakt_label: Frag
 filter_frage: Was interessiert dich am meisten?
